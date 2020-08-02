@@ -1,0 +1,659 @@
+ice cream 2985
+red velvet 820
+shaved ice 482
+peanut butter 476
+white chocolate 429
+hot chocolate 427
+green tea 420
+dark chocolate 359
+sweet tooth 326
+frozen yogurt 314
+italian ice 311
+chocolate cake 290
+whipped cream 284
+condensed milk 250
+black sesame 245
+chocolate fountain 239
+cream cheese frosting 215
+salted caramel 208
+snow ice 206
+milk chocolate 202
+carrot cake 193
+wedding cake 188
+creme brulee 188
+chocolate chip 185
+milk tea 174
+snow cream 168
+cake moist 167
+shave ice 164
+overly sweet 158
+frozen custard 155
+cream cheese 153
+red bean 152
+cookies cream 149
+fresh fruit 147
+strawberry shortcake 132
+birthday cake 131
+taste buds 130
+iced tea 126
+vanilla ice cream 122
+red velvet cake 122
+red velvet cupcake 121
+ice creams 115
+shaved snow 113
+bundt cakes 111
+chocolate chip cookie 107
+key lime 107
+flavors choose 107
+chocolate pizza 106
+chocolate chips 104
+passion fruit 104
+apple pie 104
+boba tea 102
+chocolate sauce 100
+chocolate covered 98
+urban cookies 98
+cake pops 96
+chocolate factory 96
+chocolate cupcake 96
+super sweet 94
+vanilla custard 94
+waffle cone 92
+ice cream shop 90
+powdered sugar 81
+made fresh 80
+chocolate fondue 80
+melt mouth 78
+vanilla cake 76
+variety flavors 76
+nutella brioche 76
+bundt cake 74
+chocolate peanut butter 74
+butter pecan 74
+banana cream pie 73
+unique flavors 73
+perfect scoop 73
+chocolate chip cookies 72
+chocolate croissant 72
+maple bacon 70
+chocolate mousse 69
+peanut butter cup 69
+vanilla chocolate 68
+ice cream sandwich 68
+black white 67
+sweet treat 67
+willy wonka 67
+natural ingredients 67
+chocolate ganache 67
+butter cream 66
+light fluffy 65
+hot fudge 65
+art flavors 65
+cake dry 64
+almond croissant 63
+scoop ice cream 63
+macadamia nut 62
+sweet savory 62
+mint chocolate chip 61
+whip cream 60
+cinnamon sugar 60
+peanut butter chocolate 60
+banana split 60
+nutella crepe 60
+chocolate dipped 59
+fresh strawberries 59
+hot day 59
+buttercream frosting 58
+cheese cake 58
+favorite flavor 58
+cake batter 58
+personal favorite 57
+white chocolate raspberry 57
+favorite flavors 57
+soft serve 56
+iced coffee 56
+frosting sweet 55
+perfect amount 55
+hug mug 54
+sea salt 53
+red mango 53
+vanilla bean 52
+cookie dough 52
+strawberry lemonade 52
+super moist 52
+absolute favorite 52
+cream puff 52
+key lime pie 52
+red carpet 52
+snowflake shavery 52
+full flavor 51
+mouth watering 51
+rich creamy 51
+double chocolate 51
+satisfy sweet tooth 51
+green tea cake 51
+white cake 50
+fresh ingredients 50
+cupcake wars 50
+creme br 49
+cup coffee 48
+water ice 48
+real fruit 48
+savory crepes 48
+fluffy snow 48
+moist delicious 47
+red velvet cupcakes 47
+sponge cake 47
+sweet treats 47
+frost bites 47
+moist cake 46
+melted chocolate 46
+melts mouth 46
+cake part 46
+chocolate hazelnut 46
+piece cake 45
+cake frosting 45
+frosting cake 45
+cup cakes 45
+lava cake 45
+perfect balance 44
+cinnamon roll 44
+pumpkin pie 44
+paletas betty 44
+amount frosting 44
+sugar factory 44
+ice custard 44
+pretzel cone 44
+strawberry cheesecake 43
+snow cone 43
+vanilla cupcake 43
+thai tea 43
+fluff ice 43
+frost bites shavery 43
+vietnamese coffee 43
+asian flavors 43
+chocolate caramel 42
+wasn sweet 42
+milk tea boba 42
+mexican hot chocolate 42
+cream pie 41
+frozen treat 41
+homemade ice cream 41
+chocolate syrup 41
+brown sugar 41
+banana split waffle 41
+german chocolate 40
+fruit tart 40
+savory crepe 40
+favorite cupcake 40
+vegan ice cream 40
+custom cake 39
+strawberry cupcake 39
+frozen treats 39
+brown velvet 39
+coffee bean 39
+chocolate tree 39
+kuma snow 39
+didn taste 38
+chocolate wasted 38
+tasted fresh 38
+smooth creamy 38
+ice cream parlor 38
+cold stone 38
+almond milk 38
+bit sweet 38
+melted mouth 38
+chocolate lover 38
+chai tea 38
+diamond ice 38
+toasted coconut 37
+flavor combinations 36
+red beans 36
+chocolate lovers 36
+flavor texture 36
+single scoop 36
+vanilla buttercream 36
+puff pastry 35
+chocolate chocolate chip 35
+thrifty ice cream 35
+interesting flavors 35
+cream puffs 35
+world largest chocolate fountain 35
+sample flavors 35
+raspberry sauce 35
+lemon cake 34
+banana cream 34
+maple syrup 34
+bananas foster 34
+chocolate marshmallow 34
+fresh fruits 34
+tea infusion 34
+torched goodness 34
+kuma snow cream 34
+ordered strawberry 33
+pina colada 33
+craving sweet 33
+strawberries cream 33
+cookie butter 33
+apple cider 32
+pumpkin spice 32
+mint chocolate 32
+perfect texture 32
+favorite part 32
+ice cream sandwiches 32
+chocolate spice 32
+red velvet cheesecake 31
+hot summer 31
+butter cream frosting 31
+sweet potato 31
+cake pop 31
+bubble tea 31
+flavors toppings 31
+strawberry condensed milk 31
+brownie sundae 30
+yum yum 30
+coconut cream 30
+snow cones 30
+bit dry 30
+chocolate bars 30
+rose macaroon 30
+triple chocolate 30
+50 cupcake 30
+sweetened condensed milk 30
+chocolate martini 30
+hazelnut cream 30
+sweet corn 30
+sour cream 29
+lemon raspberry 29
+moist flavorful 29
+caramel sauce 29
+savory sweet 29
+lemon cupcake 29
+french macaroons 29
+chocolate truffle 29
+frozen hot chocolate 29
+strawberry banana 29
+milk teas 29
+sea salt caramel 29
+chocolate pancakes 29
+lactose intolerant 28
+hot summer day 28
+wedding cakes 28
+tasty treats 28
+lemon drop 28
+creamy delicious 28
+piece chocolate 28
+light airy 28
+graham cracker 28
+rich flavor 28
+urban cookie 28
+glazed donut 28
+glass milk 27
+ice cream cone 27
+flavored ice 27
+cherry top 27
+waffle cones 27
+cup tea 27
+rose macaron 27
+selection flavors 27
+white russian 27
+green apple 27
+milk cookies 27
+black cherry 26
+cream cheese icing 26
+cream filling 26
+amount sweetness 26
+coffee ice cream 26
+chocolate milkshake 26
+fruity pebbles 26
+black forest 25
+graham crackers 25
+mint chip 25
+chocolate mint 25
+sweet salty 25
+berry crepe 25
+absolutely delicious 25
+smoothie boba 25
+salted carmel 25
+udder delights 25
+flavors change 25
+italian ice custard 25
+chocolate croissants 24
+pound cake 24
+mango sorbet 24
+cupcake places 24
+green tea ice cream 24
+tea boba 24
+egg pudding 24
+banana tempura 24
+moist frosting 23
+ooey gooey 23
+banana bread 23
+blueberry muffin 23
+personal favorites 23
+cake topped 23
+icing cake 23
+pineapple coconut 23
+bubble gum 23
+fresh baked 23
+hot fudge sundae 23
+frosting top 23
+pure heaven 23
+lacked flavor 23
+peanut brittle 23
+coconut gelato 23
+scoop gelato 23
+peanut butter frosting 23
+fruit toppings 23
+ollie cakes 23
+pink lemonade 23
+pink guava 23
+mint jelly 23
+pear gorgonzola 23
+taste mouth 22
+pecan praline 22
+mix match 22
+milk shake 22
+light refreshing 22
+super rich 22
+perfect combination 22
+creamy texture 22
+chai latte 22
+mouth water 22
+macadamia nuts 22
+pistachio gelato 22
+boston dream 22
+black white cookie 21
+chocolate raspberry 21
+lemon meringue 21
+chocolate fudge 21
+fresh tasting 21
+sugary sweet 21
+earl grey 21
+strawberry sorbet 21
+dipped chocolate 21
+coffee shop 21
+fresh raspberries 21
+banana foster 21
+largest chocolate fountain 21
+peanut butter cookie 21
+chocolate covered strawberry 21
+vanilla latte 21
+cakes moist 21
+cupcake shop 21
+boba places 21
+ethel chocolate factory 21
+lemon bar 21
+popping pearls 21
+hot chocolates 20
+custom cakes 20
+honey moon sweets 20
+alice wonderland 20
+green valley 20
+ice crystals 20
+soy milk 20
+ve tasted 20
+orange blossom 20
+toppings choose 20
+rice pudding 20
+yogurt jungle 20
+banana split waffles 20
+italian hot chocolate 20
+chocolate chunks pizza 20
+sugar bee 20
+soft chewy 19
+exotic flavors 19
+ingredients fresh 19
+favorite places 19
+seasonal flavors 19
+hard choose 19
+green beans 19
+chocolate covered strawberries 19
+hawaiian shaved ice 19
+red velvet pancakes 19
+molten chocolate cake 19
+cr brulee 19
+almond brioche 19
+cr pes 19
+wasn overly sweet 19
+lemon bars 19
+cr pe 19
+boston cream 19
+kona coffee 19
+mix ins 19
+coconut milk 19
+lychee jelly 19
+vanilla milk chocolate 19
+ice vanilla custard 19
+mille crepe 19
+taste good 18
+black beans 18
+scoops ice cream 18
+fruit tarts 18
+creme brule 18
+fresh berries 18
+topped whipped cream 18
+bottom cup 18
+almond joy 18
+graham cracker crust 18
+orange julius 18
+hot cold 18
+favorite thing 18
+raspberry tart 18
+cocoa powder 18
+made real 18
+taro boba 18
+layer chocolate cake 18
+boba milk tea 18
+yogurt shop 18
+mochi balls 18
+frozen yogurt places 18
+mucho mango 18
+pineapple upside 17
+coconut flakes 17
+ice cream bottom 17
+salty sweet 17
+coconut macaroons 17
+pineapple upside cake 17
+red rock 17
+real chunks 17
+orange juice 17
+cr br 17
+shredded coconut 17
+oreo cookie 17
+rose petal 17
+german chocolate cake 17
+peanut butter jelly 17
+double scoop 17
+golden spoon 17
+hot cocoa 17
+cinnamon toast crunch 17
+banana nutella 17
+thick creamy 16
+red pepper 16
+fresh tasty 16
+chocolate shell 16
+perfect size 16
+condense milk 16
+easy life boba 16
+yogurt places 16
+taste test 15
+doesn taste 15
+pumpkin cheesecake 15
+personal preference 15
+caramel apple 15
+organic ingredients 15
+taro milk tea 15
+boba drink 15
+chocolate chai 15
+green tea snow 15
+tons flavors 14
+plain vanilla 14
+yum yum yum 14
+scoops gelato 14
+gelato shop 14
+mixed berry 14
+top notch 14
+chocolate chunk 14
+jasmine milk tea 14
+spring mountain 14
+creative flavors 14
+birthday cakes 13
+super yummy 13
+tasted good 13
+made scratch 13
+cheese danish 13
+blood orange 13
+selection toppings 13
+top list 12
+absolutely amazing 12
+hot dog 11
+scoop vanilla 11
+sticky bun 11
+small cup 11
+freshly made 11
+chip cookie 11
+variety toppings 11
+fashioned ice cream 10
+japanese style 10
+sugar rush 10
+hot dogs 10
+ethel chocolate 10
+cinnamon toast 10
+butter chocolate 10
+cinnamon rolls 9
+bread butter 9
+layer chocolate 9
+ordered banana 9
+pastry shop 9
+husband ordered 9
+white chocolate macadamia 9
+freshly baked 9
+chip cookies 9
+chocolate chunks 9
+thin crust 8
+works art 8
+velvet cupcake 8
+piping hot 7
+fudge sundae 7
+french toast 7
+tastes good 7
+summer heat 7
+milk dark 7
+vegan options 7
+sample cups 7
+made natural 6
+wasn overly 6
+fresh daily 6
+melted cheese 6
+topped fresh 6
+bread pudding 6
+boba drinks 6
+soft inside 6
+molten chocolate 6
+satisfy sweet 5
+cheese cake factory 5
+honey moon 5
+friend ordered 5
+egg white 5
+chocolate shavings 5
+dry side 5
+yogurt shops 5
+options choose 5
+fan cheesecake 4
+summer day 4
+world largest 4
+fresh squeezed 4
+chocolate peanut 4
+boyfriend ordered 4
+good amount 4
+velvet cake 4
+potato chips 3
+good stuff 3
+taro milk 3
+hot sauce 3
+topped vanilla 3
+shot espresso 3
+absolutely love 3
+salt caramel 3
+mini cupcakes 3
+covered strawberries 3
+mexican hot 3
+white wine 3
+frozen hot 3
+chili powder 3
+egg roll 3
+white corn 3
+friend mine 2
+chocolate macadamia 2
+absolutely loved 2
+easy life 2
+sprinkles cupcakes 2
+topped whipped 2
+amazingly good 2
+tea cake 2
+didn offer 2
+vanilla milk 2
+waffle sandwiches 2
+simply amazing 2
+butter cookie 2
+good choice 2
+covered strawberry 2
+wonka chocolate 2
+hawaiian shaved 2
+butter frosting 2
+baked potato 2
+surprisingly good 2
+largest chocolate 2
+slice cheesecake 1
+flat bread 1
+cupcake shops 1
+friend birthday 1
+scoop ice 1
+love cupcakes 1
+cooked perfectly 1
+boba milk 1
+good thing 1
+small size 1
+good idea 1
+salt pepper 1
+velvet cupcakes 1
+individually wrapped 1
+cracker crust 1
+belgian waffle 1
+tad bit 1
+small shop 1
+hard rock 1
+white rice 1
+glass wine 1
+mixed drinks 1
+crab cakes 1
+cheesecake factory 1
+wasn expecting 1
+cheese croissant 1
+ended eating 1
+white cookie 1
+swiss cheese 1
+chili cocoa powder 1
+rice krispies 1
+chili cocoa 1
+served warm 1
+cream sandwich 1
+butter cup 1
+world largest chocolate 1
+cream bottom 1
+glass case 1
+hard time 1
+toast crunch 1
+hawaiian shave 1
+thrifty ice 1
+regular size 1
+kids loved 1
+ve experienced 1
+sorbet mint 1
+wine sauce 1
+super nice 1
+blue cheese 1
+good luck 1
+rice balls 1
+strawberry condensed 1

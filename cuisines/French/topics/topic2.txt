@@ -1,0 +1,684 @@
+foie gras 1649
+ice cream 568
+thomas keller 466
+amuse bouche 412
+creme brulee 389
+le cirque 295
+bouchon bakery 261
+french toast 259
+bread cart 255
+bread pudding 201
+prix fixe 188
+chocolate souffle 180
+peanut butter 178
+fois gras 178
+chocolate mousse 165
+bloody mary 157
+chocolate croissant 154
+bread butter 149
+whipped cream 149
+la carte 140
+petite maison 135
+prix fixe menu 135
+chocolate cake 126
+gluten free 126
+dark chocolate 120
+baked goods 115
+dessert cart 113
+white chocolate 112
+seared foie gras 110
+puff pastry 108
+bread basket 108
+vanilla ice cream 107
+maple syrup 106
+chocolate sauce 102
+pinot noir 102
+salted caramel 100
+almond croissant 97
+bloody mary bar 95
+french bread 93
+creme fraiche 87
+petit fours 87
+orange juice 86
+taste buds 81
+lemon tart 81
+cheese danish 80
+le chalet 79
+marche bacchus 76
+iced tea 74
+freshly baked 73
+vanilla bean 72
+passion fruit 71
+thomas keller restaurant 71
+creme br 65
+cup coffee 63
+hot chocolate 62
+sweet tooth 62
+strawberry croissant 59
+overly sweet 56
+pastry chef 56
+cream cheese 56
+sweet savory 55
+light fluffy 54
+gluten free menu 54
+piping hot 53
+nutella crepe 53
+palate cleanser 52
+patisserie manon 52
+grand marnier 51
+bananas foster 50
+chocolate souffl 50
+vanilla bean butter 50
+la creperie 50
+le cafe 50
+savory crepes 47
+dessert crepes 45
+pot de creme 45
+cheese cart 45
+chocolate hazelnut 44
+chocolate fondant 44
+carrot cake 44
+duck foie gras 44
+cream sauce 42
+caesar palace 42
+french macarons 42
+chocolate croissants 41
+fresh fruit 41
+bloody marys 41
+fresh squeezed 40
+huge fan 39
+soft inside 39
+blueberry french toast 39
+red velvet cupcake 39
+french bakery 38
+la carte menu 38
+red velvet 38
+birthday cake 37
+fresh strawberries 37
+fresh bread 37
+pre fixe 37
+gold leaf 37
+fresh baked 36
+chocolate ganache 35
+savory crepe 35
+ice creams 35
+pastry basket 35
+carrot cake cookie 35
+foi gras 34
+pain au chocolat 34
+foie gras stuffed quail 34
+fruit tart 33
+powdered sugar 33
+apple tart 33
+chocolate chip 33
+complimentary bread 33
+english muffin 33
+crusty bread 32
+grand marnier souffle 32
+cr brulee 32
+ice tea 32
+pre dessert 32
+types bread 32
+osetra caviar 32
+sour cream 31
+room dessert 31
+tarte tatin 31
+foie gras appetizer 31
+escargots de bourgogne 31
+quick bite 31
+parmesan foam 31
+ham cheese 30
+ve tasted 30
+caramel sauce 30
+candy bar 30
+la potence 30
+la la 29
+toasted bread 29
+raspberry sorbet 29
+strawberry jam 29
+cream puffs 29
+pop rocks 29
+la petite france 29
+milk chocolate 28
+savory sweet 28
+freshly made 28
+started amuse bouche 28
+raspberry jam 28
+chocolate ice cream 28
+tahitian vanilla bean butter 28
+la caille 28
+fresh berries 27
+chocolate tart 27
+prix fix 27
+sweet sour 27
+raspberry sauce 27
+pre fix menu 27
+bouchon french toast 27
+didn taste 27
+de canard 26
+flourless chocolate cake 26
+souffle dessert 26
+bread served 26
+sweet taste 26
+toasted brioche 26
+green tea 26
+white chocolate bread pudding 26
+gluten free bread 26
+brioche toast 26
+ad hoc 26
+chef keller 26
+bread pudding style 26
+chocolate almond croissant 26
+le chocolat 26
+la langoustine 26
+vanilla bean ice cream 25
+perfect ending 25
+warm chocolate 25
+light refreshing 25
+petite fours 25
+light airy 25
+grand lux 25
+cream puff 25
+shot glass 25
+wolfgang puck 25
+baguette butter 25
+chocolate bouchons 25
+bacon bread 25
+chocolate mint 24
+lava cake 24
+au petit 24
+french baguette 24
+grey goose 24
+creme anglaise 24
+de mer 24
+foie gras terrine 24
+bit sweet 24
+payard patisserie 24
+fruits de mer 24
+cinnamon roll 24
+coffee ice cream 24
+foie gras parfait 24
+stuffed foie gras 24
+foie gras parfait port wine parmesan foam 24
+perfect balance 23
+flavors textures 23
+cous cous 23
+apple slices 23
+cup tea 23
+ham cheese croissant 23
+big fan 23
+fresh whipped cream 23
+chocolate fondue 23
+cheesecake factory 23
+phantom opera 23
+brown sugar 23
+warm bread 23
+sweet crepe 23
+whip cream 23
+earl grey 23
+de veau 23
+le foie gras 23
+le provencal 23
+mix candy bar 23
+ice cold 22
+french press coffee 22
+foie gras ravioli 22
+de la 22
+pet peeve 22
+caesars palace 22
+amuse bouches 22
+free bread 22
+black truffles 22
+box macarons 22
+chocolate sphere 22
+pistachio ice cream 22
+chocolate eclair 22
+fleur de sel 21
+prix fix menu 21
+black forest 21
+full flavor 21
+pound cake 21
+creme brule 21
+free dessert 21
+bread warm 21
+pistachio souffle 21
+sauteed foie gras 21
+dessert chocolate 21
+beautifully presented 21
+free range 21
+bananas foster crepe 21
+lemon juice 21
+cr pe 21
+seared foie 21
+tahitian vanilla 21
+chocolate covered 21
+dry ice 21
+apple champagne vinaigrette 21
+quail stuffed foie gras 21
+foie gras stuffed free range quail 21
+bread serve 20
+candied walnuts 20
+pre fix 20
+ala carte 20
+buckwheat crepe 20
+pan seared foie gras 20
+green apple 20
+cr br 20
+sticky toffee pudding 20
+blood orange 20
+bread crumbs 20
+yogurt parfait 20
+cirque du soleil 20
+super sweet 20
+start meal 20
+couldn finish 20
+bread pudding french toast 20
+almond brioche 20
+le cafe ile 20
+caramelized apples 19
+brie brulee 19
+fruit tarts 19
+smooth creamy 19
+pre fixe menu 19
+coffee tea 19
+rich creamy 19
+cr pes 19
+loaf bread 19
+coffee shop 19
+blueberry syrup 19
+salted butter 19
+apple crepe 19
+pastry shop 19
+nom nom 19
+salade de 19
+vanilla butter 19
+epi bread 19
+jean phillipe 19
+french press 19
+almond paste 19
+chocolate ball 19
+saint louis 19
+desert cart 19
+almond croissants 19
+key lime 18
+chocolate chip cookie 18
+dark chocolate mousse 18
+save room dessert 18
+march bacchus 18
+lemon curd 18
+foie gras black truffle 18
+fleur de lys 18
+bite sized 18
+pain au chocolate 18
+coconut milk 18
+brioche french toast 18
+blueberry muffin 18
+french toast bread pudding 18
+pecan sticky bun 18
+sticky bun 18
+oreo cookie 18
+nutter butter 18
+pre theater menu 18
+pre theatre 18
+parting gift 18
+la saint jacques 18
+swiss cheese 18
+le caviar 18
+buttery flaky 17
+cheese selection 17
+grand marnier souffl 17
+icing cake 17
+fresh air 17
+au chocolat 17
+fixe menu 17
+tasted good 17
+fresh squeezed orange juice 17
+soft chewy 17
+au lait 17
+grand plateau 17
+raspberry beignets 17
+terrine de foie gras 17
+black truffle 17
+plain croissant 17
+le cordon bleu 17
+drunken bread 17
+skipped dessert 16
+house made 16
+couldn taste 16
+order dessert 16
+finish meal 16
+topped caviar 16
+couldn resist 16
+banana foster 16
+cheese fondue 16
+super yummy 15
+fresh oven 15
+served warm 15
+start finish 15
+butter jam 15
+seared duck foie gras 15
+white bean 14
+mini baguette 14
+hot dog 14
+poached pear 14
+whipped butter 14
+brioche bread 14
+tasted fresh 14
+small bite 14
+wide variety 14
+sweet crepes 14
+savor bite 13
+ham cheese crepe 13
+complimentary dessert 13
+yum yum yum 13
+yum yum 13
+piece bread 13
+holy crap 13
+skinny pancakes 13
+fresh baguette 13
+silky smooth 13
+chewy inside 13
+free range quail 13
+pain au 13
+drunk bread 13
+cordon bleu 12
+topped fresh 12
+pinot grigio 12
+absolutely delicious 12
+butter sauce 12
+finished meal 12
+light crisp 12
+port wine 12
+breakfast sandwich 12
+jam butter 12
+martini glass 12
+home made 11
+crab cake 11
+meal ended 11
+toasted almonds 11
+cheese plate 11
+pot pie 11
+tasting menu 11
+baked cheese 11
+texture taste 11
+meal started 11
+pre theater 11
+amuse bouche foie gras 11
+equally delicious 10
+french style 10
+brown butter 10
+gave free 10
+warm baguette 10
+foster crepe 10
+breakfast americaine 10
+pot de 10
+glass champagne 10
+parmesan cheese 10
+cream top 9
+saint jacques 9
+couldn eat 9
+perfect combination 9
+flavor texture 9
+single bite 9
+super rich 9
+fresh delicious 9
+fresh warm 9
+regular menu 9
+la la la la 9
+end meal 9
+personal favorite 9
+perfect amount 9
+natural light 8
+flourless chocolate 8
+started amuse 8
+perfect texture 8
+melt mouth 8
+glass pinot 8
+compliments chef 8
+super fresh 8
+freshly squeezed 8
+served cold 8
+chocolate almond 8
+fresh ingredients 8
+baked brie 7
+rich flavor 7
+au chocolate 7
+combination flavors 7
+beautiful presentation 7
+small piece 7
+gave complimentary 7
+looked tasted 7
+de bourgogne 7
+squeezed orange juice 7
+don remember 7
+bit dry 7
+carte menu 7
+white truffle 7
+de foie gras 7
+cheese brioche 7
+perfect blend 6
+bleu cheese 6
+portion size 6
+wow factor 6
+simply delicious 6
+save room 6
+put mouth 6
+texture flavor 6
+bursting flavor 6
+ordered french toast 6
+french cafe 6
+small pieces 6
+pan seared 6
+creamy sauce 6
+small bites 6
+glass wine 6
+nice touch 6
+langoustine ravioli 6
+make home 5
+true french 5
+luke warm 5
+perfect end 5
+looked delicious 5
+french restaurant 5
+crispy soft 5
+amazingly delicious 5
+fleur de 5
+super tasty 5
+melting mouth 5
+squeezed oj 5
+paired perfectly 5
+cheese crepe 5
+warm brie 5
+sooo good 5
+classic french 5
+single thing 5
+favorite thing 5
+item menu 5
+start day 5
+ham cheese sandwich 5
+word describe 5
+super cute 5
+stuffed quail 5
+favorite dish 5
+items menu 5
+ate bite 4
+hard rock 4
+perfectly balanced 4
+real treat 4
+fruits de 4
+good thing 4
+bit disappointed 4
+bit heavy 4
+melted mouth 4
+mary bar 4
+menu item 4
+breakfast items 4
+theater menu 4
+perfect compliment 4
+small amount 4
+tahitian vanilla bean 4
+real french 4
+jus de 4
+small plates 4
+foie gras parfait port 4
+amuse bouche foie gras parfait 4
+thin slices 4
+thing ate 4
+fresh tasty 4
+taste mouth 4
+small plate 3
+lacking flavor 3
+don eat 3
+perfect start 3
+french inspired 3
+white wine 3
+tasted amazing 3
+baked bread 3
+cheese top 3
+favorite part 3
+part meal 3
+6 7 3
+traditional french 3
+paper thin 3
+rich flavorful 3
+absolute favorite 3
+didn order 3
+hubby ordered 3
+huge portion 3
+fix menu 3
+cocktail menu 3
+cheese croissant 3
+good choice 3
+brought complimentary 2
+beginning meal 2
+7 tasting menu 2
+sauteed foie 2
+vanilla ice 2
+red wine 2
+couldn stop 2
+seafood crepe 2
+good stuff 2
+sweet corn 2
+pan seared foie 2
+simply amazing 2
+listed menu 2
+ended eating 2
+ate breakfast 2
+sounded good 2
+good things 2
+breakfast morning 2
+absolutely amazing 2
+keller restaurant 2
+couldn decide 2
+didn eat 2
+absolutely loved 2
+didn blow 2
+words describe 2
+du soleil 2
+good amount 2
+rest meal 2
+cake cookie 2
+de creme 2
+quail stuffed 2
+port wine parmesan foam 2
+stuffed free range quail 2
+langoustine fritter 2
+hard pressed 2
+ve life 2
+foie gras parfait port wine parmesan 2
+white wine sauce 2
+ended ordering 2
+gras black truffle 2
+super nice 2
+ordered prix 2
+didn finish 2
+small portion 2
+duck foie 2
+generous amount 2
+menu items 2
+served toasted 1
+bit small 1
+menu limited 1
+wine shop 1
+cocktail sauce 1
+absolutely wonderful 1
+type thing 1
+cirque du 1
+truffle sauce 1
+stuffed olives 1
+make bloody 1
+squeezed orange 1
+blueberry french 1
+finally made 1
+thin cut 1
+thick cut 1
+chocolate bread pudding 1
+white chocolate bread 1
+la la la la la la 1
+fancy french 1
+pudding french toast 1
+large portion 1
+pecan sticky 1
+champagne cocktails 1
+hand made 1
+absolutely perfect 1
+pudding style 1
+melts mouth 1
+marnier souffl 1
+portion sizes 1
+6 courses 1
+gras appetizer 1
+stop eating 1
+thin crispy 1
+menu choices 1
+stuffed foie 1
+le cordon 1
+confit cinnamon 1
+parfait port wine parmesan foam 1
+generous portion 1
+added nice 1
+gras parfait 1
+don wrong 1
+love french 1
+champagne vinaigrette 1
+looked amazing 1
+full tasting menu 1
+de sel 1
+light flavorful 1
+brie sandwich 1
+love love 1
+huge disappointment 1
+wide selection 1
+chip cookie 1
+absolutely love 1
+mix candy 1
+seared duck 1
+house special 1
+breakfast buffet 1
+wanted order 1
+friend ordered 1
+gras parfait port wine parmesan foam 1
+literally melted mouth 1
+beautifully decorated 1
+single dish 1
+wine reduction 1
+cheese sandwich 1
+coffee ice 1
+marnier souffle 1
+fresh squeezed orange 1
+meal life 1
+bacon bits 1
+limited menu 1
+duck fat 1
+put order 1
+valentines day 1
+pleasant surprise 1
+crab cakes 1
+sized portion 1
+melted cheese 1
+wine sauce 1
+nice surprise 1
+wine glass 1
+wasn overly 1
+favorite part meal 1
+menu looked 1

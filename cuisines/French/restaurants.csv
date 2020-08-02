@@ -1,0 +1,368 @@
+business_id,full_address,mon_hours,tue_hours,wed_hours,thu_hours,fri_hours,sat_hours,sun_hours,open,categories,city,review_count,name,neighborhoods,longitude,latitude,state,stars
+LzpR_jE6VIutJ08s2cdRrw,"4626 N 16th St
+Phoenix, AZ 85016",11:00 - 14:00,17:00 - 21:30,17:00 - 21:30,17:00 - 21:30,17:00 - 21:30,17:00 - 21:30,,True,"French,Restaurants",Phoenix,205,Coup Des Tartes,,-112.047846,33.504777,AZ,4.0
+ET9VpUk1UgjMN5DJRV0yOw,"2584 E Camelback Rd
+Phoenix, AZ 85016",,,,,,,,False,"American (Traditional),French,Restaurants",Phoenix,10,Christopher's Fermier Brasserie & Paola's Wine Bar,,-112.0253849,33.5096014,AZ,3.5
+MUsqPXthMdHoPEow9M3MfA,"3102 E Camelback Rd
+Phoenix, AZ 85016",,,,,,,,False,"Bakeries,Food,Creperies,French,Restaurants",Phoenix,7,La Madeleine French Bakery & Cafe,,-112.01556,33.510311,AZ,3.0
+wftoNIA0Q8nX-Da47psBCA,"7217 E 4th Ave
+Scottsdale, AZ 85251",08:00 - 18:00,08:00 - 18:00,08:00 - 18:00,08:00 - 18:00,08:00 - 22:00,08:00 - 22:00,09:00 - 14:00,True,"Bakeries,Food,Sandwiches,French,Restaurants",Scottsdale,91,Au Petit Four,,-111.9253728,33.4978182,AZ,3.5
+PuHucejs4LG3hSXnrwi9-g,"2320 E Osborn Rd
+Phoenix, AZ 85016",,,,,,,,False,"Wine Bars,Bars,Nightlife,French,Restaurants",Phoenix,44,Sophie's French Bistro,,-112.031296,33.487817,AZ,4.0
+VpSiOW1PapVmZyyRBK_GBQ,"3930 E Camelback Rd
+Ste 202
+Phoenix, AZ 85018",,,,,,,,True,"French,Restaurants",Phoenix,96,Vincent's On Camelback,,-111.9963126,33.5100523,AZ,3.5
+oc0Wl6ktfMLb5VZ2Uz6M2A,"3930 E Camelback Rd
+Phoenix, AZ 85018",07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 14:00,True,"Breakfast & Brunch,Pizza,French,Restaurants",Phoenix,93,Vincent Market Bistro,,-111.996602341533,33.509973809123,AZ,4.5
+GIGI8bJfN6HyPzmEW-QqjA,"15034 N Scottsdale Rd
+Scottsdale, AZ 85254",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,True,"French,Restaurants",Scottsdale,259,Zinc Bistro,,-111.92802429199199,33.624036015122996,AZ,4.0
+v_M8BMz3O93iwFtpkCT9nA,"5190 S Valley View Blvd
+Las Vegas, NV 89118",09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,False,"Sandwiches,French,Restaurants",Las Vegas,5,Normandie,,-115.189211,36.095691,NV,4.0
+lqx--hrRwe0oK6WnFYNXlg,"2620 Regatta Dr
+Ste 106
+Summerlin
+Las Vegas, NV 89128",10:30 - 16:00,10:30 - 16:00,10:30 - 16:00,16:30 - 22:00,10:30 - 16:00,10:30 - 16:00,16:30 - 22:00,True,"Wine Bars,Bars,Nightlife,French,Restaurants",Las Vegas,294,Marché Bacchus,Summerlin,-115.268455505371,36.2074279785156,NV,4.0
+uwjl8UJhUINe_RwbgZsgsg,"508 State St
+Capitol
+Madison, WI 53703",,,,,,,,False,"French,Restaurants",Madison,12,Nadia's Restaurant & Grapevine Lounge,Capitol,-89.3937426,43.0749334,WI,3.0
+7lp13T_FUmX1XjU2wen_qw,"10315 N Scottsdale Rd
+Scottsdale, AZ 85253",,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,,True,"American (New),French,Restaurants",Scottsdale,84,Razz's Restaurant & Catering,,-111.9258314,33.5802421,AZ,4.0
+NkTBJP2YOwUAUNzRqR2gJg,"8900 E Pinnacle Peak Rd
+Ste B1
+Scottsdale, AZ 85255",,,,,,,,False,"American (New),French,Restaurants",Scottsdale,18,Bistro Provence,,-111.888462,33.700033,AZ,4.0
+1lS4-F785wYGn6u2dzUgow,"7030 E Bella Vista Dr
+Cave Creek, AZ 85331",11:30 - 15:00,11:30 - 15:00,17:00 - 21:00,17:00 - 21:00,11:30 - 15:00,11:30 - 15:00,17:00 - 21:30,True,"French,Restaurants",Cave Creek,28,Le Sans Souci Restaurant,,-111.9289181,33.8284698,AZ,3.5
+a3HmtiW3WzUvKxWy9Fezkg,"401 S 6th Street
+Downtown
+Las Vegas, NV 89101",18:00 - 22:00,18:00 - 22:00,18:00 - 22:00,18:00 - 22:00,18:00 - 22:00,18:00 - 22:00,,False,"French,Restaurants",Las Vegas,8,Andre's,Downtown,-115.141552,36.164944,NV,4.0
+x3mVrFxyjNXQ7JNqGpw4qQ,"4983 W Flamingo Rd
+Las Vegas, NV 89103",,,,,,,,False,"Bakeries,Food,French,Restaurants",Las Vegas,4,Josette's Bistro,,-115.209737,36.114935,NV,4.0
+DoEMzev54WS8_lVLJ3NoqQ,"Palms Casino Resort
+4321 W Flamingo Rd
+Las Vegas, NV 89103",18:00 - 22:00,18:00 - 22:00,18:00 - 22:00,18:00 - 22:00,18:00 - 22:00,18:00 - 22:00,18:00 - 22:00,True,"French,Restaurants",Las Vegas,233,Alizé,,-115.194879770279,36.1147714669624,NV,4.0
+equkECCa5WxzICTJr3YpBg,"3355 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",,,,,,,,False,"French,Restaurants",Las Vegas,4,Lutece Restaurant,The Strip,-115.1696112,36.1214517,NV,4.0
+9QSK3jux4ZOOfZGpNaDV0A,"Neiman Marcus
+3200 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",11:30 - 15:00,11:30 - 15:00,11:30 - 15:00,11:30 - 15:00,11:30 - 15:00,11:30 - 15:00,,False,"American (New),French,Restaurants",Las Vegas,5,Mariposa,The Strip,-115.164237976074,36.1255035400391,NV,4.5
+ASOiJ8MmbBTgK2D1_MQrqg,"Paris Hotel
+3655 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",11:30 - 15:30,17:00 - 22:30,17:00 - 22:30,11:30 - 15:30,11:30 - 15:30,11:00 - 15:30,17:00 - 22:30,True,"Steakhouses,French,Restaurants",Las Vegas,810,Eiffel Tower Restaurant,The Strip,-115.174189275928,36.1104848411617,NV,4.0
+K-_erZm_YNzg0Ahzcdx0TQ,"3175 E Tropicana Ave
+Ste B
+Eastside
+Las Vegas, NV 89121",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,17:00 - 22:00,,False,"German,Italian,French,Restaurants",Las Vegas,3,Swiss Cafe Restaurant,"Eastside,Southeast",-115.1060721,36.0998468,NV,3.5
+4bEjOyTaDG24SY5TxsaUNQ,"3655 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 00:00,07:00 - 00:00,07:00 - 23:00,True,"Breakfast & Brunch,Steakhouses,French,Restaurants",Las Vegas,4084,Mon Ami Gabi,The Strip,-115.172588519464,36.1129524773428,NV,4.0
+UO80ofDOenKF4QWR2z-oKA,"Monte Carlo Resort & Casino
+3770 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,True,"American (Traditional),French,Restaurants",Las Vegas,228,Andre's,The Strip,-115.17452716827401,36.104612897335,NV,4.5
+tFU2Js_nbIZOrnKfYJYBBg,"3355 Las Vegas Blvd S
+Venetian Resort and Casino
+The Strip
+Las Vegas, NV 89109",17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,08:00 - 14:00,08:00 - 14:00,True,"Breakfast & Brunch,French,Restaurants",Las Vegas,2419,Bouchon,The Strip,-115.17027887929,36.1222934090182,NV,4.0
+4EhFsjWBSaSp_5TkkLp7LA,"Bellagio Resort and Casino
+3600 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109",,17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,True,"French,Restaurants",Las Vegas,358,Le Cirque,The Strip,-115.177001,36.11199,NV,4.0
+d38y2fkW1542SaoSTvE1og,"Paris Las Vegas
+3655 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89136",07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,True,"Creperies,French,Restaurants",Las Vegas,307,La Creperie,The Strip,-115.1713514328,36.1125266401802,NV,3.5
+-5RN56jH78MV2oquLV_G8g,"Bellagio Resort &Casino
+3600 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109",17:30 - 21:30,,17:30 - 21:30,17:30 - 21:30,17:30 - 21:30,17:30 - 21:30,17:30 - 21:30,True,"French,Restaurants",Las Vegas,485,Picasso,The Strip,-115.177001,36.11199,NV,4.5
+JS9Bao1vDxM2BGWMYjEavA,"Paris Las Vegas Hotel & Casino
+3655 Las Vegas Boulevard South
+The Strip
+Las Vegas, NV 89109",17:00 - 22:30,17:00 - 22:30,17:00 - 22:30,17:00 - 22:30,17:00 - 22:30,17:00 - 22:30,17:00 - 22:30,True,"Italian,French,Restaurants",Las Vegas,129,Le Provencal,The Strip,-115.170578956604,36.1125006379512,NV,2.5
+qgfohcxx-FH549osIz5XlQ,"Wynn Las Vegas
+3131 Las Vegas Blvd S
+Las Vegas, NV 89136",,,,,,,,False,"French,Restaurants",Las Vegas,222,Daniel Boulud Brasserie,,-115.136389,36.175,NV,4.0
+aGulqXnFmpOh_5Qh96uBng,"Wynn Las Vegas
+3131 Las Vegas Blvd S
+Eastside
+Las Vegas, NV 89109",18:00 - 22:00,,18:00 - 22:00,18:00 - 22:00,18:00 - 22:00,18:00 - 22:00,18:00 - 22:00,False,"American (New),French,Restaurants",Las Vegas,128,Alex,Eastside,-115.146372,36.124423,NV,4.5
+KJK7ihnpTeHXOy9rxORpGQ,"3355 Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109",15:00 - 22:00,11:30 - 15:00,11:30 - 15:00,15:00 - 22:00,11:30 - 15:00,11:30 - 15:00,15:00 - 22:00,False,"Steakhouses,French,Restaurants",Las Vegas,141,Pinot Brasserie,The Strip,-115.169553,36.121792,NV,3.5
+sclC_o1Ox5BjNupjaRTrBQ,"2333 N 7th St
+Phoenix, AZ 85006",,,,,,,,False,"Belgian,French,Restaurants",Phoenix,10,Trente-Cinq,,-112.0649235,33.4743013,AZ,3.5
+vW4G1hwiW6LkuhAfbeRfqg,"Paris Las Vegas
+3655 Las Vegas Blvd  S
+The Strip
+Las Vegas, NV 89136",06:00 - 23:00,06:00 - 23:00,06:00 - 23:00,06:00 - 23:00,06:00 - 02:00,06:00 - 02:00,06:00 - 23:00,True,"Food,Coffee & Tea,Breakfast & Brunch,French,Restaurants",Las Vegas,313,Le Cafe Ile Saint Louis,The Strip,-115.170958,36.112535,NV,2.5
+4uGHPY-OpJN08CabtTAvNg,"MGM Grand Hotel and Casino
+3799 Las Vegas Blvd S
+Eastside
+Las Vegas, NV 89109",17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,True,"French,Restaurants",Las Vegas,630,L'Atelier de Joel Robuchon,"Eastside,The Strip",-115.170541385433,36.1025900700674,NV,4.5
+rXEGCpdboVwczMIDZuXXaA,"617 Williamson St
+Williamson - Marquette
+Madison, WI 53703",,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 23:00,09:00 - 14:30,09:00 - 21:00,True,"American (New),French,Restaurants",Madison,191,Sardine,Williamson - Marquette,-89.375889,43.076788,WI,4.0
+aUHHfCiFtGhN5R6KXCsBKw,"3943 E Camelback Rd
+Phoenix, AZ 85018",,,,,,,,False,"American (New),French,Restaurants",Phoenix,11,Fenix Eatery & Bar,,-111.9965162,33.5098007,AZ,3.5
+1mdFPa5DNCwhM7QGfypuyA,"103 E Charleston Blvd
+Suite 107
+Westside
+Las Vegas, NV 89107",,,,,,,,False,"Restaurants,French,Italian",Las Vegas,10,Tinoco's Bistro,Westside,-115.211622,36.171184,NV,4.0
+gVYju3XRcO1R4aNk7SZJcA,"Caesars Palace Las Vegas Hotel & Casino
+3570 Las Vegas Boulevard South
+The Strip
+Las Vegas, NV 89109",,,17:30 - 21:30,17:30 - 21:30,17:30 - 21:30,17:30 - 21:30,17:30 - 21:30,True,"French,Restaurants",Las Vegas,170,Guy Savoy,The Strip,-115.174741744995,36.1159328579471,NV,4.5
+50nln4YPr0QDo_v1uBmHfg,"3355 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,True,"Bakeries,Food,French,Restaurants",Las Vegas,788,Bouchon Bakery,The Strip,-115.169229,36.121774,NV,4.0
+O-kpr-VG03MGOcnHaq_1Yg,"4921 E Ray Rd
+Phoenix, AZ 85044",,,,,,,,False,"Wine Bars,Bars,Nightlife,French,Restaurants",Phoenix,5,La Vigne,,-111.9766885,33.3197199,AZ,3.5
+Pz7SWZQhxL6ZbhL9jE2NTA,"Mandalay Bay Resort & Casino
+3950 Las Vegas Boulevard
+The Strip
+Las Vegas, NV 89119",17:00 - 02:00,17:00 - 02:00,17:00 - 02:00,17:00 - 02:00,17:00 - 02:00,17:00 - 02:00,17:00 - 02:00,True,"Bars,French,Nightlife,Lounges,American (New),Restaurants",Las Vegas,878,MIX,The Strip,-115.177814,36.0930659,NV,4.0
+kOvtQvHf5j9gw29Xwb-RqQ,"9055 S Eastern Ave
+Southeast
+Las Vegas, NV 89123",,,,,,,,False,"French,Restaurants",Las Vegas,4,Bonjour Bistro,Southeast,-115.119197,36.025359,NV,5.0
+z0hUNe3YiSknxs1HJZZDtg,"6000 E Camelback Rd
+Scottsdale, AZ 85250",,,,,,,,False,"Jazz & Blues,Arts & Entertainment,Nightlife,French,Restaurants",Scottsdale,5,Mary Elaine's,,-111.9514403,33.5019519,AZ,5.0
+V9euJerhCkh7PXKjtsE2rQ,"Caesars Palace Las Vegas Hotel & Casino
+3570 Las Vegas Boulevard South
+The Strip
+Las Vegas, NV 89109",06:30 - 14:30,06:30 - 14:30,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,06:30 - 14:30,06:30 - 14:30,True,"French,Restaurants",Las Vegas,434,Payard Pâtisserie & Bistro,The Strip,-115.175013638654,36.1172428598278,NV,4.0
+4RAoYgAJESlBy2Zz_uMZ9w,"400 E Sahara Ave
+Downtown
+Las Vegas, NV 89104",,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,True,"French,Restaurants",Las Vegas,106,Pamplemousse Le Restaurant,Downtown,-115.152417,36.144096,NV,4.0
+alWTl5MRC4VE2t9W1mNSIQ,"The Palazzo
+3325 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",08:00 - 23:00,08:00 - 23:00,08:00 - 23:00,08:00 - 23:00,08:00 - 00:00,08:00 - 00:00,08:00 - 22:00,True,"Bars,French,Nightlife,Lounges,Steakhouses,Restaurants",Las Vegas,360,Morels French Steakhouse & Bistro,The Strip,-115.16898848561401,36.1246035827395,NV,3.5
+tZXPhvufHhfejGrRp554Lg,"7620 E Indian School Rd
+Scottsdale, AZ 85251",08:00 - 18:00,08:00 - 18:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,09:00 - 16:00,False,"Bakeries,Food,French,Restaurants",Scottsdale,191,Scratch Pastries & Bistro,,-111.9159147,33.4957558,AZ,3.5
+29ZKSrOXaZ9VydCqRw1GLQ,"College of Southern Nevada
+3200 E Cheyenne Blvd
+Las Vegas, NV 89136",11:30 - 12:30,12:00 - 13:00,12:00 - 13:00,17:00 - 18:00,12:00 - 13:00,,,True,"American (Traditional),Latin American,French,Restaurants",Las Vegas,5,Russell's Restaurant,,-115.106071783363,36.2205923349614,NV,4.5
+yUel9_nzXD4MgxU2xZAtyQ,"3355 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",,,,,,,,True,"French,Restaurants",Las Vegas,3,Pinot Brasserie Bakery,The Strip,-115.1696112,36.1214517,NV,4.0
+JIlCjl73CKz0MeAsvY15xQ,"16848 E Ave of the Fountains
+Fountain Hills, AZ 85268",,,,,,,,False,"French,Restaurants",Fountain Hills,5,Boulevard Cafe,,-111.7166851,33.6040137,AZ,4.0
+1hTBIFVqHfI1hRpdS8iIgg,"15411 W Waddell Rd
+Surprise, AZ 85379",16:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,16:00 - 22:00,,True,"American (New),French,Restaurants",Surprise,126,Vogue Bistro,,-112.3924098,33.6095832,AZ,4.0
+wfofFm3AqtyK_ujNQ893mQ,"MGM Grand Hotel and Casino
+3799 Las Vegas Blvd S
+Eastside
+Las Vegas, NV 89109",17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,True,"French,Restaurants",Las Vegas,543,Joel Robuchon,Eastside,-115.167725,36.103399,NV,4.5
+K5PvfOtiLLxVuxIhn6tESQ,"182 Victoria St N
+Kitchener, ON N2H 5C6",,,,,,,,True,"French,Restaurants",Kitchener,6,Verses,,-80.490309,43.4561653,ON,4.5
+1M4oczf2lmkdgbrJ3J7OqA,"2502 E Camelback Rd
+Phoenix, AZ 85016",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,12:00 - 20:00,True,"Nightlife,Bars,Lounges,French,Restaurants",Phoenix,163,Christopher's and Crush Lounge,,-112.0284918,33.5104258,AZ,4.0
+3ez4Qs56C_cC-l8x08l6Zw,"7114 E Stetson Dr
+Ste 105
+Scottsdale, AZ 85251",11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 02:00,11:00 - 02:00,10:00 - 02:00,10:00 - 00:00,False,"French,Restaurants",Scottsdale,73,Metro Brasserie & Bar,,-111.928258,33.498915,AZ,3.5
+QBOl1IrpvzEpxD9hO3gMwg,"3395 W Chandler Blvd
+Chandler, AZ 85226",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,12:00 - 21:00,False,"American (New),French,Restaurants",Chandler,10,Nouveau Bistro,,-111.8999977,33.3055793,AZ,4.0
+L5cQjBQu6qnV_grmvk-drg,"38-40 Grassmarket
+Grassmarket
+Edinburgh EH1 2JU",17:30 - 22:00,17:30 - 23:00,17:30 - 23:00,17:30 - 23:00,17:30 - 23:00,17:30 - 23:00,17:30 - 23:00,True,"French,Restaurants",Edinburgh,23,Petit Paris,"Grassmarket,Old Town",-3.1965801,55.9475695,EDH,3.5
+WN2QUFWxIiTtUgW-oczrQg,"76 Thistle Street
+New Town
+New Town
+Edinburgh EH2 1EN",12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,True,"French,Restaurants",Edinburgh,20,Café Marlayne,New Town,-3.2003325,55.9537505,EDH,4.5
+IImme8H_HNUNNbPeTQwT_Q,"31 Jeffrey Street
+Old Town
+Edinburgh EH1 1DH",18:00 - 22:00,18:00 - 22:00,18:00 - 22:00,12:00 - 14:30,12:00 - 14:30,12:00 - 14:30,12:00 - 14:30,True,"Wine Bars,Bars,Nightlife,French,Restaurants",Edinburgh,13,La Garrigue,"Old Town,Royal Mile",-3.1854110846557,55.9511950423966,EDH,4.0
+qIEHd90miWz7aAddUKjGuw,"88 Commercial Street
+Leith
+Edinburgh EH6 6LX",10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,False,"French,Restaurants",Edinburgh,4,La Garrigue Bistro,Leith,-3.1733356,55.9770528,EDH,4.5
+3bdePZRBF5zv1LMjmqp7Cg,"34 Thistle St La North West
+New Town
+Edinburgh EH2 1EA",17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,12:00 - 14:00,18:00 - 22:00,12:00 - 14:00,12:00 - 14:00,True,"French,Restaurants",Edinburgh,20,Café Saint Honoré,New Town,-3.2001841,55.9542433,EDH,4.5
+wtL_CPTm-H0jfMOrkFoPSw,"35 Drumsheugh Gardens
+West End
+Edinburgh EH3 7RN",18:30 - 22:00,07:00 - 10:00,12:00 - 14:30,18:30 - 22:00,07:00 - 10:00,07:30 - 10:00,07:30 - 10:00,True,"French,Restaurants",Edinburgh,5,Restaurant At The Bonham,West End,-3.2160112,55.9513381,EDH,3.5
+dVJIdkxeJyggSrfgIL4fPg,"36-38 Victoria Street
+Grassmarket
+Edinburgh EH1 2JW",12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,True,"French,Restaurants",Edinburgh,28,Maison Bleue,"Grassmarket,Old Town",-3.1941658,55.9486409,EDH,4.0
+Oqq7UAWbFUe9krVkx1TEOg,"5 Hunter Square
+Newington
+Edinburgh EH1 1QW",18:00 - 22:00,18:00 - 22:00,18:00 - 22:00,12:00 - 14:30,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,False,"French,Restaurants",Edinburgh,16,Le Sept,"Newington,Old Town",-3.1878925,55.9493145,EDH,4.0
+sEy-T1JcWDPy7nJBVWDpaw,"43 Frederick Street
+New Town
+Edinburgh EH2 1EP",08:30 - 23:00,08:30 - 23:00,08:30 - 23:00,08:30 - 23:00,08:30 - 23:00,08:30 - 23:00,08:30 - 22:30,True,"Food,Coffee & Tea,French,Restaurants",Edinburgh,14,Cafe Rouge,New Town,-3.2006908,55.9534493,EDH,3.5
+HrE5xI3c0B1Sln98GLCkXA,"109 Hanover St
+New Town
+Edinburgh EH2 1LH",12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,12:00 - 22:00,True,"French,Restaurants",Edinburgh,25,Chez Jules,New Town,-3.1974579,55.9546472,EDH,4.0
+OJv3-pdokbqhowMmZaeHCg,"208 Bruntsfield Place
+Edinburgh EH10 4DE",18:00 - 22:00,18:00 - 22:00,18:00 - 22:00,12:00 - 14:30,12:00 - 14:30,12:00 - 16:00,12:00 - 16:00,False,"French,Restaurants",Edinburgh,12,Howies Restaurant,,-3.2102639,55.9356609,EDH,3.5
+cBrNrAgiSfpgnxU2vDRZpA,"9a W Maitland Street
+West End
+Edinburgh EH12 5DS",07:00 - 19:00,07:00 - 19:00,07:00 - 19:00,07:00 - 21:30,07:00 - 21:30,07:00 - 21:30,,True,"French,Restaurants",Edinburgh,13,Le Marche Francais,West End,-3.2159717,55.9465599,EDH,4.5
+aFmIW7CgoaELhXssJuoIkA,"376 Morningside Road
+Morningside
+Edinburgh EH10 5HX",08:30 - 17:30,08:30 - 17:30,08:30 - 17:30,08:30 - 18:00,08:30 - 18:00,08:30 - 17:30,08:30 - 16:00,True,"Cheese Shops,Food,French,Specialty Food,Delis,Restaurants",Edinburgh,11,Henri's French Food and Wines,Morningside,-3.2093736,55.9261229,EDH,4.0
+w14UHRCdBWDTBhWoRq1emw,"7315 Arroyo Crossing Pkwy
+Spring Valley
+Las Vegas, NV 89113",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 23:00,07:00 - 23:00,07:00 - 22:00,False,"Breakfast & Brunch,American (Traditional),French,Restaurants",Las Vegas,64,Mimi's Cafe,Spring Valley,-115.251761,36.061812,NV,3.0
+ahBNTFw3Bco_WbvIOFNxpg,"2 Restalrig Road
+Leith Links
+Leith
+Edinburgh EH6 8BN",17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,09:00 - 21:00,09:00 - 21:00,10:00 - 21:00,True,"French,Restaurants",Edinburgh,7,Bijou,Leith,-3.1599833308078,55.969665398814,EDH,4.5
+zwHcKioS_8sp--GKsg0wrw,"15125 N Hayden Rd
+Ste 111
+Scottsdale, AZ 85260",07:30 - 15:00,07:30 - 15:00,07:30 - 15:00,07:30 - 15:00,07:30 - 15:00,08:30 - 14:00,,True,"Food,Specialty Food,French,Restaurants",Scottsdale,19,Cafe Paris French Bistro & Catering,,-111.903806,33.62262,AZ,4.5
+GokvXs_TzVFZFTLY8XZcOA,"7424 Mineral Point Rd
+Madison, WI 53717",07:30 - 18:00,07:30 - 18:00,07:30 - 18:00,07:30 - 18:00,07:30 - 18:00,07:30 - 17:00,,True,"Bakeries,Food,Cafes,French,Restaurants",Madison,48,La Baguette,,-89.5121813,43.0606624,WI,4.0
+ou5yH_kNEiN8J_GTSGYSvg,"98 S San Marcos Pl
+Chandler, AZ 85225",,,,,,,,False,"American (New),French,Restaurants",Chandler,22,98 South,,-111.8422821,33.3024823,AZ,3.5
+9XvGXgkkkEhKw819LcPogQ,"11 Bristo Place
+Old Town
+Edinburgh EH1 1EZ",,,,,,,,True,"Modern European,Bars,French,Wine Bars,Event Planning & Services,Nightlife,Hotels & Travel,Hotels,Restaurants",Edinburgh,26,Hotel du Vin & Bistro Edinburgh,Old Town,-3.1901878,55.9461879,EDH,3.5
+no_FXjscklz1SEzM_XnVgw,"7216 E Shoeman Ln
+Scottsdale, AZ 85251",11:00 - 14:00,15:00 - 22:00,11:00 - 14:00,15:00 - 22:00,11:00 - 14:00,15:00 - 22:00,15:00 - 22:00,True,"French,Restaurants",Scottsdale,285,Petite Maison,,-111.9255,33.5010896,AZ,4.0
+uUz3CHsNFFWycpsfTsR4qg,"19 - 21b Causewayside
+Newington
+Edinburgh EH9 1QF",17:00 - 21:30,17:00 - 21:30,17:00 - 21:30,17:00 - 21:30,17:00 - 21:30,17:00 - 21:30,,True,"American (New),British,French,Restaurants",Edinburgh,13,Hewat's Restaurant,Newington,-3.1817486,55.9387703,EDH,4.5
+4gxZ5tPEqm0QnRkILa9cNQ,"Phoenix, AZ 85044",,,,,,,,False,"Creperies,Food Stands,French,Restaurants",Phoenix,29,Truckin' Good Food,,-111.890157401715,33.5690679812527,AZ,4.5
+C6_ALyHeg-qmHBQxHMIjFw,"14 Eyre Place
+Cannonmills
+Edinburgh EH3 5EP",,12:00 - 14:00,12:00 - 14:00,12:00 - 14:00,12:00 - 14:00,12:00 - 14:00,18:00 - 20:30,True,"French,Restaurants",Edinburgh,8,La Garrigue,Cannonmills,-3.2004312,55.960696,EDH,4.5
+csgF8n0R5CIauWriNJl2vg,"15 Via Bel Canto
+Henderson, NV 89011",11:00 - 15:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,True,"French,Restaurants",Henderson,73,Bernards Bistro,,-114.93046,36.1019867,NV,3.5
+Az69nueCy94SVKkWaNNR0Q,"5626 W Bell Rd
+Glendale, AZ 85308",11:00 - 21:00,16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,16:00 - 22:00,12:00 - 22:00,11:00 - 21:00,True,"Creperies,Fondue,French,Restaurants",Glendale,182,Le Chalet,,-112.179954,33.6393732,AZ,4.0
+WunFu-5VGn7o5XCDuxLBTw,"30 Victoria Street
+Grassmarket
+Edinburgh EH1 2JW",12:00 - 14:00,18:00 - 22:00,12:00 - 14:00,12:00 - 14:00,12:00 - 14:00,12:00 - 15:00,18:00 - 22:00,True,"French,Restaurants",Edinburgh,31,The Grain Store,"Grassmarket,Old Town",-3.1941658,55.9486409,EDH,4.0
+WTK7mgUEBNp4uzNm7jCa-Q,"1 Princes Street
+The Balmoral
+Old Town
+Edinburgh EH2 2EQ",18:30 - 21:30,18:30 - 21:30,18:30 - 21:30,18:30 - 21:30,18:30 - 21:30,18:00 - 21:30,18:30 - 21:30,True,"French,Restaurants",Edinburgh,20,Number One,Old Town,-3.189613,55.9526566,EDH,4.5
+DWxCjNlQWBPTuseV9vL4bQ,"25 George Street
+New Town
+Edinburgh EH2 2PB",11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,True,"Bars,French,Wine Bars,Nightlife,Scottish,Restaurants",Edinburgh,14,Tempus,New Town,-3.1965355,55.9536945,EDH,4.5
+uC7bjXLZIIE2WgtC0VWRYg,"54 Shore
+Leith
+Leith
+Edinburgh EH6 6",,12:00 - 14:00,12:00 - 14:00,12:00 - 14:00,12:00 - 14:00,12:00 - 14:00,,True,"French,British,Restaurants",Edinburgh,16,Martin Wishart,Leith,-3.1704084,55.9754599,EDH,5.0
+bxEd1ust_wI0Br-HLnEy0Q,"8787 N Scottsdale Rd
+Scottsdale, AZ 85253",07:30 - 16:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,True,"Food,Desserts,Creperies,French,Restaurants",Scottsdale,89,Chez Vous Crepes,,-111.9244817,33.566109,AZ,4.5
+2yjduT-Bt3-Kn9G75RWu8w,"56 Broughton Street
+New Town
+Edinburgh EH1 3SA",17:30 - 21:30,17:30 - 21:30,17:30 - 21:30,,17:30 - 21:30,17:30 - 21:30,17:30 - 21:30,True,"French,Restaurants",Edinburgh,11,L'escargot Bleu,New Town,-3.1902786,55.9586114,EDH,4.0
+FnLsgWLdBQ6zhv621OGFiA,"St James Shopping Centre
+Princes St
+East End
+West End
+Edinburgh EH11 2",09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,10:00 - 18:00,True,"French,Restaurants",Edinburgh,3,Crepe Array,West End,-3.2148805,55.9440895,EDH,4.0
+e34tIpveepWkpvOuv_boqw,"214 W Roosevelt St
+Phoenix, AZ 85003",10:00 - 00:00,15:00 - 23:00,15:00 - 23:00,15:00 - 23:00,15:00 - 23:00,15:00 - 23:00,11:00 - 14:00,True,"Restaurants,Pizza,French,Italian",Phoenix,182,Centurion,,-112.0773177,33.4587314,AZ,4.0
+1BeJunz8wYpPHKDPZRW-ig,"3-5 Viewforth
+Bruntsfield
+Edinburgh EH10 4JD",,17:30 - 21:00,17:30 - 21:00,17:30 - 21:00,17:30 - 22:00,12:00 - 14:30,,False,"French,Restaurants",Edinburgh,10,Le Mouton Noir,Bruntsfield,-3.2082441,55.9368944,EDH,4.5
+aiV0E6GVKhqhnAwZEPBYqw,"9 Randolph Pl
+New Town
+Edinburgh EH3 7TE",12:00 - 01:00,12:00 - 01:00,12:00 - 01:00,12:00 - 01:00,12:00 - 01:00,12:00 - 01:00,,True,"Wine Bars,Bars,Nightlife,French,Restaurants",Edinburgh,8,Le Di-Vin,New Town,-3.2098772,55.9514765,EDH,4.0
+R9uAC0qIVMDQ8mEtwY2ZYg,"16 Drummond Street
+Newington
+Edinburgh EH8 9TX",17:00 - 23:00,12:00 - 15:00,17:00 - 23:00,12:00 - 15:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,True,"Bistros,Mediterranean,French,Restaurants",Edinburgh,10,B'est,Newington,-3.1849185,55.9473465,EDH,4.0
+0TgiBiSmp6cHVGqDuIkANA,"43-45 Salisbury Road
+Newington
+Edinburgh EH16 5AA",18:00 - 21:00,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,True,"Food,Coffee & Tea,Mediterranean,French,Restaurants",Edinburgh,3,Cafe Cassis,Newington,-3.1769633,55.9377649,EDH,4.5
+XcWfNJ1L3KfiStcyQg_k4Q,"27b Raeburn Place
+Stockbridge
+Edinburgh EH4 1HU",,10:00 - 17:30,10:00 - 17:30,10:00 - 17:30,10:00 - 17:30,10:00 - 17:30,11:00 - 17:00,True,"Food,Coffee & Tea,French,Restaurants",Edinburgh,12,Patisserie Madeleine,Stockbridge,-3.2109137,55.9588288,EDH,5.0
+Pn1bHT7jY6Ap1mbd3Gg2Jw,"703 Belmont Avenue W
+Kitchener, ON N2M 1P1",09:00 - 14:00,12:00 - 14:00,12:00 - 14:00,17:00 - 21:00,17:00 - 21:00,09:00 - 14:00,10:00 - 14:00,True,"Breakfast & Brunch,Creperies,French,Restaurants",Kitchener,4,Village Creperie,,-80.5184385,43.4536881,ON,4.5
+-C-d1zn7vllF2sVu09LvxQ,"61 Frederick St
+New Town
+Edinburgh EH2 1",18:00 - 23:00,18:00 - 23:00,18:00 - 23:00,12:00 - 15:00,18:00 - 23:00,18:00 - 23:00,18:00 - 23:00,True,"French,Restaurants",Edinburgh,15,La P'tite Folie,New Town,-3.200777,55.954114,EDH,4.0
+zlRSMNA9YhQwil9_s06EJw,"18 Eyre Pl
+Cannonmills
+Edinburgh EH3 5EP",12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 23:00,12:00 - 23:00,12:00 - 22:00,True,"French,Restaurants",Edinburgh,24,Pierre Victoire,Cannonmills,-3.2003641,55.9605763,EDH,4.0
+YG3xqRbBQqUh-cwuzb32IQ,"39504 Daisy Mountain Dr
+Unit 110
+Anthem, AZ 85086",,,,,,,,True,"Restaurants,French,Italian",Anthem,53,Cafe Provence,,-112.1347619,33.8431953,AZ,4.0
+UmTx5k_Uady_y6QuDv5UNw,"17 Queensferry St
+West End
+Edinburgh EH2 4QP",17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,12:00 - 14:30,17:30 - 22:00,12:00 - 14:30,,True,"French,Restaurants",Edinburgh,23,L'Escargot Blanc,"West End,New Town",-3.2102968,55.9508647,EDH,4.5
+Y2BXS2OOrlMSYfS5xdjtmw,"8751 W Charleston Blvd
+Ste 110
+Westside
+Las Vegas, NV 89117",07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 19:00,True,"Bakeries,Food,French,Restaurants",Las Vegas,313,Patisserie Manon,Westside,-115.2857965976,36.1580257430196,NV,4.5
+N_LG7wMjLSOJ9mgBr1kWtA,"20581 N Hayden Rd
+Ste 115
+Scottsdale, AZ 85255",11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,09:00 - 21:00,True,"Steakhouses,Restaurants,Pizza,French,Italian",Scottsdale,173,Local Bistro,,-111.906143188477,33.6712646484375,AZ,4.0
+8v0R86QBqqQF9E7O-Dw1Jw,"1451 Center Crossing Rd
+Summerlin
+Las Vegas, NV 89144",,11:00 - 12:30,18:00 - 19:30,11:00 - 12:30,18:00 - 19:30,,,False,"French,Restaurants",Las Vegas,30,Technique Restaurant,Summerlin,-115.3124785,36.1881115,NV,4.0
+NxsCqQCpofRx08m535JYIA,"Cosmopolitan Hotel & Casino
+3708 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,True,"French,Restaurants",Las Vegas,466,Comme Ça,The Strip,-115.1738726,36.1097544,NV,3.5
+uYKwS-biARKgBkk5rY_PaQ,"Mandarin Oriental
+3752 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89158",,18:00 - 22:00,18:00 - 22:00,18:00 - 22:00,18:00 - 22:00,18:00 - 22:00,,True,"American (New),French,Restaurants",Las Vegas,144,Twist by Pierre Gagnaire,The Strip,-115.173755045566,36.1038631056613,NV,4.0
+O60NyTHyQCzFa0yo7bapBg,"7001 N Scottsdale Rd
+Ste 127
+Scottsdale, AZ 85253",,07:30 - 22:00,11:00 - 15:00,11:00 - 15:00,11:00 - 15:00,10:00 - 15:00,10:00 - 15:00,True,"French,Restaurants",Scottsdale,78,La Petite France,,-111.9203854,33.5392485,AZ,4.0
+ah1x64Je5iIRp7xKqO_aVA,"52 Coburg Street
+Leith
+Edinburgh EH6 6HJ",,10:00 - 17:30,10:00 - 17:30,10:00 - 17:30,10:00 - 17:30,10:00 - 17:30,10:00 - 17:30,True,"French,Restaurants",Edinburgh,10,Water of Leith Bistro,Leith,-3.1775088,55.9758177,EDH,4.0
+T795wfMBGCxsTYif-juSrA,"42 London Street
+New Town
+Edinburgh EH3 6LX",08:00 - 18:00,08:00 - 18:00,08:00 - 18:00,08:00 - 18:00,08:00 - 18:00,08:00 - 18:00,10:00 - 16:00,False,"Food,Desserts,Cafes,French,Restaurants",Edinburgh,5,The French Fancies,New Town,-3.1912907,55.9592031,EDH,4.5
+Bx3HdnM8X2Zzw9RBHITj2A,"13 Antigua Street
+New Town
+Edinburgh EH1 3NH",08:30 - 22:00,08:30 - 22:00,08:30 - 22:00,08:30 - 22:00,08:30 - 22:00,08:30 - 22:00,08:30 - 22:00,True,"Food,Coffee & Tea,French,Restaurants",Edinburgh,23,Café Marlayne,New Town,-3.18475842475891,55.9581557803547,EDH,4.0
+gtvekVSN4BAEY-EoAoon5w,"48 Raeburn Place
+Stockbridge
+Stockbridge
+Edinburgh EH4 1HL",09:00 - 19:00,09:00 - 19:00,09:00 - 19:00,09:00 - 19:00,09:00 - 23:00,09:00 - 19:00,09:00 - 18:30,True,"Food,Coffee & Tea,Delis,French,Restaurants",Edinburgh,7,Henri of Edinburgh,Stockbridge,-3.21315765380859,55.9578494739949,EDH,4.0
+BoYuRrfyC6qQSaJFrgAWWg,"805 Williamson St
+Williamson - Marquette
+Madison, WI 53703",11:00 - 15:00,10:30 - 14:00,18:00 - 21:00,11:00 - 14:00,11:00 - 14:00,18:00 - 21:00,09:00 - 14:00,True,"French,Restaurants",Madison,13,Chez Nanou,Williamson - Marquette,-89.370951,43.078219,WI,4.5
+PeGL1EzeTAw5qNZYwhaaGg,"67 Clerk Street
+Newington
+Edinburgh EH8 9JG",09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,09:30 - 15:00,True,"Bakeries,Food,French,Restaurants",Edinburgh,11,The Wee Boulangerie,Newington,-3.1818301,55.9417139,MLN,4.5
+o8fTSsBLOSqTUh7RhGRYUg,"4180 S Jones Blvd
+Las Vegas, NV 89103",11:00 - 22:00,,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,False,"Vietnamese,Asian Fusion,French,Restaurants",Las Vegas,9,188 Restaurant,,-115.224263,36.1129279,NV,4.0
+00bhYDS5z8kMeE1tGwokGA,"The Edgewater
+666 Wisconsin Ave
+Capitol
+Madison, WI 53703",06:30 - 14:00,17:30 - 22:00,17:30 - 22:00,06:30 - 14:00,06:30 - 14:00,17:30 - 22:00,07:30 - 14:00,True,"French,Restaurants",Madison,3,The Admiralty,Capitol,-89.39021,43.079273,WI,4.0
+7CTf4W-KT4h6uA_zpGZp2Q,"3160 E Camelback Rd
+Phoenix, AZ 85018",11:00 - 21:00,11:00 - 21:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,10:00 - 23:00,10:00 - 21:00,True,"Restaurants,French,Italian",Phoenix,165,Central Bistro,,-112.0142073,33.5100591,AZ,4.0
+KWo4geULVPzCirc0Scpcow,"3701-3965 Sky Harbor Blvd
+Phoenix, AZ 85034",,,,,,,,True,"Bakeries,Food,French,Restaurants",Phoenix,14,La Madeleine,,-112.001445002113,33.4336774955193,AZ,3.5
+YvaUjvTb3BPbXy7v65aYSg,"Princes Street
+Old Town
+Edinburgh EH1 2AB",,18:30 - 22:00,18:30 - 22:00,18:30 - 22:00,18:30 - 22:00,18:30 - 22:00,,True,"French,Restaurants",Edinburgh,5,The Pompadour by Galvin,"Old Town,West End",-3.207239,55.949726,EDH,4.5
+K5kEOnBu2rP2I6vYefr7eg,"The Caledonian Hotel
+Princes Street
+Old Town
+Edinburgh EH1 2AB",18:00 - 22:00,18:00 - 22:00,18:00 - 22:00,12:00 - 14:30,12:00 - 14:30,12:30 - 15:00,12:30 - 15:00,True,"Brasseries,French,Restaurants",Edinburgh,12,Galvin Brasserie de Luxe,"Old Town,West End",-3.20732116699219,55.9498486142005,EDH,4.5
+4jvFXuAI5qyVX9NqwzstOg,"84 Dalry Road
+West End
+Edinburgh EH11 2AX",,18:00 - 23:00,18:00 - 23:00,18:00 - 23:00,18:00 - 23:00,18:00 - 23:00,18:00 - 23:00,True,"Caribbean,French,Restaurants",Edinburgh,7,Riverlife,"West End,Haymarket",-3.2188005,55.9439251,EDH,3.5
+ONo0ffn10iZQfRk0ZgK8pQ,"5-7 Old Fishmarket Close
+Newington
+Edinburgh EH1 1RW",,,,,,,,False,"Indian,Asian Fusion,French,Restaurants",Edinburgh,4,Le Passepartout,"Newington,Old Town",-3.1892475,55.9490929,EDH,4.0
+Yi2_WbqDjeUrZn7WhdFA8w,"10135 E Via Linda
+Scottsdale, AZ 85258",16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,16:00 - 22:00,10:00 - 21:00,True,"Wine Bars,Bars,Nightlife,French,Restaurants",Scottsdale,32,Voila French Bistro and Wine Bar,,-111.8619471,33.5747251,AZ,4.0
+zYRKOiYCZJAg1SV1WZG4lw,"1011 N 3rd St
+Phoenix, AZ 85004",08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 01:00,08:00 - 01:00,08:00 - 22:00,False,"French,Restaurants",Phoenix,38,Scratch,,-112.068953,33.459054,AZ,3.0
+XPLru2l5Dkk7hTtUFZOVEQ,"88 Commercial Street
+Leith
+Edinburgh EH6 6LX",,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,True,"French,Restaurants",Edinburgh,3,Bistro Provence,Leith,-3.1727333,55.9770251,EDH,3.0
+gQZS8WjhRErASI8hcj-xHw,"15 NW Circus Place
+Stockbridge
+Edinburgh EH3 6SX",17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,12:00 - 14:30,08:00 - 11:00,08:00 - 14:30,09:00 - 21:00,True,"French,Restaurants",Edinburgh,7,Bistro Moderne,"Stockbridge,New Town",-3.2066533,55.9573847,EDH,3.5
+FnnHnJ4olV0E_rFql4phMg,"4225 E Sky Harbor Blvd
+Phoenix, AZ 85034",,,,,,,,True,"French,Restaurants",Phoenix,44,Zinc Brasserie,,-111.9905526,33.4348992,AZ,3.5
+i8EcaWDkkfo3T3d5APfzsQ,"7620 E Indian School Rd
+Scottsdale, AZ 85251",09:00 - 16:00,09:00 - 16:00,09:00 - 20:00,09:00 - 20:00,08:00 - 20:00,09:00 - 20:00,09:00 - 15:00,True,"Cafes,French,Restaurants",Scottsdale,51,Merci French Cafe & Patisserie,,-111.916218,33.49664,AZ,4.5

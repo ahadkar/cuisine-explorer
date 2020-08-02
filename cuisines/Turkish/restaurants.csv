@@ -1,0 +1,66 @@
+business_id,full_address,mon_hours,tue_hours,wed_hours,thu_hours,fri_hours,sat_hours,sun_hours,open,categories,city,review_count,name,neighborhoods,longitude,latitude,state,stars
+nbpY3tbPrAksoqOrYwlx7Q,"547 State St
+Capitol
+Madison, WI 53703",09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 23:00,09:00 - 23:00,09:00 - 22:00,False,"Restaurants,Mediterranean,Turkish",Madison,68,Husnu's,Capitol,-89.3952452,43.0748682,WI,3.5
+c-qtFVPutboIiJASZYrwuA,"1701 E. Guadalupe Rd
+Tempe, AZ 85283",,,,,,,,False,"Restaurants,Turkish",Tempe,15,Efes Turkish Cuisine,,-111.9130595,33.3634187,AZ,3.5
+AdRlwKxtEh30Urmvi0Xk5w,"414 S Mill Ave
+Ste 117
+Tempe, AZ 85281",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,11:00 - 23:00,11:00 - 22:00,True,"Restaurants,Turkish",Tempe,94,MedFresh Grill,,-111.9402513,33.4259647,AZ,3.5
+fx4coO0OyW7Qe8vdLnlLiA,"73 Hanover Street
+New Town
+Edinburgh EH2 1EE",12:00 - 14:00,12:00 - 14:00,12:00 - 14:00,12:00 - 14:00,17:00 - 23:00,12:00 - 14:00,,False,"Restaurants,Turkish",Edinburgh,15,Nargile,New Town,-3.1973593,55.953935,EDH,4.0
+Pr3LIe9bCTfhk5_hBKMGog,"41-42 West Preston Street
+Newington
+Edinburgh EH8 9PY",,17:30 - 23:00,17:30 - 23:00,17:30 - 23:00,17:30 - 23:00,12:00 - 15:00,17:30 - 23:00,True,"Restaurants,Turkish",Edinburgh,37,Hanedan,Newington,-3.1811862,55.938891,EDH,5.0
+pNCi_Ru7Twi-c_4qsxjtyA,"77 Shore
+Leith
+Edinburgh EH6 6RG",09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,True,"Food,Coffee & Tea,Restaurants,Turkish",Edinburgh,17,Café Truva,Leith,-3.1721734,55.9749369,EDH,4.0
+KNOIToiUNm59Tmlq5phYhg,"9755 W Flamingo Rd
+Spring Valley
+Las Vegas, NV 89147",,,,,,,,False,"Restaurants,Turkish",Las Vegas,10,Ibo Turkish and Mediterranean Restaurant,Spring Valley,-115.3053069,36.1135909,NV,2.5
+KD1vk9C94vKc8Pr_gF6VHg,"119 Nicolson Street
+Newington
+Edinburgh EH8 9ER",,,,,,,,True,"Food,Juice Bars & Smoothies,Coffee & Tea,Restaurants,Turkish",Edinburgh,17,Café Turquaz,Newington,-3.1837946,55.9441677,EDH,3.0
+2iVnO23-gLBM_PTBCLynAw,"166 Dalry Road
+Haymarket
+Edinburgh EH11 2EG",16:00 - 02:00,,,,,,,True,"Restaurants,Turkish",Edinburgh,5,Dersim Kebab House,Haymarket,-3.2233743,55.9415254,EDH,4.0
+pCIKGjCO2HQM8fGagQHZiA,"24 St Marys Street
+Newington
+Edinburgh EH1 1SU",12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,True,"Food,Ethnic Food,Specialty Food,Restaurants,Turkish",Edinburgh,16,Empires,"Newington,Old Town,Royal Mile",-3.1836751,55.9500876,EDH,4.0
+x0ZA2JmIyq6MiWM4ILI3yw,"3 Fountainbridge
+West End
+Edinburgh EH3 9PU",,,,,,,,True,"Restaurants,Turkish",Edinburgh,3,Samsun's,West End,-3.2090722,55.9432605,EDH,2.5
+Dg6NoAEUutXQaKJumpBDgA,"128 Dalry Road
+Haymarket
+Edinburgh EH11 2EZ",15:00 - 23:30,15:00 - 23:30,15:00 - 23:30,15:00 - 23:30,15:00 - 23:30,15:00 - 23:30,15:00 - 23:30,True,"Turkish,Fast Food,Indian,Restaurants",Edinburgh,17,Kebabish Original,Haymarket,-3.22182691534431,55.942789,MLN,3.5
+kjYB71u_mUoE2w-_NnN4Ig,"150 University Avenue W
+Suite 3
+Waterloo, ON N2L 3E4",11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,11:30 - 23:00,12:00 - 23:00,12:00 - 22:00,True,"Restaurants,Mediterranean,Turkish",Waterloo,11,Meet Point Restaurant,,-80.5358885228634,43.4724417258775,ON,3.5
+VITFQQrzkyRnLelvMtULqQ,"9 Bread Street
+Old Town
+Edinburgh EH3 9AL",17:00 - 02:00,17:00 - 02:00,17:00 - 02:00,17:00 - 02:00,17:00 - 03:00,17:00 - 03:00,17:00 - 02:00,True,"Fast Food,Restaurants,Turkish",Edinburgh,5,Pasha,Old Town,-3.2050333,55.9459098,EDH,4.0
+YlUdUuJ9TWzLNaexcHmzjA,"327 King Street W
+Kitchener, ON N2G 1B8",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,12:00 - 20:00,,True,"Restaurants,Turkish",Kitchener,5,Rana Taste of Turkish,,-80.4951934,43.4517986,ON,3.5
+fHGb1TiZbYAFxxwADhIYQw,"393 W Warner Rd
+Ste 103
+Chandler, AZ 85225",,11:30 - 21:00,11:30 - 21:00,11:30 - 21:00,11:30 - 21:00,11:30 - 21:00,11:30 - 21:00,False,"Turkish,Halal,Restaurants",Chandler,40,Turkish Kitchen,,-111.846555,33.334536,AZ,4.5
+vivmVfxNTEEPVCjKE0fCvQ,"120-122 Rose Street
+New Town
+Edinburgh EH2 3",,,,,,,,True,"Restaurants,Turkish",Edinburgh,8,Turkish Kitchen,New Town,-3.2012296,55.9520223,EDH,4.0
+A2tXgZtJjjjFqE6zVT_8WQ,"255 Leith Walk
+Leith
+Edinburgh EH6",09:00 - 17:30,09:00 - 17:30,09:00 - 17:30,09:00 - 17:30,09:00 - 17:30,09:00 - 18:00,09:00 - 18:00,True,"Restaurants,Turkish",Edinburgh,3,Cafe Nemrut,Leith,-3.1753728,55.9661277,EDH,3.5
+GInXHJNhNeH0k39p7l6nYA,"46 Lady Lawson Street
+Old Town
+Edinburgh EH3",,,,,,,,True,"Restaurants,Turkish",Edinburgh,4,Café Truva Art College,Old Town,-3.2007207,55.9457717,EDH,3.5
+zXR9WUVpo-PF8xH5SmQ_xA,"73 Hanover Street
+New Town
+Edinburgh EH2 1EE",,,,,,,,True,"Restaurants,Mediterranean,Turkish",Edinburgh,6,Yeni Meze Bar,New Town,-3.1973593,55.953935,EDH,3.5
+hjcM4W6vbEpiW3jdBmIE6Q,"121 Morrison Street
+West End
+Edinburgh EH3 8AJ",12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,16:00 - 22:00,True,"Restaurants,Barbeque,Turkish",Edinburgh,5,Rodi,West End,-3.2113609,55.9459661,EDH,4.0
+yZXEELxi8KMwzXCHP345GQ,"2550 S Rainbow Blvd
+Ste  W1
+Westside
+Las Vegas, NV 89146",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,True,"Bars,Turkish,Mediterranean,Nightlife,Lounges,Restaurants",Las Vegas,18,Maza Mediterranean Grill & Lounge,Westside,-115.2419755,36.1433968,NV,4.5

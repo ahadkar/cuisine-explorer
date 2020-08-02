@@ -1,0 +1,1799 @@
+business_id,full_address,mon_hours,tue_hours,wed_hours,thu_hours,fri_hours,sat_hours,sun_hours,open,categories,city,review_count,name,neighborhoods,longitude,latitude,state,stars
+ShEYKerTwb2LSORE5o_s7A,"6720 Frank Lloyd Wright Ave
+Middleton, WI 53562",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 14:00,07:00 - 14:00,True,"Bakeries,Food,Breakfast & Brunch,Coffee & Tea,Restaurants",Middleton,38,Prairie Cafe & Bakery,,-89.496995,43.107227,WI,3.5
+X47o6R2rWiqGqvBtC7VS3Q,"2227 Parmenter St
+Middleton, WI 53562",06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,06:30 - 13:30,06:30 - 12:00,07:00 - 12:00,True,"Breakfast & Brunch,Restaurants",Middleton,19,Three Sisters Old Town Inn,,-89.511243,43.0999335,WI,4.0
+QF14BFUVHRODxGNVflgm3A,"2147 E Springs Dr
+Madison, WI 53704",,,,,,,,True,"Breakfast & Brunch,Restaurants",Madison,13,Cracker Barrel Old Country Store,,-89.2941061,43.1294409,WI,3.0
+O5lo-GKCG3cX8X4bh_DR_A,"1745 Parkside Dr
+Mayfair Park
+Madison, WI 53704",10:30 - 20:30,10:30 - 20:30,10:30 - 20:30,10:30 - 20:30,10:30 - 21:00,08:00 - 21:00,08:00 - 20:30,True,"Breakfast & Brunch,American (New),Buffets,Restaurants",Madison,16,HomeTown Buffet,Mayfair Park,-89.314783,43.122528,WI,3.0
+1YEuqVtVMHdpavzoGcUUug,"4614 E Washington Ave
+Bluff Acres
+Madison, WI 53704",,,,,,,,True,"Breakfast & Brunch,Restaurants",Madison,9,International House of Pancakes,Bluff Acres,-89.3062815,43.1296507,WI,2.0
+MONajnUQ5-IRtv8PSPn_yA,"915 Atlas Ave
+Madison, WI 53714",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,True,"Breakfast & Brunch,Cafes,Restaurants",Madison,13,Cottage Cafe,,-89.3070715,43.084991,WI,4.0
+gBcpDl0quCLABsg5OuSFww,"622 E Adams St
+Phoenix, AZ 85004",,,,,,,,False,"Food,Tea Rooms,Breakfast & Brunch,Sandwiches,Restaurants",Phoenix,11,Teeter House Tea Room,,-112.0656645,33.4495394,AZ,3.0
+P7wKlbSRsoRrfH3DFOY08A,"2508 N Central Ave
+Phoenix, AZ 85004",,,,,,,,True,"Breakfast & Brunch,Restaurants",Phoenix,40,International House of Pancakes,,-112.0740016,33.4756064,AZ,3.5
+LXhL5X3edNRy7epku6UAEw,"3 S 2nd St
+Ste 205
+Phoenix, AZ 85004",,,,,,,,False,"Bakeries,Food,Breakfast & Brunch,Restaurants",Phoenix,7,Paradise Bakery,,-112.0706,33.44742,AZ,4.0
+9BH18avE46LlHMvJn67MaA,"130 N Central Ave
+Ste 101
+Phoenix, AZ 85004",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,,,True,"Breakfast & Brunch,Delis,Sandwiches,Restaurants",Phoenix,50,The Downtown Deli,,-112.0740511,33.4499524,AZ,3.5
+SkNUbFJiJtbZjY-S_S0u7g,"50 E Camelback Rd
+Phoenix, AZ 85012",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Restaurants",Phoenix,67,The Good Egg - Uptown,,-112.07196401799001,33.509589636593596,AZ,3.5
+yaTx8l9SrM0qR3Zcdnw5rw,"3838 N Central Ave Ste P6
+Phoenix, AZ 85012",,,,,,,,False,"Breakfast & Brunch,Restaurants",Phoenix,4,Le Peep Restaurant On Central,,-112.075675,33.491509,AZ,4.0
+PxeX1M8WtyPxX1MuuGIh-g,"5539 N 7th St
+Ste 108
+Phoenix, AZ 85014",06:00 - 17:00,06:00 - 17:00,06:00 - 20:00,06:00 - 20:00,06:00 - 20:00,06:00 - 17:00,06:00 - 16:00,True,"Sandwiches,Delis,Breakfast & Brunch,Restaurants",Phoenix,138,Scott's Generations Restaurant & Delicatessen,,-112.0650136,33.5176457,AZ,3.5
+KNIw6kwf8LZkrS1lEnaLiw,"1641 E Camelback Rd
+Phoenix, AZ 85016",,,,,,,,True,"Food,Breakfast & Brunch,Bagels,Delis,Restaurants",Phoenix,21,Einstein Bros Bagels,,-112.045816,33.508756,AZ,3.5
+HIiVx2mseVWKtx8TKfWC_A,"1651 E Camelback Rd
+Phoenix, AZ 85016",07:00 - 19:00,07:00 - 19:00,07:00 - 19:00,07:00 - 21:00,07:00 - 21:00,08:00 - 19:00,08:00 - 19:00,True,"Bars,Breakfast & Brunch,Wine Bars,Nightlife,Restaurants,Sandwiches",Phoenix,143,Duck & Decanter,,-112.0467405,33.5092185,AZ,4.0
+imvNxppzxkLUPH64pQsDQg,"2400 E Missouri Ave
+Phoenix, AZ 85016",17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,10:00 - 14:00,True,"Breakfast & Brunch,American (New),Restaurants",Phoenix,44,Wright's,,-112.029562,33.5160662,AZ,4.5
+oc0Wl6ktfMLb5VZ2Uz6M2A,"3930 E Camelback Rd
+Phoenix, AZ 85018",07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 14:00,True,"Breakfast & Brunch,Pizza,French,Restaurants",Phoenix,93,Vincent Market Bistro,,-111.996602341533,33.509973809123,AZ,4.5
+UxvOXcoCRFRAVhRB0D9imw,"5053 N 44th St
+Phoenix, AZ 85018",06:00 - 15:00,16:00 - 22:00,06:00 - 15:00,06:00 - 15:00,16:00 - 22:00,06:00 - 15:00,06:00 - 15:00,False,"Breakfast & Brunch,Restaurants",Phoenix,77,Taylor's Cafe,,-111.9862703,33.5108208,AZ,3.5
+ytcm2DXuJWKPTqCtr6uJ4A,"8714 N 7th St
+Phoenix, AZ 85020",04:00 - 16:00,04:00 - 16:00,04:00 - 16:00,04:00 - 16:00,04:00 - 16:00,04:00 - 14:00,04:00 - 14:00,True,"Food,Donuts,Coffee & Tea,Breakfast & Brunch,Restaurants",Phoenix,49,Rainbow Donuts,,-112.065592,33.563433,AZ,4.0
+C4_VnxikagdjSbNQiblzYw,"7720 N 16th St
+Phoenix, AZ 85020",,,,,,,,True,"Breakfast & Brunch,Cafes,Sandwiches,Restaurants",Phoenix,7,Veranda Bistro,,-112.048885,33.550167,AZ,3.0
+3rJE7qliy8_ylKhY5FdlIw,"7575 N 16th St
+Ste 27
+Phoenix, AZ 85020",,,,,,,,False,"Food,Sandwiches,Coffee & Tea,Breakfast & Brunch,Restaurants",Phoenix,11,Blue Saguaro Cafe,,-112.047023,33.546608,AZ,3.5
+Y3a3RkR97J_ReiKgiMXeJg,"11111 N 7th St
+Phoenix, AZ 85020",,,,,,,,True,"Breakfast & Brunch,Restaurants",Phoenix,50,Pointe In Tyme,,-112.062583,33.601202,AZ,3.0
+pNJhovUsGAZ4XqG3lCU-5g,"16842 N 7th St
+Phoenix, AZ 85022",,,,,,,,True,"Food,Breakfast & Brunch,Bagels,Delis,Restaurants",Phoenix,16,Einstein Bros Bagels,,-112.0656185,33.639176,AZ,3.5
+p1ntTC9-CI6x5Y_nUoo6Ag,"4501 E Cactus Rd
+Phoenix, AZ 85032",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,True,"Breakfast & Brunch,Restaurants",Phoenix,18,IHOP,,-111.9871884,33.5993289,AZ,3.0
+UYHa5iKUddnZrlxF7taI0Q,"3205 E Bell Rd
+Phoenix, AZ 85032",,,,,,,,True,"Breakfast & Brunch,Diners,Restaurants",Phoenix,17,Dennys,,-112.01308,33.640243,AZ,2.5
+IcuPhhH7QCOCT19EDEppEw,"4030 E Thunderbird Rd
+Phoenix, AZ 85032",,,,,,,,True,"Food,Sandwiches,Bagels,Breakfast & Brunch,Restaurants",Phoenix,26,Einstein Bros Bagels,,-111.994222,33.6121713,AZ,2.5
+DfLML2IlhUqztTBURxOAxg,"12802 N Tatum Blvd
+Phoenix, AZ 85032",07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 22:00,07:00 - 22:00,07:00 - 20:30,True,"Sandwiches,Breakfast & Brunch,Diners,Restaurants",Phoenix,34,5 & Diner,,-111.9780689,33.6040477,AZ,3.5
+VuPhv9CNIHLOzS2JeDwLOA,"228 S 24th St
+Phoenix, AZ 85034",,,,,,,,False,"Breakfast & Brunch,American (Traditional),Restaurants",Phoenix,4,Waffle House,,-112.030738,33.445002,AZ,4.0
+sh1-BzB29lIOA2qQ_PxN-A,"3363 E University Dr
+Phoenix, AZ 85034",,,,,,,,True,"Breakfast & Brunch,Restaurants",Phoenix,44,Waffle House,,-112.0081633,33.4155715,AZ,3.0
+d2AeNB4xw67E1Bzpo1Pm7Q,"416 N 7th Ave
+Phoenix, AZ 85007",07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 17:00,08:00 - 16:00,,True,"Bakeries,Food,Breakfast & Brunch,Mexican,Restaurants",Phoenix,36,AZTECA Bakeries & Restaurant,,-112.0827178,33.4541453,AZ,4.0
+MLcXtnpzygZvQ9BtseLLlw,"6106 S 32nd St
+Phoenix, AZ 85042",10:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,True,"American (Traditional),Food,Breakfast & Brunch,Specialty Food,Fruits & Veggies,Restaurants",Phoenix,201,Farm At South Mountain,,-112.0129108,33.3906771,AZ,4.0
+lq2iZK7epi23byzcejjqTg,"5020 E Ray Rd
+Phoenix, AZ 85044",,,,,,,,True,"Breakfast & Brunch,Restaurants",Phoenix,20,IHOP,,-111.9754,33.320411,AZ,3.0
+8H1DwdAAgSBtwDeb2R-hmA,"4855 E Warner Rd
+Ste 12
+Phoenix, AZ 85044",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,07:00 - 14:00,07:00 - 14:00,True,"Food,Breakfast & Brunch,Bagels,Sandwiches,Restaurants",Phoenix,69,The Nosh Cafe and Bagelry,,-111.9795988,33.3310474,AZ,4.0
+NX5YHSIyesufcsI7Rg5NLg,"4901 E Ray Rd
+Phoenix, AZ 85044",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 23:00,07:00 - 23:00,07:00 - 22:00,False,"Breakfast & Brunch,American (Traditional),Restaurants",Phoenix,46,Mimi's Cafe,,-111.9777855,33.3194033,AZ,3.0
+rDvz5jX65gpfONFu7er9Tw,"4747 E Elliot Rd
+Ste 17
+Phoenix, AZ 85044",09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,10:00 - 20:00,True,"Breakfast & Brunch,Mexican,Restaurants",Phoenix,342,Los Taquitos,,-111.9820214,33.3480616,AZ,4.0
+0kZ4aYmqf5fzTt9Yvz8Kvw,"4824 E Chandler Blvd
+Phoenix, AZ 85048",,,,,,,,True,"Breakfast & Brunch,American (Traditional),Restaurants",Phoenix,34,Waffle House,,-111.9791357,33.3057984,AZ,3.5
+dGcVT0WGenhh8Np76ta6AA,"5022 E Chandler Blvd
+Phoenix, AZ 85048",06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 23:00,06:00 - 23:00,06:00 - 21:00,True,"Breakfast & Brunch,Restaurants",Phoenix,80,Cracker Barrel Old Country Store,,-111.9747,33.30617,AZ,3.5
+JJGkhOmfOFamPbCAaRKPPw,"21001 N Tatum Blvd
+Suite 1630
+Phoenix, AZ 85050",07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 22:00,07:00 - 22:00,09:00 - 20:00,True,"Bakeries,Food,Breakfast & Brunch,Sandwiches,Restaurants",Phoenix,29,Paradise Bakery,,-111.972437438965,33.6769641638938,AZ,3.0
+IYWTOj970XqG2z9Xft_8SA,"21001 N Tatum Blvd
+Ste 1630
+Phoenix, AZ 85050",,,,,,,,True,"Food,Breakfast & Brunch,Bagels,Delis,Restaurants",Phoenix,22,Einstein Bros Bagels,,-112.002306518555,33.6948278200677,AZ,2.5
+8aPTQeDYOMNEu907WfflCQ,"1665 S Dobson Rd
+Mesa, AZ 85202",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Restaurants",Mesa,66,The Good Egg - Dobson,,-111.8745646,33.3830059,AZ,4.0
+dbh72sNyNeHUgJqQye9Vbg,"1155 S Dobson Rd
+Mesa, AZ 85202",05:30 - 00:00,05:30 - 00:00,05:30 - 00:00,05:30 - 00:00,05:30 - 01:00,05:30 - 01:00,05:30 - 00:00,True,"Breakfast & Brunch,American (Traditional),Sandwiches,Restaurants",Mesa,38,Village Inn,,-111.8741772,33.3933155,AZ,3.0
+9ocGgALmbzTZWOS7f7SYcA,"1855 S Stapley Dr
+Mesa, AZ 85204",11:00 - 20:30,11:00 - 20:30,11:00 - 20:30,11:00 - 20:30,11:00 - 21:00,08:00 - 21:00,08:00 - 20:30,True,"Breakfast & Brunch,American (New),Buffets,Restaurants",Mesa,22,Old Country Buffet,,-111.806864,33.380894,AZ,3.0
+9TJIYL_2C-JYmm9Ye6J66w,"2034 E Southern Ave
+Mesa, AZ 85204",06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,True,"Breakfast & Brunch,Restaurants",Mesa,7,Egg & I Cafe,,-111.7872721,33.3939166,AZ,1.5
+SS073W0tN3nvG36Qy6n0qg,"6625 E Southern Ave
+Mesa, AZ 85206",11:00 - 20:30,11:00 - 20:30,11:00 - 20:30,11:00 - 20:30,11:00 - 21:00,08:00 - 21:00,08:00 - 20:30,True,"Breakfast & Brunch,American (New),Buffets,Restaurants",Mesa,15,Old Country Buffet,,-111.6886985,33.3936675,AZ,3.5
+eONS7DP6U9BV3lkqGAUbOg,"1831 S Country Club Dr
+Mesa, AZ 85210",,,,,,,,True,"Breakfast & Brunch,American (Traditional),Diners,Restaurants",Mesa,28,Waffle House,,-111.839632,33.381658,AZ,3.5
+udyeC0A16GWcSas7L5hwHg,"1150 S Country Club Dr
+Mesa, AZ 85210",06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Mesa,7,Denny's,,-111.8406111,33.393702,AZ,2.5
+qLXxp0rpzT4kG9tT3wZwfA,"1250 S Alma School Rd
+Mesa, AZ 85210",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 23:00,07:00 - 23:00,07:00 - 22:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Mesa,66,Mimis Cafe,,-111.8577518,33.3919992,AZ,3.0
+2nzUx_M8Szyzsf4CszHasw,"535 W Iron Ave
+Ste 131
+Mesa, AZ 85210",07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,True,"Breakfast & Brunch,American (Traditional),Restaurants",Mesa,209,Crackers & Co Cafe,,-111.843786,33.383949,AZ,4.5
+KhFYSO342maSRhu54zDxAA,"300 S Phelps Dr
+Apache Junction, AZ 85220",,,,,,,,True,"Breakfast & Brunch,Restaurants",Apache Junction,11,Feedbag Restaurant,,-111.550668,33.4122714,AZ,2.5
+T9BPnYNKtk6B42W0cJJXnA,"100 W 2nd St
+Casa Grande, AZ 85222",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,08:00 - 14:00,08:00 - 13:00,True,"Breakfast & Brunch,Sandwiches,Restaurants",Casa Grande,21,Cook E Jar Bakery & Cafe,,-111.7536705,32.8773814,AZ,4.0
+kNnk3xy9eb4ym8nljQUGlA,"2040 N Alma School Rd
+Chandler, AZ 85224",06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 22:00,06:00 - 22:00,06:00 - 21:00,True,"Breakfast & Brunch,Diners,Restaurants",Chandler,66,Chase's Diner,,-111.859503,33.3358289,AZ,3.5
+qgJZUKNVY-LbGKk6XEP3JA,"914 N Alma School Rd
+Chandler, AZ 85224",,,,,,,,True,"Breakfast & Brunch,Mexican,Salad,Restaurants",Chandler,51,Mucho Taco,,-111.8591805,33.3196157,AZ,4.0
+-6Roo-EHgSdUa4rP3tWyRw,"2800 W Chandler Blvd
+Chandler, AZ 85224",07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Chandler,71,Mimis Cafe,,-111.89307,33.306411,AZ,3.5
+T9iBSa4pxYXP129pHlt5Sg,"5594 W Wild Horse Pass Blvd
+Chandler, AZ 85226",,17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,,True,"Breakfast & Brunch,American (New),Sandwiches,Restaurants",Chandler,119,Kai,,-111.9918702,33.2664769,AZ,4.5
+oSDf6BHiMlKGZdFFmIo6NQ,"4910 W Ray Rd
+#5
+Chandler, AZ 85226",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Restaurants",Chandler,51,The Good Egg - Ray,,-111.926391,33.320344,AZ,4.0
+bEQjf7c-9qkNWgXvriSGZw,"6401 W Chandler Blvd
+Chandler, AZ 85226",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 13:00,07:00 - 13:00,True,"Breakfast & Brunch,Diners,Restaurants",Chandler,44,Wonderful Wanda's,,-111.951499,33.304845,AZ,3.5
+7WGBi29_vj_7RcPVxpLNHA,"228 N Gilbert Rd
+Gilbert, AZ 85234",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,07:00 - 14:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Gilbert,191,The Farmhouse Restaurant,,-111.7898391,33.3545993,AZ,4.0
+TpQMR-JFE5V0UPzTjjuwFQ,"6929 N Hayden Rd
+Ste C2
+Scottsdale, AZ 85250",08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 15:00,08:00 - 15:00,True,"Breakfast & Brunch,Delis,Sandwiches,Restaurants",Scottsdale,69,Goldmans Deli,,-111.908547,33.5376434,AZ,3.5
+IM-9thHqQbBK5tX5MfTzBQ,"9301 E Shea Blvd
+Scottsdale, AZ 85260",06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,True,"Food,Breakfast & Brunch,Delis,Bagels,Restaurants",Scottsdale,220,Chompie's Deli,,-111.882346097728,33.5822419728561,AZ,3.5
+68_EJEA9Ibo55EDp3d-nOg,"7904 E Chaparral Rd
+Scottsdale, AZ 85250",06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:30 - 21:00,07:00 - 21:00,True,"Breakfast & Brunch,American (New),Diners,Restaurants",Scottsdale,95,Randy's Restaurant & Ice Cream,,-111.9115638,33.5094234,AZ,3.5
+GhhpkAkGl4JE_M_Szwegeg,"6149 N. Scottsdale Rd
+Ste A-190
+Scottsdale, AZ 85250",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Restaurants",Scottsdale,105,The Good Egg - Hilton Village,,-111.9249635,33.5263541,AZ,3.5
+nP9zQBRNSxlnU8BsbqYI5A,"13802 N Scottsdale Rd
+Ste 171
+Scottsdale, AZ 85254",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Restaurants",Scottsdale,48,The Good Egg - Thunderbird,,-111.9268525,33.6138619,AZ,3.5
+t1XhXY-Vt4K1OPLkuOcsfg,"4912 E Shea Blvd
+Scottsdale, AZ 85254",05:00 - 17:00,05:00 - 17:00,05:00 - 17:00,05:00 - 17:00,05:00 - 17:00,06:00 - 16:00,06:00 - 15:00,True,"Food,Breakfast & Brunch,Bagels,Delis,Restaurants",Scottsdale,9,Einstein Bros Bagels,,-111.976011895,33.5834720349,AZ,3.0
+El_0LAdJ1R0-nL_lHzBT-g,"10320 N Scottsdale Rd
+Scottsdale, AZ 85253",06:30 - 17:00,06:30 - 17:00,06:30 - 17:00,06:30 - 17:00,06:30 - 17:00,06:30 - 15:00,06:30 - 15:00,True,"Food,Breakfast & Brunch,Bagels,Delis,Restaurants",Scottsdale,67,New York Bagels 'N Bialys,,-111.9271351,33.5796807,AZ,3.0
+EJkiV-vOO2NfQH71KeqaXw,"9619 N Hayden Rd
+Scottsdale, AZ 85258",,,,,,,,False,"Breakfast & Brunch,Restaurants",Scottsdale,66,JP Pancake,,-111.9055104,33.5737667,AZ,2.5
+3vKhV2ELR2hmwlnoNqYWaA,"7353 N Via Paseo Del Sur
+Scottsdale, AZ 85258",05:30 - 15:00,05:30 - 15:00,05:30 - 15:00,05:30 - 15:00,05:30 - 15:00,05:30 - 14:00,05:30 - 14:00,True,"Food,Sandwiches,Bagels,Breakfast & Brunch,Restaurants",Scottsdale,151,"Lox, Stock & Bagel",,-111.905472278595,33.5442293454526,AZ,4.0
+EAMPV2fgs9cU21MXOgv3Ig,"8980 E Shea Blvd
+Scottsdale, AZ 85260",07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Scottsdale,76,Mimis Cafe,,-111.887102732333,33.5828297331931,AZ,3.0
+uG5yrHPZkgP1dlSnmcM8lA,"15681 N Hayden Rd
+Ste E1
+Scottsdale, AZ 85260",06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,07:00 - 14:30,True,"Food,Bagels,Breakfast & Brunch,Delis,Restaurants",Scottsdale,42,Big City Bagels & Deli,,-111.89567,33.627288,AZ,4.0
+xPSLlgEewbXbjsy-LdsBsg,"7678 E Greenway Rd
+Ste 104
+Scottsdale, AZ 85260",,,,,,,,True,"Breakfast & Brunch,Delis,Sandwiches,Restaurants",Scottsdale,4,Lucy's Cafe & Grill,,-111.915163,33.6260369,AZ,4.0
+x-4BOw1IIauM7GhYpTKhtw,"34422 N Scottsdale Rd
+Ste A-3
+Scottsdale, AZ 85266",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Restaurants",Scottsdale,24,The Good Egg - Carefree,,-111.9275787,33.7969402,AZ,3.5
+-hQ8iZygzi0iiTFUkHgiEA,"1628 E Southern Ave
+Ste 2
+Tempe, AZ 85282",06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,07:00 - 15:00,07:00 - 15:00,True,"Food,Sandwiches,Bagels,Breakfast & Brunch,Restaurants",Tempe,64,Back East Bagels,,-111.9127636,33.3929982,AZ,3.5
+-UHDEY88hqUtrTPWfQ5CgQ,"4403 S Rural Rd
+Tempe, AZ 85282",,,,,,,,True,"Breakfast & Brunch,Diners,Restaurants",Tempe,11,Denny's Restaurant,,-111.925863,33.38463,AZ,3.5
+aQ9qHCd6OBIOvClTlnZrZg,"1220 W Alameda Dr
+Tempe, AZ 85282",06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,,,True,"Sandwiches,Breakfast & Brunch,Restaurants,Event Planning & Services,Caterers",Tempe,85,Morning Star Cafe,,-111.9576961,33.4001481,AZ,4.5
+FPD5xXo_QPmJVo5XJKPryA,"9900 S Rural Rd
+Tempe, AZ 85284",05:00 - 16:00,05:00 - 16:00,05:00 - 16:00,05:00 - 16:00,05:00 - 16:00,05:00 - 16:00,06:00 - 15:00,True,"Food,Breakfast & Brunch,Bagels,Delis,Restaurants",Tempe,17,Einstein Bros Bagels,,-111.929858,33.321492,AZ,3.0
+cvLa4Mpfqa-I7CbLs_8Ckg,"1661 E Warner Rd
+Gilbert, AZ 85296",,,,,,,,True,"Breakfast & Brunch,Diners,Restaurants",Gilbert,7,Denny's,,-111.7540834,33.3355565,AZ,3.5
+Vz8e3TO2lsAAETCt3w94eA,"6601 W Peoria Ave
+Glendale, AZ 85302",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,True,"Breakfast & Brunch,Sandwiches,Restaurants",Glendale,16,International House of Pancakes,,-112.200627,33.581379,AZ,3.0
+7XfT2w9Eb2Xbu-iP4xulPQ,"4304 W Bell Rd
+Phoenix, AZ 85003",,,,,,,,True,"Food,Breakfast & Brunch,Bagels,Delis,Restaurants",Phoenix,13,Einstein Bros Bagels,,-112.1524306,33.639628,AZ,3.0
+a01JeGRdPYArzDgBLP9M5w,"6030 W Behrend Dr
+Ste 115
+Glendale, AZ 85308",05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,True,"Food,Sandwiches,Bagels,Breakfast & Brunch,Restaurants",Glendale,98,Hot Bagels,,-112.187126,33.665863,AZ,4.5
+_wrA7CMbMqcWEDCNghi5cg,"7450 W Bell Rd
+Glendale, AZ 85308",07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 21:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Glendale,59,Mimis Cafe,,-112.2194127,33.6385407,AZ,2.5
+QyDYXJRz3b4f80qsMgpPFQ,"17125 N 79th Ave
+Glendale, AZ 85308",11:00 - 20:30,11:00 - 20:30,11:00 - 20:30,11:00 - 20:30,11:00 - 21:00,08:00 - 21:00,08:00 - 20:30,True,"Breakfast & Brunch,American (New),Buffets,Restaurants",Glendale,27,Old Country Buffet,,-112.2287529,33.6397477,AZ,3.5
+GHFfUWLpMGT80i36qMzgPw,"1700 N Dysart Rd
+Goodyear, AZ 85338",,,,,,,,True,"Breakfast & Brunch,Restaurants",Goodyear,24,Waffle House,,-112.3411847,33.4536005,AZ,4.0
+rw7JAQHE5Kpgs6YUMBeaBA,"13734 W Bell Rd
+Surprise, AZ 85374",06:00 - 00:00,06:00 - 00:00,06:00 - 00:00,06:00 - 00:00,00:00 - 00:00,00:00 - 00:00,06:00 - 00:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Surprise,20,IHOP,,-112.3544029,33.639186,AZ,3.0
+PdTyucLF2U9rO3aN39m-eg,"13706 W Bell Rd
+Ste C18
+Surprise, AZ 85374",06:00 - 16:00,06:00 - 16:00,06:00 - 16:00,06:00 - 16:00,06:00 - 16:00,06:00 - 16:00,07:00 - 15:00,True,"Food,Bagels,Breakfast & Brunch,Delis,Restaurants",Surprise,28,Hot Bagels & Deli,,-112.3523135,33.6387331,AZ,3.0
+dlBKl_UBkiAol4KgCUG5uw,"8359 W Bell Rd
+Peoria, AZ 85382",,,,,,,,True,"Breakfast & Brunch,Restaurants",Peoria,15,International House of Pancakes,,-112.236356,33.637654,AZ,3.0
+WYg3T9O4dX7FGaiQC4ooxQ,"8131 W Bell Rd
+Peoria, AZ 85382",,,,,,,,True,"Breakfast & Brunch,Restaurants",Peoria,22,Denny's,,-112.2315561,33.6378367,AZ,2.5
+k41DURkrKj8_fSyRIxQtcA,"430 E Wickenburg Way
+Wickenburg, AZ 85390",,,,,,,,False,"Breakfast & Brunch,Restaurants",Wickenburg,3,The New Frontier,,-112.7233385,33.9719884,AZ,3.5
+nI1reikhvzQKyXojeUCPqg,"57 N Valentine St
+Wickenburg, AZ 85390",07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,True,"Breakfast & Brunch,Mexican,Restaurants",Wickenburg,54,Anita's Cocina,,-112.7292748,33.9700047,AZ,3.5
+nyUdKma0UUQMjqa6BaXVlg,"207 E Wickenburg Way
+Wickenburg, AZ 85390",05:00 - 14:00,05:00 - 14:00,05:00 - 14:00,05:00 - 14:00,05:00 - 14:00,05:00 - 14:00,05:00 - 14:00,True,"Breakfast & Brunch,Delis,Restaurants",Wickenburg,47,Horseshoe Cafe,,-112.7285885,33.9694707,AZ,4.0
+PaLJoYycupjosFKHTNzpHQ,"530 N Stephanie St
+Henderson, NV 89014",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 23:00,07:00 - 23:00,07:00 - 22:00,True,"Bakeries,Food,Breakfast & Brunch,American (Traditional),Restaurants",Henderson,30,Marie Callender's Restaurant & Bakery,,-115.0458375,36.0595946,NV,3.0
+pKeiYrbA8Azh-z1NqN44KQ,"596 N Stephanie St
+Henderson, NV 89014",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 23:00,07:00 - 23:00,07:00 - 22:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Henderson,82,Mimi's Cafe,,-115.045444,36.0625,NV,3.0
+iEfPkzBUnTeYYUldwxJzOw,"1230 W Warm Springs Rd
+Henderson, NV 89014",,,,,,,,True,"Breakfast & Brunch,Restaurants",Henderson,21,IHop,,-115.03846,36.056723,NV,3.0
+LNbwRD01VZiILOGsT94sVw,"2450 Pebble Rd
+Henderson, NV 89074",,,,,,,,True,"Breakfast & Brunch,Restaurants",Henderson,7,International House of Pancakes,,-115.0957579,36.0277519,NV,2.5
+fUdr6QMsrBGOYpxS6Dcjdg,"2800 W Sahara Ave
+Ste 2A
+Westside
+Las Vegas, NV 89102",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,08:00 - 14:00,08:00 - 14:00,True,"Food,Sandwiches,Coffee & Tea,Breakfast & Brunch,Restaurants",Las Vegas,107,Coffee Pub,Westside,-115.1795317,36.1450464,NV,4.0
+eoDEx1GGQA0CBDhy2ql_Kw,"2160 W Charleston Blvd
+Downtown
+Las Vegas, NV 89102",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,369,Omelet House,Downtown,-115.1711308,36.1590433,NV,4.0
+SfrHdU4NCkYWvERnWaOUqQ,"1280 S Decatur Blvd
+Westside
+Las Vegas, NV 89102",,,,,,,,True,"Breakfast & Brunch,Diners,Restaurants",Las Vegas,149,Blueberry Hill Family Restaurant,Westside,-115.2072046,36.1564508,NV,3.5
+ZndQfdbLU8pnD7b6_Z05KA,"1723 E Charleston Blvd
+Downtown
+Las Vegas, NV 89104",,,,,,,,False,"Breakfast & Brunch,Restaurants",Las Vegas,11,Blueberry Hill Family Restaurant,Downtown,-115.127554,36.159189,NV,3.0
+SfHdMvLXrOeJmgpQB6AFRA,"1581 N Decatur Blvd
+Las Vegas, NV 89108",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 14:00,07:00 - 14:00,True,"Breakfast & Brunch,Diners,Restaurants",Las Vegas,38,Sunshine Cafe,,-115.2075749,36.1879988,NV,4.0
+0lQDOFqEVB1LQhkS2kN1RA,"3200 N Jones Blvd
+Northwest
+Las Vegas, NV 89108",09:00 - 19:30,09:00 - 19:30,09:00 - 19:30,09:00 - 19:30,09:00 - 19:30,08:30 - 18:00,10:00 - 17:00,True,"Breakfast & Brunch,Restaurants",Las Vegas,14,Griddlecakes,Northwest,-115.225456237793,36.2171287536621,NV,3.0
+7hZGtb0Gd3aRcG1VH-Udcw,"6870 W Cheyenne Ave
+Northwest
+Las Vegas, NV 89108",,,,,,,,True,"Breakfast & Brunch,Restaurants",Las Vegas,19,International House of Pancakes,Northwest,-115.244985,36.219365,NV,4.0
+qdAxH_RrFaYqLD-g30N2fA,"4170 S Ft Apache Rd
+Spring Valley
+Las Vegas, NV 89147",,,,,,,,True,"Breakfast & Brunch,Restaurants",Las Vegas,137,Original Pancake House,Spring Valley,-115.2968729,36.1133877,NV,3.5
+ZBVXf0uC7k8iKDYCIMa2tQ,"2227 N Rampart Blvd
+Summerlin
+Las Vegas, NV 89128",07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 14:30,07:00 - 15:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,73,Omelet House,Summerlin,-115.2818774,36.2004665,NV,3.5
+kr9gePdA-ds4ltXLlH3M_A,"4833 W Charleston Blvd
+Westside
+Las Vegas, NV 89146",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 15:00,07:00 - 15:00,False,"Breakfast & Brunch,Restaurants",Las Vegas,82,Original Pancake House,Westside,-115.2072699,36.1589104,NV,4.0
+pS5WsUlWOVAPM0S2rVI-SQ,"529 University Ave
+Capitol
+Madison, WI 53703",15:00 - 00:00,15:00 - 00:00,15:00 - 00:00,15:00 - 00:00,15:00 - 00:00,09:00 - 00:00,09:00 - 00:00,True,"Breakfast & Brunch,Bars,American (New),Nightlife,Restaurants",Madison,31,Vintage Spirits & Grill,Capitol,-89.395509,43.07299,WI,4.0
+0wGWhZw81cIG7YjwghZhgw,"638 State St
+Capitol
+Madison, WI 53703",07:00 - 21:30,07:00 - 21:30,07:00 - 21:30,07:00 - 21:30,07:00 - 22:00,07:00 - 22:00,09:00 - 21:00,True,"Food,Coffee & Tea,Cafes,Breakfast & Brunch,Restaurants",Madison,92,Sunroom Cafe,Capitol,-89.396178,43.075159,WI,4.0
+HOMBFwgPLC_Wc9k7Obo7OQ,"1351 Williamson St
+Williamson - Marquette
+Madison, WI 53703",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,Restaurants",Madison,40,Willalby's Cafe,"Williamson - Marquette,Willy St",-89.360907,43.0855462,WI,4.0
+ZVCdIgZhGgnGBdzt2Y0Iiw,"508 E Wilson St
+Capitol
+Madison, WI 53703",15:00 - 02:00,15:00 - 02:00,15:00 - 02:00,15:00 - 02:00,15:00 - 02:30,08:00 - 02:30,08:00 - 02:00,True,"Breakfast & Brunch,Bars,American (Traditional),Nightlife,Restaurants",Madison,57,Come Back In,Capitol,-89.3766298,43.0759921,WI,3.5
+J3A5V0Hl07o_KQSI2hHf_g,"118 S Pinckney St
+Capitol
+Madison, WI 53703",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 14:00,08:00 - 14:00,True,"Breakfast & Brunch,Restaurants",Madison,251,Marigold Kitchen,Capitol,-89.381557502937,43.07434303302,WI,4.0
+cnc5Fu-xE1CKLI_bh7P01g,"5518 University Ave
+Spring Harbor
+Madison, WI 53705",06:30 - 13:30,06:30 - 13:30,06:30 - 13:30,06:30 - 13:30,06:30 - 13:30,06:30 - 13:30,07:30 - 13:30,True,"Breakfast & Brunch,Restaurants",Madison,72,Original Pancake House,Spring Harbor,-89.47598,43.083424,WI,4.0
+5m0OPZOPkohxh1D67M7ncA,"6150 Mineral Point Rd
+Faircrest
+Madison, WI 53705",05:30 - 18:00,05:30 - 18:00,05:30 - 18:00,05:30 - 18:00,05:30 - 18:00,06:00 - 16:00,07:00 - 16:00,True,"Food,Sandwiches,Bagels,Breakfast & Brunch,Restaurants",Madison,7,Bruegger's Bagels,Faircrest,-89.486019,43.061218,WI,3.0
+dgq6Y3t81Hq3Og-qd4C5Ew,"5237 University Ave
+Madison, WI 53705",09:00 - 09:00,09:00 - 09:00,09:00 - 09:00,09:00 - 09:00,09:00 - 09:00,09:00 - 09:00,09:00 - 09:00,True,"Burgers,Breakfast & Brunch,American (Traditional),Restaurants",Madison,7,Perkins Restaurant & Bakery,,-89.47144,43.077889,WI,2.5
+lIL_VuvmxBr_yQQH_P9QHg,"916 Williamson St
+Williamson - Marquette
+Madison, WI 53703",06:30 - 17:30,06:30 - 17:30,06:30 - 17:30,06:30 - 17:30,06:30 - 17:30,06:30 - 17:30,08:00 - 16:00,True,"Bakeries,Food,Breakfast & Brunch,Restaurants",Madison,91,Madison Sourdough,Williamson - Marquette,-89.369407,43.080058,WI,4.0
+5w-qVzxUOGEajm9eH3gEkA,"1221 Ann St
+Burr Oaks
+Madison, WI 53713",04:30 - 21:00,04:30 - 21:00,04:30 - 21:00,04:30 - 21:00,04:30 - 22:00,04:30 - 21:00,05:30 - 21:00,True,"Breakfast & Brunch,American (New),Restaurants",Madison,8,Parkway Family Restaurant,Burr Oaks,-89.4049488,43.0363518,WI,4.0
+4meJyPOhuAKzywUJTmu2hw,"3110 N Central Ave
+Ste 179
+Phoenix, AZ 85012",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Restaurants",Phoenix,114,The Good Egg - Park Central,,-112.075009130997,33.4836556717717,AZ,3.0
+CeQA6krEv4wEzutdXiRsIQ,"1700 W Washington St
+Phoenix, AZ 85007",,,,,,,,True,"Breakfast & Brunch,Restaurants",Phoenix,6,Joni's Capitol Cafe,,-112.0980531,33.4481411,AZ,4.0
+RkSU74wqRh0GdMYObcxTxQ,"3401 S 43rd Ave
+Phoenix, AZ 85009",05:30 - 14:00,05:30 - 14:00,05:30 - 14:00,05:30 - 14:00,05:30 - 14:00,06:00 - 13:00,,True,"Breakfast & Brunch,Restaurants",Phoenix,20,Kay's Kafe,,-112.149483,33.416725,AZ,4.0
+-1bOb2izeJBZjHC7NWxiPA,"61 W. Thomas Road
+Phoenix, AZ 85013",07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,True,"Breakfast & Brunch,Cafes,American (Traditional),Restaurants",Phoenix,83,First Watch,,-112.077144,33.479996,AZ,3.5
+_1lXRQ2Qda8HDpUQUqTYwA,"1818 W Montebello Ave
+Phoenix, AZ 85015",,,,,,,,False,"Breakfast & Brunch,Restaurants",Phoenix,5,Jb's,,-112.0977034,33.5196796,AZ,2.5
+CAhyiTcoGeAqaP018FX0cQ,"1820 W Northern Ave
+Phoenix, AZ 85021",,,,,,,,True,"Food,Breakfast & Brunch,Bagels,Delis,Restaurants",Phoenix,14,Einstein Bros Bagels,,-112.0980631,33.5538282,AZ,3.0
+_7OvxfAje3XDZuSzguF6iA,"524 W Hatcher Rd
+Phoenix, AZ 85021",,,,,,,,False,"Breakfast & Brunch,Restaurants",Phoenix,31,Eye Opener Family Restaurant,,-112.081336975098,33.5714416503906,AZ,3.5
+E_wJCQ9L_0w5tJyrvr0lJQ,"9645 N Black Canyon Hwy
+Phoenix, AZ 85021",07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,True,"Breakfast & Brunch,Cafes,American (Traditional),Restaurants",Phoenix,54,First Watch,,-112.116641,33.574046,AZ,4.0
+5X9iW2qF5ecY78v35b5iWQ,"2360 W Northern Ave
+Phoenix, AZ 85021",,,,,,,,True,"Breakfast & Brunch,Diners,Restaurants",Phoenix,5,Denny's Restaurant,,-112.109726,33.55362,AZ,2.0
+-0bUDim5OGuv8R0Qqq6J4A,"7023 N 19th Ave
+Phoenix, AZ 85021",,,,,,,,False,"Bakeries,Food,Breakfast & Brunch,Restaurants",Phoenix,8,IHOP,,-112.0991833,33.5396894,AZ,2.0
+EEC7t11ciQ6XUjkudRbYSg,"2627 W Deer Valley Rd
+Phoenix, AZ 85027",,,,,,,,True,"Breakfast & Brunch,Restaurants",Phoenix,25,Waffle House Restaurant,,-112.116182,33.6834879,AZ,3.5
+jqbrMBRsByyVBm8OoQ9dWA,"21611 N 26th Ave
+Phoenix, AZ 85027",06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 23:00,06:00 - 23:00,06:00 - 22:00,True,"Breakfast & Brunch,Restaurants",Phoenix,43,Cracker Barrel Old Country Store,,-112.114228,33.681686,AZ,3.5
+pdsK3YZfXZbzOEVpGNcilg,"5030 W McDowell Rd
+Phoenix, AZ 85035",,,,,,,,True,"Breakfast & Brunch,Restaurants",Phoenix,12,Waffle House,,-112.168103456497,33.4670876585058,AZ,3.0
+K4VHuqUFwc4eeC8LkMLyTA,"1237 N 59th Ave
+Phoenix, AZ 85043",,,,,,,,True,"Breakfast & Brunch,American (Traditional),Restaurants",Phoenix,21,Waffle House,,-112.1858875,33.462094,AZ,3.5
+os_r5fCkmjeP980CLv20MQ,"10240 N 27th Ave
+Phoenix, AZ 85051",,,,,,,,True,"Breakfast & Brunch,American (New),Restaurants",Phoenix,12,The Place,,-112.118976,33.579999,AZ,3.0
+KXMfiG_2_LALAaGzxt1YbA,"16845 N 29th Ave
+Ste 3
+Phoenix, AZ 85053",05:00 - 15:00,05:00 - 15:00,05:00 - 15:00,05:00 - 15:00,05:00 - 15:00,05:00 - 15:00,06:00 - 14:00,True,"Food,Sandwiches,Bagels,Breakfast & Brunch,Restaurants",Phoenix,24,Bagel Gourmet,,-112.1212093,33.6389639,AZ,4.5
+-KEU36ohRQb19mrbA65Y3Q,"2957 W Bell Rd
+Phoenix, AZ 85053",,,,,,,,False,"Breakfast & Brunch,Restaurants",Phoenix,24,The Good Egg,,-112.13983297348,33.7143270569574,AZ,3.5
+6I3FdazyK8qnqIYm11x9fQ,"2717 W Bell Rd
+Phoenix, AZ 85053",,,,,,,,True,"Food,Breakfast & Brunch,Coffee & Tea,Diners,Restaurants",Phoenix,10,Denny's,,-112.118963,33.6394497,AZ,3.5
+97AFYADGuOJX-mx8YPFZpg,"405 W Main St
+Mesa, AZ 85201",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,,False,"Breakfast & Brunch,American (Traditional),Restaurants",Mesa,29,Grandma's Kitchen,,-111.8402581,33.4148655,AZ,2.5
+C40IsC_MxEfX3-fOBNe7WA,"1112 N Higley Rd
+Mesa, AZ 85205",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 15:00,07:00 - 14:00,True,"Food,Sandwiches,Bagels,Breakfast & Brunch,Restaurants",Mesa,18,Bagel Nosh,,-111.7190439,33.4351498,AZ,4.0
+VerI72nYdRLfynCIJr_Tmg,"7127 E Main St
+Ste B
+Mesa, AZ 85207",06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,06:30 - 13:00,06:30 - 13:00,True,"Breakfast & Brunch,Restaurants",Mesa,11,The Little Kitchen,,-111.677297010803,33.4146257295973,AZ,3.0
+Y7aesBLKUPTrQsuzcce-DQ,"101 E 29th Ave
+Apache Junction, AZ 85219",,,,,,,,True,"Breakfast & Brunch,Restaurants",Apache Junction,10,Waffle House,,-111.545112,33.388722,AZ,2.0
+dYLlSj_SWwHg1aA3Km061w,"393 W Warner Rd
+Chandler, AZ 85225",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,True,"Breakfast & Brunch,Diners,Restaurants",Chandler,76,Hoosier Cafe,,-111.8463705,33.3344463,AZ,4.0
+y0weNFCIJF9bTgBbFST86A,"17 E Boston St
+Chandler, AZ 85225",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,True,"Breakfast & Brunch,Restaurants",Chandler,92,Brunchies,,-111.8410678,33.3021356,AZ,3.0
+UBHENdQcmWBG3vnjz6OdMw,"721 N Arizona Ave
+Gilbert, AZ 85233",,,,,,,,True,"Food,Bagels,Breakfast & Brunch,Restaurants",Gilbert,26,Brueggers Bagels,,-111.841114,33.363016,AZ,3.0
+rF5uvk0-2_N60UxJ1NRl0g,"51 S McQueen Rd
+Gilbert, AZ 85233",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Restaurants",Gilbert,30,The Good Egg - McQueen,,-111.823935,33.348804,AZ,4.0
+EQxR8CKkKSmHW0fgtqVosg,"835 W Warner Rd
+Ste 109
+Gilbert, AZ 85233",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,07:00 - 14:00,True,"Food,Sandwiches,Bagels,Breakfast & Brunch,Restaurants",Gilbert,31,Bagel Nosh,,-111.8081201,33.3339386,AZ,3.5
+x6BemTnk7_eCuvbv5MflWQ,"1725 E Ryan Rd
+Chandler, AZ 85249",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,True,"Breakfast & Brunch,Restaurants",Chandler,88,Hangar Cafe,,-111.809029,33.271662,AZ,4.0
+9Y3aQAVITkEJYe5vLZr13w,"4400 N Scottsdale Rd
+Scottsdale, AZ 85251",06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Scottsdale,438,Breakfast Club,,-111.9264093,33.500545,AZ,3.5
+V6BYjHM9SnXscfkln3hCdA,"7373 E Scottsdale Mall
+Ste 6
+Scottsdale, AZ 85251",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Scottsdale,456,Orange Table,,-111.923057,33.492272,AZ,4.0
+CEs_oJMtLsll3xBM9slBQQ,"6840 E Camelback Rd
+Scottsdale, AZ 85251",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 15:00,True,"Breakfast & Brunch,Restaurants",Scottsdale,140,Original Pancake House,,-111.9325368,33.502239,AZ,3.0
+b5cEoKR8iQliq-yT2_O0LQ,"3313 N Hayden Rd
+Scottsdale, AZ 85251",11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,True,"Nightlife,Breakfast & Brunch,Mexican,Bars,Restaurants",Scottsdale,397,Carlsbad Tavern,,-111.9084922,33.4867815,AZ,4.0
+AyvyWENKpPBOFnFFkZuAyQ,"8711 E Pinnacle Peak Rd
+Scottsdale, AZ 85255",,,,,,,,True,"Food,Grocery,American (Traditional),Breakfast & Brunch,Restaurants",Scottsdale,32,Pinnacle Peak General Store,,-111.893058,33.699108,AZ,4.0
+7bkr2A6Hr0fnYOVg0O5RHA,"17030 N Scottsdale Rd
+Scottsdale, AZ 85255",,,,,,,,True,"Food,Coffee & Tea,American (Traditional),Breakfast & Brunch,Restaurants",Scottsdale,17,Village Inn,,-111.9256236,33.6405431,AZ,3.0
+APdrRZvoxc2Z86owaNj8Aw,"1312 N Scottsdale Rd
+Scottsdale, AZ 85257",11:00 - 20:30,11:00 - 20:30,11:00 - 20:30,11:00 - 20:30,11:00 - 21:00,08:00 - 21:00,08:00 - 20:30,False,"Breakfast & Brunch,Buffets,Restaurants",Scottsdale,22,HomeTown Buffet,,-111.9266225,33.4626951,AZ,1.5
+1_FS3rvpvgGEzr_SncSVpQ,"11162 N Frank Lloyd Wright
+Ste101
+Scottsdale, AZ 85259",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Restaurants",Scottsdale,37,The Good Egg - Ancala,,-111.8365715,33.5869871,AZ,2.5
+PwCIMun-O0dB7Kh1NP7n5Q,"725 S Rural Rd
+Tempe, AZ 85281",05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,06:00 - 16:00,06:00 - 15:00,True,"Food,Breakfast & Brunch,Bagels,Delis,Restaurants",Tempe,20,Einstein Bros Bagels,,-111.925685,33.422756,AZ,4.0
+UI8iKvzhGn2qZCGIqtQqrQ,"1021 W University Dr
+Tempe, AZ 85281",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,True,"Burgers,Breakfast & Brunch,American (Traditional),Restaurants",Tempe,268,Harlow's Cafe,,-111.9533039,33.4218047,AZ,4.0
+FPboZrUMSNYE4Yy_0fX-Ug,"1750 N Scottsdale Rd
+Tempe, AZ 85281",06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,Diners,Restaurants",Tempe,48,Jim's Coney Island Cafe,,-111.926843080987,33.4486235038312,AZ,3.5
+BZ5Fqx0dTwZgnLzCcMyJaQ,"2090 E University Dr
+Tempe, AZ 85281",07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,,,True,"Breakfast & Brunch,Sandwiches,Restaurants",Tempe,49,Munch A Mania,,-111.896271,33.422576,AZ,4.5
+iNT6pcUugoXsDlZgRTyhtw,"398 S Mill Ave
+Tempe, AZ 85281",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,11:00 - 23:00,10:00 - 22:00,10:00 - 22:00,True,"Italian,American (New),Breakfast & Brunch,Restaurants",Tempe,356,Caffe Boa,,-111.940428,33.426651,AZ,3.5
+ApEvXLmsPMWsUVEfPkrmfg,"7520 S Rural Rd
+Tempe, AZ 85283",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,07:00 - 14:00,07:00 - 14:00,True,"Bakeries,Food,Breakfast & Brunch,Restaurants",Tempe,75,P.croissants,,-111.9299298,33.3500187,AZ,3.5
+O-s2pyewnZXyyxBAfka7-A,"5511 N 51st Ave
+Glendale, AZ 85301",06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,07:00 - 12:30,,True,"Breakfast & Brunch,American (Traditional),Mexican,Restaurants",Glendale,5,The Corporate Cafe,,-112.168184,33.517631,AZ,4.0
+oB3LAXzg-GgnPbBRUsvxxw,"4915 W Glendale Ave
+Glendale, AZ 85301",06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,07:00 - 15:00,07:00 - 13:00,True,"Breakfast & Brunch,Restaurants",Glendale,82,Kiss the Cook Restaurant,,-112.165622,33.538071,AZ,3.5
+VFi-N5ySGpId7-ie85rSHQ,"1491 N Dysart Rd
+Avondale, AZ 85323",,,,,,,,True,"Breakfast & Brunch,Sandwiches,Restaurants",Avondale,12,IHOP,,-112.3403335,33.456347,AZ,3.5
+rQEVIWkcIjnfIKUrqovUDA,"36457 N Cave Creek Rd
+Cave Creek, AZ 85331",,,,,,,,True,"Breakfast & Brunch,Restaurants",Cave Creek,21,Wagon Wheel,,-111.9543192,33.8166182,AZ,4.0
+7Z_VmjR74f2Wf-hTBPDF3g,"6219 E Cave Creek Rd
+Cave Creek, AZ 85331",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,True,"Breakfast & Brunch,Diners,Restaurants",Cave Creek,58,Oak's Diner & Flapjacks,,-111.9471619,33.8319615,AZ,3.5
+txOMZiCpQwI4qydicluM3g,"8737 W Grand Ave
+Peoria, AZ 85345",,,,,,,,True,"Breakfast & Brunch,American (New),Restaurants",Peoria,4,Dennys,,-112.246566,33.588462,AZ,5.0
+fAJM5vQ4dJn2xSfWMAEu-A,"8466 W Peoria Ave
+Ste 1
+Peoria, AZ 85345",05:30 - 21:00,05:30 - 21:00,05:30 - 21:00,05:30 - 21:00,05:30 - 21:00,05:30 - 21:00,06:00 - 19:00,True,"Breakfast & Brunch,Restaurants",Peoria,33,Brothers Family Restaurant,,-112.241596,33.581867,AZ,3.5
+JFqf-f4qQ07S_M_EQRO7VQ,"15472 N 99th Ave
+Sun City, AZ 85351",06:00 - 20:00,06:00 - 20:00,06:00 - 20:00,06:00 - 20:00,06:00 - 21:00,06:00 - 21:00,06:00 - 20:00,True,"Breakfast & Brunch,Diners,Restaurants",Sun City,24,Bobbie's Cafe of Sun City,,-112.2699736,33.6234904,AZ,2.5
+MHPXDXVE_cUYodfPhkadeQ,"Spanish Village Shopping Ctr
+7204 Ho Rd, Ste 23
+Carefree, AZ 85377",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,,True,"Food,Coffee & Tea,Breakfast & Brunch,Restaurants",Carefree,19,Black Mountain Coffee Shop,,-111.924377,33.825903,AZ,4.0
+woeY1YUkcaXgx6CzWqhATw,"316 N Boulder Hwy
+Henderson, NV 89015",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,Restaurants",Henderson,164,Omelet House,,-114.9846324,36.0427823,NV,4.0
+WwNl_1fzeCupBysWF1rLLQ,"19 W Pacific Ave
+Henderson, NV 89015",06:00 - 17:00,06:00 - 17:00,06:00 - 17:00,06:00 - 17:00,06:00 - 17:00,06:30 - 16:00,,True,"Food,Coffee & Tea,Breakfast & Brunch,British,Restaurants",Henderson,42,Coo Coo's Gourmet Coffee Cafe,,-114.985419,36.033107,NV,4.0
+zRDru1Ew3aSZHMB99iv-bw,"231 S 3rd St
+Ste 110
+Downtown
+Las Vegas, NV 89101",07:30 - 14:00,07:30 - 14:00,07:30 - 14:00,07:30 - 14:00,07:30 - 14:00,08:00 - 14:00,,False,"Delis,Cafes,Breakfast & Brunch,Restaurants",Las Vegas,23,El Gaucho Lucas Cafe,Downtown,-115.1442646,36.1679528,NV,3.5
+8Nsh8u0zHYegI6XT1L39Lg,"4650 W Tropicana Ave
+Las Vegas, NV 89103",06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,True,"Bars,Breakfast & Brunch,Irish,Pubs,Nightlife,Restaurants",Las Vegas,223,McMullan's Irish Pub,,-115.204924,36.101539,NV,4.0
+bk4_xLUNjNBs6-YclITSvg,"3635 Polaris Ave
+Chinatown
+Las Vegas, NV 89103",,,,,,,,True,"Breakfast & Brunch,Restaurants",Las Vegas,19,Polaris Street Cafe,Chinatown,-115.186134,36.123843,NV,3.5
+fkVBloMEFJG2HTgeCxeNDg,"6180 W. Tropicana Avenue
+Las Vegas, NV 89103",06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,True,"Breakfast & Brunch,American (Traditional),Diners,Restaurants",Las Vegas,408,Black Bear Diner,,-115.227476294965,36.1003457136936,NV,4.0
+fphcaoXU9ywS5t3zEqYyvA,"1121 S Fort Apache
+Westside
+Las Vegas, NV 89117",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,79,Mimi's Cafe,Westside,-115.2918681,36.1576804,NV,3.0
+73kQzVMMVDxmR11VkjprUA,"9480 W Sahara Ave
+Westside
+Las Vegas, NV 89117",,,,,,,,True,"Breakfast & Brunch,Restaurants",Las Vegas,18,IHOP,"Westside,The Lakes",-115.3008423,36.1444204,NV,3.0
+1xZbo0U7inuNHjx1bElwdg,"3780 S Maryland Pkwy
+Eastside
+Las Vegas, NV 89119",,,,,,,,True,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,27,IHOP,Eastside,-115.13708251178,36.120539883577,NV,2.5
+X453V4J1EayCam-DU9d4LQ,"3790 E Flamingo Rd
+Eastside
+Las Vegas, NV 89121",06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,True,"Breakfast & Brunch,Diners,Restaurants",Las Vegas,164,Blueberry Hill Family Restaurant,Eastside,-115.092335566878,36.1153938621283,NV,4.0
+-ffo-JFhFj2kR6kZL4qYhg,"7660 W Cheyenne Ave
+Northwest
+Las Vegas, NV 89129",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 15:00,06:00 - 15:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,132,The Cracked Egg,Northwest,-115.2624712,36.2191781,NV,4.0
+0QtGVVXoDnKJxPA0v2yckA,"JW Marriott Las Vegas Resort & Spa
+221 N Rampart Blvd
+Westside
+Las Vegas, NV 89145",06:00 - 11:00,06:00 - 11:00,06:00 - 11:00,17:00 - 22:00,06:00 - 11:00,06:00 - 12:00,06:00 - 13:00,True,"Breakfast & Brunch,American (New),Restaurants",Las Vegas,19,Ceres,Westside,-115.291447956805,36.1758105370661,NV,3.0
+co0vxQ8ecXiBy2sGDeHi8A,"1029 S Rainbow Blvd
+Westside
+Las Vegas, NV 89145",17:00 - 21:00,17:00 - 21:00,07:00 - 15:00,07:00 - 15:00,17:00 - 21:00,07:00 - 15:00,17:00 - 21:00,True,"Breakfast & Brunch,American (Traditional),American (New),Restaurants",Las Vegas,298,Jamms Restaurant,Westside,-115.245078,36.159706,NV,4.0
+unxjJu6JOxVKwGTVdtaXMQ,"5970 Centennial Center Blvd
+Centennial
+Las Vegas, NV 89149",,,,,,,,True,"Breakfast & Brunch,Restaurants",Las Vegas,26,International House of Pancakes,Centennial,-115.262992989036,36.2713720671095,NV,3.0
+FL23wk71EZ_piNiMlrtaKg,"516 River Pl
+Monona, WI 53716",06:30 - 13:30,,06:30 - 13:30,06:30 - 13:30,06:30 - 13:30,06:30 - 13:30,07:30 - 13:30,True,"Breakfast & Brunch,Restaurants",Monona,13,Original Pancake House,,-89.3261385,43.0452285,WI,3.5
+aCMhR8XTu-f8GgMHYl0ipA,"831 E Johnson St
+Ste 4
+Tenney - Lapham
+Madison, WI 53703",,,,,,08:00 - 14:00,08:00 - 14:00,True,"Breakfast & Brunch,Restaurants",Madison,127,Sophia's Bakery & Cafe,Tenney - Lapham,-89.3768535,43.0838817,WI,4.5
+3SnqTPne49E5XSYv7BvYUw,"1358 Williamson St
+Williamson - Marquette
+Madison, WI 53703",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,08:00 - 14:00,08:00 - 14:00,True,"Bakeries,Food,Breakfast & Brunch,Cafes,Restaurants",Madison,150,Lazy Jane's,Williamson - Marquette,-89.361741,43.085461,WI,4.0
+WuFqL5uURZwfootmgAMCyA,"1511 Monroe St
+Vilas
+Madison, WI 53711",,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 15:00,07:00 - 14:00,True,"Breakfast & Brunch,Restaurants",Madison,143,Mickies Dairy Bar,Vilas,-89.4129899,43.067435,WI,4.0
+BcSaNiXBsGaxdnZU096QTg,"433 S Gammon Rd
+Madison, WI 53719",,,,,,,,True,"Breakfast & Brunch,Diners,Restaurants",Madison,8,Denny's,,-89.5026881,43.0583785,WI,2.0
+CshTEcwHhtL7uxs888cLzA,"6220 Nesbitt Rd
+Fitchburg, WI 53719",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,Restaurants",Fitchburg,68,Pancake Cafe,,-89.4760306,43.0114459,WI,3.0
+4bEjOyTaDG24SY5TxsaUNQ,"3655 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 00:00,07:00 - 00:00,07:00 - 23:00,True,"Breakfast & Brunch,Steakhouses,French,Restaurants",Las Vegas,4084,Mon Ami Gabi,The Strip,-115.172588519464,36.1129524773428,NV,4.0
+SsTxjxo8qvqBMvan1rzNzg,"2985 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,True,"Bars,American (Traditional),Breakfast & Brunch,Nightlife,Lounges,Restaurants",Las Vegas,1215,The Peppermill Restaurant & Fireside Lounge,The Strip,-115.163122017274,36.1336130335947,NV,4.0
+tFU2Js_nbIZOrnKfYJYBBg,"3355 Las Vegas Blvd S
+Venetian Resort and Casino
+The Strip
+Las Vegas, NV 89109",17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,08:00 - 14:00,08:00 - 14:00,True,"Breakfast & Brunch,French,Restaurants",Las Vegas,2419,Bouchon,The Strip,-115.17027887929,36.1222934090182,NV,4.0
+WGNzivxscW54VZ2BfeLmmg,"3355 Las Vegas Blvd. South Suite 1159
+3355 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,True,"Food,Desserts,Breakfast & Brunch,Cafes,Restaurants",Las Vegas,80,Canyon Ranch SpaClub Las Vegas,The Strip,-115.1696112,36.1214517,NV,3.5
+rINqiBnIgisJ1T21OePKtQ,"611 N Sherman Ave
+Madison, WI 53704",06:00 - 17:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,07:00 - 21:00,07:00 - 14:00,True,"Bakeries,Food,Breakfast & Brunch,Comfort Food,Restaurants",Madison,82,Manna Cafe & Bakery,,-89.3636588,43.107431,WI,4.0
+6ii5JM4zVaonwvgVcj9mfQ,"7490 S Las Vegas Blvd
+Southeast
+Las Vegas, NV 89123",06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,69,IHOP,Southeast,-115.171561,36.053588,NV,3.0
+3oZcTGb_oDHGwZFiP-7kxQ,"5040 N 40th St
+Phoenix, AZ 85018",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,09:30 - 21:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Phoenix,680,Chelsea's Kitchen,,-111.9955879,33.5112348,AZ,4.0
+ntN85eu27C04nwyPa8IHtw,"801 N 1st St
+Phoenix, AZ 85004",,14:30 - 06:30,14:30 - 06:30,14:30 - 06:30,14:30 - 06:30,14:30 - 06:30,06:30 - 14:30,False,"Breakfast & Brunch,Restaurants",Phoenix,727,Matt's Big Breakfast,,-112.072327136993,33.4566960573784,AZ,4.0
+JdwvA6BxRBukQQecZUIYpg,"6000 E Camelback Rd
+Phoenician Hotel
+Scottsdale, AZ 85250",,,,,,,,True,"Breakfast & Brunch,Restaurants",Scottsdale,3,The Terrace,,-111.909524,33.519588,AZ,4.0
+vW4G1hwiW6LkuhAfbeRfqg,"Paris Las Vegas
+3655 Las Vegas Blvd  S
+The Strip
+Las Vegas, NV 89136",06:00 - 23:00,06:00 - 23:00,06:00 - 23:00,06:00 - 23:00,06:00 - 02:00,06:00 - 02:00,06:00 - 23:00,True,"Food,Coffee & Tea,Breakfast & Brunch,French,Restaurants",Las Vegas,313,Le Cafe Ile Saint Louis,The Strip,-115.170958,36.112535,NV,2.5
+nvaAUTTl7oqiJDhuimNG6A,"1660 S Alma School Rd
+Ste 129
+Mesa, AZ 85210",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Restaurants",Mesa,216,T.C. Eggington's,,-111.8593691,33.3841971,AZ,4.0
+Z1KDov5DRTG-rYF_6TyO1A,"Mandalay Bay Hotel and Casino
+3950 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109",07:00 - 22:00,06:30 - 22:00,06:30 - 22:00,06:30 - 22:00,06:30 - 22:00,07:00 - 22:00,07:00 - 22:00,True,"Breakfast & Brunch,Italian,Restaurants",Las Vegas,227,Verandah,The Strip,-115.174723588914,36.0906646662953,NV,4.0
+GO5VFRp50IUNwH_6udsF6g,"Green Valley Ranch Resort & Spa
+2300 Paseo Verde Pkwy
+Henderson, NV 89052",06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 20:00,06:00 - 20:00,06:00 - 20:00,False,"Breakfast & Brunch,Restaurants",Henderson,72,The Original Pancake House,,-115.0228736,35.952556,NV,3.5
+b8GZnPFdf9OskIFZp3-qSA,"4680 S Maryland Pkwy
+University
+Las Vegas, NV 89119",,,,,,,,False,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,10,Omelet House,University,-115.136561,36.104474,NV,3.5
+1yx2zLskVTe5WQdYjL2Apw,"4533 W Sahara Ave
+Ste 5
+Westside
+Las Vegas, NV 89102",06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,True,"Burgers,Breakfast & Brunch,Sandwiches,Restaurants",Las Vegas,832,Egg & I,Westside,-115.2016373,36.1443957,NV,4.5
+OwHqwmHwswArpv3m3dlw_Q,"5111 N 7th St
+Phoenix, AZ 85014",,,,,,,,False,"Bars,Food,Beer, Wine & Spirits,Breakfast & Brunch,Burgers,Gay Bars,Nightlife,Restaurants",Phoenix,5,Burger Betty's,,-112.06434,33.511332,AZ,2.5
+JOZqBKIOB8WEBAWm7v1JFA,"3701 E Indian School Rd
+Phoenix, AZ 85018",05:00 - 15:00,05:00 - 15:00,05:00 - 15:00,05:00 - 15:00,05:00 - 15:00,07:00 - 14:00,08:00 - 14:00,True,"Breakfast & Brunch,Sandwiches,Restaurants",Phoenix,123,Acacia Cafe,,-112.001969,33.494927,AZ,4.0
+3o6Jr6gjh_IulczcWdt_Aw,"Excalibur Hotel Casino
+3850 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,False,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,49,Sherwood Forest Cafe,The Strip,-115.175557,36.098909,NV,2.5
+xfwRO04KbAPw_zRotCfWQQ,"6800 W Sahara Ave
+Westside
+Las Vegas, NV 89146",07:30 - 21:00,07:30 - 21:00,07:30 - 21:00,07:30 - 21:00,07:30 - 22:00,07:30 - 22:00,07:30 - 21:00,True,"Breakfast & Brunch,American (New),Restaurants",Las Vegas,2201,Hash House A Go Go,Westside,-115.239955,36.144667,NV,4.0
+NK-8zniVfA21IQoQCynrDg,"New York New York Hotel & Casino
+3790 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,True,"Breakfast & Brunch,American (Traditional),American (New),Restaurants",Las Vegas,234,America,The Strip,-115.174566,36.10259,NV,3.0
+_LsGlbpybDbENusCXuEpyQ,"Paris Las Vegas
+3655 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",,,,,,,,True,"Bakeries,Food,Breakfast & Brunch,Restaurants",Las Vegas,113,JJ's Boulangerie,The Strip,-115.171207,36.111721,NV,3.0
+Ymbxezwhkf8-8sDWUWOScQ,"1821 N Las Vegas Blvd
+North Las Vegas, NV 89030",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,True,"Food,Coffee & Tea,American (Traditional),Breakfast & Brunch,Restaurants",North Las Vegas,51,Jerry's Nugget Casino,,-115.132236894226,36.1932345143278,NV,4.0
+53YGfwmbW73JhFiemNeyzQ,"7135 E Camelback Rd
+Ste 195
+Scottsdale, AZ 85251",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,10:00 - 23:00,10:00 - 22:00,True,"Breakfast & Brunch,American (New),Mediterranean,Restaurants",Scottsdale,654,Olive & Ivy,,-111.9276185,33.5019817,AZ,4.0
+RW0cELoDiJ-DkQntO3w4LQ,"2100 S Power Rd
+Mesa, AZ 85201",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,True,"Breakfast & Brunch,Restaurants",Mesa,11,IHOP,,-111.688424,33.377333,AZ,2.5
+HQFscafV3wi5z4yOKdUGRg,"501 W Thomas Rd
+Phoenix, AZ 85013",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Phoenix,100,5th Avenue Cafe,,-112.080631,33.480016,AZ,4.0
+zBacxYJdcxmJETelXMt9aw,"665 S Green Valley Pkwy
+Ste 100
+Henderson, NV 89052",08:00 - 16:00,08:00 - 16:00,08:00 - 16:00,08:00 - 16:00,08:00 - 16:00,09:00 - 16:00,09:00 - 16:00,True,"Food,Desserts,Breakfast & Brunch,Bakeries,Restaurants",Henderson,168,Layers Bakery Cafe,,-115.0832955,36.0048888,NV,4.0
+zruUQvFySeXyEd7_rQixBg,"3238 N Scottsdale Rd
+Scottsdale, AZ 85251",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Burgers,Breakfast & Brunch,Restaurants",Scottsdale,225,U.S. Egg,,-111.9264164,33.4860023,AZ,4.0
+ojjtPlnSmCX1zCzWL7JoNQ,"4290 E Indian School Rd
+Phoenix, AZ 85018",06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,07:00 - 21:00,07:00 - 20:00,True,"Bakeries,Food,Breakfast & Brunch,Sandwiches,Restaurants",Phoenix,111,The Wildflower Bread Company,,-111.989069135085,33.4956423363684,AZ,4.0
+AAGO39io2Ko0fgr6BhH-yQ,"122 N 2nd St
+Phoenix, AZ 85004",,,,,,,,True,"Food,Breakfast & Brunch,Bagels,Delis,Restaurants",Phoenix,26,Einstein Bros Bagels,,-112.071886,33.449858,AZ,3.5
+SyhuQ69i6PYr4q-4kHrKFA,"2605 S Decatur Blvd
+Ste 103
+Westside
+Las Vegas, NV 89102",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,True,"Breakfast & Brunch,Restaurants",Las Vegas,116,Hash House,Westside,-115.209418,36.142094,NV,4.0
+vZ2dPk0fPQu4wrXx-DKeDw,"4626 S Maryland Pkwy
+University
+Las Vegas, NV 89119",05:00 - 17:00,05:00 - 17:00,05:00 - 17:00,05:00 - 17:00,05:00 - 17:00,06:00 - 16:00,06:00 - 15:00,True,"Food,Breakfast & Brunch,Bagels,Delis,Restaurants",Las Vegas,54,Einstein Bros,University,-115.136831,36.105583,NV,3.0
+PaSVgXHxbywiEqpv4kap3g,"1801 W Baseline Rd
+Guadalupe, AZ 85283",,,,,,,,True,"Breakfast & Brunch,Restaurants",Guadalupe,43,Waffle House,,-111.9664404,33.3779808,AZ,3.5
+HDvCnqIf5twbMb5-eG1EJw,"7388 E Shea Blvd
+Scottsdale, AZ 85260",06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,True,"Breakfast & Brunch,Restaurants",Scottsdale,286,Butterfield's Pancake House,,-111.9216833,33.5822229,AZ,4.0
+-4A5xmN21zi_TXnUESauUQ,"2613 N Scottsdale Rd
+Scottsdale, AZ 85257",06:00 - 16:00,06:00 - 16:00,06:00 - 16:00,06:00 - 16:00,06:00 - 16:00,07:00 - 16:00,07:00 - 16:00,True,"Breakfast & Brunch,Restaurants",Scottsdale,429,D'lish,,-111.925799,33.477178,AZ,4.5
+2FudHUhV9U54dm0S1ePuCw,"1020 N 1st Ave
+Phoenix, AZ 85003",06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,07:00 - 22:00,07:00 - 22:00,True,"Food,Coffee & Tea,Cafes,Breakfast & Brunch,Restaurants",Phoenix,142,Fair Trade Cafe,,-112.0742496,33.4593954,AZ,4.0
+-sHaV6At__T1RJQXiR6d0g,"1 N 1st St
+Ste 100
+Phoenix, AZ 85004",,,,,,,,False,"Breakfast & Brunch,Restaurants",Phoenix,27,First Watch,,-112.0696,33.4492,AZ,3.0
+jwJZY1_jFbBxMWzXY2GURg,"13634 N 99th Ave
+Sun City, AZ 85351",,,,,,,,True,"Breakfast & Brunch,Restaurants",Sun City,7,Cafe Maria's,,-112.262941273369,33.6072731911959,AZ,4.0
+sdnl07WmIzVxqNQv6DdyHw,"2780 E Germann Rd
+Chandler, AZ 85248",,,,,,,,True,"Burgers,Breakfast & Brunch,Salad,Restaurants",Chandler,18,Village Inn,,-111.7928241,33.2792396,AZ,3.5
+PCxmo-5YJTa6gOfhP4Cttg,"5901 E Mckellips Rd
+Ste 102
+Mesa, AZ 85215",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 19:00,06:00 - 19:00,06:00 - 14:00,True,"Breakfast & Brunch,Cafes,Restaurants",Mesa,35,Cozy Corner Cafe,,-111.703335,33.450251,AZ,4.0
+1_siFXaQbxck3tiKRwnq7Q,"315 W Elliot Rd
+Ste 107
+Tempe, AZ 85284",06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,07:00 - 14:00,07:00 - 14:00,True,"Breakfast & Brunch,Sandwiches,Restaurants",Tempe,127,AZ Bread Company,,-111.9443510501,33.348763010086,AZ,4.0
+6I-mDaBLkOFrN-XkMWPr7g,"32531 N Scottsdale Rd
+Ste 105
+Scottsdale, AZ 85262",,,,,,,,False,"Breakfast & Brunch,Delis,Restaurants",Scottsdale,14,Kashman's Place,,-111.78416,33.81574,AZ,4.0
+v-d8Fvd77bOLCysXCb21Cw,"2700 N Litchfield Rd
+Goodyear, AZ 85338",06:00 - 00:00,06:00 - 00:00,06:00 - 00:00,06:00 - 00:00,06:00 - 02:00,06:00 - 02:00,06:00 - 00:00,True,"Breakfast & Brunch,Diners,Restaurants",Goodyear,17,Village Inn,,-112.3585329,33.4769682,AZ,2.5
+koCfyexzjjF3pZrzijlL3g,"4211 W Anthem Way
+Anthem, AZ 85086",,,,,,,,True,"Breakfast & Brunch,American (New),Restaurants",Anthem,5,Denny's Anthem,,-112.1506951,33.8710668,AZ,3.5
+fd0iSXEhwz-foQdS8SCKYA,"1220 N Dysart Road
+Goodyear, AZ 85338",,,,,,,,True,"Breakfast & Brunch,Restaurants",Goodyear,56,Mimis Cafe,,-112.3415576,33.4598034,AZ,3.0
+R1ySBCVS2eQf-s0Z4ifIug,"397 S Gilbert Rd
+Gilbert, AZ 85296",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,True,"Breakfast & Brunch,American (New),Restaurants",Gilbert,102,The Gilbert House,,-111.789408,33.343131,AZ,4.0
+xjNrD2KlDvY2mA1JceVCZA,"1343 W Broadway Rd
+Tempe, AZ 85282",,,,,,,,True,"Breakfast & Brunch,American (Traditional),Restaurants",Tempe,9,Denny's,,-111.9598315,33.4071871,AZ,2.5
+A5PD0oy5R1TpIo8JtY3f3A,"1325 N Greenfield Rd
+Ste 101
+Mesa, AZ 85205",07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,True,"Breakfast & Brunch,American (Traditional),Restaurants",Mesa,70,Crackers & Co Cafe,,-111.735709,33.439721,AZ,3.5
+gN3NsKZkK0nlISVstglclw,"2823 N Power Rd
+Mesa, AZ 85215",06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,False,"Breakfast & Brunch,Restaurants",Mesa,31,The Egg & I Cafe,,-111.68240904808,33.4671771587032,AZ,1.5
+9yKzy9PApeiPPOUJEtnvkg,"6106 S 32nd St
+Phoenix, AZ 85042",,08:00 - 11:00,08:00 - 11:00,08:00 - 11:00,08:00 - 11:00,08:00 - 13:00,08:00 - 13:00,True,"Breakfast & Brunch,Sandwiches,Salad,Restaurants",Phoenix,170,Morning Glory Cafe,,-112.012504,33.390792,AZ,4.0
+VX2Jw-AxnE87KS385HDuWQ,"9490 W Northern Ave
+Glendale, AZ 85305",,,,,,,,True,"Breakfast & Brunch,Restaurants",Glendale,19,Village Inn,,-112.262186,33.552114,AZ,3.5
+0-lJQCSwnHmIczjcSw_N_g,"1155 S Power Rd
+Mesa, AZ 85206",,,,,,,,True,"Food,Sandwiches,Bagels,Breakfast & Brunch,Restaurants",Mesa,51,Kokobelli Bagel Cafe,,-111.6846403,33.3950097,AZ,4.5
+JB076rxZ1cMjCYbmKh4m1Q,"10604 S Eastern Ave
+Anthem
+Henderson, NV 89052",06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Henderson,22,Brooklyn Bagel,Anthem,-115.104302242398,35.999047011137,NV,3.5
+XgfKcL7eBJE9B66qoaIlJQ,"9815 S Eastern Ave
+Southeast
+Las Vegas, NV 89183",09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,08:00 - 20:00,08:00 - 20:00,09:00 - 18:00,True,"Bakeries,Food,Breakfast & Brunch,American (New),Restaurants",Las Vegas,253,Freed's Bakery,Southeast,-115.119972543655,36.0109893184801,NV,4.0
+0rBgNB2FKdIEKgNtiRa6Xw,"9651 Trailwood Dr
+Summerlin
+Las Vegas, NV 89134",06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,True,"Food,Coffee & Tea,Breakfast & Brunch,Restaurants",Las Vegas,23,International House of Pancakes,Summerlin,-115.3065246,36.1910528,NV,3.0
+mk-V3qzqRBgCP9V8-X4BGA,"2380 E Tropicana Ave
+Eastside
+Las Vegas, NV 89119",,,,,,,,False,"Breakfast & Brunch,Restaurants",Las Vegas,9,Coco's Restaurant,"Eastside,Southeast",-115.1195456,36.1001032,NV,3.0
+h4GmXUxM07MTOlMiGa0KuA,"6000 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89146",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,False,"Breakfast & Brunch,American (Traditional),Gluten-Free,Restaurants",Las Vegas,200,The Maple Tree,Chinatown,-115.2234519,36.1256634,NV,3.5
+sBAueq0jUmlIH6vdgyP2aQ,"9355 W Flamingo Rd
+Spring Valley
+Las Vegas, NV 89147",06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,True,"Brasseries,Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,278,Egg Works,Spring Valley,-115.295247,36.114425,NV,4.0
+DAha3IRYbGJh0UbvMHJ77w,"3771 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",,,,,,,,True,"Breakfast & Brunch,Restaurants",Las Vegas,63,Denny's Restaurant,The Strip,-115.1727646,36.1039997,NV,3.0
+nwM6Q9WQiDYV8mZ3BYfbfQ,"6760 N Durango Drive
+Centennial
+Las Vegas, NV 89149",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 23:00,07:00 - 23:00,07:00 - 22:00,True,"Breakfast & Brunch,American (Traditional),Cafes,Restaurants",Las Vegas,59,Mimi's Cafe,Centennial,-115.2878431,36.2831507,NV,3.0
+a3VX8WpAVt29VNlGgYJxrA,"8975 S Eastern Ave
+Southeast
+Las Vegas, NV 89123",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,265,The Original Sunrise Cafe,Southeast,-115.119129,36.02624,NV,4.0
+xV3OGVeNZyARob-L1SSTPQ,"Renaissance Las Vegas
+3400 Paradise Rd
+Eastside
+Las Vegas, NV 89169",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,17:00 - 22:00,17:00 - 22:00,06:30 - 11:00,True,"Breakfast & Brunch,Steakhouses,Restaurants",Las Vegas,292,ENVY The Steakhouse,Eastside,-115.154017,36.12784,NV,4.0
+-WZIxGXJHMGidZXRhKxP3w,"21001 N Tatum Blvd #88
+Phoenix, AZ 85050",07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Phoenix,57,Mimi's Cafe,,-111.9746066,33.678615,AZ,3.0
+438PWr0GLaVbZ-Cj3WyYYA,"Rampart Casino
+221 N Rampart Blvd
+Westside
+Las Vegas, NV 89145",17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 22:00,17:00 - 22:00,17:00 - 21:00,True,"Food,Tea Rooms,Breakfast & Brunch,Steakhouses,Restaurants",Las Vegas,31,The Carmel Room,Westside,-115.28134,36.167,NV,3.0
+t2QVqqi4Mjf4y1uigc9Npg,"3330 S Hualapai Way
+South Summerlin
+Las Vegas, NV 89117",07:00 - 19:00,07:00 - 19:00,07:00 - 19:00,07:00 - 19:00,07:00 - 19:00,07:00 - 19:00,07:00 - 16:00,True,"Food,Breakfast & Brunch,Juice Bars & Smoothies,Sandwiches,Restaurants",Las Vegas,178,Rachel's Kitchen,"South Summerlin,Spring Valley",-115.31462405864,36.1288897303793,NV,3.5
+JuBygU4XDjqSeW9okyvbsQ,"3000 E Ray Rd
+Gilbert, AZ 85296",07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 21:00,07:00 - 21:00,08:00 - 16:00,True,"Food,Sandwiches,Coffee & Tea,Breakfast & Brunch,Restaurants",Gilbert,255,The Coffee Shop,,-111.726244,33.321864,AZ,4.0
+PEsJsa3hXs-lsIPMag0mEg,"7750 S Jones Blvd
+Southwest
+Las Vegas, NV 89139",07:00 - 15:30,07:00 - 15:30,07:00 - 15:30,07:00 - 15:30,07:00 - 15:30,07:00 - 14:30,07:00 - 14:30,True,"Burgers,Breakfast & Brunch,Diners,Restaurants",Las Vegas,125,Beach Cafe,Southwest,-115.2253636,36.0484289,NV,3.5
+e5gB2kDFaodtxMTa53C29g,"16455 N. Scottsdale Rd
+#107
+Scottsdale, AZ 85254",07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,True,"Breakfast & Brunch,American (Traditional),Cafes,Restaurants",Scottsdale,93,First Watch,,-111.922543780182,33.6353409418385,AZ,3.5
+mQfT3JYu18HN22DVylcE7A,"3134 E Indian School Rd
+Phoenix, AZ 85018",07:30 - 15:30,07:30 - 15:30,07:30 - 15:30,07:30 - 15:30,07:30 - 15:30,08:00 - 14:30,,True,"Bakeries,Food,Breakfast & Brunch,Sandwiches,Restaurants",Phoenix,203,Bertha's Café,,-112.014454,33.4952159,AZ,4.5
+_45p8kOA__aNycVVe-n-KA,"3667 Las Vegas Blvd. S.
+The Strip
+Las Vegas, NV 89109",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,True,"Breakfast & Brunch,American (New),Restaurants",Las Vegas,385,Planet Dailies,The Strip,-115.172501,36.1100668,NV,3.0
+P1R-DyUyBeWCvPKrRkglsQ,"606 N 4th Ave
+Phoenix, AZ 85003",,07:00 - 15:00,17:00 - 22:00,10:00 - 14:00,10:00 - 14:00,09:00 - 14:00,09:00 - 14:00,False,"Breakfast & Brunch,Restaurants",Phoenix,67,Palatte,,-112.0791022,33.4549678,AZ,4.0
+voHJIbWq-lRjWpv1hlSWig,"7114 E Stetson Dr
+Ste 105
+Scottsdale, AZ 85251",07:30 - 21:30,07:30 - 21:30,07:30 - 21:30,07:30 - 21:30,07:30 - 21:30,07:30 - 21:30,08:00 - 18:00,False,"Breakfast & Brunch,American (New),Sandwiches,Restaurants",Scottsdale,15,The Foodbar,,-111.928258,33.498915,AZ,4.0
+IMuHs_KgWZwdMqZkczHkWg,"5555 E Bell Rd
+Ste 14
+Scottsdale, AZ 85254",,,,,,,,True,"Breakfast & Brunch,American (Traditional),Pizza,Restaurants",Scottsdale,40,TJ's Pizza & Wings,,-111.960636,33.640001,AZ,3.5
+0YEYPidJcDh-Hgjwaisi5Q,"6039 W Bell Rd
+Glendale, AZ 85306",06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,True,"Breakfast & Brunch,American (Traditional),Diners,Restaurants",Glendale,76,Black Bear Diner,,-112.1897964,33.6383303,AZ,3.5
+0K634ehk41ZRc4kj3NTAEQ,"1160 E University Dr
+Tempe, AZ 85281",06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,07:00 - 21:00,07:00 - 21:00,True,"Food,Breakfast & Brunch,Bagels,Delis,Restaurants",Tempe,316,Chompie's Deli,,-111.9199032,33.4224126,AZ,3.5
+R0MhNwopWTWXcg8CPAFgpw,"6435 S Rainbow Blvd
+Spring Valley
+Las Vegas, NV 89118",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 15:00,06:00 - 15:00,True,"Breakfast & Brunch,Restaurants",Las Vegas,240,The Cracked Egg,Spring Valley,-115.243649,36.071857,NV,4.0
+vKSRdX3g9kw3Xakw9FsyMQ,"Luxor Hotel and Casino
+3900 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,True,"Sandwiches,Delis,Breakfast & Brunch,Restaurants",Las Vegas,71,Backstage Deli,The Strip,-115.17696884779,36.0949664075133,NV,3.5
+Ca6kYz_8gKkkHSRRdMZfsQ,"20567 N Hayden Rd
+#120
+Scottsdale, AZ 85255",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Restaurants",Scottsdale,32,The Good Egg - Hayden Peak,,-111.9057779,33.6716432,AZ,3.0
+PD1R_FR9RFNGuLJAXSr2xg,"8950 E Mountain View Rd
+Scottsdale, AZ 85250",,,,,,,,True,"Breakfast & Brunch,Restaurants",Scottsdale,20,IHOP,,-111.8863733,33.5755823,AZ,3.0
+bDR6kF5Aw9guBkaahSAchw,"16845 N 84th Ave
+Peoria, AZ 85382",,,,,,,,True,"Breakfast & Brunch,American (Traditional),Restaurants",Peoria,56,Cracker Barrel,,-112.241265,33.636811,AZ,4.0
+Y-9dJvw-J2d9QKfuL7mKgA,"4730 E Indian School Rd
+Ste 123
+Phoenix, AZ 85018",06:30 - 13:00,06:30 - 13:00,06:30 - 13:00,06:30 - 13:00,06:30 - 13:00,06:30 - 14:00,06:30 - 14:00,True,"Breakfast & Brunch,Sandwiches,Salad,Restaurants",Phoenix,416,Over Easy,,-111.9798208,33.4948197,AZ,3.5
+0CG3ns3gwWV5nOnfzSfUIQ,"980 N Dysart Rd
+Goodyear, AZ 85338",06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,True,"Breakfast & Brunch,American (Traditional),Diners,Restaurants",Goodyear,121,Black Bear Diner,,-112.341608594041,33.4565552135511,AZ,4.0
+1F-pelV0fTduYV_vCrvjLA,"1809 E. Baseline Road
+Gilbert, AZ 85233",06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,True,"Breakfast & Brunch,American (Traditional),Diners,Restaurants",Gilbert,121,Black Bear Diner,,-111.7923334,33.3786079,AZ,4.0
+PXrsumesCPA9MkhQv_amgg,"Circus Circus Hotel and Casino
+2800 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",06:30 - 13:30,06:30 - 13:30,06:30 - 13:30,06:30 - 13:30,06:30 - 13:30,06:30 - 15:00,06:30 - 15:00,True,"Food,Coffee & Tea,Bagels,Breakfast & Brunch,Restaurants",Las Vegas,9,Barista Bagels,The Strip,-115.1615956,36.1374016,NV,3.0
+kVxtrwtfgNKbaoaT8tzqNQ,"17058 W Bell Rd
+Surprise, AZ 85374",11:00 - 15:00,16:30 - 20:00,16:30 - 20:00,11:00 - 15:00,16:30 - 20:00,11:00 - 15:00,08:00 - 13:00,True,"Breakfast & Brunch,Sandwiches,Restaurants",Surprise,79,Amuse Bouche,,-112.42539716128,33.640519113192,AZ,4.0
+AOCSNRE0-tF18BOPsiWkLg,"Harrah's Las Vegas
+3475 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,78,Cafe at Harrah's,The Strip,-115.169667,36.11949,NV,2.0
+tE3uoIhFGAc6-ZYM7lpjWQ,"530 E McDowell Rd
+Phoenix, AZ 85004",,,,,,,,True,"Food,Breakfast & Brunch,Bagels,Delis,Restaurants",Phoenix,29,Einstein Bros Bagels,,-112.0653413,33.4658597,AZ,2.5
+Agr28_3DohGpTAD0NGS95Q,"4124 Monona Dr
+Lake Edge
+Madison, WI 53716",06:30 - 15:30,06:30 - 15:30,06:30 - 15:30,06:30 - 15:30,06:30 - 15:30,07:00 - 15:00,08:00 - 15:00,True,"Food,Coffee & Tea,Cafes,Breakfast & Brunch,Restaurants",Madison,95,Crema Cafe,Lake Edge,-89.3246797,43.0785853,WI,4.0
+MiajUnwoG7RGoaolO1rPaw,"5618 E Thomas Rd
+Phoenix, AZ 85018",06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,True,"Breakfast & Brunch,American (Traditional),Comfort Food,Restaurants",Phoenix,83,Ranch House Grille,,-111.9602653,33.4803042,AZ,3.5
+lHZmz_QUoARjiz520BeKMg,"Conspire
+901 N 5th St
+Phoenix, AZ 85003",06:00 - 00:00,06:00 - 00:00,06:00 - 00:00,06:00 - 00:00,06:00 - 00:00,06:00 - 00:00,10:00 - 20:00,False,"Food,Sandwiches,Coffee & Tea,Breakfast & Brunch,Restaurants",Phoenix,21,The Coffee Conspiracy,,-112.0772,33.449188,AZ,4.5
+S1TlmscGEwSjahaXr5lkmw,"8900 E Pinnacle Peak Rd
+Ste C1
+Scottsdale, AZ 85255",,,,,,,,False,"Breakfast & Brunch,Restaurants",Scottsdale,3,The Spoon Cafe,,-111.888462,33.700033,AZ,3.5
+KV-yJLmlODfUG1Mkds6kYw,"4550 E. Cactus Rd.
+Paradise Valley Mall
+Phoenix, AZ 85032",06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 20:00,True,"Food,Breakfast & Brunch,Delis,Bagels,Restaurants",Phoenix,187,Chompie's Deli,,-111.981189677656,33.6029318153084,AZ,3.5
+XmJtUUTpgmeYQs_69uZ89Q,"4001 E Bell Rd
+Ste 112
+Phoenix, AZ 85032",,,,,,,,False,"Food,Coffee & Tea,Breakfast & Brunch,Restaurants",Phoenix,9,Mocha Bianca,,-111.995167,33.640408,AZ,3.5
+qd1ajiZRCwqEQJqCgoN1wg,"DC Ranch
+20707 N Pima Rd, Ste 140-145
+Scottsdale, AZ 85255",11:00 - 15:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,08:00 - 22:00,08:00 - 15:00,True,"Breakfast & Brunch,American (New),Sandwiches,Restaurants",Scottsdale,149,The Herb Box,,-111.8892551,33.673667,AZ,4.0
+c4FLMLP7hMnAbSiW2o_o3A,"99 Easy St
+Carefree, AZ 85377",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,False,"Breakfast & Brunch,Restaurants",Carefree,5,Saguaro Grille,,-111.92344,33.825118,AZ,3.0
+wx2EJUCNOCPrMC0DtKb98A,"1500 N Green Valley Pkwy
+Henderson, NV 89074",06:00 - 16:00,06:00 - 16:00,06:00 - 16:00,06:00 - 16:00,06:00 - 16:00,06:00 - 15:00,06:00 - 15:00,True,"Food,Bagels,Breakfast & Brunch,Restaurants",Henderson,53,Brooklyn Bagel Deli,,-115.0858742,36.0294181,NV,3.5
+oY8GbtjAbisKsv72CJgd9Q,"4955 S Alma School
+Chandler, AZ 85248",,,,,,,,True,"Breakfast & Brunch,Restaurants",Chandler,44,The Good Egg - Fulton Ranch,,-111.8591464,33.2358001,AZ,3.5
+_FBnbgbEwaZshbuoUoSBfA,"The Palms
+4381 W Flamingo Rd
+Las Vegas, NV 89103",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 21:00,True,"Steakhouses,Breakfast & Brunch,American (New),Restaurants",Las Vegas,319,Simon Restaurant and Lounge,,-115.199059,36.114303,NV,3.5
+hBHkHYOk_E-6EgObC6MTdQ,"6106 S 32nd St
+Phoenix, AZ 85042",,10:00 - 15:00,10:00 - 15:00,10:00 - 15:00,10:00 - 15:00,10:00 - 15:00,10:00 - 15:00,True,"Breakfast & Brunch,Sandwiches,Restaurants",Phoenix,87,The Farm Kitchen,,-112.012504,33.390792,AZ,4.0
+s3YI_1My_QrLjd8iL61euw,"Tenaya Village Ctr
+7280 Azure Dr
+Ste 150
+Centennial
+Las Vegas, NV 89130",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,,False,"Breakfast & Brunch,Mexican,Restaurants",Las Vegas,9,Vega's Cafe,Centennial,-115.251817703247,36.273375937988,NV,3.5
+DmkTDze8ruJr6o2f5GAvJA,"49 W Thomas Rd
+Phoenix, AZ 85073",07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,08:00 - 22:00,08:00 - 22:00,False,"Food,Ice Cream & Frozen Yogurt,Coffee & Tea,Breakfast & Brunch,Restaurants",Phoenix,127,Pink Spot,,-112.076505,33.480158,AZ,4.0
+ZRHDA3fLcwQsrBqUEo8KIg,"7815 S Rainbow Blvd
+Ste 102
+Southwest
+Las Vegas, NV 89139",06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,False,"Breakfast & Brunch,American (Traditional),Cafes,Restaurants",Las Vegas,44,New Day Cafe,Southwest,-115.198017,36.039711,NV,3.0
+9xGeYICHI3UoTcvlIKwWzA,"5570 Painted Mirage
+#140
+Northwest
+Las Vegas, NV 89149",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 15:00,06:00 - 15:00,True,"Breakfast & Brunch,Restaurants",Las Vegas,114,The Cracked Egg,"Northwest,Centennial",-115.2564721,36.2627888,NV,3.5
+Oq3JpmsRsNVKbwKScAP-nw,"5350 E Marriott Dr
+Phoenix, AZ 85073",,,,,,,,True,"Breakfast & Brunch,American (New),Sandwiches,Restaurants",Phoenix,27,Blue Sage,,-111.966112,33.683479,AZ,3.5
+LQ8xiZao4z6hn_l1qy6Jeg,"18255 N 83rd Ave
+Ste 106
+Glendale, AZ 85308",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Restaurants",Glendale,53,The Good Egg - Union Hills,,-112.236500730591,33.6473102617678,AZ,3.0
+LRuIY8JFqadCSYLo242MGg,"114 W Adams St
+102
+Phoenix, AZ 85003",06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,07:00 - 16:00,,True,"Breakfast & Brunch,Delis,Sandwiches,Restaurants",Phoenix,80,The Hero Factory,,-112.075344,33.449777,AZ,4.0
+T8xI1f3_yHzhrquCZh07Wg,"3800 N Central Ave
+Phoenix, AZ 85012",07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,,,True,"Food,Breakfast & Brunch,Bagels,Sandwiches,Restaurants",Phoenix,9,City Square Cafe,,-112.0744818,33.4917397,AZ,4.0
+Ipb_UqP54IjVxg174uT6tw,"183 Weber Street N
+Waterloo, ON N2J 3H3",,,,,,,,True,"Breakfast & Brunch,Bars,Nightlife,Lounges,Restaurants",Waterloo,10,Benny's Family Restaurant & Lounge,,-80.5178155,43.4755885,ON,3.0
+-2BNc33MHRuXljtCkXcLPg,"59 King Street N
+Waterloo, ON N2J 2X2",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,10:30 - 23:00,10:30 - 23:00,True,"Pubs,Breakfast & Brunch,Bars,Nightlife,Restaurants",Waterloo,6,Lion Brewery Restaurant,,-80.5228895,43.467046,ON,2.5
+Vz2bGRrQ1mOjOR6lcaw7Kg,"47 Erb Street W
+Waterloo, ON N2L 1S8",07:00 - 14:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:30 - 15:00,08:00 - 15:00,True,"Bakeries,Food,Breakfast & Brunch,Fish & Chips,Restaurants",Waterloo,22,Angie's Waterloo,,-80.5242138,43.4646811,ON,4.0
+eYOMoRNB1tlL76L0WjX2NQ,"5 Manitou Dr
+Kitchener, ON N2C 2J6",,,,,,,,True,"Breakfast & Brunch,Restaurants",Kitchener,10,Country Boy Family Restaurant,,-80.4540932,43.4181002,ON,3.5
+AEQYXTvWreI7x5h42AOsyg,"685 Fischer Hallman Rd
+Kitchener, ON N2E 4E9",,,,,,,,True,"Greek,Breakfast & Brunch,Restaurants,Italian",Kitchener,3,Omega Family Restaurant,,-80.5107864,43.415624,ON,3.0
+y0pmoFzlKOhozDmJPQYNcA,"4 King Street N
+Waterloo, ON N2J 2W7",08:00 - 00:00,08:00 - 00:00,08:00 - 00:00,08:00 - 00:00,08:00 - 01:00,08:00 - 01:00,08:00 - 00:00,True,"Food,Desserts,Breakfast & Brunch,Burgers,Restaurants",Waterloo,27,Symposium Cafe,,-80.5224115,43.4652496,ON,3.0
+CV4DDFG6tII-ehzaWPXK4g,"2805 W Agua Fria Fwy
+Phoenix, AZ 85027",06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,07:00 - 21:00,07:00 - 20:00,True,"Bakeries,Food,Breakfast & Brunch,Restaurants",Phoenix,75,Wildflower Bread Company,,-112.1203279,33.6674187,AZ,4.0
+9GUN0cEAK6ysOz0oGhCK8A,"410 E Wilson St
+Capitol
+Madison, WI 53774",,06:00 - 13:30,06:00 - 13:30,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,08:00 - 13:30,True,"Greek,Breakfast & Brunch,Restaurants",Madison,46,Plaka Taverna,Capitol,-89.377173,43.075599,WI,4.0
+ZrejIG8AnL87M6Jery0HVg,"McCarran International Airport
+Southeast
+Las Vegas, NV 89111",,,,,,,,True,"Breakfast & Brunch,Sandwiches,Salad,Restaurants",Las Vegas,15,Great American Bagel,Southeast,-115.1506875,36.0883812,NV,2.5
+7m93HSBV1UrdHZBJwdUVJA,"6186 N Scottsdale Rd
+Scottsdale, AZ 85253",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:30,11:00 - 22:30,11:00 - 21:00,False,"Breakfast & Brunch,American (Traditional),Restaurants",Scottsdale,89,J. Alexander's,,-111.9259109,33.5271966,AZ,3.5
+FhjdZ2DtjVgCfK47bYO6sw,"JW Marriott Camelback Inn Scottsdale Resort & Spa
+5402 E Lincoln Dr
+Scottsdale, AZ 85253",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,True,"Breakfast & Brunch,Tex-Mex,Restaurants",Scottsdale,69,Rita's Kitchen,,-111.966584843903,33.5311999426978,AZ,4.0
+_ovS0tPR0-kWtQDtCFE3KA,"6450 S Durango Dr
+Spring Valley
+Las Vegas, NV 89113",06:00 - 05:30,06:00 - 05:30,06:00 - 05:30,06:00 - 05:30,06:00 - 05:30,06:00 - 05:30,06:00 - 05:30,False,"Breakfast & Brunch,Mexican,Restaurants",Las Vegas,68,Super Mex Restaurant & Cantina,Spring Valley,-115.278723,36.071411,NV,3.0
+xDsnQkMPtpZQiMp8nZg5Yw,"4450 N. Lamb Blvd.
+Las Vegas, NV 89115",06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 23:00,06:00 - 23:00,07:00 - 22:00,True,"Burgers,Breakfast & Brunch,Sandwiches,Restaurants",Las Vegas,58,Farmer Boys,,-115.0794033,36.2414968,NV,3.5
+7h0-KtLbYH1gu6QBv_-jxg,"5165 S Fort Apache Rd
+Ste 160
+Spring Valley
+Las Vegas, NV 89148",07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 18:00,07:00 - 18:00,False,"Food,Desserts,Breakfast & Brunch,Restaurants",Las Vegas,151,WaffleS Cafe,Spring Valley,-115.2973533,36.0944116,NV,4.0
+vpGKjswbbNIM4NTaZM5oEA,"2200 W Horizon Ridge Pkwy
+Ste C
+Henderson, NV 89052",,,,,,,,True,"Nightlife,Breakfast & Brunch,Bars,Sports Bars,Restaurants",Henderson,8,Tee Shots Bar & Grill,,-115.0838881,36.0059809,NV,3.5
+kcX2_M5YoM6-SqVKMzPceA,"4323 W Cactus Rd
+Ste 3
+Glendale, AZ 85304",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,True,"Breakfast & Brunch,Restaurants",Glendale,100,Ronnie's Cafe,,-112.152212,33.595586,AZ,4.0
+Z9NI8AJnZULUD_kQBXMKwg,"19-20 Teviot Pl
+Edinburgh EH1 2QZ",12:00 - 01:00,12:00 - 01:00,12:00 - 01:00,12:00 - 01:00,12:00 - 03:00,12:00 - 03:00,12:00 - 01:00,True,"Modern European,Coffee & Tea,Food,Breakfast & Brunch,Bars,Nightlife,Restaurants",Edinburgh,37,Favorit,,-3.1906326,55.9454326,EDH,3.0
+POTGUAjI5Ag9zRrDNgSVOA,"4a Forrest Road
+Old Town
+Edinburgh EH1 2QN",09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,True,"Breakfast & Brunch,British,Restaurants",Edinburgh,94,Mums,Old Town,-3.19074848010001,55.9459811577737,EDH,4.0
+f9vH4Xm_Kco27qT13HkZ3g,"103 George Street
+New Town
+Edinburgh EH2 3ES",07:30 - 00:00,07:30 - 00:00,07:30 - 00:00,07:30 - 00:00,07:30 - 00:00,07:30 - 00:00,10:00 - 22:00,True,"Breakfast & Brunch,Restaurants,Italian",Edinburgh,49,Victor & Carina Contini Ristorante,New Town,-3.2022726,55.9529021,EDH,4.0
+t714WoGjdRWPvzMMN-a1XA,"131-133 George Street
+New Town
+New Town
+Edinburgh EH2 4JS",09:00 - 00:00,09:00 - 00:00,09:00 - 00:00,09:00 - 01:00,09:00 - 01:00,09:00 - 01:00,10:00 - 00:00,True,"Bars,Breakfast & Brunch,Wine Bars,Nightlife,Gastropubs,Restaurants",Edinburgh,48,Browns,New Town,-3.2057549,55.9522345,EDH,3.5
+hBAmMTfGxsYL0L6WYVh3Bg,"33 Raeburn Pl
+Stockbridge
+Edinburgh EH4 1HX",08:30 - 16:30,08:30 - 16:30,08:30 - 16:30,08:30 - 16:30,08:30 - 16:30,08:30 - 16:30,10:00 - 16:30,True,"Food,Coffee & Tea,Breakfast & Brunch,Restaurants",Edinburgh,14,Maxi's Cafe,Stockbridge,-3.2116451,55.9589943,EDH,3.0
+loMdTaHt7TkZ4mYt88Iphg,"154 High Street
+Old Town
+Edinburgh EH1 1QS",10:00 - 23:00,10:00 - 23:00,10:00 - 23:00,10:00 - 23:00,10:00 - 23:30,10:00 - 23:30,09:30 - 23:00,True,"Gastropubs,Breakfast & Brunch,British,Restaurants",Edinburgh,14,Royal Mcgregor,"Old Town,Royal Mile",-3.1887964,55.9499898,EDH,4.0
+CI7v3zgHIau9KFthWOS-IA,"36 The Shore
+Leith
+Edinburgh EH6 6QU",12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 00:00,12:00 - 00:00,True,"Bars,Breakfast & Brunch,British,Pubs,Nightlife,Gastropubs,Restaurants",Edinburgh,45,The King's Wark,Leith,-3.1695805530402,55.976175844194,EDH,4.0
+BHgb7ItDTCZgjjXiIaTi3Q,"15 Charlotte Lane
+New Town
+Edinburgh EH2 4QZ",10:00 - 01:00,10:00 - 01:00,10:00 - 01:00,10:00 - 01:00,10:00 - 01:00,10:00 - 01:00,10:00 - 01:00,True,"Breakfast & Brunch,Bars,Gastropubs,Nightlife,Restaurants",Edinburgh,32,Sygn,New Town,-3.209622289044,55.95133593562301,EDH,3.5
+OSL98Keoc2FSNx4a3ge5Uw,"131 E Baseline Rd
+Tempe, AZ 85283",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Burgers,Breakfast & Brunch,Sandwiches,Restaurants",Tempe,158,U.S. Egg,,-111.93761530017,33.377888170908,AZ,4.0
+orGRPvQADIXQ3B5g-os7Mg,"7 Barony Street
+New Town
+Edinburgh EH3 6PD",08:00 - 18:00,08:00 - 18:00,08:00 - 18:00,08:00 - 18:00,08:00 - 18:00,09:00 - 18:00,11:00 - 17:00,True,"Delis,Breakfast & Brunch,Restaurants",Edinburgh,17,Broughton Delicatessen and Café,New Town,-3.1900934,55.9581426,EDH,4.0
+syQJzSlYZJPEBQwHO36JzQ,"47 Newhaven Main St
+Leith
+Edinburgh EH6 4NQ",08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,10:00 - 18:00,True,"Food,Breakfast & Brunch,Coffee & Tea,Delis,Restaurants",Edinburgh,19,Porto & Fi,Leith,-3.1978252,55.9802323,EDH,4.0
+SN1L-KXqso9NzjEaw2LKHg,"8 Roseburn Terrace
+Haymarket
+Edinburgh EH12 6AW",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,,True,"Food,Coffee & Tea,Breakfast & Brunch,Restaurants",Edinburgh,3,Roseburn Cafe,Haymarket,-3.2343192,55.9456948,EDH,3.5
+lB-lsDXxmOy0iCZYXnEBkA,"29-33 Newington Road
+Newington
+Edinburgh EH9 1QR",08:30 - 22:00,08:30 - 22:00,08:30 - 22:00,08:30 - 22:00,08:30 - 22:00,08:30 - 22:00,08:30 - 22:00,False,"Modern European,Breakfast & Brunch,Cafes,Restaurants",Edinburgh,18,Metropole - Cafe & Bistro,Newington,-3.1787491,55.9387706,EDH,3.5
+akaS7xoYKHKmwAD7xQ7owg,"27 Baird Road
+Ratho EH28 8RU",17:00 - 20:30,17:00 - 20:30,17:00 - 20:30,12:00 - 15:00,17:00 - 21:30,12:00 - 21:30,12:00 - 20:30,True,"Bars,Bed & Breakfast,Pubs,Nightlife,Hotels & Travel,Gastropubs,Restaurants",Ratho,10,Bridge Inn Ratho,,-3.3790069,55.9227536,EDH,3.0
+e8FMAuTswDueAlLsNyLhcA,"4020 N Scottsdale Rd
+Scottsdale, AZ 85251",07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,True,"Nightlife,Breakfast & Brunch,American (New),Bars,Restaurants",Scottsdale,481,Daily Dose,,-111.926461,33.494238,AZ,4.0
+KKNaAQNJmJI6bKxycsuSZw,"1532 W Ocotillo Rd
+Queen Creek, AZ 85240",07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,08:00 - 14:00,True,"Breakfast & Brunch,Mexican,Restaurants",Queen Creek,29,Jim's Burros,,-111.5723947,33.2490584,AZ,3.0
+PLUh7zB-tARsfN8hIidVmQ,"2000 E Rio Salado Pkwy
+#1215
+Tempe, AZ 85281",,,,,,,,True,"Breakfast & Brunch,Cheesesteaks,Sandwiches,Restaurants",Tempe,10,The Great Steak & Potato Co.,,-111.9043028,33.4329724,AZ,2.5
+JRzrqJmsQ5AZ4bMQLUfyHg,"1285 W Elliot Rd
+Tempe, AZ 85284",07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,True,"Breakfast & Brunch,American (Traditional),Restaurants",Tempe,178,Crackers & Co Cafe,,-111.95738,33.347591,AZ,4.0
+ZOa7CkROQBhLuATpNHcHgg,"3355 Las Vegas Blvd S
+3rd Fl
+The Strip
+Las Vegas, NV 89109",07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,True,"Breakfast & Brunch,American (Traditional),American (New),Restaurants",Las Vegas,55,Canyon Ranch Grill,The Strip,-115.16908,36.123559,NV,3.5
+vwDE7dw6ee3JeAU0uMmGlA,"402 E Greenway Pkwy
+Ste 5
+Phoenix, AZ 85022",,,,,,,,False,"Breakfast & Brunch,Restaurants",Phoenix,7,Blue Plate Brunchery,,-112.0684448,33.6373522,AZ,2.5
+NN2qs5B713vM6BDcMyrg4A,"14891 N Northsight Blvd
+Scottsdale, AZ 85260",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,False,"Food,Food Delivery Services,Breakfast & Brunch,Restaurants",Scottsdale,150,Breakfast Joynt,,-111.8963279,33.620562,AZ,3.5
+K8dQr_82-DMpDudEv8PDmw,"2490 E Sunset Rd
+Southeast
+Las Vegas, NV 89120",06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,True,"Breakfast & Brunch,Restaurants",Las Vegas,317,Egg Works,Southeast,-115.11687,36.072421,NV,4.0
+SrE7xFFpmYqXW5yrjCvL-A,"146 Marchmont Road
+Marchmont
+Edinburgh EH9 1AQ",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Modern European,Brasseries,Breakfast & Brunch,Restaurants",Edinburgh,39,Toast,Marchmont,-3.1942713,55.934891,EDH,4.0
+E0f8jFeNaL8ARG-vq3apVA,"Phoenix Sky Harbor Int'l Airport, Terminal 3
+3400 E Sky Harbor Blvd
+Phoenix, AZ 85034",06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,True,"Bakeries,Food,Breakfast & Brunch,Sandwiches,Restaurants",Phoenix,62,Paradise Bakery & Cafe,,-112.0069893,33.4354634,AZ,3.5
+w14UHRCdBWDTBhWoRq1emw,"7315 Arroyo Crossing Pkwy
+Spring Valley
+Las Vegas, NV 89113",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 23:00,07:00 - 23:00,07:00 - 22:00,False,"Breakfast & Brunch,American (Traditional),French,Restaurants",Las Vegas,64,Mimi's Cafe,Spring Valley,-115.251761,36.061812,NV,3.0
+RhbOa-Ft3sZB4B_1j5LfyA,"5580 S Decatur Blvd
+Ste 112
+Las Vegas, NV 89118",06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,07:00 - 14:00,07:00 - 14:00,True,"Breakfast & Brunch,Sandwiches,Restaurants",Las Vegas,703,Mr. Mama's,,-115.207338,36.088774,NV,4.5
+JQrF4iHYZkF5IBTvOQBpIw,"2862 University Ave
+Madison, WI 53705",07:00 - 16:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,08:00 - 15:00,True,"Breakfast & Brunch,American (New),Pizza,Restaurants",Madison,87,La Brioche True Food,,-89.438346052091,43.075353530641,WI,3.5
+YPK_1kCHltHBX46uxPfM-Q,"20852 E Ocotillo Rd
+Ste D-105
+Queen Creek, AZ 85142",08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,False,"Breakfast & Brunch,Restaurants",Queen Creek,16,Recipes Family Restaurant,,-111.6338536,33.2486737,AZ,3.0
+XHr5mXFgobOHoxbPJxmYdg,"9832 N 7th St
+Ste 1
+Phoenix, AZ 85020",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,True,"Breakfast & Brunch,Pizza,Sandwiches,Restaurants",Phoenix,368,Scramble A Breakfast Joint,,-112.0651592,33.5754755,AZ,4.0
+M6aafMDJtR8folbqGgcepg,"140 University Avenue W
+Waterloo, ON N2L 6J3",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 07:00,07:00 - 07:00,07:00 - 07:00,07:00 - 22:00,True,"Burgers,Breakfast & Brunch,Diners,Restaurants",Waterloo,34,Mel's Diner,,-80.53408,43.472901,ON,3.0
+gMjE9BrDrp78S1PrXK77fA,"1354 N. Bird Street
+Sun Prairie, WI 53590",,,,,,,,True,"Breakfast & Brunch,Restaurants",Sun Prairie,4,Big Apple Bagels,,-89.22647,43.200469,WI,3.0
+dnBtxFbV4qHXqntYGDUDxQ,"1153 E Jefferson St
+Phoenix, AZ 85034",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:30 - 15:00,False,"Breakfast & Brunch,American (New),Restaurants",Phoenix,10,12 East Cafe,,-112.056714,33.446778,AZ,2.5
+S8duZhuPOTFc2RbADd9xzg,"6501 E Cave Creek Rd
+Cave Creek, AZ 85331",06:00 - 16:00,06:00 - 16:00,06:00 - 16:00,06:00 - 16:00,06:00 - 16:00,06:30 - 16:00,06:30 - 16:00,False,"Food,Breakfast & Brunch,Coffee & Tea,Restaurants",Cave Creek,16,Firecreek Coffee,,-111.940942,33.8320999,AZ,4.5
+UvSc8BrqIPv2dOMUZ-N9mA,"440 W Warner Rd
+#104
+Tempe, AZ 85284",,06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,07:00 - 14:00,07:00 - 14:00,False,"Breakfast & Brunch,Sandwiches,Restaurants",Tempe,5,Kafe 440,,-111.9445749,33.3350535,AZ,3.0
+QPheu9dnwdlaPwXofP8ijw,"1301 NW Grand Ave
+Phoenix, AZ 85007",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 22:00,10:00 - 22:00,10:00 - 15:00,False,"Breakfast & Brunch,Spanish,American (New),Restaurants",Phoenix,49,Sapna Café,,-112.0898162,33.457118,AZ,3.5
+lYgJt5XnKTEjnBPx-aEztw,"32 The Shore
+Leith
+Leith
+Edinburgh EH6 6QN",11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 02:00,10:00 - 02:00,10:00 - 00:00,True,"Pubs,Breakfast & Brunch,Nightlife,Bars,Restaurants",Edinburgh,24,The Granary,Leith,-3.16937912965996,55.9765357256599,EDH,3.5
+zB7hZZl_6qtKEncbIFCgDQ,"3A Albert Street
+Leith
+Edinburgh EH7 5HL",09:00 - 17:00,09:00 - 17:00,09:00 - 17:00,09:00 - 17:00,09:00 - 17:00,09:00 - 17:00,09:00 - 17:00,True,"Food,Sandwiches,Coffee & Tea,Breakfast & Brunch,Restaurants",Edinburgh,27,Word of Mouth,Leith,-3.1784391403198198,55.9625098733283,EDH,4.0
+oQfCWtO5-fGTFrclqCJOwg,"1000 N Green Valley Pkwy
+Ste 480
+Henderson, NV 89074",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 15:00,06:00 - 15:00,True,"Breakfast & Brunch,Restaurants",Henderson,233,The Cracked Egg,,-115.0856611,36.0273573,NV,3.5
+3n9mSKySEv3G03YjcU-YOQ,"5144 N Central Ave
+Phoenix, AZ 85012",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 00:00,09:00 - 00:00,09:00 - 22:00,True,"Bars,Breakfast & Brunch,Wine Bars,Nightlife,Italian,Restaurants",Phoenix,597,Postino Central,,-112.0740912,33.5126276,AZ,4.5
+hJ3BUiQg64X7NNgjhIJ9yw,"7457 Elmwood Ave
+Middleton, WI 53562",06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,07:00 - 15:00,True,"Bistros,Breakfast & Brunch,Restaurants",Middleton,42,Sofra Family Bistro,,-89.5110168,43.0958796,WI,4.0
+W1bqn7-MGgUxCcUv0VGMOg,"1870 W Main St
+Mesa, AZ 85201",,,,,,,,False,"Breakfast & Brunch,Restaurants",Mesa,3,IHOP,,-111.8721903,33.4151988,AZ,3.0
+014pkZADThO2BoXFa1tuKg,"The Resort at Summerlin
+221 N  Rampart Blvd
+Westside
+Las Vegas, NV 89145",,,,,,,,True,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,27,Promenade Cafe,Westside,-115.289948,36.175228,NV,2.5
+S2PszSc6uq-RoYhbRDQIrA,"494 Commerce Dr
+Madison, WI 53719",07:00 - 16:30,07:00 - 16:30,07:00 - 16:30,07:00 - 16:30,07:00 - 16:30,07:00 - 16:30,,True,"Food,Coffee & Tea,Breakfast & Brunch,Restaurants",Madison,48,Yola's Cafe,,-89.523258,43.0553602,WI,3.5
+BK51tV_XtCm3UHwRVyCuqQ,"4175 N Goldwater Blvd
+Scottsdale, AZ 85251",,,,,,,,False,"Breakfast & Brunch,Restaurants",Scottsdale,57,Bacon,,-111.9303102,33.4960516,AZ,3.0
+6KPncwSNaDTbtGhhKbsktQ,"2026 W Craig Rd
+North Las Vegas, NV 89032",,,,,,,,True,"Breakfast & Brunch,American (Traditional),Restaurants",North Las Vegas,25,IHOP,,-115.171859,36.2395163,NV,2.5
+FNRimJN6wz2Bywuz4RV_TA,"15 N Butler St
+Capitol
+Madison, WI 53703",,,,,,,,False,"Breakfast & Brunch,Pizza,American (New),Restaurants",Madison,3,Old Market Bistro,Capitol,-89.3816491,43.0771005,WI,2.5
+d83_qJwcOYOojQsapu1Z4A,"15414 N 19th Ave
+Phoenix, AZ 85023",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,False,"Breakfast & Brunch,Restaurants",Phoenix,40,Tiny's Country Cafe,,-112.100731,33.626933,AZ,4.0
+GAPqG0WNBBidKeZTMpEZ-w,"606 N 4th Ave
+Phoenix, AZ 85003",,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 22:00,09:00 - 22:00,09:00 - 15:00,False,"Burgers,Breakfast & Brunch,American (Traditional),Restaurants",Phoenix,153,Local Breeze,,-112.0791022,33.4549678,AZ,4.0
+6jCcIZcdhNPVep1oeUvegg,"149 Waubesa St
+Schenk - Atwood
+Madison, WI 53704",07:00 - 14:00,08:00 - 14:00,08:00 - 14:00,08:00 - 14:00,08:00 - 14:00,08:00 - 14:00,08:00 - 14:00,True,"Food,Coffee & Tea,Breakfast & Brunch,Restaurants",Madison,20,Ironworks Cafe,Schenk - Atwood,-89.343682,43.097054,WI,3.5
+v8cTq3_Ll2E8_EvD0dCsow,"2827 Atwood Ave
+Schenk - Atwood
+Madison, WI 53704",08:00 - 17:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 17:00,True,"Bakeries,Food,Breakfast & Brunch,Restaurants",Madison,137,Daisy Cafe and Cupcakery,Schenk - Atwood,-89.342483,43.093644,WI,4.0
+xHD59Rom-6RWDvecdl5M4w,"1857 N Scottsdale Rd
+Tempe, AZ 85281",,,,,,,,False,"Breakfast & Brunch,Restaurants",Tempe,5,Cafe Villaggio,,-111.925621,33.44906,AZ,3.5
+bGj9djLAHjNR55OXsIDrAg,"ARIA Resort &Casino
+3730 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,True,"Breakfast & Brunch,American (New),Cafes,Restaurants",Las Vegas,392,ARIA Cafe,The Strip,-115.176129437604,36.1073273137553,NV,2.5
+1IV0_7A_CIhc7P_lHezqZQ,"Fiesta Henderson
+781 W Lake Mead Pkwy
+Henderson, NV 89015",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,False,"Breakfast & Brunch,Restaurants",Henderson,11,Denny's,,-115.008803,36.034096,NV,2.5
+NBuRmwDNdYoFq5CP-jlyzQ,"23 Elm Row
+New Town
+Edinburgh EH7 4AA",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 01:00,11:00 - 01:00,True,"Gastropubs,Scandinavian,Breakfast & Brunch,Restaurants",Edinburgh,35,Joseph Pearce,New Town,-3.1830833,55.9590827,EDH,4.0
+Mdb3HCakHXN3gqAz3RRb1Q,"2625 W Queen Creek Rd
+Chandler, AZ 85248",06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,False,"Breakfast & Brunch,Restaurants",Chandler,26,The Egg & I Café,,-111.8844394,33.2614582,AZ,3.0
+5XU8ys_TsulI-FJ5nzuNvg,"402 E Greenway Pkwy
+Ste 5
+Phoenix, AZ 85022",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Burgers,Breakfast & Brunch,American (Traditional),Restaurants",Phoenix,80,U.S. Egg,,-112.0684502,33.637366,AZ,4.0
+nIX7WiUPekK5YpiRQorxlQ,"3641 E Baseline Rd
+Gilbert, AZ 85234",07:30 - 13:00,07:30 - 13:00,07:30 - 13:00,07:30 - 13:00,07:30 - 13:00,07:30 - 13:00,07:30 - 13:00,True,"Breakfast & Brunch,Restaurants",Gilbert,97,JP Pancake,,-111.7528848,33.3776903,AZ,3.5
+59UeMwoDGFyk2zW-qInNjw,"839 N Promenade Pkwy
+Casa Grande, AZ 85222",07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Casa Grande,18,Mimi's Cafe,,-111.681433,32.880215,AZ,2.5
+uEJQSIjWui-TDWXaGlcqyQ,"2765 N Scottsdale Rd
+Scottsdale, AZ 85257",09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 00:00,09:00 - 21:00,09:00 - 16:00,True,"Soul Food,Breakfast & Brunch,Southern,Restaurants",Scottsdale,569,Lo-Lo's Chicken & Waffles,,-111.9255906,33.4787159,AZ,4.0
+nPF0r6FJ896f7Z1wamPygQ,"21596 N John Wayne Pkwy
+Ste D104
+Maricopa, AZ 85139",07:00 - 20:30,07:00 - 20:30,07:00 - 20:30,07:00 - 20:30,07:00 - 21:00,07:00 - 21:00,07:00 - 20:00,True,"Mexican,Food,Ethnic Food,Breakfast & Brunch,Specialty Food,Restaurants",Maricopa,37,Tacos N More,,-112.07633972168,32.9741079596892,AZ,4.0
+jli7I5jRZBdBfX9pJqsG8w,"18911 E San Tan Blvd
+Ste 149
+Queen Creek, AZ 85242",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,07:00 - 14:00,07:00 - 14:00,True,"Breakfast & Brunch,Cafes,Restaurants",Queen Creek,33,San Tan Cafe,,-111.674876236187,33.2107175957837,AZ,3.5
+fJx0N4N0NbyHEeoDU9nH8g,"4306 N 7th Ave
+Phoenix, AZ 85013",,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,08:00 - 15:00,False,"Breakfast & Brunch,Restaurants",Phoenix,57,Two Hippies Breakfast Joint,,-112.0834514,33.4987692,AZ,3.0
+Cz0McL5lUaihqOIw0_Yo7w,"9375 E Bell Rd
+Scottsdale, AZ 85260",06:30 - 13:00,06:30 - 13:00,06:30 - 13:00,06:30 - 13:00,06:30 - 13:00,06:30 - 13:00,06:30 - 13:00,True,"Breakfast & Brunch,Restaurants",Scottsdale,161,Over Easy,,-111.8817668,33.6391061,AZ,3.5
+0xWF7PpTNl-awqg2YGxxFQ,"2501 N 44th St
+Phoenix, AZ 85008",,,,,,,,True,"Breakfast & Brunch,American (Traditional),Restaurants",Phoenix,27,IHOP,,-111.986452,33.475115,AZ,3.0
+98vAzx0KhzFdvuaLdAbMXQ,"7200 Las Vegas Blvd
+Southeast
+Enterprise, NV 89119",,,,,,,,True,"Breakfast & Brunch,Restaurants",Enterprise,17,Denny's,Southeast,-115.1720515,36.0589766,NV,3.0
+T8uhdmJgewM7htInfxa1dA,"1515 W Deer Valley Rd
+Phoenix, AZ 85027",06:30 - 15:00,06:30 - 15:00,06:30 - 15:00,06:30 - 15:00,06:30 - 15:00,06:30 - 14:00,06:00 - 20:00,True,"Food,Breakfast & Brunch,Bagels,Delis,Restaurants",Phoenix,40,NY Bagels and Deli,,-112.092428,33.683323,AZ,4.0
+kjNQIbcVxCcZJFpTUYvE9w,"6446 N Durango Dr
+Ste 150
+Centennial
+Las Vegas, NV 89149",07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,True,"Food,Coffee & Tea,Breakfast & Brunch,Restaurants",Las Vegas,116,Waffles Cafe,Centennial,-115.287700295448,36.2777245044708,NV,4.0
+I-XVVPbtZs_Z-7b_-75UYw,"Aliante Station Hotel & Casino
+7307 Aliante Parkway
+North Las Vegas, NV 89084",06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 16:00,06:00 - 16:00,False,"Breakfast & Brunch,Restaurants",North Las Vegas,16,The Original Pancake House,,-115.181823,36.2912318,NV,3.5
+vprE2C9JU3nL2g-HV7YF_g,"12629 N Paradise Village Pkwy W
+Paradise Valley, AZ 85032",,,,,,,,False,"Food,Donuts,Breakfast & Brunch,Coffee & Tea,Restaurants",Paradise Valley,3,Krispy Kreme Doughnuts,,-111.988061,33.602086,AZ,4.5
+JHUcIssf3crggsVxfQ8q8w,"3426 W Greenway Rd
+Phoenix, AZ 85053",10:00 - 23:00,10:00 - 23:00,10:00 - 23:00,10:00 - 23:00,10:00 - 23:00,10:00 - 23:00,10:00 - 23:00,True,"Breakfast & Brunch,Fast Food,Salad,Restaurants",Phoenix,24,Popeyes Louisiana Kitchen,,-112.1318707,33.6256754,AZ,3.5
+fn3O1E8rwu673ifipPXPvQ,"7291 S Eastern Ave
+Ste A
+Southeast
+Las Vegas, NV 89119",05:00 - 17:00,05:00 - 17:00,05:00 - 17:00,05:00 - 17:00,05:00 - 17:00,06:00 - 16:00,06:00 - 15:00,True,"Food,Bagels,Pizza,Breakfast & Brunch,Restaurants",Las Vegas,14,Einstein Bros Bagels,Southeast,-115.120315,36.0574572,NV,3.0
+lJe-zPM4U572nVI0eAN4Fw,"34640 N Valley Pkwy
+Phoenix, AZ 85086",05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,True,"Food,Breakfast & Brunch,Delis,Bagels,Restaurants",Phoenix,46,Hot Bagels and Deli,,-112.1292649,33.7988195,AZ,4.5
+nts2OALwvyvfNh9focRZ3w,"4740 E Warner Rd
+Phoenix, AZ 85044",06:30 - 20:00,06:30 - 20:00,06:30 - 20:00,06:30 - 20:00,06:30 - 21:00,06:30 - 21:00,06:30 - 20:00,True,"Burgers,Breakfast & Brunch,American (Traditional),Restaurants",Phoenix,255,Hillside Spot,,-111.982113,33.331655,AZ,3.5
+Q-lzzaCl5-yD2KgZcXevjA,"3655 W Anthem Way
+Ste B-135
+Anthem, AZ 85086",05:00 - 17:00,05:00 - 17:00,05:00 - 17:00,05:00 - 17:00,05:00 - 17:00,05:00 - 14:00,05:00 - 13:00,True,"Breakfast & Brunch,Restaurants",Anthem,28,Sweethearts Gourmet Donuts,,-112.1388202,33.8649643,AZ,4.5
+-VjfykG3poz1uMwNGLgKfA,"10895 S Eastern Ave
+Anthem
+Henderson, NV 89052",,,,,,,,False,"Breakfast & Brunch,Restaurants",Henderson,5,Early Bird Cafe,Anthem,-115.101582,35.993777,NV,4.0
+r_zSKJm5f_x79IXx27mtRw,"14826 N Pima Rd
+Scottsdale, AZ 85260",,,,,,,,True,"Breakfast & Brunch,Restaurants",Scottsdale,24,IHOP,,-111.8920512,33.6193612,AZ,2.5
+kiB6ByG9PYQLHmGpg5SGZw,"2327 N 7th St
+Phoenix, AZ 85004",,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,False,"Breakfast & Brunch,Restaurants",Phoenix,15,Toast Breakfast Boutique,,-112.06508,33.4742041,AZ,4.0
+OHsuvX4rmhnPvvRBb-QK7A,"8359 W Sunset Rd
+Spring Valley
+Las Vegas, NV 89113",07:00 - 17:00,07:00 - 17:00,07:00 - 17:00,07:00 - 17:00,07:00 - 17:00,,,True,"Food,Breakfast & Brunch,Coffee & Tea,Sandwiches,Restaurants",Las Vegas,453,Baguette Cafe,Spring Valley,-115.2731257,36.0668593,NV,4.5
+RiJ8Agrw__NG6flFL7BpbA,"375 E Bell Rd
+Phoenix, AZ 85022",06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 18:00,True,"Bakeries,Food,Breakfast & Brunch,Restaurants",Phoenix,49,Paradise Bakery and Cafe,,-112.067994484423,33.6400536994361,AZ,3.5
+JSl9JtunfJVfu9AwtiN1ww,"2925 South Alma School Road
+Chandler, AZ 85248",,,,,,,,True,"Breakfast & Brunch,Restaurants",Chandler,6,Einstein Brothers Bagels,,-111.857496,33.26346,AZ,2.0
+QbmcCE_cLq4WO8ZMKImaLw,"The Quad Resort & Casino
+3535 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,True,"Breakfast & Brunch,American (New),Restaurants",Las Vegas,1759,Hash House A Go Go,The Strip,-115.171244539805,36.11788299478,NV,4.0
+XpXb1TfN8610d9fd7_GaLQ,"16605 E Palisades Blvd
+Fountain Hills, AZ 85268",,07:30 - 13:00,07:30 - 13:00,07:30 - 13:00,07:30 - 13:00,07:30 - 13:00,07:30 - 13:00,True,"Breakfast & Brunch,Restaurants",Fountain Hills,35,Flapjacks,,-111.7216796,33.608627,AZ,3.5
+Po46YYAw1g-tH2ReFtkoiA,"34948 N Valley Parkway
+Phoenix, AZ 85086",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Restaurants",Phoenix,35,The Good Egg - Tramonto,,-112.1294042,33.8004042,AZ,3.5
+fESObRt-YtkgeNS_TUBhlw,"606 S Watson Rd
+Buckeye, AZ 85326",,,,,,,,True,"Breakfast & Brunch,American (Traditional),Sandwiches,Restaurants",Buckeye,52,Cracker Barrel Old Country Store Inc,,-112.557102,33.441414,AZ,3.5
+44qg4vgcqJkjF8eqG4R4JA,"3971 S Gilbert Rd
+Gilbert, AZ 85297",,,,,,,,True,"Breakfast & Brunch,American (Traditional),Diners,Restaurants",Gilbert,19,Dennys,,-111.7886671,33.2779096,AZ,3.0
+uAIZtyGIC1hX4i3Ukmhf6w,"Phoenix Sky Harbor International Airport
+3800 E Sky Harbor Blvd
+Phoenix, AZ 85034",,,,,,,,True,"Food,Sandwiches,Bagels,Breakfast & Brunch,Restaurants",Phoenix,10,Einstein Bros Bagels,,-111.999499797821,33.4355778480343,AZ,3.0
+7s8MCAzcaxFTIhfAmGeqfQ,"6801 N Glen Harbor Blvd
+Ste 102
+Glendale, AZ 85307",,,,,,,,False,"Breakfast & Brunch,Restaurants",Glendale,8,Flying Skillet Cafe,,-112.297783,33.529018,AZ,3.5
+FZPbrikYVgDuzNFXHNC2cA,"14799 W Grand Ave
+Surprise, AZ 85374",,,,,,,,True,"Breakfast & Brunch,Restaurants",Surprise,3,Dennys,,-112.3796451,33.661473,AZ,2.5
+qC7eS6wnAQqMew4PHVDl4Q,"2064 E Florence Blvd
+Casa Grande, AZ 85122",,,,,,,,True,"Breakfast & Brunch,Restaurants",Casa Grande,11,International House of Pancakes,,-111.6983695,32.8802907,AZ,3.0
+QDJimwjHk8xKbVQLCcKKXg,"5050 E University Dr
+Ste 101
+Mesa, AZ 85205",,,,,,,,True,"Breakfast & Brunch,American (Traditional),Diners,Restaurants",Mesa,3,Linda's Hoosier Cafe,,-111.721611,33.423773,AZ,2.5
+6BN01-NYYiD0FjDG49nIng,"5555 E Bell Rd
+Ste 6
+Scottsdale, AZ 85254",07:00 - 15:00,08:00 - 14:00,08:00 - 14:00,08:00 - 14:00,08:00 - 14:00,08:00 - 14:00,08:00 - 14:00,True,"Breakfast & Brunch,Cafes,Restaurants",Scottsdale,104,Benedict's,,-111.960636,33.640001,AZ,4.0
+lVkDZZ8sTafPlq7f1i5row,"4025 E Chandler Blvd
+Ste 28
+Phoenix, AZ 85048",,08:00 - 16:00,08:00 - 16:00,08:00 - 16:00,08:00 - 16:00,08:00 - 16:00,08:00 - 16:00,True,"Food,Coffee & Tea,Breakfast & Brunch,Vegan,Restaurants",Phoenix,257,Pomegranate Cafe,,-111.9945753,33.3044612,AZ,4.0
+AXZFFHrtIikgytuXcT9Y2w,"455 S Grand Central Pkwy
+Downtown
+Las Vegas, NV 89106",,,,,,,,True,"Food,Breakfast & Brunch,Coffee & Tea,Sandwiches,Restaurants",Las Vegas,4,Espresso King Kafe 2,Downtown,-115.15736,36.168754,NV,3.0
+AEjoE_n2bfbHpr0zkUM9VA,"8620 W Cheyenne Ave
+Summerlin
+Las Vegas, NV 89129",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 15:00,07:00 - 15:00,False,"Breakfast & Brunch,Restaurants",Las Vegas,9,Mack Bros Bakery Cafe,"Summerlin,Northwest",-115.281564,36.2187749,NV,2.0
+pNQwnY_q4okdlnPiR-3RBA,"6105 S Fort Apache Rd
+Spring Valley
+Las Vegas, NV 89148",06:30 - 16:30,06:30 - 16:30,06:30 - 16:30,06:30 - 16:30,06:30 - 16:30,07:30 - 15:30,07:30 - 15:30,True,"Food,Breakfast & Brunch,Bagels,Delis,Restaurants",Las Vegas,34,Empire Bagels,Spring Valley,-115.2979786,36.0772993,NV,3.5
+scbkHTbGTOA4xOrRcU3bBw,"5847 S. Decatur Blvd.
+Spring Valley
+Las Vegas, NV 89118",06:00 - 20:30,06:00 - 20:30,06:00 - 20:30,06:00 - 20:30,06:00 - 21:00,06:00 - 21:00,07:00 - 20:30,True,"Burgers,Breakfast & Brunch,Sandwiches,Restaurants",Las Vegas,109,Farmer Boys,Spring Valley,-115.2084771,36.0839728,NV,4.0
+cAB_Z3v6TSaDq0o6pGIg4A,"Fiesta Rancho
+2404 N Rancho Dr
+North Las Vegas, NV 89130",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,True,"Breakfast & Brunch,Restaurants",North Las Vegas,9,Denny's,,-115.2049958,36.2094607,NV,2.5
+wGDXKs4VPubM_4-I3BHj0w,"5101 N Scottsdale Rd
+Scottsdale, AZ 85250",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,True,"Breakfast & Brunch,Mexican,Restaurants",Scottsdale,88,Papi Chulo's Mexican Grill & Cantina,,-111.924902,33.510913,AZ,3.0
+tUMGHqf05yRUsBuTAoVToA,"214 W Cottage Grove Rd
+Cottage Grove, WI 53527",,,,,,,,True,"Breakfast & Brunch,Restaurants",Cottage Grove,7,Village Cafe,,-89.202522,43.086368,WI,4.0
+5iNDEyLJswlErDGD4OT6NA,"15688 N Pima Rd
+Ste C1
+Scottsdale, AZ 85260",06:30 - 16:00,06:30 - 16:00,06:30 - 16:00,06:30 - 16:00,06:30 - 16:00,07:00 - 15:00,08:00 - 15:00,False,"Breakfast & Brunch,Sandwiches,Restaurants",Scottsdale,26,Traffic Jam,,-111.8912231,33.6281017,AZ,4.0
+sbsFamEj5wDxNAjUKrMcSw,"3737 N Scottsdale Rd
+Scottsdale, AZ 85251",11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,08:00 - 02:00,08:00 - 02:00,True,"Breakfast & Brunch,Bars,American (New),Nightlife,Restaurants",Scottsdale,401,RnR,,-111.9258402,33.4916179,AZ,3.5
+jBU3y-V_F037YdTWuqF_uw,"2265 Village Walk Dr
+Anthem
+Henderson, NV 89052",08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 19:00,True,"Food,Breakfast & Brunch,Juice Bars & Smoothies,Sandwiches,Restaurants",Henderson,147,Rachel's Kitchen,Anthem,-115.085297,36.021718,NV,4.0
+n2hnpyj9aN942TnOkE-ZiA,"3595 S Rainbow Blvd
+Chinatown
+Las Vegas, NV 89117",,,,,,,,True,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,22,IHOP,Chinatown,-115.2436769,36.1231056,NV,3.5
+Uu7yNkQO1vlMr0qy8vuvLQ,"7875 W Sahara
+Westside
+Las Vegas, NV 89117",06:00 - 15:00,06:00 - 20:00,06:00 - 20:00,06:00 - 20:00,06:00 - 20:00,06:00 - 20:00,06:00 - 20:00,False,"Kosher,Delis,Breakfast & Brunch,Restaurants",Las Vegas,39,Levy's Bagels & Deli,Westside,-115.2627634,36.1432711,NV,3.5
+Az85N0Z4OKxOAzGdigi1nA,"Golden Gate Casino
+1 Fremont St
+Downtown
+Las Vegas, NV 89101",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,350,Du-Par's Restaurant and Bakery,Downtown,-115.146236484561,36.1712166157953,NV,4.0
+ZcqPdNauzOR1BGSVSAocVQ,"920 S. Gilbert Road
+Gilbert, AZ 85233",,,,,,,,True,"Food,Breakfast & Brunch,American (Traditional),Restaurants",Gilbert,22,IHOP,,-111.790863,33.332867,AZ,2.5
+me8ZSgO4gQfeBLjutFmcXQ,"133-135 E Claremont St
+Cannonmills
+Edinburgh EH7 4JA",11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,True,"Breakfast & Brunch,Bars,Gastropubs,Nightlife,Restaurants",Edinburgh,9,Elbow Bar and Kitchen,Cannonmills,-3.190008,55.9652343,EDH,4.0
+LuYZUc1MOG0pA146SCeXgA,"107 E Charleston Blvd
+Ste 155
+Downtown
+Las Vegas, NV 89104",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,11:00 - 20:00,True,"Spanish,Breakfast & Brunch,American (New),Restaurants",Las Vegas,283,Bar + Bistro @ the Arts Factory,Downtown,-115.152728,36.159147,NV,3.5
+qvr4pNdWzVfX3bowV1reqw,"6107 N Scottsdale Rd
+Scottsdale, AZ 85250",,,,,,,,False,"Breakfast & Brunch,American (Traditional),Restaurants",Scottsdale,13,Jacqueline's Cafe,,-111.9253199,33.524979,AZ,3.5
+BChfI9fwiiktn0io8p2AHQ,"126 Nicolson St
+Newington
+Edinburgh EH8 9EH",08:30 - 18:00,08:30 - 18:00,08:30 - 18:00,08:30 - 18:00,08:30 - 19:00,10:30 - 20:00,10:30 - 18:00,False,"Food,Breakfast & Brunch,Coffee & Tea,Sandwiches,Restaurants",Edinburgh,16,The Grind House,Newington,-3.1832301,55.9439662,EDH,4.0
+mSbFLlDB5Qu-6al1e2DSBw,"7444 E McDowell Rd
+Scottsdale, AZ 85257",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,05:00 - 20:00,True,"Food,Donuts,Breakfast & Brunch,Restaurants",Scottsdale,81,Bosa Donuts,,-111.919829,33.466193,AZ,4.5
+-r8tyHl7sOS6eeyY8LetfA,"1 Forth St
+New Town
+Edinburgh EH1 3JX",08:00 - 17:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,09:00 - 20:00,09:00 - 17:00,False,"Food,Coffee & Tea,Breakfast & Brunch,British,Restaurants",Edinburgh,41,Urban Angel,New Town,-3.1883144,55.9576473,EDH,4.0
+DQdJjjqNH_yr8-bBi0v9lg,"69 Bruntsfield Pl
+The Meadows
+Edinburgh EH10 4HH",,,,,,,,True,"Breakfast & Brunch,British,Restaurants",Edinburgh,3,Bruntsfield Bistro,"The Meadows,Bruntsfield",-3.205847,55.9380375,EDH,4.0
+dBwSs6INAgTipopffoCwzw,"6520 Boulder Hwy
+Henderson, NV 89122",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 20:30,07:00 - 20:30,07:00 - 15:00,True,"Breakfast & Brunch,Restaurants",Henderson,57,Omelet House,,-115.0305621,36.0825158,NV,3.5
+Vn8qcaX64fkl8vByCsSvIg,"Inside Talking Stick Resort
+9800 E Indian Bend Rd
+Scottsdale, AZ 85256",10:30 - 15:00,16:30 - 21:00,10:30 - 15:00,16:30 - 21:00,08:00 - 15:00,08:00 - 15:00,09:00 - 15:00,True,"Food,Breakfast & Brunch,Buffets,Restaurants",Scottsdale,212,Wandering Horse Buffet,,-111.869723796844,33.5409028386777,AZ,4.0
+-3yID57d0cMpYZZr13CTHw,"138 Bruntsfield Pl
+Bruntsfield
+Edinburgh EH10 4ER",09:00 - 19:00,09:00 - 19:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,10:00 - 16:00,False,"Breakfast & Brunch,Mediterranean,Restaurants",Edinburgh,7,Ooud Kitchen,Bruntsfield,-3.2084101,55.9365693,EDH,3.0
+Q3aSya19tpXN0vKwlYnaPg,"52 South Bridge
+Newington
+Edinburgh EH1 1",11:00 - 18:00,11:00 - 18:00,11:00 - 18:00,11:00 - 18:00,11:00 - 18:00,11:00 - 18:00,12:00 - 16:00,False,"Food,Breakfast & Brunch,Juice Bars & Smoothies,Sandwiches,Restaurants",Edinburgh,6,Brunch,"Newington,Old Town",-3.1863189,55.9480373,EDH,4.0
+Qnip6i9Zyd76QZ3X8elWjQ,"9 Brandon Terrace
+Stockbridge
+Edinburgh EH3 5EA",08:00 - 18:00,08:00 - 18:00,08:00 - 18:00,08:00 - 18:00,08:00 - 18:00,09:00 - 18:00,09:00 - 18:00,False,"Food,Breakfast & Brunch,Coffee & Tea,Restaurants",Edinburgh,11,Moo Cafeteria,"Stockbridge,Cannonmills",-3.2001002,55.9622223,EDH,3.5
+yg9pahHMCOLLp_Zd0WnZ6w,"26 Nicolson Street
+Newington
+Edinburgh EH8 9DA",,,,,,,,True,"Breakfast & Brunch,Restaurants",Edinburgh,10,Babelon Cafe,Newington,-3.1851393,55.9462676,EDH,3.0
+TgT0tfpBu3bRvk32t2H2sQ,"1 Brandon Terrace
+Stockbridge
+Edinburgh EH3 5AE",08:30 - 16:30,08:30 - 16:30,08:30 - 16:30,08:30 - 16:30,08:30 - 16:30,08:30 - 16:30,09:00 - 16:30,True,"Breakfast & Brunch,Cafes,Restaurants",Edinburgh,19,Circle Cafe,"Stockbridge,Cannonmills",-3.1996592,55.9624349,EDH,4.0
+0-9h0LgHXgV-jz5EXWmnmA,"41 Morningside Rd
+Morningside
+Bruntsfield
+Edinburgh EH10 4DR",08:00 - 17:00,08:00 - 17:00,08:00 - 17:00,08:00 - 17:00,08:00 - 17:00,09:00 - 17:00,10:00 - 17:00,True,"Food,Coffee & Tea,Cafes,Breakfast & Brunch,Restaurants",Edinburgh,20,Rocket Café,Bruntsfield,-3.2099265,55.9323195,EDH,4.0
+6c-rDuWtzX8aCwneDTw9eQ,"58 Elm Row
+Leith
+Edinburgh EH7 4AQ",,,,,,,,True,"Breakfast & Brunch,Sandwiches,Restaurants",Edinburgh,3,Fresh Grind Coffee House,Leith,-3.1817262,55.9602453,EDH,4.0
+ajm1sqPC1a4zhewZaw8aDQ,"John Lewis
+St James Centre
+New Town
+Edinburgh EH1 3SP",08:30 - 18:00,08:30 - 18:00,09:00 - 18:00,08:30 - 20:00,08:30 - 18:00,09:00 - 18:30,10:00 - 18:00,True,"Food,Sandwiches,Breakfast & Brunch,Coffee & Tea,Restaurants",Edinburgh,4,The Place To Eat,New Town,-3.1878,55.955163,EDH,3.0
+zzhzW3DImwhSwpcK1Yuy7Q,"30-31 Albert Place
+Leith
+Edinburgh EH7 5HN",07:00 - 15:30,07:00 - 15:30,07:00 - 15:30,07:00 - 15:30,07:00 - 15:30,08:00 - 15:30,09:00 - 15:30,True,"Food,Coffee & Tea,Breakfast & Brunch,Restaurants",Edinburgh,20,Fair Trade Coffee Shop,Leith,-3.17971660113136,55.9616885438037,EDH,4.0
+GAltH7TczH1vZyQcOROnDw,"24 Marchmont Crescent
+Marchmont
+Edinburgh EH9 1HG",10:00 - 18:00,10:00 - 18:00,10:00 - 18:00,10:00 - 18:00,10:00 - 18:00,10:00 - 18:00,12:00 - 18:00,False,"Food,Tea Rooms,Coffee & Tea,Breakfast & Brunch,Restaurants",Edinburgh,6,Ephemeris Tea Room,Marchmont,-3.1931978,55.9379877,EDH,4.5
+uq0rHcg288BIZZBhmOH3Gg,"Canongate
+The Royal Mile
+Old Town
+Edinburgh EH1 1",,,,,,,,True,"Food,Sandwiches,Coffee & Tea,Breakfast & Brunch,Restaurants",Edinburgh,6,Le Cafe Royale,Old Town,-3.191715,55.9478003,EDH,3.5
+5mZEQo9V5QZiBTv-LSVYjg,"St Mary's Street
+Old Town
+Newington
+Edinburgh EH8 8",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,True,"Food,Coffee & Tea,Fast Food,Breakfast & Brunch,Restaurants",Edinburgh,3,The Little Inn,"Newington,Old Town",-3.1835012,55.9496115,EDH,4.5
+jvK2T3aoiKprAf5wf426hA,"9777 Las Vegas Blvd S
+Southeast
+Las Vegas, NV 89183",08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 02:00,07:00 - 02:00,07:00 - 22:00,True,"Breakfast & Brunch,Delis,Sandwiches,Restaurants",Las Vegas,58,Del Mar Deli,Southeast,-115.175896473326,36.011541189098,NV,3.0
+5ExteHEMPi6e_rinQ6RrIg,"2103 W. Happy Valley Rd
+Phoenix, AZ 85085",,,,,,,,True,"Breakfast & Brunch,Restaurants",Phoenix,22,IHOP,,-112.104728,33.712243,AZ,4.0
+nmj5yK9dZ2atlM9RYDCRHw,"3481 W Frye Rd
+Chandler, AZ 85226",06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 20:00,True,"Food,Breakfast & Brunch,Delis,Bagels,Restaurants",Chandler,185,Chompie's Deli,,-111.901330947876,33.2976955302097,AZ,3.5
+MQYZVDPR8rCWuw7TFrVQDw,"Angel Park Golf Club
+100 S Rampart Blvd
+Westside
+Las Vegas, NV 89145",,,,,,,,False,"Breakfast & Brunch,American (New),Restaurants",Las Vegas,6,The Restaurant at Angel Park,Westside,-115.282548,36.1735789,NV,4.0
+WRlSavAKrzU41dKMb_YELg,"84 Commercial St
+Leith
+Leith
+Edinburgh EH6 6LX",12:00 - 01:00,12:00 - 01:00,12:00 - 01:00,12:00 - 01:00,12:00 - 01:00,12:00 - 01:00,12:00 - 01:00,True,"Modern European,Bars,Breakfast & Brunch,Nightlife,Lounges,Restaurants",Edinburgh,21,Bond No 9,Leith,-3.1779981,55.9777668,EDH,4.0
+cuMMU10KaD0cZ2WdK5XC1A,"9620 Metro Pkwy W
+Ste 153
+Phoenix, AZ 85051",11:00 - 20:30,11:00 - 20:30,11:00 - 20:30,11:00 - 20:30,11:00 - 21:00,08:00 - 21:00,08:00 - 20:30,True,"Breakfast & Brunch,American (New),Buffets,Restaurants",Phoenix,20,Old Country Buffet,,-112.1259291,33.5743434,AZ,3.0
+A0tz5rsGfK4BnN70PqLI4A,"14620 N Cave Creek Rd
+Phoenix, AZ 85022",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,17:00 - 22:00,07:00 - 14:00,07:00 - 14:00,False,"Burgers,Breakfast & Brunch,Sandwiches,Restaurants",Phoenix,23,Cave Creek Cafe,,-112.031298,33.619354,AZ,3.5
+rbCrkMS0bKqEOQg_fzpSVA,"5040 Wild Horse Pass Blvd
+Chandler, AZ 85048",,,,,,,,True,"Breakfast & Brunch,Restaurants",Chandler,12,Cafe 24/7,,-111.9717336,33.2830056,AZ,2.0
+d-WxJAsK8DWE9lBK2PVAfA,"3801 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 23:00,11:00 - 23:00,11:00 - 21:00,True,"Food,Breakfast & Brunch,Coffee & Tea,Delis,Restaurants",Las Vegas,9,South Beach Cafe & Deli,The Strip,-115.1725943,36.099777,NV,3.0
+6mgbxYVBCFB7cWx-cy5yLw,"National Gallery Complex
+The Mound
+Old Town
+Edinburgh EH2 2EL",09:00 - 17:00,09:00 - 17:00,09:00 - 17:00,09:00 - 19:00,09:00 - 17:00,09:00 - 17:00,10:00 - 17:00,True,"Modern European,Tea Rooms,Breakfast & Brunch,Food,Restaurants",Edinburgh,18,Victor & Carina Contini The Scottish Cafe and Restaurant,Old Town,-3.1962074,55.9507884,EDH,4.0
+MgICzKDk5j-3kYZm64cqNA,"19 Elm Row
+New Town
+Edinburgh EH7 4AA",08:30 - 17:30,08:30 - 17:30,08:30 - 17:30,08:30 - 17:30,08:00 - 18:00,08:00 - 18:00,10:30 - 15:00,True,"Breakfast & Brunch,Restaurants,Delis,Italian",Edinburgh,6,Valvona and Crolla Caffe Bar,New Town,-3.1832895,55.9589243,EDH,3.5
+Pn1bHT7jY6Ap1mbd3Gg2Jw,"703 Belmont Avenue W
+Kitchener, ON N2M 1P1",09:00 - 14:00,12:00 - 14:00,12:00 - 14:00,17:00 - 21:00,17:00 - 21:00,09:00 - 14:00,10:00 - 14:00,True,"Breakfast & Brunch,Creperies,French,Restaurants",Kitchener,4,Village Creperie,,-80.5184385,43.4536881,ON,4.5
+KnXcdnwMl-Xlxp5vJfsDAA,"9890 S Maryland Pkwy
+Southeast
+Las Vegas, NV 89183",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,False,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,25,New Day Cafe,Southeast,-115.153241,36.01212,NV,3.5
+t3rAWJwdiBfXPery6nDZHw,"32 Lady Lawson St
+Old Town
+Edinburgh EH3 9DS",08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,09:00 - 14:00,,True,"Bakeries,Food,Breakfast & Brunch,Sandwiches,Restaurants",Edinburgh,6,Peppers Sandwich Bar,Old Town,-3.2005894,55.9458363,EDH,4.0
+a0uVafYuojkA9Y1KVyH7kg,"7905 W Sahara
+Westside
+Las Vegas, NV 89117",,,,,,,,False,"Breakfast & Brunch,Restaurants",Las Vegas,9,Egg World,Westside,-115.2632509,36.1436259,NV,3.0
+jgMw21g-yv7HX4drE10RAw,"NWC Ray and McClintock
+Albertson's Center
+Chandler, AZ 85226",,,,,,,,True,"Breakfast & Brunch,Sandwiches,Restaurants",Chandler,33,Dessie's Cafe,,-111.912682391703,33.320994406711,AZ,3.5
+_IPUEiZFc8vzsXp-BSlpIA,"91 Montgomery Street
+Leith
+Edinburgh EH7 5HZ",08:30 - 18:00,08:30 - 18:00,08:30 - 18:00,08:30 - 21:00,08:30 - 21:00,09:00 - 18:00,10:00 - 18:00,True,"Breakfast & Brunch,Sandwiches,Restaurants",Edinburgh,8,Café Renroc,Leith,-3.1822655,55.959223,EDH,4.5
+3oLy0rlzRI_xiqfQHqC4_g,"4623 E Elliott Rd
+Phoenix, AZ 85044",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 19:00,07:00 - 14:00,07:00 - 14:00,True,"Breakfast & Brunch,Restaurants",Phoenix,109,Biscuits,,-111.983256340027,33.3487055477927,AZ,3.5
+YzsxnL9OpqNYeQfd4TS2YQ,"3 Melville Place
+West End
+Edinburgh EH3 7PR",,,,,,,,True,"Gastropubs,Breakfast & Brunch,Restaurants",Edinburgh,18,The West Room,West End,-3.211591,55.9512833,EDH,4.0
+BNTw6sX6fDWe-pmyY1FeDA,"310 N Dysart Rd
+Avondale, AZ 85323",06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 20:00,06:00 - 14:00,06:00 - 14:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Avondale,76,TJ's Homestyle Restaurant,,-112.341394,33.438656,AZ,3.5
+-0bl9EllYlei__4dl1W00Q,"Saint Mary's St
+Newington
+Edinburgh EH8 8",,,,,,,,True,"Breakfast & Brunch,Restaurants",Edinburgh,4,Wee Bite,"Newington,Old Town",-3.1835012,55.9496115,EDH,4.0
+rKC8pZU2Ydh2IQkwB75Zww,"2740 S Alma School Rd
+Mesa, AZ 85210",08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,07:00 - 20:00,07:00 - 14:00,False,"Breakfast & Brunch,American (Traditional),Diners,Restaurants",Mesa,16,Family Cafe,,-111.8591482,33.3653686,AZ,3.0
+udYZ82zdbH_0Lh-SihLs1w,"725 Ottawa Street South
+Suite 10
+Kitchener, ON N2E 1B6",,,,,,,,True,"Breakfast & Brunch,Restaurants",Kitchener,7,Cora's Breakfast & Lunch,,-80.485565521497,43.4233104322806,ON,3.5
+D1T1jtCfTfXD-cQE3QViow,"4433 N 16th St
+Phoenix, AZ 85016",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,False,"Breakfast & Brunch,Diners,Restaurants",Phoenix,152,Joe's Diner,,-112.04725,33.5016589,AZ,4.0
+ocZ11f_mu6QH2_cPW2Zfuw,"6770 N Durango Dr
+Ste 140
+Centennial
+Las Vegas, NV 89149",05:30 - 17:00,05:30 - 17:00,05:30 - 17:00,05:30 - 17:00,05:30 - 17:00,06:00 - 16:00,06:00 - 15:00,True,"Food,Breakfast & Brunch,Bagels,Coffee & Tea,Restaurants",Las Vegas,24,Einstein Bros Bagels,Centennial,-115.2872836,36.2838114,NV,3.5
+5KwTR5ywZ_ntH3OGsT6Lcw,"507 W Thomas Rd
+Phoenix, AZ 85013",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,,False,"Breakfast & Brunch,Fast Food,Sandwiches,Restaurants",Phoenix,7,Hamburger Haven,,-112.0807878,33.4803022,AZ,3.5
+Cm8adqSt3IZSmVLJRbNfyA,"Rumor Hotel
+455 E Harmon Ave
+Eastside
+Las Vegas, NV 89169",08:00 - 11:00,08:00 - 11:00,08:00 - 11:00,08:00 - 11:00,17:00 - 21:00,07:00 - 13:00,07:00 - 13:00,True,"Breakfast & Brunch,American (New),Event Planning & Services,Venues & Event Spaces,Restaurants",Las Vegas,52,Addiction Restaurant,Eastside,-115.154103,36.107456,NV,3.5
+LCeF1wK5OqP3PPEVBa5Xfw,"2400 N Buffalo Dr
+Ste 145
+Summerlin
+Las Vegas, NV 89128",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,674,BabyStacks Cafe,Summerlin,-115.2599732,36.20377,NV,4.0
+Ky6490ndvfhU11eE7XcPLw,"The M Resort
+12300 Las Vegas Blvd S
+Henderson, NV 89044",07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 02:00,07:00 - 02:00,07:00 - 23:00,False,"Breakfast & Brunch,American (Traditional),Restaurants",Henderson,325,Hash House A Go Go,,-115.169479015045,35.9650379875383,NV,3.5
+5ambRqdTJt9vGwFzVI9HBw,"918 N 5th St
+Phoenix, AZ 85004",07:00 - 00:00,07:00 - 00:00,07:00 - 00:00,07:00 - 00:00,07:00 - 06:00,06:00 - 06:00,06:00 - 00:00,True,"Food,Coffee & Tea,Creperies,Breakfast & Brunch,Restaurants",Phoenix,230,JoBot Coffee,,-112.067828,33.458348,AZ,4.0
+VbI_ryrGPdNRaDrYRJGMiA,"10345 S Eastern Ave
+Ste 100
+Anthem
+Henderson, NV 89052",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 23:00,09:30 - 23:00,09:30 - 22:00,True,"Food,Ice Cream & Frozen Yogurt,Breakfast & Brunch,Creperies,Restaurants",Henderson,230,Crepe Shack & Waffles,Anthem,-115.1092524,36.0009089,NV,4.5
+FUgMK0mKTEmG_enKEToCqA,"6885 Aliante Pkwy
+Ste 103
+North Las Vegas, NV 89084",07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,True,"Breakfast & Brunch,Cafes,Restaurants",North Las Vegas,62,Waffles Cafe,,-115.179164,36.28654,NV,3.5
+j7GDzt9TfD87_JWJy9eI4Q,"804 Liberty Blvd
+Sun Prairie, WI 53590",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 00:00,11:00 - 00:00,11:00 - 22:00,True,"Breakfast & Brunch,Steakhouses,Restaurants",Sun Prairie,60,Buck & Honey's,,-89.227005,43.199534,WI,4.0
+LL8uZt76DrBHGi5AxtRpBQ,"2341 N Rainbow Blvd
+Las Vegas, NV 89108",07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:30 - 15:00,07:30 - 15:00,False,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,14,Cafe Diem,,-115.2424433,36.2029728,NV,3.5
+kfscAJnLVf6J2uEte7g-5A,"241 S Oregon St
+Chandler, AZ 85225",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,True,"Burgers,Breakfast & Brunch,Salad,Restaurants",Chandler,213,Yoli's Cafe,,-111.842586,33.299873,AZ,4.0
+aqnvzRlSMlW5OX9A-qipLA,"2825 University Ave
+Ste 1
+Madison, WI 53705",06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,True,"Breakfast & Brunch,Restaurants",Madison,12,IHOP,,-89.4374308,43.0742897,WI,3.0
+zNzJkzZxPTeTbRIRfeU9_Q,"10690 Southern Highlands Pwy
+Ste 105
+Southwest
+Las Vegas, NV 89141",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,Steakhouses,American (Traditional),Restaurants",Las Vegas,402,"Rise & Shine, a Steak & Egg Place",Southwest,-115.2067058,35.9954,NV,4.0
+j4TMayffJHao9Ntd799Bhg,"3801 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",06:00 - 06:00,06:00 - 06:00,22:30 - 03:00,06:00 - 06:00,22:30 - 03:00,22:30 - 03:00,06:00 - 06:00,False,"Breakfast & Brunch,Swimming Pools,Dance Clubs,Nightlife,Active Life,Restaurants",Las Vegas,34,Nikki Beach,The Strip,-115.1725943,36.099777,NV,3.5
+AvBWthL1cLqMYnltQ6qF5g,"185 N Apache Trl
+Ste 6
+Apache Junction, AZ 85120",,,,,,,,True,"Breakfast & Brunch,Restaurants",Apache Junction,3,Speckled Hen,,-111.562742,33.423523,AZ,2.0
+J8PyvKkLBGLhYjSlSg7u2A,"1150 N Higley Rd
+Mesa, AZ 85205",,,,,,,,True,"Breakfast & Brunch,Restaurants",Mesa,3,IHOP,,-111.720074,33.4368849,AZ,2.5
+vvMR0jgDoBA-g1XgZy8sEg,"21050 N Tatum Blvd
+Phoenix, AZ 85050",07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 22:00,07:00 - 22:00,07:00 - 20:00,True,"Food,Coffee & Tea,Cafes,Breakfast & Brunch,Restaurants",Phoenix,271,Tryst Cafe,,-111.978579,33.677854,AZ,3.5
+sHu1zuayEsWgIKdj7nVRfg,"502 E Thunderbird Rd
+Phoenix, AZ 85022",06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 23:00,06:00 - 23:00,06:00 - 23:00,06:00 - 21:00,True,"Breakfast & Brunch,Cafes,Restaurants",Phoenix,38,Moon Valley Cafe,,-112.0659378,33.6077242,AZ,3.5
+pqkwR2me0LhEZulRcQpOuw,"6501 E Greenway Pkwy
+Ste 159
+Scottsdale, AZ 85254",06:30 - 15:00,06:30 - 15:00,06:30 - 15:00,06:30 - 15:00,06:30 - 15:00,06:30 - 15:00,06:30 - 15:00,True,"Breakfast & Brunch,Diners,Restaurants",Scottsdale,186,Perk Eatery,,-111.9413185,33.6256847,AZ,4.0
+hG5QnyJ_lbVAT_jaGc2u1w,"9540 W Flamingo Rd
+Spring Valley
+Las Vegas, NV 89147",,,,,,,,True,"Breakfast & Brunch,Restaurants",Las Vegas,30,Einstein Bros Bagels,Spring Valley,-115.3001633,36.1154213,NV,3.5
+691w3FIZWH7cz3IYGor5Ag,"4220 W Summit Walk Ct
+Ste 1202
+Phoenix, AZ 85086",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,False,"Breakfast & Brunch,American (Traditional),Restaurants",Phoenix,25,Cafe Aroma,,-112.1512485,33.8701661,AZ,3.0
+eb-d7bMXnzO8DGWJ5x552g,"1920 W Bell Rd
+Phoenix, AZ 85023",,,,,,,,True,"Breakfast & Brunch,Diners,Restaurants",Phoenix,10,IHOP Restaurant,,-112.100947,33.6405699,AZ,2.5
+-u0m2QhmIUYJU22psWo46Q,"The Cosmopolitan of Las Vegas
+3708 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",,,,,,,,True,"Seafood,American (Traditional),Breakfast & Brunch,Restaurants",Las Vegas,52,The Overlook Grill,The Strip,-115.174133874097,36.1096329632651,NV,3.5
+tlH1ciAK3t_hrX6FS5VCDQ,"Circus Circus Hotel and Casino
+2800 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",,,,,,,,True,"Breakfast & Brunch,Sandwiches,Salad,Restaurants",Las Vegas,9,Westside Deli,The Strip,-115.1615956,36.1374016,NV,3.5
+gWRJ_Zyl2gtx_pCNTKnG2A,"10591 S Rainbow Blvd
+Southwest
+Las Vegas, NV 89179",08:00 - 21:00,08:00 - 21:00,08:00 - 20:30,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,158,Our Families Country Cafe,Southwest,-115.2441573143,35.9984328257258,NV,4.0
+Ul2QB8Aix9ATXL1xgPSq8w,"232 Morrison St
+West End
+Edinburgh EH3 8EA",07:30 - 17:30,07:30 - 17:30,07:30 - 17:30,07:30 - 17:30,07:30 - 17:30,08:00 - 16:00,08:00 - 16:00,True,"Food,Sandwiches,Coffee & Tea,Breakfast & Brunch,Restaurants",Edinburgh,12,Café Milk,West End,-3.2135011,55.9463045,EDH,4.0
+wyqouyZTP2qtLs0sdQJSOg,"94B Fountainbridge
+West End
+Edinburgh EH3 9QA",08:00 - 18:00,08:00 - 18:00,08:00 - 18:00,08:00 - 18:00,08:00 - 18:00,08:00 - 18:00,08:00 - 18:00,True,"Bakeries,Food,Breakfast & Brunch,Cafes,Restaurants",Edinburgh,36,Loudons Cafe & Bakery,West End,-3.2081778,55.9435562,EDH,3.5
+aIzLOo6dk92DDts8YpyhZA,"30 Frederick Street
+New Town
+Edinburgh EH2 2",09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,10:00 - 18:00,10:00 - 18:00,True,"Breakfast & Brunch,Cafes,Delis,Restaurants",Edinburgh,22,Fredericks Coffee House,New Town,-3.2001769,55.9525715,EDH,3.5
+XU5Fb3TosXDUJcNRWQM5cA,"10626 N 32nd St
+Phoenix, AZ 85028",06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,07:00 - 22:00,07:00 - 14:00,True,"Coffee & Tea,Food,Breakfast & Brunch,Bars,Wine Bars,Nightlife,Restaurants",Phoenix,229,32 Shea,,-112.0133307,33.5833625,AZ,4.5
+nZgYNbl1XlZyyKlISMoG6w,"Paris Las Vegas Hotel
+3655 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,True,"Breakfast & Brunch,Bars,American (New),Nightlife,Restaurants",Las Vegas,626,Sugar Factory American Brasserie,The Strip,-115.172531604767,36.112015261401,NV,3.0
+TXpblNI207D-ddLzTGnU_w,"75 King Street S
+Waterloo, ON N2J 1P2",,,,,,,,True,"Breakfast & Brunch,Diners,Restaurants",Waterloo,7,Cora's,,-80.522773,43.4638688,ON,3.5
+WkuYEGPXwTqTGCqWtJU5tQ,"2375 E Camelback Rd
+Phoenix, AZ 85016",06:00 - 16:00,06:00 - 16:00,06:00 - 16:00,06:00 - 16:00,06:00 - 16:00,07:00 - 13:00,,True,"Food,Sandwiches,Bagels,Breakfast & Brunch,Restaurants",Phoenix,25,Brueggers Bagels,,-112.0307744,33.5086148,AZ,3.0
+2VU7F1oqCxpVPVlvpwvacw,"3800 E Sky Harbor Blvd
+Terminal 4
+Phoenix, AZ 85034",06:00 - 22:30,06:00 - 22:30,06:00 - 22:30,06:00 - 22:30,06:00 - 22:30,06:00 - 22:30,06:00 - 22:30,False,"Breakfast & Brunch,Bars,American (Traditional),Nightlife,Restaurants",Phoenix,49,Barfly,,-112.0095457,33.4356207,AZ,4.0
+FURgKkRFtMK5yKbjYZVVwA,"5223 N Central Ave
+Phoenix, AZ 85012",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 00:00,09:00 - 00:00,09:00 - 22:00,True,"Bars,Breakfast & Brunch,Pubs,Nightlife,American (New),Restaurants",Phoenix,550,Windsor,,-112.07341192283,33.513697188158,AZ,4.0
+IaUXrUfy2iYrR6dHgvTpUg,"Vdara Las Vegas
+2600 W Harmon Ave
+The Strip
+Las Vegas, NV 89158",06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 00:00,06:00 - 00:00,06:00 - 22:00,True,"Food,Juice Bars & Smoothies,Breakfast & Brunch,Cafes,Restaurants",Las Vegas,88,Market Cafe Vdara,The Strip,-115.1784884,36.1092406,NV,3.0
+EMGkbiCMfMTflQux-_JY7Q,"8390 E Via de Ventura
+Ste F-108
+Scottsdale, AZ 85258",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Cafes,Restaurants",Scottsdale,251,Butters Pancakes & Café,,-111.899636,33.554825,AZ,4.5
+VkQYdpbna8eTYaHZ3fAMbg,"908 E Johnson St
+Tenney - Lapham
+Madison, WI 53703",07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 18:00,08:00 - 18:00,08:00 - 18:00,True,"Coffee & Tea,Food,Breakfast & Brunch,Bars,Pubs,Nightlife,Restaurants",Madison,82,Johnson Public House,Tenney - Lapham,-89.376208,43.084781,WI,4.5
+qOBPYe3WoqGPuHh9BvyEnw,"9 N Bank St
+Old Town
+Edinburgh EH1 2LP",,,,,,,,False,"Breakfast & Brunch,British,Restaurants",Edinburgh,12,Porto & Fi On The Mound,"Old Town,Royal Mile",-3.1937055,55.9499567,EDH,3.5
+gPCUIvpMCXVDRqszO8v69w,"101 N 1st Ave
+Ste 108
+Phoenix, AZ 85004",06:30 - 16:00,06:30 - 16:00,06:30 - 16:00,06:30 - 16:00,06:30 - 16:00,,,True,"Breakfast & Brunch,American (Traditional),Restaurants",Phoenix,21,SpoonZ Cafe,,-112.070973291016,33.4549290082399,AZ,3.0
+VZj6-23HOUwbVNePEsJrYg,"3400 Sky Harbor Blvd
+Phoenix, AZ 85034",,,,,,,,True,"Breakfast & Brunch,Restaurants",Phoenix,10,Cinnabon,,-111.996935606003,33.4340826379293,AZ,3.0
+-0tJ4FwcNtJjil-ZUTy30Q,"9 Croall Place
+Leith Walk
+Leith
+Edinburgh EH7 4LT",,,,,,,,True,"Food,Coffee & Tea,Internet Cafes,Breakfast & Brunch,Restaurants",Edinburgh,4,Cafe No 9,Leith,-3.18036222755942,55.9616142568248,EDH,4.5
+Xq1FtLSV54Spf-HfONc1aA,"3722 E Indian School Rd
+Phoenix, AZ 85018",05:00 - 22:00,05:00 - 22:00,05:00 - 22:00,05:00 - 22:00,05:00 - 22:00,05:00 - 22:00,05:00 - 22:00,True,"Food,Donuts,Breakfast & Brunch,Bubble Tea,Restaurants",Phoenix,151,Bosa Donuts,,-112.0010971,33.4953972,AZ,4.5
+pD7NzevYc6HhYu13wCxiiw,"9500 S Eastern Ave
+Ste 150
+Las Vegas, NV 89123",09:00 - 15:00,09:00 - 15:00,09:00 - 15:00,09:00 - 15:00,09:00 - 15:00,08:00 - 15:00,08:00 - 15:00,True,"Breakfast & Brunch,Creperies,Restaurants",Las Vegas,411,Crêpe Expectations,,-115.1171167,36.016461,NV,4.5
+BNkSxRUCRAIYV_OZK5T1zA,"17031 W Bell Rd
+Surprise, AZ 85388",,,,,,,,True,"Food,Donuts,Breakfast & Brunch,Restaurants",Surprise,13,Dunkin Donuts,,-112.42430633302,33.637553384528,AZ,3.0
+JIDomCi5MbWGcKPtknFZvg,"501 N 44th St
+Ste 175
+Phoenix, AZ 85008",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,,,True,"Sandwiches,Breakfast & Brunch,Delis,Restaurants",Phoenix,15,Lunch Lounge,,-111.986183,33.454058,AZ,4.0
+AVQMHeyByhkkYEeDbH9HbQ,"3202 E Greenway Rd
+Phoenix, AZ 85032",09:00 - 17:00,,,,,,,True,"Breakfast & Brunch,American (New),Restaurants",Phoenix,30,Country Boys Restaurant,,-112.011747,33.626917,AZ,3.5
+SsV9YH7aPh7PePHNjLg62Q,"170 University Avenue W
+Waterloo, ON N2L 3E9",,,,,,,,True,"Food,Coffee & Tea,Cafes,Breakfast & Brunch,Restaurants",Waterloo,20,Williams Fresh Cafe,,-80.538777203332,43.472319669919,ON,3.5
+A8YIXXgRVmLbUjsU6BEvMg,"23 N Mojave Rd
+Downtown
+Las Vegas, NV 89101",,,,,,,,True,"Breakfast & Brunch,Chicken Wings,Restaurants",Las Vegas,4,Country Kitchen,Downtown,-115.10591,36.160158,NV,3.5
+6QWmwSHjCPpaDz8NmiP6RA,"913 N Dobson Rd
+Mesa, AZ 85201",06:00 - 05:30,06:00 - 05:30,06:00 - 05:30,06:00 - 05:30,06:00 - 05:30,06:00 - 05:30,06:00 - 05:30,True,"Bakeries,Food,Breakfast & Brunch,Restaurants",Mesa,19,International House of Pancakes,,-111.843711,33.43065,AZ,3.0
+GRFunGSUZxXqNCZJrN8Oow,"310 S Mill Ave
+Ste A101
+Tempe, AZ 85281",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,American (New),Restaurants",Tempe,309,Ncounter,,-111.9404992,33.4271986,AZ,4.0
+SsgLO6QvVEH6HGJ5fntgNg,"2950 S Durango Dr
+Westside
+Las Vegas, NV 89117",,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,False,"Breakfast & Brunch,Cafes,Restaurants",Las Vegas,32,Del Mar Cafe,"Westside,The Lakes",-115.2789909,36.1355542,NV,4.0
+io7Od4VxKE7v7xJJbs9P-A,"3495 E Baseline Rd
+Gilbert, AZ 85234",,,,,,,,True,"Breakfast & Brunch,Restaurants",Gilbert,25,IHOP,,-111.756096,33.378678,AZ,2.5
+di2QHs2SrY0XFHcfAq_k2A,"455 N 3rd St
+Ste 1065
+Phoenix, AZ 85004",06:00 - 20:00,06:00 - 20:00,06:00 - 20:00,06:00 - 20:00,06:00 - 20:00,08:00 - 18:00,08:00 - 18:00,True,"Breakfast & Brunch,Cafes,Sandwiches,Restaurants",Phoenix,52,Corner Bakery Cafe,,-112.069182,33.452718,AZ,3.0
+LE93qqXLoSQZ777ONaJFMA,"10155 E Via  Linda
+Ste H131
+Scottsdale, AZ 85258",,,,,,,,True,"Breakfast & Brunch,Restaurants",Scottsdale,44,The Egg I Am,,-111.8612183,33.5746444,AZ,3.5
+Hgbxen9iKGL4AH6kKgC8YQ,"7124 E 5th Ave
+Scottsdale, AZ 85251",07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 22:00,07:00 - 22:00,07:00 - 21:00,True,"Food,Coffee & Tea,Breakfast & Brunch,Restaurants",Scottsdale,177,Cartel Coffee Lab,,-111.927574961365,33.4984665323975,AZ,4.0
+ieYiud3trM-9e7E8YUhK0g,"10940 S Eastern Ave
+Ste 107
+Anthem
+Henderson, NV 89052",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 14:00,False,"Bakeries,Food,Breakfast & Brunch,Restaurants",Henderson,334,Bread and Butter,Anthem,-115.099850426383,35.9941109379897,NV,4.0
+BAbYfKQaQImLil6xqaOFyA,"20852 E Ocotillo Rd
+Queen Creek, AZ 85142",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,07:00 - 14:00,07:00 - 14:00,True,"Breakfast & Brunch,American (New),Restaurants",Queen Creek,39,EggsTc,,-111.633095413522,33.2491193824165,AZ,3.5
+Kh7cW1rcbxzsgTzAfqEcGw,"5035 E Elliot Rd
+Phoenix, AZ 85044",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,True,"Food,Breakfast & Brunch,Delis,Bagels,Restaurants",Phoenix,112,The Bagel Man,,-111.9763846,33.3488832,AZ,4.5
+a1aFceRgC03yy3ENdynDnA,"10662 E Southern Ave
+Mesa, AZ 85209",,,,,,,,True,"Breakfast & Brunch,Restaurants",Mesa,17,International House of Pancakes,,-111.6003966,33.393867,AZ,3.0
+kVuzYAB0U-ZYJiY56flz9A,"8175 Arville St
+Southwest
+Las Vegas, NV 89139",07:30 - 14:30,07:30 - 14:30,07:30 - 14:30,07:30 - 14:30,07:30 - 14:30,07:30 - 14:30,08:00 - 13:30,True,"Breakfast & Brunch,American (Traditional),Diners,Restaurants",Las Vegas,26,The Diner at LVM Resort,Southwest,-115.199683271348,36.0408979677732,NV,4.5
+3QPwxHWoiwTXscuG7_jecA,"5840 W Chandler Blvd
+Chandler, AZ 85226",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Burgers,Breakfast & Brunch,Salad,Restaurants",Chandler,65,U.S. EGG,,-111.9424392,33.3054558,AZ,3.0
+4buhMysOQJBM6dHx7TxuUw,"2501 W Beltline Hwy
+Ste 111
+Madison, WI 53713",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,07:00 - 14:30,07:00 - 14:30,True,"Breakfast & Brunch,American (New),Restaurants",Madison,29,The Egg and I,,-89.4217489,43.0342511,WI,3.0
+iaEqryy7OwAOAQkLWDBquQ,"15170 W Bell Rd
+Ste 2-103
+Surprise, AZ 85374",07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 21:00,07:00 - 21:00,07:00 - 18:00,True,"Sandwiches,Delis,Breakfast & Brunch,Restaurants",Surprise,102,New York Flavor,,-112.387167,33.63924,AZ,4.0
+kInPSo8q0PgA-yp2nws0Uw,"3347 E Russell Rd
+Ste A
+Southeast
+Las Vegas, NV 89120",,,,,,,,True,"Breakfast & Brunch,Mexican,Restaurants",Las Vegas,5,El Rancho Restaurant,Southeast,-115.101921081543,36.0859031677246,NV,2.0
+Qq90BiOx_FWRUDq6afvghw,"6501 E Cave Creek Rd
+Ste 8
+Cave Creek, AZ 85331",06:00 - 17:00,06:00 - 17:00,06:00 - 17:00,06:00 - 17:00,06:00 - 17:00,06:00 - 17:00,06:00 - 17:00,True,"Food,Bagels,Cafes,Breakfast & Brunch,Restaurants",Cave Creek,27,Grotto Cafe,,-111.9409619,33.8325285,AZ,4.5
+ZniYUcAEcI_n8yxz_2Z1Dw,"3655 S Durango Dr
+Ste 29
+Spring Valley
+Las Vegas, NV 89147",06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,True,"Breakfast & Brunch,Restaurants",Las Vegas,83,Norm's Eggs Cafe,Spring Valley,-115.279439,36.1238755,NV,3.5
+01euuGhBwvcDhl9KcPTang,"35 N Country Club Dr
+Mesa, AZ 85201",08:00 - 00:00,08:00 - 00:00,08:00 - 00:00,08:00 - 00:00,08:00 - 03:00,08:00 - 03:00,08:00 - 00:00,True,"Breakfast & Brunch,Fast Food,Mexican,Restaurants",Mesa,7,El Salsita,,-111.839574,33.4161829,AZ,2.5
+50pNYZufM710qC9OYTro6g,"6166 N Scottsdale Rd
+Ste 210
+Scottsdale, AZ 85253",09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:30,09:00 - 20:30,09:00 - 18:00,False,"Vegetarian,Breakfast & Brunch,Vegan,Restaurants",Scottsdale,17,Fontana Di Amore,,-111.9270736,33.5278636,AZ,2.5
+fXRWgcg_vTlVlbLKh6CTcA,"1916 Village Center Cir
+Summerlin
+Las Vegas, NV 89134",,,,,,,,True,"Breakfast & Brunch,Restaurants",Las Vegas,55,Griddlecakes,Summerlin,-115.30386865139,36.1930766701698,NV,3.0
+EQdlDUTj-TopflIpOKKLvQ,"94 A Fountainbridge
+West End
+Edinburgh EH3 9QA",08:00 - 17:00,08:00 - 17:00,08:00 - 17:00,08:00 - 18:00,08:00 - 18:00,10:00 - 18:00,10:00 - 18:00,False,"Breakfast & Brunch,Cafes,Restaurants",Edinburgh,5,Cuthberts,West End,-3.2091717,55.9432358,EDH,3.0
+63d0v1xVzzahrY7zLoy_FA,"6960 S Rainbow Blvd
+Spring Valley
+Las Vegas, NV 89118",06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,219,Egg Works,Spring Valley,-115.2419522,36.0621587,NV,4.0
+aCQ5J6y246BULC7COBRATg,"555 N Central Ave
+Phoenix, AZ 85004",09:00 - 16:00,09:00 - 16:00,09:00 - 16:00,09:00 - 16:00,09:00 - 16:00,09:00 - 16:00,09:00 - 16:00,True,"Food,Breakfast & Brunch,Juice Bars & Smoothies,Sandwiches,Restaurants",Phoenix,31,Bowl of Greens,,-112.0733662,33.4538669,AZ,4.5
+PzOqRohWw7F7YEPBz6AubA,"6520 W Happy Valley Rd
+Ste 101
+Glendale Az, AZ 85310",05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,True,"Food,Breakfast & Brunch,Bagels,Delis,Restaurants",Glendale Az,26,Hot Bagels & Deli,,-112.2002399,33.7136605,AZ,4.0
+0nGjXTpUtpIJl10PL0eBGg,"2 E Jefferson St
+Phoenix, AZ 85004",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:00,True,"Breakfast & Brunch,American (Traditional),Diners,Restaurants",Phoenix,145,Breakfast Club,,-112.0734239,33.4473356,AZ,3.5
+lKQ5hnkSQ-XP80jNCH46nQ,"4000 N Drinkwater Blvd
+Scottsdale, AZ 85251",07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 00:00,07:00 - 00:00,07:00 - 23:00,True,"Breakfast & Brunch,Mexican,Restaurants",Scottsdale,220,Distrito,,-111.9224801,33.4943298,AZ,4.0
+6pYw00nLXSFTAsFngeB2Pw,"729 N High Point Rd
+Wexford
+Madison, WI 53717",06:30 - 18:00,06:30 - 18:00,06:30 - 18:00,06:30 - 18:00,06:30 - 19:30,07:00 - 17:00,,True,"Food,Bakeries,Breakfast & Brunch,Coffee & Tea,Restaurants",Madison,14,TnT's Coffee & Cafe,Wexford,-89.5186717,43.0757768,WI,3.5
+lUsTQ3hOOcSS1mngqeFKAA,"7010 S 27th Ave
+Phoenix, AZ 85041",,,,,,08:00 - 12:00,08:00 - 12:00,False,"Breakfast & Brunch,Restaurants",Phoenix,28,The Grove Cafe,,-112.117267,33.382596,AZ,4.0
+NVxVxIejYzTYC0Pykia91A,"305 N 4th St
+Emerson East
+Madison, WI 53704",07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,08:30 - 14:30,True,"Bakeries,Food,Breakfast & Brunch,Coffee & Tea,Restaurants",Madison,53,4&20 Bakery & Cafe,Emerson East,-89.3565642088652,43.097919523716,WI,4.5
+vLgKDL10f1tF-E0zvBPvvg,"6801 N Glen Harbor Blvd
+Ste 104
+Glendale, AZ 85307",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,False,"Breakfast & Brunch,American (Traditional),Diners,Restaurants",Glendale,4,Left Seat West,,-112.2994913,33.5230734,AZ,4.0
+OKZ-Jx3X0zcu4FLAjIs6gw,"2223 N Rampart
+Summerlin
+Las Vegas, NV 89106",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,False,"Food,Breakfast & Brunch,Bagels,Restaurants",Las Vegas,17,Bobby's Bagel Bistro,Summerlin,-115.2819509,36.2003921,NV,4.0
+Bgsr91YOV0F48h0OUCgciA,"1843 Monroe St
+Vilas
+Madison, WI 53711",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 00:00,09:00 - 00:00,09:00 - 23:00,True,"Irish,Breakfast & Brunch,Restaurants",Madison,37,Brocach,Vilas,-89.416809,43.064779,WI,4.0
+pPfQ73--Y_h5Or0aqDgEGA,"4135 S Buffalo Dr
+Ste 101
+Spring Valley
+Las Vegas, NV 89147",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,Cafes,Restaurants",Las Vegas,524,BabyStacks Cafe,Spring Valley,-115.2614822,36.1136569,NV,4.0
+GbEOmf5k73r_UJWjchrHOg,"2325 N 7th St
+Phoenix, AZ 85006",07:30 - 15:00,07:30 - 15:00,07:30 - 15:00,07:30 - 15:00,07:30 - 15:00,08:00 - 15:00,08:00 - 15:00,False,"Breakfast & Brunch,Cafes,Restaurants",Phoenix,199,Wy-Knot Cafe,,-112.064787,33.474229,AZ,4.0
+TisnIBR2lMvT1DMC95_eHg,"7145 E Indian School Rd
+Scottsdale, AZ 85251",,,,,,,,True,"Bakeries,Food,Breakfast & Brunch,Delis,Restaurants",Scottsdale,46,Paradise Bakery & Cafe,,-111.927127,33.494651,AZ,3.5
+LpilCQTGbm8Xu1p5sHe9eg,"4700 N Central Ave
+Phoenix, AZ 85012",07:00 - 19:00,07:00 - 19:00,07:00 - 19:00,07:00 - 19:00,07:00 - 19:00,07:00 - 19:00,07:00 - 19:00,False,"Food,Coffee & Tea,Breakfast & Brunch,Restaurants",Phoenix,40,Citizen Espresso Bar,,-112.0739142,33.5062078,AZ,3.5
+fDZzCjlxaA4OOmnFO-i0vw,"4326 E Cactus Rd
+Phoenix, AZ 85032",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,True,"Breakfast & Brunch,Cafes,American (Traditional),Restaurants",Phoenix,192,The Oink Cafe,,-111.9869515,33.5997996,AZ,3.5
+ss5gVggeSmAgMUeL65UvYw,"302 N Gilbert Rd
+Gilbert, AZ 85234",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 00:00,09:00 - 00:00,09:00 - 22:00,True,"Bars,Breakfast & Brunch,Wine Bars,Nightlife,Italian,Restaurants",Gilbert,338,Postino East,,-111.7899116,33.3551173,AZ,4.5
+qQkf0hWe1sD7pD8oO3vYTQ,"9261 E Via de Ventura
+Scottsdale, AZ 85258",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,09:00 - 23:00,09:00 - 22:00,True,"Burgers,Breakfast & Brunch,American (Traditional),Restaurants",Scottsdale,55,Ventura Grill,,-111.8811376,33.5530194,AZ,3.5
+bZkRR9-BnwE-sb1ql7WPJg,"1939 S Val Vista Dr
+Mesa, AZ 85204",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Restaurants",Mesa,52,The Good Egg - Val Vista,,-111.7538379,33.380583,AZ,4.0
+qKBdXH1kZNU-c9BHQaTUag,"4151 N Marshall Way
+Scottsdale, AZ 85251",,07:30 - 15:00,07:30 - 15:00,07:30 - 15:00,07:30 - 15:00,07:30 - 15:00,07:30 - 15:00,False,"Breakfast & Brunch,American (New),Cafes,Restaurants",Scottsdale,56,Dottie's True Blue Cafe,,-111.928810119629,33.4961814880371,AZ,3.5
+r1sisynnBLFM5TORpher8g,"352 N Nellis Blvd
+Regency Plaza
+Sunrise
+Las Vegas, NV 89110",,,,,,,,True,"Breakfast & Brunch,Restaurants",Las Vegas,11,IHOP,Sunrise,-115.061584472656,36.1655426025391,NV,2.5
+J4WPiHHlzqrKH4amrFxefA,"442 E Wickenburg Way
+Wickenburg, AZ 85390",07:00 - 15:00,07:00 - 15:00,,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Wickenburg,15,Ike's Cook Shack,,-112.723653316498,33.972121613488,AZ,4.5
+haK0UcZoBP0ZEEpUbdewDQ,"14783 Grand Ave
+Surprise, AZ 85374",,,,,,,,True,"Breakfast & Brunch,Restaurants",Surprise,8,Denny's,,-112.376940250397,33.6590939803987,AZ,3.5
+RO1fBofbml7ygeY2AiWFYg,"5255 S Decatur Blvd
+Ste 115
+Las Vegas, NV 89118",07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,True,"Food,Coffee & Tea,Mediterranean,Breakfast & Brunch,Restaurants",Las Vegas,120,The Daily Egg,,-115.2088673,36.0944572,NV,3.5
+mwkdmPr053cHNBBwBHVWCA,"1187 Fischer-Hallman Road
+Kitchener, ON N2E 4K6",09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 19:00,True,"Bakeries,Portuguese,Breakfast & Brunch,Food,Restaurants",Kitchener,8,Lisboa Bakery & Grill,,-80.5023575,43.4071312,ON,4.0
+PpCWs2toMmrWDWuXR5nu-g,"2893 W Lake Mead Blvd
+North Las Vegas, NV 89106",07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:00 - 23:00,07:30 - 00:00,08:00 - 00:00,08:00 - 22:00,True,"Burgers,Breakfast & Brunch,Restaurants",North Las Vegas,42,Mega Tom's Burgers,,-115.1790128,36.1974721,NV,4.0
+6wdnVxUD8VTtwhe2sjcZ8w,"8 St Mary's Street
+Old Town
+Edinburgh EH1 1SU",,,,,,,,True,"Breakfast & Brunch,Restaurants",Edinburgh,6,Circus,"Old Town,Royal Mile",-3.1836019,55.9503782,EDH,3.5
+ISt8fQEm3Imeu7IIhB7s1Q,"9 Anchorfield
+Leith
+Edinburgh EH6 4JG",07:30 - 17:00,07:30 - 17:00,07:30 - 17:00,07:30 - 17:00,07:30 - 17:00,09:00 - 17:00,09:00 - 17:00,True,"Breakfast & Brunch,Restaurants",Edinburgh,7,The Haven,Leith,-3.1881914,55.9797975,EDH,4.0
+RO-9-UB9FlWg2kt8w1qf5g,"724 S Gammon Rd
+Madison, WI 53719",,,,,,,,False,"Breakfast & Brunch,Restaurants",Madison,9,Pc Kitchen,,-89.5032388,43.0497544,WI,4.0
+gFJtzwGmDTABRwL2F8GsSw,"2425 E Camelback Rd
+Ste 110
+Phoenix, AZ 85016",11:00 - 16:00,16:00 - 22:00,11:00 - 16:00,11:00 - 16:00,16:00 - 23:00,16:00 - 23:00,15:00 - 21:00,True,"Breakfast & Brunch,Bars,Steakhouses,Nightlife,Restaurants",Phoenix,137,Del Frisco's Grille,,-112.0278495,33.5090929,AZ,3.5
+EXtCgZoxHNjXrqPCFOgQmQ,"1135 E Apache Blvd
+Tempe, AZ 85281",06:00 - 16:00,06:00 - 16:00,06:00 - 16:00,06:00 - 16:00,06:00 - 16:00,07:00 - 16:00,07:00 - 16:00,True,"Food,Breakfast & Brunch,American (New),Coffee & Tea,Restaurants",Tempe,87,D'lish,,-111.9207409,33.4144553,AZ,4.0
+dYZ9YiA1JYlFoul-yorXSQ,"15033 N Thompson Peak Pkwy
+Ste D105
+Scottsdale, AZ 85260",10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,11:00 - 18:00,True,"Breakfast & Brunch,Sandwiches,Salad,Restaurants",Scottsdale,57,Which Wich,,-111.8740769,33.6226435,AZ,4.0
+-27u-98Ugczq_xsNPdcvEg,"1201 S Boulder Hwy
+Henderson, NV 89015",06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,True,"Breakfast & Brunch,Fast Food,Restaurants",Henderson,9,IHOP,,-114.9687661,36.0275501,NV,3.0
+DyJY6-P5PMGl3X7rpnKfog,"6715 E McDowell Rd
+Mesa, AZ 85207",,,,,,,,True,"Breakfast & Brunch,Mexican,Restaurants",Mesa,8,Nando's Hideaway,,-111.685933,33.465904,AZ,4.0
+t0bHagCz2UQB_qfxeAscFw,"Grayhawk Golf Club
+8620 E Thompson Peak Pkwy
+Scottsdale, AZ 85255",,,,,,,,True,"Food,Sandwiches,Coffee & Tea,Breakfast & Brunch,Restaurants",Scottsdale,14,Mojo Morning Joint,,-111.897117614746,33.6779251098633,AZ,4.0
+DWxZhDdqGjJbLVJBMGsWZQ,"13824 W Mcdowell Rd
+Goodyear, AZ 85395",05:00 - 19:00,05:00 - 19:00,05:00 - 19:00,05:00 - 19:00,05:00 - 19:00,05:00 - 19:00,06:00 - 17:00,True,"Food,Breakfast & Brunch,Bagels,Coffee & Tea,Restaurants",Goodyear,66,Express Donuts,,-112.3567666,33.4654956,AZ,4.5
+LzzlwFvAxv70zTWBCNs0aQ,"835 Seven Hills Dr
+Ste 190
+Southeast
+Henderson, NV 89052",06:00 - 19:00,06:00 - 19:00,06:00 - 19:00,06:00 - 19:00,06:00 - 19:00,07:00 - 18:00,07:00 - 18:00,True,"Food,Coffee & Tea,Cafes,Breakfast & Brunch,Restaurants",Henderson,48,Galaxy Cafe,"Southeast,Anthem",-115.1246448,35.9967217,NV,4.0
+nSFZCaugV5BnkyBLnRXdhA,"1825 E University Dr
+Tempe, AZ 85281",06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 20:00,06:00 - 15:00,07:00 - 15:00,True,"Greek,Breakfast & Brunch,American (Traditional),Restaurants",Tempe,74,Sunny's Diner,,-111.908707022667,33.42173497824,AZ,4.0
+-uSHlr8Wk6f8ewVEgsvcWQ,"640 S Mill Ave
+Ste 118
+Tempe, AZ 85281",06:30 - 13:00,06:30 - 13:00,06:30 - 13:00,06:30 - 13:00,06:30 - 13:00,06:30 - 13:00,06:30 - 13:00,True,"Breakfast & Brunch,Diners,Restaurants",Tempe,26,Devil's Diner,,-111.924088,33.424281,AZ,4.0
+cHkHYcOw0rkyC3t9gXjeIw,"2341 N Las Vegas Blvd
+Las Vegas, NV 89030",07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,True,"Burgers,Breakfast & Brunch,Sandwiches,Restaurants",Las Vegas,18,Farmer Boys,,-115.119654536247,36.2026289294952,NV,3.5
+vaabk6CYXX1dYVQ1xkyPUg,"7520 S Rural Rd
+Ste A12
+Tempe, AZ 85283",,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,09:00 - 14:00,True,"Food,Coffee & Tea,Creperies,Breakfast & Brunch,Restaurants",Tempe,227,Crêpe Bar,,-111.929925579031,33.3497113609575,AZ,4.5
+oHwkJgs5Fi0HuUISgtz_Gw,"705 N 1st St
+Phoenix, AZ 85004",07:30 - 14:00,11:00 - 14:00,11:00 - 14:00,07:30 - 14:00,07:30 - 14:00,07:30 - 13:30,08:30 - 13:00,False,"Breakfast & Brunch,Cafes,Restaurants",Phoenix,68,Squash Blossom,,-112.072167,33.455863,AZ,3.5
+poPl-qFXSzvyOAMBxHO7nA,"9320 Sun City Blvd
+Ste 101
+Summerlin
+Las Vegas, NV 89134",,,,,,,,True,"Breakfast & Brunch,Restaurants",Las Vegas,17,Sun City Café,Summerlin,-115.2984541,36.2109124,NV,4.0
+SzwmfFFRJ2vAPambzFgTuA,"McCarren International Airport
+Southeast
+Las Vegas, NV 89119",,,,,,,,True,"Breakfast & Brunch,Restaurants",Las Vegas,6,Eistein Bros Bagels,Southeast,-115.1511348,36.0849929,NV,2.0
+2xo91erKN-n7bDJcHLrmwQ,"558 S Decatur Blvd
+Charleston Heights Shopping Center
+Westside
+Las Vegas, NV 89107",,,,,,,,True,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,4,Decatur Drug Store Coffee Shop,Westside,-115.208770751953,36.1652870178223,NV,4.0
+loVwv8VtHJ7FXtizlIuwhg,"8876 S Eastern Ave
+Las Vegas, NV 89123",06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,True,"Breakfast & Brunch,Restaurants",Las Vegas,12,Ihop,,-115.1149607,36.0291019,NV,3.5
+77BTvEd_YG_2JUSWeDmGwQ,"4233 N Scottsdale Rd
+Scottsdale, AZ 85251",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Restaurants",Scottsdale,157,Morning Squeeze,,-111.9258174,33.4977334,AZ,3.5
+1vl4-5il_LGtDRxUCy9ldw,"1515 N 7th Ave
+Ste 170
+Phoenix, AZ 85003",,06:30 - 13:30,06:30 - 13:30,06:30 - 13:30,06:30 - 13:30,06:30 - 13:30,06:30 - 13:30,True,"Food,Coffee & Tea,Breakfast & Brunch,Restaurants",Phoenix,208,Vovomeena,,-112.082265575253,33.4656999629047,AZ,4.0
+VQmgq4Dwwej5AwnHBmDIAg,"902 W Van Buren St
+Phoenix, AZ 85007",07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,07:00 - 16:00,True,"Breakfast & Brunch,Mexican,Chinese,Restaurants",Phoenix,19,International House of Food,,-112.085554,33.451613,AZ,4.5
+U9hKUngQjWw9ZE6Znwergg,"3244 Guadalupe Rd
+Ste 110
+Gilbert, AZ 85234",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Cafes,Restaurants",Gilbert,92,Henhouse Cafe,,-111.721199154854,33.3666012806817,AZ,3.5
+ASGebKrraHYSBaEcavy3Xg,"10720 S Eastern Ave
+Ste 100
+Anthem
+Henderson, NV 89052",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,08:00 - 22:00,08:00 - 21:00,False,"Breakfast & Brunch,Caterers,Mediterranean,Event Planning & Services,Restaurants",Henderson,87,Bon Chef Cafe,Anthem,-115.1025425,35.9975751,NV,4.0
+DUDr1kuGv6eh1_s2GWJVgw,"2131 E Camelback Rd
+Phoenix, AZ 85016",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,11:00 - 21:00,True,"Breakfast & Brunch,Sandwiches,Salad,Restaurants",Phoenix,84,Potbelly Sandwich Shop,,-112.035941005291,33.5087140812804,AZ,4.0
+LA37y058rLD9CnIdWMyPpA,"1489 S Higley Rd
+Ste 103
+Gilbert, AZ 85296",06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,07:00 - 21:00,True,"Food,Sandwiches,Coffee & Tea,Breakfast & Brunch,Restaurants",Gilbert,40,Bold Roost Espresso Bar and Cafe,,-111.7205343,33.3234736,AZ,3.5
+qbEJeRvytnBo5BGG1R5kGg,"1928 E Highland Ave
+Ste F-107
+Phoenix, AZ 85016",07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,True,"Nightlife,Breakfast & Brunch,American (New),Bars,Restaurants",Phoenix,129,Daily Dose Midtown,,-112.040011882782,33.5057744492943,AZ,3.5
+ZP6qFq7LUh6Tr7WHPoOW6g,"707 Carson Ave
+Downtown
+Las Vegas, NV 89101",08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 14:00,08:00 - 14:00,True,"Breakfast & Brunch,American (New),Restaurants",Las Vegas,650,eat.,Downtown,-115.13894,36.166723,NV,4.0
+8ytNm9tlX3NIK5lBF9Xf7g,"4040 E Bell Rd
+Phoenix, AZ 85032",,,,,,,,True,"Breakfast & Brunch,Restaurants",Phoenix,7,Village Inn Resteraurant,,-111.9942361,33.6411675,AZ,3.0
+3AgXaXLfxqZn2NxdVoDcPw,"7588-7592 S 51st Ave
+Phoenix, AZ 85339",,,,,,,,False,"Sandwiches,Delis,Breakfast & Brunch,Restaurants",Phoenix,5,Jersey Mike's,,-112.168800830841,33.3796376669781,AZ,3.5
+ijd7e9Oydq3C9raOjZbWcA,"Luckys Lounge
+7345 S Jones Blvd
+Southwest
+Las Vegas, NV 89139",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,False,"Breakfast & Brunch,Restaurants",Las Vegas,12,The Maple Tree Cafe,Southwest,-115.225315,36.0555312,NV,3.0
+-DuZnO0oM7uKrRrWX1P60w,"Lucky's Lounge
+8025 Farm Rd
+Centennial
+Las Vegas, NV 89131",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,False,"Breakfast & Brunch,Restaurants",Las Vegas,3,The Maple Tree,Centennial,-115.270802,36.298153,NV,3.5
+setfRzkAcOPxKH5TZLTqJQ,"3400 E Sky Harbor Blvd
+Ste 3300
+Phoenix, AZ 85034",,,,,,,,True,"Breakfast & Brunch,American (New),Mediterranean,Restaurants",Phoenix,38,Olive & Ivy,,-112.0067166,33.4357166,AZ,3.5
+-TNwWa_OGPmZoBFl25zdYA,"17650 W Elliot Rd
+Ste A-155
+Goodyear, AZ 85338",05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,05:30 - 16:00,05:30 - 14:00,True,"Food,Breakfast & Brunch,Bagels,Coffee & Tea,Restaurants",Goodyear,19,Oasis Bagels,,-112.4296587,33.3574524,AZ,4.0
+5vMwr6sphA6gKbfpaBKtIQ,"5611 Valley View Blvd
+Ste 100
+Las Vegas, NV 89118",06:00 - 15:30,06:00 - 15:30,06:00 - 15:30,06:00 - 15:30,06:00 - 15:30,,,False,"Food,Coffee & Tea,Breakfast & Brunch,Restaurants",Las Vegas,15,Jullie's Caffe Soleil,,-115.190216064453,36.0879783630371,NV,4.5
+OE7RmfGvpvSEv4g3xDKfSw,"Phoenix Sky Harbor International Airport
+3800 E Sky Harbor Blvd
+Phoenix, AZ 85034",06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,True,"Breakfast & Brunch,American (Traditional),Cafes,Restaurants",Phoenix,162,Chelsea's Kitchen,,-111.997697353363,33.4355957545874,AZ,4.0
+e9QRvkzssPNRmBLlDem9ZQ,"4750 N Central Ave
+Phoenix, AZ 85012",07:00 - 15:30,07:00 - 15:30,07:00 - 15:30,07:00 - 15:30,07:00 - 15:30,09:00 - 15:00,09:00 - 15:00,True,"Breakfast & Brunch,Sandwiches,Restaurants",Phoenix,157,Zookz Sandwiches,,-112.074929,33.507229,AZ,4.5
+wG9Aov3y0qRIicugJNAc0w,"32531 N Scottsdale Rd
+Ste 101
+Scottsdale, AZ 85266",06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,06:00 - 21:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Scottsdale,37,Summit Diner,,-111.923919447631,33.7806577729887,AZ,3.0
+5yunjzpxeK64bot8LxWTuw,"3050 E Desert Inn Rd
+Ste 140
+Eastside
+Las Vegas, NV 89121",07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 15:00,True,"Breakfast & Brunch,Comfort Food,Diners,Restaurants",Las Vegas,35,50s Diner,Eastside,-115.1084585,36.1305272,NV,4.5
+zCgYJGjFzDZbhhlGjpgB9Q,"3655 W Anthem Way
+C-137
+Anthem, AZ 85086",07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,Restaurants",Anthem,43,Two Brothers Kitchen,,-112.138280008086,33.8659777768278,AZ,4.5
+pfYXB7wZEWcyJ7t1ha9ePQ,"8110 W Union Hills Dr
+Unit 208
+Glendale, AZ 85308",07:00 - 16:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,False,"Food,Breakfast & Brunch,Bagels,Sandwiches,Restaurants",Glendale,20,Mom & Pop's Bagel & Bakery,,-112.23381,33.65379,AZ,4.0
+WBfPco3j27X_IBpZ_PDcUA,"2155 W Pinnacle Peak Rd
+Unit 1
+Phoenix, AZ 85027",07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,,,True,"Breakfast & Brunch,Restaurants",Phoenix,14,Corridors Cafe,,-112.1068993,33.699034,AZ,5.0
+kyNHcuvg7Rl1gzrPFvZI6Q,"9691 Trailwood Dr
+Summerlin
+Las Vegas, NV 89134",07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,True,"Food,Breakfast & Brunch,Juice Bars & Smoothies,Sandwiches,Restaurants",Las Vegas,93,Rachel's Kitchen,Summerlin,-115.3072017,36.1909406,NV,3.0
+RpxZPQbk0NJqQQCW6z6QVA,"2285 N Green Valley Pkwy
+Henderson, NV 89014",09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,True,"Breakfast & Brunch,Sandwiches,Salad,Restaurants",Henderson,12,Port of Subs,,-115.0843854,36.0565537,NV,3.5
+FnHCN8B_jdD4ZaDk_6mX4Q,"450 Fremont St
+Downtown
+Las Vegas, NV 89101",,,,,,,,True,"Breakfast & Brunch,American (Traditional),Sandwiches,Restaurants",Las Vegas,46,Denny's,Downtown,-115.140844,36.170055,NV,3.0
+uXu7hX_bTrr-48op0Ykkyw,"9700 W Tropicana Ave
+Spring Valley
+Las Vegas, NV 89147",08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,True,"Burgers,Breakfast & Brunch,Restaurants",Las Vegas,69,Biscuits 2 Burgers,Spring Valley,-115.3043039,36.1005737,NV,4.0
+1cCF9wHMJIaaQmj7wqRqMg,"7051 E McDowell Rd
+Scottsdale, AZ 85257",07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,False,"Breakfast & Brunch,American (New),Restaurants",Scottsdale,5,The Nile Cafe,,-111.9290649,33.4656086,AZ,3.0
+VDzgxHjMJj-1nMfJMtcSPQ,"211 E Warner Rd
+Gilbert, AZ 85296",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,True,"Breakfast & Brunch,Restaurants",Gilbert,113,Over Easy,,-111.7851645,33.3351684,AZ,3.0
+gsNmLT5qQTkcoeeXTETO3Q,"6025 N 16th St
+Phoenix, AZ 85016",06:00 - 11:00,06:00 - 11:00,06:00 - 11:00,06:00 - 11:00,06:00 - 11:00,07:00 - 13:00,07:00 - 13:00,True,"Food,Breakfast & Brunch,Coffee & Tea,Bagels,Restaurants",Phoenix,28,Everything Bagels,,-112.047148132536,33.5245931469823,AZ,4.0
+G149aO4XXAKBsUcksvuI7g,"7158 E 5th Ave
+Scottsdale, AZ 85251",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 20:00,True,"Food,Juice Bars & Smoothies,Breakfast & Brunch,American (New),Restaurants",Scottsdale,228,Original ChopShop Co.,,-111.9263751,33.4985304,AZ,4.0
+3HT-8CjIat_Ao3XrGZjq7w,"22721 S Ellsworth Rd
+Queen Creek, AZ 85142",,,,,,,,False,"Food,Coffee & Tea,Breakfast & Brunch,Restaurants",Queen Creek,12,Sorella Caffe,,-111.6340048,33.2418524,AZ,4.5
+DRC8d7Qsbg7UI675ooXUGw,"20710 E Victoria Ln
+Queen Creek, AZ 85142",,,,,,,,True,"Breakfast & Brunch,Restaurants",Queen Creek,21,IHOP Restaurant,,-111.63698404011,33.2517556610489,AZ,2.0
+XrEXdKVM1naBkuOcLxU7PQ,"5955 S Eastern Ave
+Southeast
+Las Vegas, NV 89119",06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 23:00,06:00 - 23:00,07:00 - 22:00,True,"Burgers,Breakfast & Brunch,Sandwiches,Restaurants",Las Vegas,60,Farmer Boys,Southeast,-115.11929243803,36.0813050356477,NV,3.5
+Kx8842zAWXdaBkXtY8I7Bw,"1027 E Washington St
+Phoenix, AZ 85006",07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,09:00 - 14:00,,True,"Food,Coffee & Tea,Breakfast & Brunch,Restaurants",Phoenix,21,GreaterThan Coffee,,-112.059263,33.44794,AZ,4.5
+t259KzpmEzYRJ1bx4RO9sA,"6451 E Southern Ave
+Mesa, AZ 85206",06:30 - 13:00,06:30 - 13:00,06:30 - 13:00,06:30 - 13:00,06:30 - 13:00,06:30 - 14:00,06:30 - 14:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Mesa,51,Over Easy,,-111.692285,33.393391,AZ,3.0
+rPsK-r45WT8zCjSPzUxCKw,"4415 W Flamingo Rd
+Las Vegas, NV 89103",,,,,,,,True,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,21,Einstein Bros Bagels,,-115.200259378497,36.1147442926272,NV,3.0
+qy8EKF7IXGe65_wglj4AgQ,"9 Brandon Terrace
+Stockbridge
+Edinburgh EH3 5EA",07:30 - 18:00,07:30 - 18:00,07:30 - 18:00,07:30 - 18:00,07:30 - 18:00,08:30 - 18:00,09:00 - 18:00,True,"Breakfast & Brunch,Bars,Cafes,Nightlife,Restaurants",Edinburgh,40,The Blue Bear,"Stockbridge,Cannonmills",-3.2001002,55.9622223,MLN,4.5
+4X_XAOeMw7AFkYhg3NINJA,"825 N 1st St
+Phoenix, AZ 85004",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Restaurants",Phoenix,347,Matt's Big Breakfast,,-112.0723168,33.4576585,AZ,4.0
+Xta0mTpGJWC2yi6kiQm_vg,"4306 N 7th Ave
+Phoenix, AZ 85013",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,08:00 - 15:00,True,"Breakfast & Brunch,American (Traditional),Diners,Restaurants",Phoenix,49,Melrose Kitchen,,-112.083130404353,33.4987930208445,AZ,4.0
+sMU8K-iUc9VewvH91Ep9_A,"1235 N Gilbert Rd
+Gilbert, AZ 85234",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 20:00,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,Restaurants",Gilbert,89,Biscuits,,-111.789508,33.373128,AZ,4.0
+TgIJfXqEKE-JsD0QUoaC5Q,"8525 N Central Ave
+Phoenix, AZ 85020",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 00:00,11:00 - 00:00,10:00 - 22:00,True,"Breakfast & Brunch,American (New),Sandwiches,Restaurants",Phoenix,86,Spoke & Wheel,,-112.0737398,33.5612361,AZ,4.0
+heyprN6HwLYVWINXd2z3OQ,"19420 N 59th Ave
+Glendale, AZ 85308",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,07:00 - 14:30,True,"Breakfast & Brunch,American (New),Restaurants",Glendale,54,Biscuits Café,,-112.187,33.6616704882956,AZ,3.0
+2f8o3-FRnq3rwmstUCOZ7A,"Siren's Cove Blvd
+The Strip
+Las Vegas, NV 89109",,,,,,,,True,"Food,Breakfast & Brunch,Coffee & Tea,Restaurants",Las Vegas,28,The Coffee Shop,The Strip,-115.171173568051,36.1237125927705,NV,3.0
+6E2mv2pzea74sXCh0yz_oA,"4225 E Sahara Ave
+Ste 6
+Sunrise
+Las Vegas, NV 89104",08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,09:00 - 18:00,True,"Breakfast & Brunch,American (New),Sandwiches,Restaurants",Las Vegas,8,Bagels And Subs,Sunrise,-115.082142,36.143775,NV,4.5
+t80qleqEIqIyekB95IrAOA,"13623 N 32nd St
+Phoenix, AZ 85032",06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,True,"Breakfast & Brunch,Cafes,Restaurants",Phoenix,209,Original Breakfast House,,-112.013072,33.610554,AZ,4.5
+iCUtP1Iweyp5uHxcllnn6A,"3321 E Queen Creek Rd
+Ste 101
+Gilbert, AZ 85297",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,07:00 - 14:30,07:00 - 14:30,True,"Breakfast & Brunch,Restaurants",Gilbert,65,The Egg I Am,,-111.718297026624,33.2626216728394,AZ,3.5
+IW8akWZrM8i9ce4EDe9Rkw,"150 Las Vegas Blvd N
+Ste 160
+Downtown
+Las Vegas, NV 89101",07:00 - 19:00,07:00 - 19:00,07:00 - 19:00,07:00 - 19:00,07:00 - 19:00,07:00 - 15:00,,True,"Food,Breakfast & Brunch,Juice Bars & Smoothies,Sandwiches,Restaurants",Las Vegas,90,Rachel's Kitchen,Downtown,-115.139516,36.169872,NV,4.0
+JQVAU-HWBnrBGpGB6OvFfg,"10690 E Sheena Dr
+Scottsdale, AZ 85255",08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 21:00,True,"Breakfast & Brunch,American (New),Event Planning & Services,Venues & Event Spaces,Restaurants",Scottsdale,17,Mesquite Grille,,-111.853388,33.616114,AZ,3.5
+6svqiMcmS-tolyzsz2S4-Q,"1435 E University Dr
+Ste 12
+Tempe, AZ 85281",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 02:00,09:30 - 00:00,09:30 - 23:00,True,"Gastropubs,Gluten-Free,Breakfast & Brunch,Restaurants",Tempe,172,Salut Kitchen Bar,,-111.914915,33.421413,AZ,4.0
+21ZKuOC0o8vZglDeR41QLQ,"6720 Skypointe Dr
+Centennial
+Las Vegas, NV 89131",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,True,"Bakeries,Food,Breakfast & Brunch,Cafes,Restaurants",Las Vegas,136,Lulu's Bread & Breakfast,Centennial,-115.269882202148,36.2835006713867,NV,4.0
+NWYSMwJWPhOhIp8O3VkszQ,"280 Bonnington Road
+Leith
+Edinburgh EH6 5BE",07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,07:00 - 14:30,08:00 - 14:00,10:00 - 14:00,True,"Breakfast & Brunch,Restaurants",Edinburgh,3,Bonnington Brunch,Leith,-3.1844272,55.9690918,MLN,4.5
+c0Jxvv5A6qcdzq_M59pHaA,"13014 N Saguaro Blvd
+Fountain Hills, AZ 85268",,,,,,,,False,"Breakfast & Brunch,Diners,Restaurants",Fountain Hills,15,Kimmies,,-111.715082,33.604856,AZ,2.0
+eltTG6JOr9cg5FRAgGy8Jw,"14 E Pierce St
+Phoenix, AZ 85004",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,True,"Breakfast & Brunch,Cafes,Sandwiches,Restaurants",Phoenix,227,Phoenix Public Market Cafe,,-112.0737079,33.4563262,AZ,4.0
+4dB7kQ7qtTkW2v7DX38r_w,"4420 N Saddlebag Trl
+Ste 105
+Scottsdale, AZ 85251",11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,True,"Breakfast & Brunch,Bars,American (New),Nightlife,Restaurants",Scottsdale,105,Dierks Bentley's Whiskey Row,,-111.92239,33.501008,AZ,3.5
+qT4w8n27RBQ_slz_FiK0CQ,"2045 E Camelback Rd
+Town & Country Shopping Ctr
+Phoenix, AZ 85016",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,07:00 - 14:30,07:00 - 14:30,True,"Breakfast & Brunch,Restaurants",Phoenix,277,Snooze AM Eatery,,-112.0378823,33.5092556,AZ,4.0
+j6xHBURTbsdA91aKcp2YLA,"15147 N Scottsdale Rd
+Ste 133
+Scottsdale, AZ 85260",07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,07:00 - 18:00,08:00 - 18:00,08:00 - 16:00,True,"Food,Coffee & Tea,Cafes,Breakfast & Brunch,Restaurants",Scottsdale,38,C3 Kitchen,,-111.923890337348,33.6236476738274,AZ,4.0
+h7R_IMg3nss8I5nV7sbmfg,"113 N 4th St
+Downtown
+Las Vegas, NV 89101",07:00 - 02:00,07:00 - 02:00,07:00 - 02:00,07:00 - 02:00,07:00 - 02:00,09:00 - 02:00,09:00 - 02:00,True,"Breakfast & Brunch,American (New),Mexican,Restaurants",Las Vegas,85,Nacho Daddy,Downtown,-115.141404656,36.1699871443,NV,3.5
+XDHl0TiHGBsVDeMI4OAdEw,"2501 W Beltline Hwy
+Ste 111
+Madison, WI 53713",,,,,,,,True,"Food,Specialty Food,Breakfast & Brunch,American (Traditional),Restaurants",Madison,5,The Egg & I Restaurant,,-89.4217489,43.0342511,WI,4.5
+hcfmPMH8-5ZI85R6dztehA,"10839 S Eastern Ave
+Anthem
+Henderson, NV 89052",06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,06:00 - 15:00,True,"Nightlife,Breakfast & Brunch,American (Traditional),Bars,Restaurants",Henderson,99,Egg Works,Anthem,-115.1016453,35.9953048,NV,3.5
+_6MDHQQ-PeUJ9CP-MoKApA,"724 S Gammon Rd
+Madison, WI 53719",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,American (Traditional),Sandwiches,Restaurants",Madison,12,Pancake Cafe,,-89.503655,43.0488418,WI,2.5
+Fj73x68afXtA388ajOe3qw,"2957 W Bell Rd
+Phoenix, AZ 85053",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Restaurants",Phoenix,42,U.S. Egg,,-112.123249515909,33.6395468017914,AZ,4.5
+DN4kjoM0K31HR230i3n7WA,"467 E Silverado Ranch Blvd
+Ste 100
+Southeast
+Las Vegas, NV 89183",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,62,New Day Cafe,Southeast,-115.1556873,36.0132829,NV,3.5
+eEU1XtdASLqdAGKg0QDNdg,"222 E University Dr
+Tempe, AZ 85281",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 20:00,True,"Food,Juice Bars & Smoothies,Breakfast & Brunch,American (New),Restaurants",Tempe,87,Original ChopShop Co.,,-111.935883,33.422318,AZ,4.0
+I6lnbOahIb_2SxdcuDOuzQ,"1028 E Indian School Rd
+Phoenix, AZ 85014",10:00 - 02:00,10:00 - 02:00,10:00 - 02:00,10:00 - 02:00,10:00 - 02:00,10:00 - 02:00,10:00 - 02:00,True,"Breakfast & Brunch,Bars,Gay Bars,Nightlife,Restaurants",Phoenix,6,Zorfs,,-112.0598182,33.494746,AZ,3.5
+WW2usZ_qGahfXGA5rhKvZw,"7010 N Durango Dr
+Ste 140
+Centennial
+Las Vegas, NV 89149",07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,True,"Food,Breakfast & Brunch,Juice Bars & Smoothies,Sandwiches,Restaurants",Las Vegas,70,Rachel's Kitchen,Centennial,-115.286549546537,36.2884223309324,NV,3.5
+KgbCo7ZDFc5bY7w09PReGQ,"20910 N Tatum Blvd
+Ste 100
+Phoenix, AZ 85050",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,True,"Tapas/Small Plates,Breakfast & Brunch,Cafes,American (New),Restaurants",Phoenix,32,Cafe At Desert Ridge,,-111.980063435721,33.6747352101488,AZ,4.0
+Hi1eTIyZ9QA3RATHrVVl7g,"3933 E Indian School Rd
+Phoenix, AZ 85018",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,07:00 - 13:00,,True,"Food,Breakfast & Brunch,Coffee & Tea,Restaurants",Phoenix,12,White Cup Coffee,,-111.9955077,33.4943965,AZ,4.5
+JVvoR67gHw45G3hioQZp1g,"19171 N John Wayne Pkwy
+Maricopa, AZ 85139",,,,,08:00 - 20:00,08:00 - 20:00,08:00 - 14:00,True,"Breakfast & Brunch,American (New),Restaurants",Maricopa,22,Helen's Kitchen,,-112.049053,33.0540274,AZ,4.0
+BITUQfpxGgwU5vdS7zlgeQ,"5235 E Southern Ave
+Ste 107
+Mesa, AZ 85206",08:00 - 16:00,08:00 - 16:00,08:00 - 16:00,08:00 - 16:00,08:00 - 16:00,08:00 - 16:00,,True,"Food,Desserts,Breakfast & Brunch,Sandwiches,Restaurants",Mesa,34,Cafe 8,,-111.7180642,33.3937103,AZ,4.0
+JV-B-ZDwgA54utmkeG9Aug,"3780 W Happy Valley Rd
+Glendale, AZ 85310",06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,Restaurants",Glendale,50,The Good Egg,,-112.1399378,33.7143083,AZ,3.5
+NNsWAWWllB1Rb0Cdg4WNmQ,"225 E Apache Blvd
+Tempe, AZ 85281",,,,,,,,True,"Breakfast & Brunch,Restaurants",Tempe,6,IHOP Restaurant,,-111.9359999,33.4143794,AZ,2.5
+zNX5kwFvt87sND4YKEjc4Q,"2529 N 75th Ave
+Phoenix, AZ 85035",,,,,,,,True,"Breakfast & Brunch,Restaurants",Phoenix,4,IHOP Restaurant,,-112.2200277,33.4753816,AZ,2.0
+9Tcff8pZht6dQXPfjdReEg,"935 W Elliot Rd
+Chandler, AZ 85225",,,,,,,,True,"Breakfast & Brunch,Restaurants",Chandler,23,IHOP Restaurant,,-111.8566173,33.3493702,AZ,2.5
+bn2HqLj_XpPG9UE3mAo5cg,"7181 N Hualapai Way
+Ste 115
+Centennial
+Las Vegas, NV 89166",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 19:00,07:00 - 19:00,07:00 - 19:00,True,"Burgers,Breakfast & Brunch,American (New),Restaurants",Las Vegas,60,Divine Eatery,Centennial,-115.3148551,36.2957965,NV,4.0
+nol9V6ypimztEEsBofw-3g,"4515 N 7th Ave
+Phoenix, AZ 85013",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,Diners,Restaurants",Phoenix,67,Joe's Diner,,-112.082414,33.5027018,AZ,3.5
+RAnDiNTFtsJnI1X-z2ZsFQ,"9651 Trailwood Dr
+Summerlin
+Las Vegas, NV 89134",,,,,,,,True,"Breakfast & Brunch,Restaurants",Las Vegas,4,IHOP,Summerlin,-115.3065246,36.1910528,NV,3.0
+zjdr4OMXZzTHIcKb9VYL-w,"745 N Highpoint Rd
+Wexford
+Madison, WI 53717",,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,08:00 - 17:00,False,"Breakfast & Brunch,American (Traditional),Restaurants",Madison,12,America Latina,Wexford,-89.5184744,43.0760775,WI,4.5
+t-g86Zfj0iiyqbLzRQdNyg,"606 S Watson Rd
+Buckeye, AZ 85326",,,,,,,,True,"Breakfast & Brunch,American (Traditional),Restaurants",Buckeye,4,Cracker Barrel,,-112.5569658,33.4414156,AZ,4.5
+FncEp_Bs9JJxthNk44OQrQ,"3201 W Indian School
+Phoenix, AZ 85017",05:30 - 22:00,05:30 - 22:00,05:30 - 22:00,05:30 - 22:00,05:30 - 23:00,05:30 - 23:00,05:30 - 22:00,True,"Food,Donuts,Coffee & Tea,Breakfast & Brunch,Restaurants",Phoenix,10,Krispy Kreme Doughnuts,,-112.127784308636,33.4946108367144,AZ,2.5
+eivj7F0pjWJvDeuKFExC2g,"6960 E 1st St
+Scottsdale, AZ 85251",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,True,"Food,Coffee & Tea,Cafes,Breakfast & Brunch,Restaurants",Scottsdale,37,Alo Cafe,,-111.930947229266,33.4924776743627,AZ,4.5
+oeUCpP2rGiYcZrHUhiysdg,"420 S Rampart Blvd
+Ste 150
+Westside
+Las Vegas, NV 89145",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,True,"Food,Desserts,Breakfast & Brunch,Creperies,Restaurants",Las Vegas,71,The Crêpe,Westside,-115.2855925,36.1671901,NV,3.5
+gcyIy1HxSZt3ixGIOtGzcw,"20775 N Pima Rd
+Scottsdale, AZ 85255",06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,06:30 - 14:00,True,"Breakfast & Brunch,Restaurants",Scottsdale,32,The Breakfast Joynt,,-111.8904909,33.6721383,AZ,4.0
+bIZsC7xn2AUZPXm9j9etXg,"4622 S Higley Rd
+Ste 101
+Gilbert, AZ 85297",07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 22:00,07:00 - 22:00,07:00 - 20:00,True,"Breakfast & Brunch,Mexican,Tex-Mex,Restaurants",Gilbert,22,Tacos N More 2,,-111.7206896,33.2649384,AZ,3.5
+A3zvSbe0TEOMce-Az-kTzw,"1535 E Old W Hwy
+Apache Junction, AZ 85119",06:00 - 20:00,06:00 - 20:00,06:00 - 20:00,06:00 - 20:00,06:00 - 20:00,06:00 - 20:00,06:00 - 14:00,True,"Breakfast & Brunch,Restaurants",Apache Junction,3,Skies Kitchen,,-111.5299959,33.4033559,AZ,4.0
+d4bXnfbUc1SLu3jVcr-w1w,"500 S Main St
+Downtown
+Las Vegas, NV 89101",08:00 - 14:00,08:00 - 14:00,08:00 - 14:00,08:00 - 14:00,08:00 - 14:00,08:00 - 15:00,08:00 - 15:00,True,"Breakfast & Brunch,Cafes,Comfort Food,Restaurants",Las Vegas,220,MTO Café,Downtown,-115.1496248,36.1669491,NV,4.5
+31Ix66CdEqyiNJ77XuoXyw,"3830 E Indian School Rd
+Phoenix, AZ 85014",,06:30 - 15:00,06:30 - 15:00,06:30 - 15:00,06:30 - 15:00,06:30 - 15:00,06:30 - 15:00,True,"Bakeries,Food,Breakfast & Brunch,Restaurants",Phoenix,68,Essence Bakery Cafe,,-111.9986481,33.4952835,AZ,3.5
+8q957qOv1wED08Rgs0-VGg,"3430 E Tropicana Ave
+Ste 6
+Eastside
+Las Vegas, NV 89121",07:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,08:00 - 15:00,True,"Burgers,Breakfast & Brunch,American (Traditional),Restaurants",Las Vegas,74,Kailyn's Kitchen,"Eastside,Southeast",-115.0998341,36.1004618,NV,4.5
+24sfMJfk7VawkvYONirHaA,"4415 E Village Pkwy
+Gilbert, AZ 85298",07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,True,"Breakfast & Brunch,American (New),Restaurants",Gilbert,8,Slate Bistro & Bar,,-111.693737,33.254058,AZ,4.5
+_WbZri6b9Wq4iofDm7CI9Q,"444 W Johnson St
+Capitol
+Madison, WI 53703",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 00:00,07:00 - 00:00,08:00 - 00:00,08:00 - 22:00,True,"Breakfast & Brunch,Restaurants",Madison,76,Bassett Street Brunch Club,Capitol,-89.393353,43.072731,WI,4.0
+vbZ0BWZK1fbBjetxe3sTOQ,"3121 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109",,,,,,,,True,"Food,Bakeries,Coffee & Tea,Breakfast & Brunch,Restaurants",Las Vegas,18,The Cafe at The Wynn Resorts,The Strip,-115.1658417,36.1272588,NV,3.5
+6LNuxmnwiTvxXEDk06MkrA,"7090 N Durango Dr
+Ste 140
+Centennial
+Las Vegas, NV 89149",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,Cafes,Restaurants",Las Vegas,95,Babystacks Cafe,Centennial,-115.2868474,36.2896832,NV,3.5
+9bUaVdIP1rvFl04L3_tLIw,"37 W Baseline Rd
+Tempe, AZ 85282",,,,,,,,True,"Breakfast & Brunch,Restaurants",Tempe,7,Bosa Donuts,,-111.9405712,33.3779199,AZ,4.5
+yJ6E8ICe7jOE7bC8F17rLA,"414 W University Dr
+Tempe, AZ 85281",06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:00 - 14:30,06:30 - 14:30,True,"Breakfast & Brunch,American (Traditional),Restaurants",Tempe,34,Biscuits Cafe,,-111.9453653,33.4221754,AZ,4.0
+guLkdetJ603Bw_A6tuecIg,"4455 E Camelback Rd
+Phoenix, AZ 85018",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,08:00 - 23:00,08:00 - 21:00,True,"Breakfast & Brunch,American (New),Restaurants",Phoenix,189,The Henry,,-111.9845139,33.5091049,AZ,4.0
+kyoIj_mDNFxCdy_m3uHNmQ,"1701 E Guadalupe Rd
+Tempe, AZ 85283",08:00 - 14:00,08:00 - 14:00,08:00 - 18:00,08:00 - 18:00,08:00 - 20:00,08:00 - 20:00,08:00 - 14:00,True,"Breakfast & Brunch,Gluten-Free,Vegetarian,Restaurants",Tempe,44,24 Carrots Juice Bar & Cafe,,-111.9130587,33.363419,AZ,4.0
+p9rysWzbd9eMDmxRH9y0fA,"4350 E Camelback Rd
+Phoenix, AZ 85018",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,True,"Breakfast & Brunch,American (New),Salad,Restaurants",Phoenix,82,Chestnut Fine Foods & Provisions,,-111.9880736,33.5099969,AZ,3.0
+PAc86E5fS3oxBk3fakP8qA,"11001 N 99th Ave
+Peoria, AZ 85345",06:00 - 20:00,06:00 - 20:00,06:00 - 20:00,06:00 - 20:00,06:00 - 21:00,06:00 - 21:00,06:00 - 15:00,True,"Breakfast & Brunch,Diners,Restaurants",Peoria,21,Cafe 99,,-112.2720793,33.5837549,AZ,3.5
+fKOI-jyRDRroyB_2dq3cpw,"3790 Blvd S
+The Strip
+Las Vegas, NV 89109",07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,,True,"Breakfast & Brunch,Restaurants",Las Vegas,10,48th and Crepe,The Strip,-115.1735983,36.1015871,NV,3.5
+aTqFeIRwtjCBSMJ8uzAoIA,"4341 E Baseline Rd
+Gilbert, AZ 85234",,,,,,,,True,"Breakfast & Brunch,Cafes,American (New),Restaurants",Gilbert,64,Bluelemon,,-111.740182965943,33.3780001463306,AZ,3.0
+MOye61Ou7gMl680BpsvDiQ,"6590 N Scottsdale Rd
+Ste 100
+Scottsdale, AZ 85253",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,True,"Breakfast & Brunch,Restaurants",Scottsdale,37,Scramble,,-111.927554,33.533401,AZ,3.0
+BVgnavF-B0wxQhP7wJTAVg,"4604 Monona Dr
+Monona, WI 53716",05:30 - 18:00,05:30 - 18:00,05:30 - 18:00,05:30 - 18:00,05:30 - 18:00,07:00 - 14:00,,True,"Food,Bakeries,Coffee & Tea,Breakfast & Brunch,Restaurants",Monona,10,Rosie's Coffee Bar and Bakery,,-89.3260826,43.0698053,WI,4.0
+Cvfi5N4zR9G05Pbg-Ud-KQ,"10820 W Charleston Blvd
+Summerlin
+Las Vegas, NV 89135",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,True,"Breakfast & Brunch,Bars,Restaurants,Nightlife,Italian",Las Vegas,79,Distill - A Local Bar,Summerlin,-115.331591073059,36.1606854895131,NV,3.5
+tcn6SVQRyEu3aa2KktRR9g,"2909 S Dobson Rd
+Ste 21
+Mesa, AZ 85202",06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,06:00 - 14:00,True,"Breakfast & Brunch,Restaurants",Mesa,30,Bisbee Breakfast Club Mesa,,-111.8756357,33.3619794,AZ,3.0
+zNQgmtxU17hOc5wY5ekqRw,"825 N 1st St
+Phoenix, AZ 85034",,,,,,,,True,"Breakfast & Brunch,American (Traditional),Restaurants",Phoenix,22,Matt's Big Breakfast,,-111.996967227712,33.4374021100746,AZ,3.0
+cXpMb3aCwMUsWikcXL7qJQ,"150 University Avenue W
+Waterloo, ON N2L 6J3",08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,,True,"Breakfast & Brunch,Chinese,Restaurants",Waterloo,12,Grace and Healthy Premium Dumplings,,-80.5361590906978,43.4725838197356,ON,4.5
+9I7aN_mAByif-jstzclb4Q,"3800 E Sky Harbor Blvd
+Terminal 4
+Phoenix, AZ 85034",05:30 - 14:00,05:30 - 14:00,05:30 - 14:00,05:30 - 14:00,05:30 - 14:00,05:30 - 14:00,05:30 - 14:00,True,"Breakfast & Brunch,Restaurants",Phoenix,24,Matt's Big Breakfast,,-111.9978273,33.4352284,AZ,3.5
+kT_7_6nj39hV7o98c8WLbA,"15530 N Tatum Blvd
+Phoenix, AZ 85032",,,,,,,,True,"Breakfast & Brunch,Comfort Food,American (New),Restaurants",Phoenix,107,Modern Grove,,-111.9779084,33.6278262,AZ,3.0
+aj2FShIkWIm1i1qnTljP6w,"3225 S Rainbow Blvd
+Ste 106
+Westside
+Las Vegas, NV 89146",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,True,"Food,Coffee & Tea,Breakfast & Brunch,Restaurants",Las Vegas,23,Strip View Cafe,Westside,-115.243406966329,36.1305251599811,NV,4.0
+_UOaoy1lcdIbgaA-d9dqpg,"8763 E Bell Rd
+Ste C103
+Scottsdale, AZ 85260",06:30 - 16:00,06:30 - 16:00,06:30 - 16:00,06:30 - 16:00,06:30 - 16:00,06:30 - 16:00,,True,"Bagels,Food,Breakfast & Brunch,Sandwiches,Vegetarian,Restaurants",Scottsdale,8,Vermont Sandwich Co.,,-111.89151763916,33.6396980285645,AZ,4.0
+NqV89VQBV9kvUaA7a8F-tg,"301 W Johnson St
+Capitol
+Madison, WI 53703",,,,07:00 - 15:00,09:00 - 17:00,09:00 - 16:00,09:00 - 18:00,True,"Breakfast & Brunch,Restaurants",Madison,37,Short Stack Eatery,Capitol,-89.3899215012789,43.0745169945835,WI,4.5
+uQni9zWYFcz7LUn2_hIdDQ,"35 W Boston St
+Chandler, AZ 85225",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 20:00,True,"Food,Juice Bars & Smoothies,Breakfast & Brunch,American (New),Restaurants",Chandler,36,Original ChopShop Co.,,-111.842025756836,33.3020248413086,AZ,4.0
+F2aOcE-K4nsc1GUToPM1jQ,"6825 W Russell Rd
+Ste 115
+Spring Valley
+Las Vegas, NV 89118",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,09:00 - 18:00,09:00 - 18:00,True,"Breakfast & Brunch,Restaurants",Las Vegas,72,Bachi Healthy Life Kitchen,Spring Valley,-115.2412756,36.0844749,NV,3.5
+tv3qQk43GgNRxhu5LK2HXw,"9921 W Charleston Blvd
+Westside
+Las Vegas, NV 89117",,,,,,,,True,"Breakfast & Brunch,American (New),Restaurants",Las Vegas,26,The Cracked Egg,"Westside,South Summerlin",-115.313466909343,36.1578881717939,NV,3.5
+pdkMD-TDYSeRg5PTa7iOIw,"Royal Palm Plz
+1815 E Elliot Rd
+Tempe, AZ 85284",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 20:00,07:00 - 14:00,07:00 - 14:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Tempe,14,Biscuits,,-111.909610927105,33.3487234722503,AZ,3.0
+PbvL3Ay5PnyWbgXZjrN9pw,"550 N Stephanie St
+Ste D
+Henderson, NV 89014",07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 14:00,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,American (Traditional),Hawaiian,Restaurants",Henderson,56,Babystacks Cafe,,-115.045985,36.062159,NV,4.0
+g6SHDb-0BYr2weF7heRsjg,"1941 W Guadalupe Rd
+Ste 118
+Mesa, AZ 85202",,,,,,,,True,"Breakfast & Brunch,Vegetarian,Vegan,Restaurants",Mesa,5,Iss' Magic Mixes Oatmeal Cafe,,-111.8757857,33.3628077,AZ,5.0
+AstBY--d6rxLfrVIfXHF0g,"507 W Thomas Rd
+Ste A
+Phoenix, AZ 85013",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,True,"Breakfast & Brunch,American (Traditional),Restaurants",Phoenix,4,Appetite Xpress,,-112.080959347885,33.4800301694915,AZ,4.5

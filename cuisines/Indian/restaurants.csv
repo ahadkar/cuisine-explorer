@@ -1,0 +1,570 @@
+business_id,full_address,mon_hours,tue_hours,wed_hours,thu_hours,fri_hours,sat_hours,sun_hours,open,categories,city,review_count,name,neighborhoods,longitude,latitude,state,stars
+jqo3Ljexof9sA8PhSTwEjA,"1707 Thierer Rd
+Madison, WI 53704",,,,,,,,True,"Indian,Restaurants",Madison,34,Maharaja Restaurant E Pt Plaza,,-89.3124158,43.1222472,WI,4.0
+_RBUU1y4yJrK0SPAd8z0-w,"5104 E McDowell Rd
+Phoenix, AZ 85008",11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,True,"Pakistani,Indian,Buffets,Restaurants",Phoenix,128,Indian Delhi Palace,,-111.9718284,33.4657562,AZ,3.5
+LYyGQgL60VKdV-p_9OxmWQ,"4515 N 16th St
+Phoenix, AZ 85016",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,17:00 - 21:30,,True,"Pakistani,Indian,Buffets,Restaurants",Phoenix,110,Flavors of India,,-112.0470936,33.5026383,AZ,3.5
+vA9aCw2kTgN8p2SLdm2mDA,"1609 E Bell Rd.
+Phoenix, AZ 85022",,,,,,,,False,"Pakistani,Indian,Restaurants",Phoenix,24,Taste of India,,-112.0477215,33.6403046,AZ,2.0
+d_8bMNQd0mesbEUeq1U2kQ,"4025 E Chandler Blvd
+Ste 14
+Phoenix, AZ 85048",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,True,"Pakistani,Indian,Buffets,Restaurants",Phoenix,79,Star of India,,-111.9945819,33.304667,AZ,4.0
+H-99nG_KfynWPXh84TKj8A,"1941 W Guadalupe Rd
+Ste 102
+Mesa, AZ 85202",11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,False,"Pakistani,Indian,Buffets,Restaurants",Mesa,32,Copper Kettle-Salads Balti & Taandoori Grill,,-111.8761389,33.362719,AZ,3.5
+wy_R4crNr1BH0CP87y9UHQ,"6245 W Chandler Blvd
+Chandler, AZ 85226",,,,,,,,False,"Pakistani,Indian,Restaurants",Chandler,52,India Gate,,-111.9490143,33.3048389,AZ,3.5
+6SMQl2vR37HvjYWwSl1V3w,"1845 E Broadway Rd
+Ste 101
+Tempe, AZ 85282",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,False,"Indian,Buffets,Restaurants",Tempe,97,Royal Taj,,-111.90755,33.4066716,AZ,3.5
+bciNuOPRtP2Kc98EhsqSpQ,"1761 E Warner Rd
+Ste 5
+Tempe, AZ 85284",,,,,,,,False,"Indian,Buffets,Restaurants",Tempe,18,Priya Indian Cuisine,,-111.9116464,33.3334981,AZ,3.0
+NKSA0em3dHSGTyo6Eu-Waw,"5775 West Bell Rd
+Ste 5
+Glendale, AZ 85308",,,,,,,,True,"Indian,Buffets,Restaurants",Glendale,57,Indian Maharaja Palace,,-112.183988,33.6386895,AZ,3.0
+LM71VvmoAWDD5z8h7XoVig,"4604 W Sahara Ave
+Ste 6
+Westside
+Las Vegas, NV 89102",11:30 - 21:00,11:30 - 21:00,11:30 - 21:00,11:30 - 21:00,11:30 - 22:00,12:00 - 22:00,,False,"Vegetarian,Indian,Vegan,Restaurants",Las Vegas,146,Samosa Factory,Westside,-115.20472,36.145118,NV,4.0
+cZxez9tUb9hqV3KXq5YPAQ,"2218 Paradise Rd
+The Strip
+Las Vegas, NV 89104",11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,True,"Pakistani,Indian,Restaurants",Las Vegas,67,India Oven,The Strip,-115.15464,36.1443942,NV,3.5
+sywKS0egWKmb9vJr9a_zUA,"1256 S Park St
+Bay Creek
+Madison, WI 53715",17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,11:30 - 15:00,11:30 - 15:00,17:00 - 22:00,True,"Indian,Restaurants",Madison,38,Taj Indian Restaurant,Bay Creek,-89.3959319,43.0532271,WI,4.0
+cd5bMHS4w56rLfjcLGTobg,"6713 Odana Rd
+Madison, WI 53719",17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,11:30 - 15:00,11:30 - 15:00,17:00 - 22:00,True,"Indian,Restaurants",Madison,103,Maharaja Restaurant,,-89.4976609,43.056081,WI,4.0
+oxsCvEkQNNIbOPDt_QK_0A,"7373 E Scottsdale Mall
+Ste 1
+Scottsdale, AZ 85251",11:00 - 14:30,17:00 - 22:00,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,True,"Pakistani,Indian,Restaurants",Scottsdale,77,Jewel of the Crown,,-111.9240917,33.4922033,AZ,4.0
+RtApx92iFX4n-e1VlQlkmQ,"1050 E Lemon St
+Tempe, AZ 85281",,,,,,,,False,"Pakistani,Indian,Buffets,Restaurants",Tempe,11,Copper Kettle-Salads Balti & Taandoori Grill,,-111.9219044,33.4167493,AZ,3.0
+JsanjIgKkl_b6kc4qWC55Q,"933 E University Dr
+Ste 103
+Tempe, AZ 85281",,,,,,,,True,"Pakistani,Indian,Buffets,Restaurants",Tempe,107,Delhi Palace Cuisine of India,,-111.924806,33.42135,AZ,3.5
+NMYXPFV8V5uOi9wUuR3mdg,"1043 E Lemon St
+Tempe, AZ 85281",,,,,,,,True,"Indian,Buffets,Restaurants",Tempe,43,Kohinoor Cuisine of India,,-111.9224971,33.4167741,AZ,3.5
+y3V2jqKmvWjyo9Mc-Ipn4g,"1801 E Baseline Rd
+Ste 104
+Tempe, AZ 85283",,,,,,,,False,"Pakistani,Indian,Buffets,Restaurants",Tempe,36,Pasand,,-111.908621,33.3774019,AZ,3.0
+4FmFTk3qmd5inT-ZGFYwgw,"6746 E Cave Creek Rd
+Cave Creek, AZ 85331",,,,,,,,True,"Indian,Mexican,Restaurants",Cave Creek,20,Indian Village,,-111.934503,33.832384,AZ,4.0
+aiUid8bYNV8XDiSk7EKOIw,"3700 W Flamingo Rd
+Las Vegas, NV 89103",17:00 - 22:30,11:30 - 14:30,17:00 - 22:30,11:30 - 14:30,11:30 - 14:30,17:00 - 22:30,11:30 - 14:30,False,"Pakistani,Indian,Restaurants",Las Vegas,45,Gaylord India Restaurant,,-115.186442,36.118699,NV,3.5
+JSuzEURjXIr0G8WrECZIoA,"4080 Paradise Rd
+Ste 9
+Eastside
+Las Vegas, NV 89169",11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,True,"Vegetarian,Indian,Restaurants",Las Vegas,120,Gandhi India's Cuisine,Eastside,-115.152727,36.11516,NV,3.5
+jh7S78tc9oXCDjAjP_OrLw,"505 E Twain Ave
+Eastside
+Las Vegas, NV 89169",11:30 - 22:30,11:30 - 22:30,11:30 - 22:30,11:30 - 22:30,11:30 - 22:30,11:30 - 22:30,11:30 - 22:30,True,"Indian,Restaurants",Las Vegas,345,India Palace,Eastside,-115.151852,36.121237,NV,4.0
+gkWEjZIVcrUerEzed6IKpg,"730 E Flamingo Rd
+Ste 10
+Eastside
+Las Vegas, NV 89119",11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,True,"Indian,Restaurants",Las Vegas,460,Mint Indian Bistro,"Eastside,University",-115.147404670715,36.1148754728254,NV,4.0
+2dioqPw6txEgB397frYg-A,"Hawaiian Marketplace
+3743 S Las Vegas Blvd,  Ste 205
+The Strip
+Las Vegas, NV 89109",18:00 - 23:00,18:00 - 23:00,11:30 - 15:00,18:00 - 23:00,11:30 - 15:00,11:30 - 15:00,18:00 - 23:00,True,"Indian,Restaurants",Las Vegas,233,Tamba Indian Cuisine & Lounge,The Strip,-115.17204,36.106542,NV,3.5
+lhRUPA28pRIN1MnllN-o9g,"1636 N Scottsdale Rd
+Tempe, AZ 85281",17:00 - 21:30,17:00 - 21:30,17:00 - 21:30,11:00 - 15:00,17:00 - 22:00,17:00 - 22:00,17:00 - 21:30,True,"Vegetarian,Indian,Restaurants",Tempe,143,Udupi Indian Veg & Vegan Cuisine,,-111.9270204,33.4480659,AZ,4.0
+v7pdhN99iD4cphcb-6JHVQ,"4255 W Bell Rd
+Phoenix, AZ 85053",11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,11:30 - 23:00,11:30 - 23:00,11:30 - 22:00,False,"Food,Herbs & Spices,Specialty Food,Indian,Restaurants",Phoenix,23,Tandoori Village,,-112.1516293,33.6390426,AZ,3.5
+qpptyM9Dfns3AW5E_lsu6Q,"4480 Paradise Rd
+Ste 1200
+Eastside
+Las Vegas, NV 89169",11:30 - 22:30,11:30 - 22:30,11:30 - 22:30,11:30 - 22:30,11:30 - 22:30,11:30 - 22:30,11:30 - 22:30,True,"Pakistani,Bars,Indian,Nightlife,Restaurants",Las Vegas,274,Origin India Restaurant & Bar,Eastside,-115.151261,36.108898,NV,3.5
+GfuApsBX3jHdZGgWi8PTag,"8530 W Warm Springs Rd
+Ste 101
+Southwest
+Las Vegas, NV 89113",,11:30 - 14:30,17:00 - 22:00,11:30 - 14:30,11:30 - 14:30,17:00 - 22:00,11:30 - 14:30,True,"Indian,Restaurants",Las Vegas,96,Mantra Masala,"Southwest,Spring Valley",-115.277455,36.056242,NV,3.5
+Blv95aU63EQSMw7wH9xSQA,"380 W Washington Ave
+Capitol
+Madison, WI 53774",17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,11:30 - 15:00,11:30 - 15:00,17:00 - 22:00,True,"Pakistani,Indian,Restaurants",Madison,97,Maharani Restaurant,Capitol,-89.3888272,43.0717393,WI,3.5
+6VRbbNQe5ouWmwsMebUMkg,"5626 W Bell Rd
+Ste A-103
+Glendale, AZ 85308",,11:30 - 14:30,17:00 - 22:00,11:30 - 14:30,11:30 - 14:30,17:00 - 22:00,11:30 - 14:30,True,"Indian,Restaurants",Glendale,119,Tandoori Times 2 Indian Bistro,,-112.179954,33.6393732,AZ,3.5
+syfCpXqRXeL4tyokKx6JJw,"707 N Highpoint Rd
+Wexford
+Madison, WI 53774",17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,11:30 - 15:00,11:30 - 15:00,17:00 - 22:00,True,"Pakistani,Indian,Restaurants",Madison,63,Swagat India,Wexford,-89.5184935,43.075144,WI,4.0
+izedaB_5KgNeS8X46zkcgg,"5006 S Maryland Pkwy
+Southeast
+Las Vegas, NV 89119",,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,False,"Indian,Buffets,Restaurants",Las Vegas,10,Sai India Curry,Southeast,-115.136795,36.0987077,NV,3.0
+ZeJArxfvuV1rAAGT5Xe5Yw,"710 W Elliot Rd
+Ste 108
+Tempe, AZ 85284",17:30 - 21:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:30 - 15:00,17:30 - 21:30,True,"Indian,Buffets,Restaurants",Tempe,81,Kabab Palace,,-111.947591,33.349676,AZ,3.5
+NCbHGtOP5yJBJsPPaE3X5g,"2941 W Bell Rd
+Phoenix, AZ 85053",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,True,"Indian,Buffets,Restaurants",Phoenix,105,India Palace,,-112.122304737568,33.6397283524275,AZ,3.5
+JXQBl4aCf5-dQhcg_5LwCg,"2051 W Warner Rd
+Ste 7
+Chandler, AZ 85224",,,,,,,,False,"Pakistani,Indian,Restaurants",Chandler,10,Curry House,,-111.8767,33.3223,AZ,2.5
+qWAvx3yktyMQixSh4K0Dog,"3202 E Greenway Rd
+Ste 1617
+Phoenix, AZ 85032",,,,,,,,True,"Pakistani,Indian,Restaurants",Phoenix,3,Zest of India,,-112.0121147,33.6272318,AZ,1.0
+q49bnZsYJoynnffQSV06gQ,"2048 E Baseline Rd
+Mesa, AZ 85204",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,True,"Pakistani,Indian,Buffets,Restaurants",Mesa,106,Guru Palace,,-111.787222,33.381412,AZ,4.0
+xEg0-xrQywU5K-WQO7cy0w,"15111 N Hayden Rd
+Ste 170
+Scottsdale, AZ 85260",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,12:00 - 15:00,12:00 - 15:00,True,"Indian,Buffets,Halal,Restaurants",Scottsdale,138,Indian Paradise,,-111.904171575451,33.6222859533147,AZ,4.0
+HxY60lnXn37AtPeUprQ3iA,"1430 W Warner Rd
+Gilbert, AZ 85233",,,,,,,,False,"Pakistani,Indian,Restaurants",Gilbert,6,Aromas at Island Restaurant,,-111.821208,33.3359514,AZ,3.5
+0IDIy6Ti9V4rKhX-WgWFHg,"3050 Cahill Main
+Ste 3
+Fitchburg, WI 53711",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 21:00,16:00 - 20:30,True,"Thai,Indian,Restaurants",Fitchburg,35,Curry in the Box,,-89.418612,43.023349,WI,3.5
+1alcD9lDjwxDIcGaUh9oCw,"2623 Monroe St
+Dudgeon-Monroe
+Madison, WI 53711",,17:00 - 21:30,17:00 - 21:30,17:00 - 21:30,17:00 - 21:30,17:00 - 21:30,17:00 - 21:30,True,"Indian,Restaurants",Madison,29,Taste of India,Dudgeon-Monroe,-89.428248,43.0572208,WI,4.0
+3GAPcBG8SowgrpS6UHlDeQ,"10810 N Tatum Blvd
+Phoenix, AZ 85028",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:30,11:00 - 21:00,11:00 - 21:00,False,"Vegetarian,Indian,Gluten-Free,Restaurants",Phoenix,145,Bombay Spice Grill,,-111.9787698,33.5839404,AZ,3.5
+TO2a5gXGGAU8Uq67bzqE-w,"1546 W Bell Rd
+Phoenix, AZ 85023",,,,,,,,False,"Indian,Restaurants",Phoenix,3,Indian Paradise,,-112.093723,33.640558,AZ,3.0
+APgL23vh7f7H_wAGTl57xQ,"4980 W Ray Rd
+Ste 10
+Chandler, AZ 85226",17:00 - 21:30,11:00 - 21:30,17:00 - 21:30,11:00 - 15:00,17:00 - 21:30,11:00 - 22:00,11:00 - 21:30,True,"Vegetarian,Indian,Restaurants",Chandler,96,Woodlands Vegetarian South Indian Kitchen,,-111.9274727,33.321378,AZ,4.0
+8MKeIqMlo6gTqBqXC0sj3A,"1872 E Apache Blvd
+Tempe, AZ 85281",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 21:00,12:00 - 21:00,True,"Gluten-Free,Indian,Vegan,Restaurants",Tempe,266,The Dhaba,,-111.905131,33.414938,AZ,4.0
+wjdliX7p3uNZJSSiwB737w,"1849 N Scottsdale Rd
+Tempe, AZ 85281",,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,11:00 - 15:00,12:00 - 22:00,12:00 - 22:00,False,"Indian,Buffets,Restaurants",Tempe,61,Taj Mahal Indian Cuisine,,-111.9264514,33.4497949,AZ,3.5
+5awoo-7qHP6LGdcCiLGMkg,"3 Regina St N
+Waterloo, ON N2J 2Z7",,,,,,,,True,"Indian,Restaurants",Waterloo,13,Masala Bay Fine Indian Dining,,-80.5219384,43.465772,ON,3.5
+u0wY6ffKnBs5JNJgGmIG7Q,"465 Phillip St
+Waterloo, ON N2L 6C7",,,,,,,,True,"Indian,Caterers,Middle Eastern,Event Planning & Services,Pakistani,Restaurants",Waterloo,7,Koh I-Noor Restaurant,,-80.5408262,43.4844189,ON,3.0
+IORqMMLjr0afaMKnt6tcig,"4355 King Street E
+Kitchener, ON N2P 2E9",,,,,,,,True,"Pakistani,Indian,Middle Eastern,Restaurants",Kitchener,10,Modern India Restaurant,,-80.3965901,43.4073463,ON,3.0
+SUBoLKB5m8WyunvLmpw71A,"101 Hazelglen Dr
+Kitchener, ON N2M 5A2",,,,,,,,True,"Pakistani,Indian,Restaurants",Kitchener,3,Ali's Tandoori Junction,,-80.5267159,43.4405252,ON,4.5
+J7ZNnzbCoyMqd-y608wl6A,"4825 E Warner Rd
+Phoenix, AZ 85044",11:30 - 20:30,11:30 - 20:30,11:30 - 20:30,11:30 - 20:30,11:30 - 21:00,11:30 - 21:00,,False,"Indian,Restaurants",Phoenix,6,Curry Leaf Indian Grill,,-111.9813995,33.3307646,AZ,3.0
+FfCUl9Bqt3QrL0xtkPDQXg,"50 E Fountainbridge
+Old Town
+Edinburgh EH3 9BH",12:00 - 14:00,12:00 - 14:00,12:00 - 14:00,12:00 - 14:00,17:00 - 23:00,12:00 - 14:00,17:00 - 23:00,True,"Pakistani,Indian,Restaurants",Edinburgh,19,Love India,Old Town,-3.2047122,55.9450317,EDH,4.0
+5dUDkaxm5FdQanoNkP86KQ,"14a Nicolson Street
+Newington
+Edinburgh EH8 9DH",12:00 - 21:30,12:00 - 21:30,12:00 - 21:30,12:00 - 21:30,12:00 - 21:30,12:00 - 21:30,12:00 - 21:30,True,"Indian,Restaurants",Edinburgh,17,Suruchi Resturant,Newington,-3.1856285619134,55.946825587593,MLN,4.0
+nOel1jHjp5CW98mPOdt9Yw,"14-14a Brougham Street
+Tollcross
+Tollcross
+Edinburgh EH3 9JH",12:00 - 15:00,12:00 - 15:00,12:00 - 15:00,12:00 - 15:00,12:00 - 15:00,12:00 - 15:00,12:00 - 15:00,True,"Indian,Restaurants",Edinburgh,14,Mezbaan South Indian Restaurant,Tollcross,-3.2033914,55.9436949,EDH,3.5
+fim25PCT0vPQJ5CV2Z4uLQ,"45 Raeburn Place
+Stockbridge
+Edinburgh EH4 1HX",,,,,,,,True,"Indian,Fast Food,Pakistani,Restaurants",Edinburgh,5,Shanaz Takeaway,Stockbridge,-3.2122622,55.9589233,EDH,4.5
+5aG5ng8vFiYplwnN44BwkQ,"79 Buccleuch Street
+Newington
+Edinburgh EH8 9LS",12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,False,"Pakistani,Fast Food,Indian,Restaurants",Edinburgh,7,Kings Balti,Newington,-3.1840752,55.9423666,EDH,3.0
+kKFhTgBPZ02W6zsVB59Ukg,"105-109 Lothian Road
+Old Town
+Edinburgh EH3 9AN",,,,,,,,False,"Indian,Chinese,Restaurants",Edinburgh,3,Club India restaurant,Old Town,-3.2053805,55.946241,EDH,3.5
+B26NWJonsZhAM4kBR9O9Yw,"121 Constitution Street
+Leith
+Edinburgh EH6 7AE",17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,True,"Pakistani,Indian,Restaurants",Edinburgh,6,Suruchi Too,Leith,-3.1687981,55.9724548,EDH,3.0
+U569xa6_Z6GlQaET_Z2rXQ,"8 West Maitland Street
+West End
+Edinburgh EH12 5DS",12:00 - 14:00,12:00 - 14:00,12:00 - 14:00,12:00 - 14:00,17:00 - 23:30,12:00 - 14:00,17:00 - 23:00,True,"Indian,Himalayan/Nepalese,Restaurants",Edinburgh,10,The Khukuri,West End,-3.2158895,55.946597,EDH,4.5
+C4TRU_cvv4FASvh6tCMY2w,"138-140 Duke Street
+Leith
+Edinburgh EH6 8HR",,,,,,,,True,"Pakistani,Indian,Restaurants",Edinburgh,6,Bombay Spice,Leith,-3.1679743,55.9691048,EDH,3.5
+2valrZLZWYz62Vd2vgLF_w,"5 Hamilton Place
+Stockbridge
+Edinburgh EH3 5BA",17:30 - 23:30,17:30 - 23:30,17:30 - 23:30,17:30 - 23:30,17:30 - 23:30,12:00 - 14:30,12:00 - 14:30,True,"Pakistani,Fast Food,Indian,Restaurants",Edinburgh,13,Lancers Brasserie,Stockbridge,-3.2081841,55.9584204,EDH,4.0
+WziVfBzE--NxBmpXUnjwbA,"272-274 Morrison Street
+West End
+Edinburgh EH3 8DT",,,,,,,,True,"Pakistani,Indian,Restaurants",Edinburgh,5,Ignite Restaurant,West End,-3.2154729,55.9463749,EDH,4.0
+BSk-BrZGvtRGxy1aFzSMCA,"1 Grosvenor Street
+West End
+Edinburgh EH12 5ED",12:00 - 14:00,17:00 - 00:00,17:00 - 00:00,12:00 - 14:00,17:00 - 00:00,12:00 - 14:00,16:30 - 00:00,True,"Fast Food,Indian,Restaurants",Edinburgh,11,Omar Khayyam,West End,-3.2164285454405004,55.946626885702,EDH,4.0
+QAFFqQCht7Z3ZmYdNY18og,"25 Union Place
+New Town
+Edinburgh EH1 3NQ",17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,True,"Pakistani,Indian,Restaurants",Edinburgh,11,Shezan Indian Cuisine,New Town,-3.185944,55.9573195,EDH,4.0
+cCXs7tsGzs0zy_DsnrC43Q,"15 North ST Andrew Street
+New Town
+Edinburgh EH2 1HJ",12:00 - 14:00,17:30 - 23:30,17:30 - 23:30,12:00 - 14:00,17:30 - 23:30,17:30 - 23:30,12:00 - 14:00,True,"Pakistani,Indian,Restaurants",Edinburgh,8,Zest,New Town,-3.1924425,55.9556124,EDH,4.0
+mMLEfpxUH3jXCWVvprJP8w,"2-3 St Patrick Square
+Newington
+Edinburgh EH8 9EZ",17:30 - 22:30,17:30 - 22:30,17:30 - 22:30,17:30 - 22:30,17:30 - 22:30,17:30 - 22:30,18:00 - 22:30,True,"Pakistani,Vegetarian,Indian,Restaurants",Edinburgh,26,Kalpna Restaurant,Newington,-3.1829209,55.9432773,EDH,4.0
+XUe5N_pIl5l7mMuEfc0Tsw,"164 High Street
+Newington
+Edinburgh EH1 1QS",17:00 - 23:30,12:30 - 14:30,17:00 - 23:30,12:30 - 14:30,12:30 - 14:30,17:00 - 23:30,17:00 - 23:30,True,"Pakistani,Vegetarian,Indian,Restaurants",Edinburgh,6,Bay Of Bengal,"Newington,Old Town,Royal Mile",-3.1887087,55.9497989,EDH,3.0
+eal7Vfv39cAUVIyiJJ--Jw,"11 South College Street
+Newington
+Edinburgh EH8 9AA",14:00 - 22:30,17:30 - 22:30,14:00 - 22:30,14:00 - 22:30,14:00 - 22:30,14:00 - 22:30,14:00 - 22:30,True,"Pakistani,Indian,Restaurants",Edinburgh,5,New Saffrani,"Newington,Old Town",-3.1869187,55.9469888,EDH,4.0
+EpkR4JdE5UuNexHbWXsfig,"45 St Patrick Square
+Newington
+Edinburgh EH8 9ET",12:00 - 14:00,12:00 - 14:00,12:00 - 14:00,12:00 - 14:00,17:00 - 23:00,12:00 - 14:00,17:00 - 23:00,False,"Vegetarian,Indian,Restaurants",Edinburgh,19,Ann Purna,Newington,-3.1842563,55.9434891,EDH,3.5
+yQNiT3CDHC5dRYgB2XX2uQ,"89-91 Henderson Street
+Leith
+Edinburgh EH6 6ED",12:00 - 12:30,12:00 - 12:30,12:00 - 12:30,17:30 - 23:30,17:30 - 00:00,17:30 - 00:00,12:00 - 12:30,True,"Indian,Restaurants",Edinburgh,13,Raj Restaurant,Leith,-3.1722282,55.9746308,EDH,3.0
+MITa9f_DF6F_dVr1Dyk6Qw,"63 Clerk Street
+Newington
+Edinburgh EH8 9JQ",12:00 - 23:30,12:00 - 23:30,12:00 - 23:30,12:00 - 23:30,12:00 - 00:00,12:00 - 00:00,12:00 - 23:30,False,"Pakistani,Indian,Restaurants",Edinburgh,7,Indian Mela,Newington,-3.1818791,55.9417791,EDH,4.5
+Fe5a8ACd85KVTy5q6l47PA,"171 Bruntsfield Place
+Bruntsfield
+Edinburgh EH10 4DG",12:00 - 14:00,17:00 - 00:00,17:00 - 00:00,12:00 - 14:00,12:00 - 14:00,17:00 - 00:30,16:00 - 00:00,True,"Pakistani,Indian,Restaurants",Edinburgh,8,Himalaya Tandoori Restaurant,Bruntsfield,-3.2097491,55.9357596,EDH,4.0
+jLh7OZM7zF6gX6gMA7Hsng,"99 Comiston Road
+Morningside
+Edinburgh EH10 6AG",17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,True,"Indian,Fast Food,Restaurants",Edinburgh,3,Hill Station,Morningside,-3.2108496,55.9224459,EDH,4.5
+2dUrYkzgoIuFC8hu1DTknw,"7 Nicolson Square
+Newington
+Edinburgh EH8 9BH",12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,12:00 - 02:00,12:00 - 02:00,12:00 - 00:00,True,"Indian,Fast Food,Restaurants",Edinburgh,48,Kebab Mahal,Newington,-3.1859746,55.9461421,EDH,4.5
+ZvFi_R1rg260tgRKSU_6yw,"27 Roseburn Terrace
+Haymarket
+Edinburgh EH12 5NG",,,,,,,,True,"Indian,Restaurants",Edinburgh,6,Delta Indian Takeway,Haymarket,-3.2344601,55.9455474,EDH,4.5
+EOchIu8KPD1SO39mT8-JlQ,"38 Mayfield Gardens
+Edinburgh EH9 2BY",,,,,,,,True,"Pakistani,Indian,Restaurants",Edinburgh,3,Delhi Diner,,-3.1718485,55.9312719,EDH,4.0
+56_uqCzMcaBu1WxgoS8Xuw,"190 Causewayside
+Newington
+Edinburgh EH9 1PN",12:00 - 14:00,17:30 - 23:30,17:30 - 23:30,12:00 - 14:00,17:30 - 23:30,17:30 - 23:30,12:00 - 14:00,True,"Pakistani,Indian,Restaurants",Edinburgh,9,Pataka Restaurant,Newington,-3.1798526,55.9355591,EDH,4.5
+R-qwpRdNQdEI1QEe_HyrcQ,"1 High Street
+South Queensferry EH30 9PP",,,,,,,,True,"Pakistani,Indian,Restaurants",South Queensferry,3,Queens Spice,,-3.3973138,55.9906455,EDH,4.5
+2LYLnSVja3u921WP_2Jo6w,"22 Coates Crescent
+West End
+Edinburgh EH3 7AF",,,,,,,,True,"Indian,Restaurants",Edinburgh,11,Indian Cavalry Club,West End,-3.2130862,55.947754,EDH,3.0
+LIT0uGtS-_UzFAW2LU6_2g,"86 Morningside Rd
+Bruntsfield
+Edinburgh EH10 4BY",12:00 - 14:00,17:00 - 00:00,17:00 - 00:00,12:00 - 14:00,17:00 - 00:00,12:00 - 14:00,17:00 - 00:00,True,"Pakistani,Indian,Restaurants",Edinburgh,11,The Clay Oven,Bruntsfield,-3.2095185,55.9321755,EDH,3.5
+0YVzWax3LlWYECacU-wUqQ,"87 Easter Rd
+Leith
+Edinburgh EH7 5PW",17:00 - 11:00,17:00 - 11:00,17:00 - 11:00,17:00 - 11:00,17:00 - 11:00,17:00 - 11:00,17:00 - 11:00,True,"Indian,Fast Food,Restaurants",Edinburgh,8,Shapla Takeaway,Leith,-3.1716061,55.9600659,EDH,4.5
+dMfNQ8ZmkhBDFC2pl-DLvw,"9 Dundee Terrace
+Edinburgh EH11 1DL",,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,True,"Indian,Restaurants",Edinburgh,12,Guru Balti Restaurant,,-3.2207784,55.93961,EDH,4.5
+eQp6Ls4QpnUrpyRZH5Vy1A,"74-76 Morningside Road
+Edinburgh EH10 4BY",17:00 - 23:30,12:00 - 14:00,17:00 - 23:30,12:00 - 14:00,17:00 - 23:30,17:00 - 23:30,17:00 - 23:30,True,"Pakistani,Indian,Restaurants",Edinburgh,12,Morningside Spice,,-3.2102158,55.9323422,EDH,4.0
+xs3SYPxPU1MksUOeQ9F32A,"6-6a Brougham Place
+The Meadows
+Edinburgh EH3 9HW",17:00 - 23:30,12:00 - 14:00,17:00 - 23:30,12:00 - 14:00,17:00 - 23:30,17:00 - 23:30,17:00 - 23:30,True,"Indian,Restaurants",Edinburgh,13,Bombay Bicycle Club,The Meadows,-3.2008646,55.9426005,EDH,3.5
+7wAVAwwgzIJ9_uGSM4s_Fg,"9530 S Eastern Ave
+Southeast
+Las Vegas, NV 89123",,,,,,,,False,"Pakistani,Indian,Restaurants",Las Vegas,15,Taza Indian Kitchen,Southeast,-115.1187014,36.0165803,NV,3.0
+f144FF1ZGZy8vCLyvuo8IQ,"73 Morrison Street
+West End
+Edinburgh EH3 8HH",,,,,,,,False,"Indian,Restaurants",Edinburgh,4,Roti Restaurant,West End,-3.2094773,55.9456432,EDH,2.5
+hOZiObWNHb_pd0-m8FZ74A,"56 South Clerk Street
+Newington
+Edinburgh EH8 9PS",17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,True,"Indian,Fast Food,Restaurants",Edinburgh,29,Noor Indian Takeaway,Newington,-3.1806627,55.9401001,EDH,4.5
+TkFBqMxq_LaFzpGsMmKajw,"31 Nicholson Square
+Newington
+Edinburgh EH8 9BX",11:30 - 23:00,11:30 - 23:00,11:30 - 23:00,11:30 - 23:00,11:30 - 23:00,11:30 - 23:00,11:30 - 23:00,True,"Food,Ethnic Food,Indian,Restaurants,Specialty Food",Edinburgh,53,The Mosque Kitchen,Newington,-3.1855762,55.9458265,EDH,4.0
+KZqtFAwDj83bTXxft2FMjg,"14 W Mifflin St
+Ste 102
+Capitol
+Madison, WI 53703",17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,11:30 - 15:00,11:30 - 15:00,17:00 - 22:00,False,"Indian,Restaurants",Madison,33,Flavor of India,Capitol,-89.386145,43.075319,WI,4.0
+Tr5bj3rSbVZqWRheT3-oAg,"6840 W Sahara Ave
+Westside
+Las Vegas, NV 89146",,,,,,,,False,"Pakistani,Indian,Restaurants",Las Vegas,40,Bollywood Grill Indian Cusine,Westside,-115.2418447,36.1442339,NV,2.5
+MaIRm1Qo83daU-qQaPdTzA,"Target Plaza
+222 S  Decatur Blvd, Ste C-101
+Westside
+Las Vegas, NV 89107",,11:00 - 15:00,11:00 - 15:00,17:00 - 21:00,17:00 - 21:00,11:00 - 15:00,17:00 - 21:00,False,"Indian,Restaurants",Las Vegas,5,India's Grill,Westside,-115.2185573,36.1688235,NV,3.0
+6F_3fSUPUtw_9b93g9GEmw,"Arizona Center
+400 E Van Buren St
+Phoenix, AZ 85004",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 20:00,False,"Indian,Restaurants",Phoenix,27,Hurry 4 Curry,,-112.0686337,33.4516878,AZ,3.0
+1Jmf09hDwaXoE06YK3P9GA,"10 Drummond Street
+Newington
+Edinburgh EH8 9TU",17:00 - 23:00,12:00 - 15:00,17:00 - 23:00,12:00 - 15:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,True,"Fast Food,Indian,Buffets,Restaurants",Edinburgh,27,Red Fort,Newington,-3.1855477,55.947212,EDH,4.0
+ALwnmdgXGXzB1Yo07J4Cgw,"17-19 Forrest Road
+Old Town
+Edinburgh EH1 2Q",17:00 - 23:30,17:00 - 23:30,12:00 - 14:30,12:00 - 14:30,17:00 - 23:30,12:00 - 14:30,17:00 - 22:30,True,"Indian,Himalayan/Nepalese,Restaurants",Edinburgh,15,Namaste Kathmandu,Old Town,-3.1912138,55.9461532,EDH,3.5
+V9i9LnTg9H2XvzqCVBSOXg,"8140 N Hayden Rd
+Ste H115
+Scottsdale, AZ 85258",,11:30 - 14:30,17:00 - 22:00,11:30 - 14:30,11:30 - 14:30,11:30 - 14:00,11:30 - 14:30,True,"Indian,Restaurants",Scottsdale,157,Tandoori Times Indian Bistro,,-111.900456296182,33.5552118623002,AZ,3.5
+d-RORs3TaBgYgBb0tLzMIA,"5643 Centennial Center Blvd
+Northwest
+Las Vegas, NV 89149",,,,,,,,False,"Indian,Restaurants",Las Vegas,46,Indian Curry Bowl,"Northwest,Centennial",-115.256869,36.2638103,NV,3.0
+PsKAMRgeydy54ytW8xWKCw,"13824 W McDowell Rd
+Ste 100
+Goodyear, AZ 85395",,,,,,,,False,"Indian,Restaurants",Goodyear,20,Sutra Fine Indian Cuisine,,-112.35646,33.465357,AZ,3.5
+D_BMUHbZk67hzRcK3xQQmg,"3641 W Sahara Ave
+Westside
+Las Vegas, NV 89102",11:00 - 15:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,True,"Indian,Restaurants",Las Vegas,386,Mount Everest India's Cuisine,Westside,-115.189818,36.143955,NV,4.5
+m9AeGCo-UFmdtFAfJiPjOw,"1964 N Alma School Rd
+Ste 1
+Chandler, AZ 85224",,,,,,,,False,"Pakistani,Indian,Halal,Restaurants",Chandler,20,Indus Village,,-111.8592314,33.3341503,AZ,4.0
+PLLM4iCYy_OrT-53IZ88Qw,"4929 W Chandler Blvd
+Chandler, AZ 85226",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,17:00 - 21:30,11:00 - 14:30,False,"Food,Desserts,Vegetarian,Indian,Restaurants",Chandler,53,Cafe Krishna,,-111.927065,33.304861,AZ,3.5
+qsmCTI0O_Nydfjk7PZYBCw,"2051 West Warner Rd
+Ste 7
+Chandler, AZ 85224",,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,False,"Indian,Restaurants",Chandler,8,Indian Paradise,,-111.877431,33.3350308,AZ,4.5
+sOliNuSVFm8rzB8XNWSVZg,"1616 S Stapley Dr
+Ste 101
+Mesa, AZ 85204",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 15:00,17:00 - 21:00,False,"Indian,Restaurants",Mesa,29,India's Grill,,-111.806885,33.384637,AZ,4.0
+Z5v1F-tAV897ZmM32N0wfQ,"2544 N 7th St
+Phoenix, AZ 85006",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,True,"Food,Grocery,Indian,Buffets,Restaurants",Phoenix,72,New India Bazaar,,-112.065637,33.476084,AZ,3.5
+dwJKxmnu0jZ2tQDuqJ_Zsw,"953 E Sahara Ave
+Eastside
+Las Vegas, NV 89104",17:30 - 22:00,17:30 - 22:00,17:30 - 22:00,11:30 - 14:30,17:30 - 22:00,17:30 - 22:00,11:30 - 14:30,False,"Indian,Restaurants",Las Vegas,109,Namaste Indian Cuisine,Eastside,-115.1423943,36.1421289,NV,4.0
+WSVTLvvvj5EDpY6OPhpdbg,"113 Bucculeuch Street
+Newington
+Edinburgh EH8 9NG",17:00 - 00:30,17:00 - 00:30,17:00 - 00:30,17:00 - 00:30,17:00 - 00:30,17:00 - 00:30,17:00 - 00:30,False,"Indian,Restaurants",Edinburgh,5,Manna Mahal Restaurant,Newington,-3.183828,55.9419337,EDH,3.5
+Fc7OrZXf4Welvt9TJ7K-sg,"Riviera Hotel and Casino
+2901 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,True,"Indian,Restaurants",Las Vegas,105,India Masala,The Strip,-115.170021057129,36.1253966874048,NV,4.0
+O24JqSyuDtNr1AFQDzWnWA,"4001 S Decatur Blvd
+Ste 31 & 32
+Las Vegas, NV 89103",11:30 - 22:30,11:30 - 22:30,11:30 - 22:30,11:30 - 22:30,11:30 - 22:30,12:00 - 22:30,12:00 - 22:30,True,"Indian,Vegetarian,Pakistani,Restaurants",Las Vegas,45,Shalimar Restaurant,,-115.20850758728,36.1173162460445,NV,3.5
+S_Kc3W7XJOXoqz7wmlKVvg,"150 Commercial Street
+Ocean Drive
+Leith
+Edinburgh EH6 6LB",17:00 - 23:30,12:00 - 14:00,17:00 - 23:30,12:00 - 14:00,17:00 - 23:30,17:00 - 23:30,17:00 - 23:30,True,"Bangladeshi,Thai,Indian,Asian Fusion,Restaurants",Edinburgh,15,Britannia Spice,Leith,-3.1795987775656,55.97834145440199,EDH,3.5
+eU-10rPEhyJ00un0_fd1fQ,"29 St Leonard's Street
+Newington
+Edinburgh EH8 9QN",16:00 - 23:00,16:00 - 23:00,16:00 - 23:00,16:00 - 23:00,16:00 - 23:00,16:00 - 23:00,16:00 - 23:00,True,"Indian,Restaurants",Edinburgh,38,Kismot,Newington,-3.1800855,55.9435056,EDH,4.5
+4KN-PSLwo_oLw2WZlumwHw,"67 Nicolson Street
+Newington
+Edinburgh EH8 9BZ",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Food,Desserts,Coffee & Tea,Indian,Restaurants",Edinburgh,28,10-to-10 In Delhi,Newington,-3.1847414,55.945489,EDH,4.5
+D6QjpWAN6muF6AxD5sKCxQ,"3-5 Infirmary Street
+Newington
+Edinburgh EH1 1LT",17:00 - 22:30,17:00 - 22:30,17:00 - 22:30,12:00 - 22:30,12:00 - 23:00,12:00 - 23:00,12:00 - 22:00,True,"Tapas/Small Plates,Indian,Restaurants",Edinburgh,39,Mother India's Cafe,"Newington,Old Town",-3.1859369,55.9480417,EDH,4.0
+1aFu-WWB_5slFJrT7enPJQ,"107 Newington Road
+Newington
+Edinburgh EH9 1QW",12:00 - 14:00,17:30 - 23:30,17:30 - 23:30,12:00 - 14:00,17:30 - 23:30,17:30 - 23:30,12:00 - 14:00,True,"Indian,Restaurants",Edinburgh,13,Voujon,Newington,-3.1779513,55.9375905,EDH,4.0
+LXw-v3CNhpK8f4pBIojSAA,"47 S Clerk St
+Newington
+Edinburgh EH8 9NZ",17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,True,"Fast Food,Indian,Restaurants",Edinburgh,7,Chilli Connection,Newington,-3.1802553,55.940248,EDH,3.5
+UkUmQHgXa0jnOlXh5E0DLA,"4-8 Lochrin Buildings
+Edinburgh
+Tollcross
+Edinburgh EH3 9NB",12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,True,"Indian,Restaurants",Edinburgh,10,Imans,"Tollcross,West End",-3.2040497,55.9420482,EDH,4.5
+O9_Ig-pNMR4v8KTKPzUzlQ,"1-3 York Place
+New Town
+Edinburgh EH2 1",17:30 - 23:30,17:30 - 23:30,17:30 - 23:30,17:30 - 23:30,17:30 - 23:30,12:00 - 14:30,17:30 - 23:30,True,"Indian,Restaurants",Edinburgh,10,9 Cellars,New Town,-3.1917018,55.95603,EDH,4.0
+Mnph0YzocIltP9_216Zpig,"139 Bruntsfield Place
+Bruntsfield
+Edinburgh EH10 4EB",17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,True,"Indian,Restaurants",Edinburgh,5,The Curry Leaf,Bruntsfield,-3.2080171,55.9362856,EDH,3.5
+8rIQpTrLH1xXz2sheSQk-w,"20 Holyrood Road
+Old Town
+Edinburgh EH8 9",,,,,,,,True,"Indian,Restaurants",Edinburgh,3,Holi Spice,Old Town,-3.1820931,55.9492749,EDH,3.5
+Ew6YfU0XcFGM-S4zncZ5Dg,"1809 N Dysart Rd
+Ste C106
+Avondale, AZ 85392",17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,True,"Indian,Buffets,Restaurants",Avondale,94,India Garden,,-112.3407907,33.4680145,AZ,4.0
+aPdDcFXPsWVxBhaXuZcDpw,"1315 S Gilbert Rd
+Mesa, AZ 85204",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,True,"Indian,Buffets,Restaurants",Mesa,271,India Oven,,-111.7880553,33.3916626,AZ,4.5
+5wVfDg9rAu9pgv5w0QLVqw,"20 Union Place
+New Town
+Edinburgh EH1 3NQ",16:00 - 00:00,16:00 - 00:00,16:00 - 00:00,16:00 - 00:00,16:00 - 00:00,16:00 - 00:00,16:00 - 00:00,True,"Indian,Restaurants",Edinburgh,7,Passage to India,New Town,-3.185944,55.9573195,EDH,3.5
+CvWIo2kSYcHXUQmVDb8q7A,"53 Clerk Street
+Newington
+Edinburgh EH8 9JQ",15:00 - 23:30,15:00 - 23:30,15:00 - 23:30,15:00 - 23:30,15:00 - 23:30,15:00 - 23:30,15:00 - 23:30,True,"Indian,Restaurants",Edinburgh,9,Tikka Mahal,Newington,-3.1820324,55.9419252,EDH,4.0
+keqILBs4H-gYTwxpJ07kNw,"9350 W Sahara Ave
+Ste 150
+Westside
+Las Vegas, NV 89117",,,,,,,,False,"Indian,Restaurants",Las Vegas,22,Pyaar India Restaurant,Westside,-115.2991358,36.1445054,NV,3.0
+CnrUpUpal4UT0iFlFzVH6Q,"4 Albert Place
+Leith
+Edinburgh EH7 5HN",17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,True,"Fast Food,Indian,Restaurants",Edinburgh,5,Haq's,Leith,-3.1790118119785,55.962576240851,EDH,4.0
+z6M6o5R_RYGxhD2r2SqUzQ,"3230 E Desert Inn Rd
+Eastside
+Las Vegas, NV 89121",11:30 - 21:30,11:30 - 21:30,11:30 - 21:30,11:30 - 21:30,11:30 - 21:30,12:00 - 21:30,12:00 - 21:30,False,"Pakistani,Indian,Restaurants",Las Vegas,31,Saffron,Eastside,-115.1045666,36.1302246,NV,2.0
+PsQV3uWg99lJXZpYPdpDGw,"44 S Clerc St
+Newington
+Edinburgh EH8 9PS",16:00 - 01:00,16:00 - 01:00,16:00 - 01:00,16:00 - 01:00,16:00 - 02:00,16:00 - 02:00,16:00 - 01:00,True,"Fast Food,Indian,Restaurants",Edinburgh,4,K2 Kebab House,Newington,-3.1805146,55.9402116,EDH,3.0
+ti4Y2oCwBdq-B3NrMpmk-Q,"161 Dundee St
+Edinburgh EH11 1BY",17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,False,"Indian,Restaurants",Edinburgh,3,Taj Express,,-3.2196386,55.9399088,EDH,4.5
+XdmdfrospwdW9-wpgDEXAA,"Royal Mile
+105 High St
+Fl 1
+Old Town
+Edinburgh EH1 1SG",12:00 - 23:30,12:00 - 23:30,12:00 - 23:30,12:00 - 23:30,12:00 - 23:30,12:00 - 23:30,12:00 - 23:30,True,"Thai,Indian,Restaurants",Edinburgh,9,Shamoli Thai & Indian Cuisine,"Old Town,Royal Mile",-3.1863938,55.9505581,EDH,2.5
+_M-YiTh4cz4Y2OQvkcRRTQ,"29-33 Nicolson Square
+Nicolson Street
+Newington
+Edinburgh EH8 9BX",,,,,,,,False,"Indian,Italian,Fast Food,Restaurants",Edinburgh,4,Iman's Grill,Newington,-3.1846324,55.9455566,EDH,4.0
+2jxWAJrqC0kfuhp3PXRFUw,"3A1 Dundas Street
+New Town
+Edinburgh EH3 6QG",17:00 - 23:00,12:00 - 14:30,12:00 - 14:30,12:00 - 14:30,12:00 - 14:30,12:00 - 14:30,17:00 - 23:00,True,"Indian,Restaurants",Edinburgh,11,The Spice Pavilion,New Town,-3.1987516,55.9564765,EDH,4.5
+Dg6NoAEUutXQaKJumpBDgA,"128 Dalry Road
+Haymarket
+Edinburgh EH11 2EZ",15:00 - 23:30,15:00 - 23:30,15:00 - 23:30,15:00 - 23:30,15:00 - 23:30,15:00 - 23:30,15:00 - 23:30,True,"Turkish,Fast Food,Indian,Restaurants",Edinburgh,17,Kebabish Original,Haymarket,-3.22182691534431,55.942789,MLN,3.5
+jJIFf7JKNsHHVT7Q0ceKgQ,"88 Haymarket Ter
+Haymarket
+Edinburgh EH12 5LQ",12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,True,"Indian,Restaurants",Edinburgh,4,The Prince of India,Haymarket,-3.2221898,55.9461107,EDH,3.5
+nmIkcRMn8XuXf4GSSSt5nQ,"250 Morrison St
+West End
+Edinburgh EH3 8TD",,,,,,,,True,"Indian,Restaurants",Edinburgh,6,Mumbai Mansion,West End,-3.2154822,55.9461942,EDH,4.0
+fI9ndlXG0DWvlvP4_YfC9A,"11-12 Seafield Road East
+Edinburgh EH15 1EB",,,,,,,,True,"Indian,Restaurants",Edinburgh,6,The Prince Balti House,,-3.1228555,55.9580319,EDH,4.5
+7Db8jAZywn6hdXuTHI1IgA,"4505 W Sahara Ave
+Westside
+Las Vegas, NV 89102",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,True,"Food,Grocery,Indian,Vegetarian,Restaurants",Las Vegas,67,Rani's World Foods,Westside,-115.202312,36.143923,NV,4.5
+QwrWxzfGdv_bMiFrDaV4sA,"4450 N Tenaya Way
+Ste 115
+Northwest
+Las Vegas, NV 89129",17:00 - 21:00,11:30 - 14:30,11:30 - 14:30,11:30 - 14:30,11:30 - 14:30,11:30 - 14:30,17:00 - 21:00,True,"Vegetarian,Indian,Restaurants",Las Vegas,123,Saffron Flavors of India,Northwest,-115.250134,36.24172,NV,4.0
+P6O4JBwMN6fZhUQiAx43Kw,"295 St Johns Road
+Edinburgh EH12 8",11:00 - 14:00,17:00 - 23:30,17:00 - 23:30,17:00 - 23:30,17:00 - 23:30,17:00 - 23:30,13:00 - 23:30,True,"Indian,Restaurants",Edinburgh,5,Abida,,-3.293983,55.9423067,EDH,4.0
+49RRQ0nE8XugVuvowiVv2g,"8900 E Pinnacle Peak Rd
+Scottsdale, AZ 85255",16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,True,"Indian,Restaurants",Scottsdale,50,Al Hamra,,-111.888462,33.700033,AZ,3.5
+NDfh7hy6k0JBYHCL93SAkA,"9530 S Eastern Ave
+Ste 180
+Southeast
+Henderson, NV 89123",17:00 - 22:30,11:00 - 15:00,17:00 - 22:30,17:00 - 22:30,17:00 - 22:30,11:00 - 15:00,17:00 - 22:30,True,"Indian,Restaurants",Henderson,182,Taj Palace,Southeast,-115.118684,36.01658,NV,4.0
+4vNJBpBspRQH12_wgvPsRg,"9-10 Commercial St
+Leith
+Edinburgh EH6 6",11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,True,"Indian,Restaurants",Edinburgh,13,Guchhi Indian Seafood and Bar,Leith,-3.1712534,55.9765172,EDH,3.5
+x3ws2L-TlI-JPcEQjjEC9g,"1212 E Apache Blvd
+Tempe, AZ 85281",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,True,"Indian,Pakistani,Halal,Restaurants",Tempe,184,Curry Corner,,-111.9199826,33.4153102,AZ,3.5
+TgmVzX8_jRgcGR8RnzzDHA,"6-8 Clerk Street
+Newington
+Edinburgh EH8 9HX",,,,,,,,True,"Indian,Restaurants",Edinburgh,18,Tanjore,Newington,-3.1827445,55.9429158,EDH,4.0
+15JZ0ME6eOtShdLctzfR6w,"1964 N Alma School Rd
+Chandler, AZ 85224",11:30 - 21:30,11:30 - 21:30,11:30 - 21:30,11:30 - 21:30,11:30 - 21:30,11:30 - 21:30,11:30 - 21:30,False,"Pakistani,Indian,Restaurants",Chandler,29,Copper Kettle,,-111.8608534,33.3336727,AZ,3.0
+au5LEZly9VlvpqCUKF3C6A,"955 W Chandler Heights Rd
+Chandler, AZ 85248",,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 20:30,True,"Food,Ice Cream & Frozen Yogurt,Indian,Cafes,Restaurants",Chandler,42,Bay Leaf Cafe,,-111.857016,33.2324569,AZ,3.5
+GVl-DIU03a_rMCpgcm3J3w,"7 Dock Place
+Leith
+Leith
+Edinburgh EH6 6LU",,17:30 - 22:00,12:00 - 14:30,12:00 - 14:30,17:30 - 22:00,12:00 - 14:30,17:30 - 22:00,True,"Bars,Indian,Cocktail Bars,Nightlife,Restaurants",Edinburgh,8,Mithas,Leith,-3.171883,55.9767534,EDH,4.5
+wFjpmWwaotDHNaScplVh2A,"3227 E Bell Rd
+Ste D105
+Phoenix, AZ 85032",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 15:00,11:00 - 15:00,17:00 - 21:30,True,"Vegetarian,Indian,Buffets,Restaurants",Phoenix,103,Madras Ananda Bhavan,,-112.0121148,33.6391935,AZ,4.0
+jYJ7RXA8qORygo2l11VN1g,"103 King Street N
+Waterloo, ON N2J 2X5",,,,,,,,True,"Indian,Restaurants",Waterloo,6,Empress of India,,-80.5238313227892,43.4687909670668,ON,4.0
+PLr4DLzZG6vgvaxEdlFHjw,"2544 N 7th St
+Phoenix, AZ 85006",,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,,True,"Indian,Buffets,Restaurants",Phoenix,10,New India Cuisine,,-112.065272,33.4760345,AZ,3.0
+AZJGud8N--ScMMCcasROcQ,"25/27 Cockburn Street
+Old Town
+Edinburgh EH1 1BP",14:00 - 23:30,14:00 - 23:00,14:00 - 23:00,14:00 - 23:00,12:00 - 23:00,12:00 - 23:00,14:00 - 23:00,True,"Indian,Himalayan/Nepalese,Restaurants",Edinburgh,11,Gurkha Cafe & Restaurant,"Old Town,Royal Mile",-3.190389,55.9504218,EDH,4.5
+6cIZhJJy2LgLID1u-sxvmw,"10 Antigua Street
+New Town
+Edinburgh EH1 3NH",12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,True,"Indian,Restaurants",Edinburgh,21,Khushi's,New Town,-3.1849227,55.9578139,EDH,3.5
+d5CSj7DL3l56paYgfpFSkQ,"1849 N Scottsdale Rd
+Tempe, AZ 85281",,17:00 - 21:30,17:00 - 21:30,11:00 - 14:00,17:00 - 21:30,11:30 - 15:00,17:00 - 21:30,False,"Indian,Buffets,Restaurants",Tempe,26,Southern Spice,,-111.9264329,33.4497753,AZ,3.5
+P9WzK3sbkd0qLhJmXRkfaA,"1430 W Warner Rd
+Ste 126
+Gilbert, AZ 85233",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,True,"Pakistani,Indian,Buffets,Restaurants",Gilbert,45,Kabob n Kurry,,-111.8219235,33.3362515,AZ,3.5
+hEoHJJf6vYzQb4iFkTgX2A,"1617 N Granite Reef Rd
+Scottsdale, AZ 85257",,11:30 - 21:00,11:30 - 21:00,11:30 - 21:00,11:30 - 22:00,11:30 - 22:00,11:30 - 21:00,False,"Pakistani,Indian,Restaurants",Scottsdale,11,Zaidi's Grill,,-111.9004743,33.4662738,AZ,3.5
+rbeBreN9KOWipTUQsmiQ9g,"325 W Elliot Rd
+Ste 101
+Tempe, AZ 85284",17:00 - 21:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,17:00 - 22:00,11:00 - 15:00,17:00 - 21:00,False,"Indian,Buffets,Restaurants",Tempe,64,India Grill,,-111.944757588208,33.348738876078,AZ,4.0
+ZTiP-zNqMENWV_KAv9FBvg,"14 W Mifflin St
+Capitol
+Madison, WI 53703",,,,,,,,False,"Indian,Buffets,Restaurants",Madison,15,Mirch Masala,Capitol,-89.385843873024,43.0752086104317,WI,3.5
+25cCnPfbVdYWNhbFLuwiYQ,"1801 E Baseline Rd
+Ste 104
+Tempe, AZ 85283",11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 22:00,11:30 - 22:00,11:30 - 21:30,True,"Indian,Buffets,Restaurants",Tempe,98,Chutney's Indian Cuisine,,-111.908622741699,33.3774032592773,AZ,4.0
+saON8-nDZi5W64u1xGtmPA,"4030 N 24th St
+Phoenix, AZ 85016",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,10:30 - 09:00,True,"Afghan,Indian,Pakistani,Restaurants",Phoenix,79,Khyber Halal,,-112.0302179,33.4940035,AZ,4.0
+W6624iddi14DsGokORyzcA,"12027 N 28th Dr
+Phoenix, AZ 85029",06:30 - 09:30,06:30 - 09:30,06:30 - 09:30,17:00 - 22:00,11:30 - 14:30,17:00 - 22:00,11:30 - 14:30,True,"Indian,Restaurants",Phoenix,47,Tandoori Times 3 Indian Bistro,,-112.118593,33.5958929,AZ,4.0
+eyT6w_RVpjRnbz4hToBqtA,"3607 E Bell Rd
+Ste 6
+Phoenix, AZ 85032",11:00 - 21:30,17:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,True,"Indian,Restaurants",Phoenix,51,Bawarchi Indian Cuisine,,-112.004267,33.640223,AZ,3.5
+KkILzOZ_Q8VOnqZCjweXNA,"99A Bruntsfield Place
+Bruntsfield
+Edinburgh EH10 4HG",10:00 - 19:00,10:00 - 19:00,10:00 - 19:00,10:00 - 19:00,10:00 - 19:00,10:00 - 19:00,10:00 - 19:00,True,"Food,Indian,Street Vendors,Restaurants",Edinburgh,8,Bollywood The Coffee Box,Bruntsfield,-3.20787906646729,55.9364741170263,EDH,5.0
+giyl3pyGo6sbvsnn94f4Hg,"2410 W Bell Rd
+Phoenix, AZ 85023",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:30 - 15:00,11:30 - 15:00,False,"Indian,Buffets,Restaurants",Phoenix,23,Indian Paradise 2,,-112.111654,33.640376,AZ,3.5
+J1SyE2sa9WHPHm-aOSl3fg,"5064 E Mcdowell Rd
+Phoenix, AZ 85008",,,,,,,,True,"Indian,Pakistani,Restaurants",Phoenix,6,Copper Kettle Curry House,,-111.9728446,33.4656711,AZ,2.5
+9p_tVu1JDb8Z290RNd0AkA,"209-213 High Street
+Old Town
+Edinburgh EH1 1PZ",14:00 - 23:30,14:00 - 23:30,14:00 - 23:30,14:00 - 23:30,14:00 - 23:30,14:00 - 23:30,14:00 - 23:30,True,"Indian,Restaurants",Edinburgh,3,Real Rajput Indian Cuisine,"Old Town,Royal Mile",-3.188739,55.9502659,EDH,4.5
+8jkfKZJDONEieRXgvEcfag,"Unit 105-190
+Lothian Road
+Old Town
+Edinburgh EH3 9AN",,,,,,,,True,"Indian,Restaurants",Edinburgh,8,Kama Sutra,"Old Town,West End",-3.2056427,55.9461739,EDH,4.5
+WqntpiZMWaoDOlDS7V3W-A,"1040 E Flamingo Rd
+Eastside
+Las Vegas, NV 89119",11:30 - 22:30,11:30 - 22:30,11:30 - 22:30,11:30 - 22:30,11:30 - 22:30,11:30 - 22:30,11:30 - 22:30,True,"Indian,Restaurants",Las Vegas,101,India Masala Bar & Grill,Eastside,-115.141869,36.115142,NV,3.5
+g7YEgauyG_E7y4OE6Qb8lw,"8333 Greenway Blvd
+Ste 100
+Middleton, WI 53562",11:30 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,11:00 - 15:00,11:00 - 15:00,17:00 - 22:00,True,"Vegetarian,Indian,Restaurants",Middleton,58,Dhaba Indian Bistro,,-89.526448,43.089673,WI,4.0
+oX4o4a3ETz1aC9uZBlwx-Q,"2814 W Bell Rd
+Ste 1455
+Phoenix, AZ 85053",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,17:30 - 22:00,11:00 - 14:30,11:00 - 14:30,True,"Indian,Restaurants",Phoenix,38,Chennai Chettinaad Palace,,-112.1203478,33.640419,AZ,3.5
+uxzYF6A_PLVhIraINJfDbw,"1674 N Higley Rd
+Ste 104
+Gilbert, AZ 85234",,,,,,,,False,"Indian,Buffets,Restaurants",Gilbert,14,India Gate,,-111.724162,33.381279,AZ,3.5
+SvDuRiDpLpr5VRm3aqw8Eg,"3333 Blue Diamond Rd
+Southwest
+Las Vegas, NV 89139",,,,,,,,True,"Indian,Arts & Entertainment,Asian Fusion,Festivals,Restaurants",Las Vegas,8,2nd Annual Asian Food Festival,Southwest,-115.184999,36.041673,NV,3.5
+Le9FI_FTgln89GLHXJMe5g,"1-2 Moat Place
+Slateford
+Edinburgh EH14 1NU",,,,,,,,True,"Indian,Restaurants,Bangladeshi",Edinburgh,4,Jashans,,-3.23784175083494,55.9313710100531,EDH,4.0
+XGl6nL5I21Lm8XmkfnNvsw,"8752 E Shea Blvd
+Ste C11
+Scottsdale, AZ 85260",17:30 - 21:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,17:00 - 22:00,17:00 - 22:00,17:30 - 21:30,True,"Indian,Buffets,Restaurants",Scottsdale,71,Karaikudi Palace,,-111.8923957,33.582486,AZ,3.5
+ONo0ffn10iZQfRk0ZgK8pQ,"5-7 Old Fishmarket Close
+Newington
+Edinburgh EH1 1RW",,,,,,,,False,"Indian,Asian Fusion,French,Restaurants",Edinburgh,4,Le Passepartout,"Newington,Old Town",-3.1892475,55.9490929,EDH,4.0
+VUH9DtK5G1zvgpkNpp58gg,"1 Leven Street
+Tollcross
+Edinburgh EH3 9LH",12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,True,"Indian,Restaurants",Edinburgh,25,Tuk Tuk Indian Street Food,Tollcross,-3.20356607437134,55.9419061858859,EDH,4.0
+kZxE9Td05pGFqvsqzYxeSw,"4030 E Bell Rd
+Ste 101
+Phoenix, AZ 85032",17:00 - 21:00,11:00 - 15:00,17:00 - 21:00,17:00 - 21:00,17:00 - 22:00,12:00 - 15:00,17:00 - 21:00,False,"Indian,Restaurants",Phoenix,10,Tadka Sizzles,,-111.9947311,33.6417888,AZ,3.0
+8TFRCfyUd5xIs9kizNgo_Q,"909 E Elliot Rd
+Tempe, AZ 85284",11:00 - 15:00,17:00 - 22:00,17:00 - 22:00,17:00 - 23:00,17:00 - 23:00,11:00 - 15:00,17:00 - 22:00,True,"Indian,Buffets,Restaurants",Tempe,65,Passage To India,,-111.9277331,33.3486761,AZ,4.0
+TZhv0cOt0UHoORlG0I5JHg,"1638 N 40th St
+Phoenix, AZ 85008",,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:00 - 22:00,10:00 - 22:00,11:00 - 21:00,True,"Afghan,Indian,Pakistani,Restaurants",Phoenix,11,Pak Afghan Halal Restaurant & Catering,,-111.995926,33.467014,AZ,4.0
+J0U20ivx1cliqmOHS8KRgg,"855 King Street E
+Cambridge, ON N3H 3P2",,,,,,,,True,"Indian,Restaurants",Cambridge,6,Fusion,,-80.3559723,43.3946203,ON,4.5
+k6FJNBFM45rWz7JnPIlFUQ,"34 St Mary's Street
+Old Town
+Edinburgh EH1 1SU",,,,,,,,True,"Indian,Restaurants",Edinburgh,5,Vinyasa,"Old Town,Royal Mile",-3.1836019,55.9503782,EDH,4.0
+NhS1rFM9j8cht9asgPOZDQ,"3700 West Flamingo Rd
+Las Vegas, NV 89103",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,True,"Vegetarian,Indian,Restaurants",Las Vegas,39,Royal India Bistro,,-115.186442,36.118699,NV,3.5
+qwiUo0-O8DiAO_yIiCSoPg,"63 Clerk Street
+Newington
+Edinburgh EH8 9JQ",12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,True,"Indian,Restaurants",Edinburgh,19,The Cholas,Newington,-3.1821734,55.9418647,EDH,4.0
+ELFgjsfhfy8plr7g_ouyMg,"Chandler, AZ 85286",,,,,,,,True,"Indian,Mediterranean,Restaurants",Chandler,3,Biryani Kitchens,,-111.8210866,33.2664407,AZ,3.5
+GUffi7bnIY0kG8dHKDLPkg,"97 Hanover Street
+New Town
+Edinburgh EH2 1DJ",,,,,,,,True,"Indian,Buffets,Restaurants",Edinburgh,4,Ashoka,New Town,-3.1975974,55.9543937,MLN,5.0
+dyMptoBVSVfXma7ODMbxcw,"3049 S Las Vegas Blvd
+Unit 5&6
+The Strip
+Las Vegas, NV 89109",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,True,"Pakistani,Indian,Halal,Restaurants",Las Vegas,21,Kabob N More,The Strip,-115.164273043068,36.1317540410837,NV,3.0
+4al-jj2H4VAbTx08jKGPVw,"2410 W Bell Rd
+Phoenix, AZ 85023",17:00 - 21:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 15:00,11:00 - 15:00,17:00 - 21:30,True,"Indian,Buffets,Restaurants",Phoenix,49,Mayuri Palace,,-112.1116606,33.6401217,AZ,3.5
+vXNrH3IRs_51_mvmsfMNWA,"1849 N Scottsdale Rd
+Tempe, AZ 85281",,,,,,,,False,"Indian,Restaurants",Tempe,8,Bombay Palace,,-111.9264325,33.4497941,AZ,4.0
+KYYfF5VClcr1imBCDrm9kg,"2051 W Warner Rd
+Ste 7
+Chandler, AZ 85224",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 15:00,11:00 - 15:00,17:00 - 21:30,True,"Indian,Buffets,Restaurants",Chandler,24,NASHA Indian Cuisine,,-111.877439,33.3350307,AZ,3.5
+TiLhjAjewNFd4j8DtcV5bQ,"1533 W Elliot Rd
+Ste 101
+Gilbert, AZ 85233",,11:00 - 14:30,11:00 - 14:30,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,True,"Indian,Buffets,Restaurants",Gilbert,29,Curry Garden,,-111.8223441,33.3492557,AZ,4.0
+75hp1dHtMxLGbunwDZq7Cw,"1707 Theirer Rd
+Madison, WI 53704",17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,11:30 - 15:00,11:30 - 15:00,17:00 - 22:00,True,"Indian,Restaurants",Madison,3,Maharana Indian Restaurant,,-89.3115336,43.1216105,WI,3.5
+OlpyplEJ_c_hFxyand_Wxw,"10050 N Scottsdale Rd
+Ste 121
+Paradise Valley, AZ 85253",17:30 - 22:00,11:30 - 14:30,17:30 - 22:00,11:30 - 14:30,17:30 - 22:30,12:00 - 15:30,17:30 - 22:00,True,"Indian,Szechuan,Asian Fusion,Chinese,Restaurants",Paradise Valley,44,Inchin Bamboo Garden,,-111.926234,33.575816,AZ,3.5
+fZvwGkzzxNqJQI-_BCFHWw,"126 - 130 Easter Road
+Leith
+Edinburgh EH7 5RJ",,,,,,,,True,"Indian,Restaurants",Edinburgh,6,Rivage,Leith,-3.1715619,55.9597459,EDH,4.0
+cptcG-dpDnzug_FC4Oq20Q,"4720 E Cactus Rd
+Ste D118
+Phoenix, AZ 85032",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,True,"Indian,Restaurants",Phoenix,30,Bombay Spice Grill,,-111.9794097,33.5984581,AZ,3.0
+F66a-fKW5--o-xVlNzneCw,"6245 W Chandler Blvd
+Ste 1
+Chandler, AZ 85226",,,,,,,,True,"Indian,Restaurants",Chandler,3,Royal Taj,,-111.9490143,33.3048389,AZ,2.5
+de0hIDLks3ROJQtmSJWWPw,"515 Junction Rd
+Junction Ridge
+Madison, WI 53717",17:00 - 22:00,11:30 - 14:30,17:00 - 22:00,17:00 - 22:00,11:30 - 14:30,17:00 - 22:00,11:30 - 14:30,True,"Indian,Restaurants",Madison,35,Minerva Indian Cuisine,Junction Ridge,-89.5244802753937,43.0714329015986,WI,4.0
+-uivNvzL-l33iht2QtPFzg,"44-45 St Patrick Square
+Newington
+Edinburgh EH8 9ET",17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,12:00 - 14:30,12:00 - 14:30,True,"Indian,African,Restaurants",Edinburgh,10,Bindi,Newington,-3.1842085,55.9434369,MLN,4.5
+ureGF96EaoIKmE8SmEpVQA,"4022 S Maryland Pkwy
+Eastside
+Las Vegas, NV 89119",17:00 - 22:30,11:00 - 15:00,17:00 - 22:30,17:00 - 22:30,17:00 - 22:30,11:00 - 15:00,17:00 - 22:30,True,"Indian,Buffets,Restaurants",Las Vegas,92,Delhi Indian Cuisine,Eastside,-115.1377423,36.1152062,NV,4.5
+ZkVsZQgPqC_I6HGB_Up0gg,"6007 Monona Dr
+Monona, WI 53716",17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,11:30 - 15:00,11:30 - 15:00,17:00 - 22:00,True,"Indian,Restaurants",Monona,31,Swad,,-89.3257521495567,43.0536515866568,WI,4.0
+oCgA6kdDf7EDHaRW6FRUlA,"9400 S Eastern Ave
+106A
+Southeast
+Las Vegas, NV 89123",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,11:00 - 20:00,True,"Indian,Himalayan/Nepalese,Restaurants",Las Vegas,50,OM Restaurant,Southeast,-115.118054364,36.0181306467,NV,4.0
+EHqChEfbeXbaDwzOACISxg,"325 W Elliot Rd
+Tempe, AZ 85284",11:00 - 15:00,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,17:00 - 22:00,17:00 - 21:00,True,"Indian,Restaurants",Tempe,14,Aachi Southindian Kitchen,,-111.944757559011,33.3487509109657,AZ,4.0
+GJQvDc5DZQeXKmG_5Tcbug,"5957 McKee Rd
+Fitchburg, WI 53719",,,,,,,,True,"Indian,Restaurants",Fitchburg,10,Haveli Restaurant,,-89.4583705836138,43.0148809945832,WI,4.0
+C9pIR3vVgtO_Uo6Daq3Tzw,"1845 E Broadway Rd
+Ste 101
+Tempe, AZ 85282",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 15:00,17:00 - 22:00,True,"Indian,Buffets,Restaurants",Tempe,18,Nandini Indian Cuisine,,-111.9075196,33.406601,AZ,5.0
+OGOZWLFGwvwoylzKOnXyKQ,"7000 E Shea Blvd
+Scottsdale, AZ 85254",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,17:00 - 23:00,11:00 - 14:30,True,"Indian,Buffets,Restaurants",Scottsdale,18,Haweli Indian Grill & Bar,,-111.9290887,33.5825378,AZ,3.5
+4BcXBxadXP8UHUb2CBt2jA,"4030 E Bell Rd
+Ste 101
+Phoenix, AZ 85032",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,True,"Bakeries,Food,Indian,Restaurants",Phoenix,10,Pastries N Chaat,,-111.9947311,33.6417888,AZ,4.0

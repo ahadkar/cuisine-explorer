@@ -1,0 +1,723 @@
+pita jungle 1273
+pita bread 879
+greek salad 802
+gyro meat 530
+lentil soup 342
+middle eastern 317
+tzatziki sauce 308
+greek fries 308
+feta cheese 294
+grilled chicken 254
+french fries 248
+chicken shawarma 232
+chicken pita 219
+side salad 211
+chicken kabob 204
+garlic sauce 196
+ordered chicken 175
+gyro plate 174
+middle eastern food 168
+ordered gyro 148
+falafel pita 147
+love pita jungle 147
+chicken gyro 145
+gyro platter 143
+huge fan 141
+yogurt sauce 138
+basmati rice 136
+chicken salad 134
+chicken breast 133
+beef lamb 123
+big fan 119
+portions huge 116
+gyro salad 115
+ground beef 112
+gyro sandwich 110
+pita chips 109
+hummus pita 109
+chicken shwarma 109
+portion size 108
+athens fries 108
+made fresh 107
+dipping sauce 105
+lamb shank 105
+chicken souvlaki 103
+portion sizes 103
+lamb beef 102
+lamb chops 101
+chicken schwarma 100
+chicken kabobs 98
+beef kabob 97
+feta fries 94
+hot sauce 93
+hummus appetizer 92
+rice pilaf 90
+gyro pita 90
+salad dressing 89
+tahini sauce 88
+pasta salad 87
+pita sandwich 85
+large portions 83
+pretty good 82
+portions generous 82
+portions large 81
+falafel sandwich 79
+lemon juice 79
+gyro fries 79
+fresh tasty 78
+generous portions 78
+spinach pie 77
+israeli salad 77
+chicken sandwich 76
+full flavor 76
+cilantro jalapeno hummus 72
+rice pudding 72
+tomato sauce 71
+pomegranate chicken 71
+perfectly cooked 70
+cooked perfectly 70
+hummus trio 70
+hummus plate 69
+fresh ingredients 69
+fries drink 69
+meat tender 69
+fresh delicious 67
+greek food 67
+perfectly seasoned 66
+cucumber sauce 65
+chicken curry 65
+huge portions 64
+chicken wrap 64
+chicken beef 64
+mahi mahi 63
+lamb gyro 62
+warm pita 62
+crazy jim 62
+cooked perfection 62
+combo plate 62
+mediterranean salad 62
+shish kabob 61
+falafel wrap 61
+ordered hummus 61
+middle east 60
+generous portion 59
+hummus pita bread 59
+lamb kabob 59
+pita pit 59
+potato salad 58
+tasted fresh 58
+flaming cheese 58
+gyro combo 58
+crazy pita 58
+garlic dip 57
+red onions 57
+bit dry 57
+freshly made 55
+steak pita 54
+chicken kebab 54
+brown rice 53
+beef gyro 53
+side hummus 52
+ordered lamb 52
+soup salad 52
+beef shawarma 52
+greek wraps 52
+beet salad 52
+red onion 51
+spicy chicken wrap 51
+caesar salad 51
+saffron rice 51
+fat greek 51
+seasoned fries 50
+husband ordered 50
+chicken moist 50
+garlic potatoes 50
+pita soft 49
+cilantro hummus 49
+beef kabobs 49
+big portions 49
+lettuce wraps 49
+pretty tasty 48
+falafel plate 48
+tender juicy 48
+traditional gyro 48
+fresh pita 47
+tzaziki sauce 47
+tomato soup 47
+roasted chicken 47
+friend ordered 46
+fresh veggies 45
+large portion 45
+greek salads 45
+side greek salad 45
+kabob korner 45
+piping hot 44
+grilled veggies 44
+tasted good 44
+eden grill 44
+greek dressing 43
+feta salad 43
+beef chicken 43
+green beans 43
+vegetarian options 42
+huge portion 42
+chicken dry 42
+falafel balls 42
+side dish 42
+jalapeno cilantro hummus 42
+red pepper 41
+side fries 41
+bell peppers 41
+grilled tomato 41
+super gyro 41
+ordered greek salad 40
+extra pita 40
+good size 40
+chicago gyros 40
+los angeles 39
+mediterranean platter 39
+falafel platter 39
+super tasty 39
+big fat greek 39
+red sauce 39
+wife ordered 39
+lemon chicken 39
+wheat pita 39
+chicken tender 39
+grilled cheese 38
+warm pita bread 38
+portions big 38
+super fresh 38
+chicken steak 38
+small greek salad 37
+gyros plate 37
+tender flavorful 37
+fresh made 37
+thinly sliced 37
+side note 37
+lamb kabobs 37
+flat bread 36
+romaine lettuce 36
+food fresh 36
+lettuce tomato 36
+west side 36
+pesto pizza 36
+pita jungles 36
+ingredients fresh 35
+eggplant dip 35
+great flavor 35
+ordered gyros 35
+chicken kabob plate 35
+roasted potatoes 35
+hot dog 34
+garlic fries 34
+vegetarian plate 34
+meat dry 34
+lemon potatoes 34
+caramelized onions 33
+big fat 33
+beef lamb gyro 33
+appetizer platter 33
+sauce side 33
+hot dogs 33
+seasoned perfectly 33
+mediterranean chicken salad 33
+fresh pita bread 33
+tomato basil 33
+hot fresh 33
+taste buds 32
+chicken shawerma 32
+rosemary chicken sandwich 32
+deep fried 31
+love gyros 31
+pita sandwiches 31
+ordered falafel 31
+moist flavorful 31
+combo platter 31
+original gyro 31
+gyro wrap 31
+small side 31
+chicken skewer 31
+white meat 30
+greek salad chicken 30
+jalapeno hummus 30
+shish kebab 30
+serving size 30
+meat juicy 30
+flaming saganaki 30
+house salad 29
+portions small 29
+avgolemono soup 29
+iceberg lettuce 29
+dressing side 29
+pretty big 29
+yum yum 29
+fresh flavorful 29
+steak kabob 29
+pita jungle location 29
+small pieces 29
+freshly baked 29
+mixed greens 29
+chicken shawarma plate 29
+side town 29
+cucumber salad 29
+rice bowl 29
+roasted red 28
+yellow rice 28
+chicken fingers 28
+favorite dish 28
+caprese salad 28
+lacking flavor 28
+ve tasted 28
+chicken pasta salad 28
+sampler platter 28
+middle eastern restaurant 28
+yogurt cucumber 28
+small portion 28
+chicken skewers 28
+fresh fruit 27
+meat seasoned 27
+veggies fresh 27
+served warm 27
+pita wrap 27
+taziki sauce 27
+italian beef 27
+chopped salad 27
+veggie wrap 27
+red pepper hummus 27
+glazed chicken lavosh pizza 27
+spicy sauce 27
+roasted garlic 27
+garlic rosemary fries 27
+hummus xpress 27
+hummus smooth 26
+house made 26
+kabob plate 26
+grilled perfection 26
+house dressing 26
+mac cheese 26
+onion rings 26
+pita jungle locations 26
+broiled chicken salad 26
+spaghetti meatballs 26
+big fat greek restaurant 26
+fresh herbs 26
+vegetarian platter 26
+golden greek 26
+bell pepper 25
+grilled vegetables 25
+combination platter 25
+taco bell 25
+phyllo dough 25
+pita bread warm 25
+lemon rice 25
+dry side 25
+middle eastern restaurants 25
+shawarma plate 25
+white rice 25
+ordered beef 25
+cucumber yogurt 24
+roasted red pepper 24
+tomatoes onions 24
+fresh tasting 24
+salmon salad 24
+middle eastern cuisine 24
+lemon vinaigrette 24
+food good 24
+spicy chicken 24
+started hummus 24
+combination plate 24
+served hot 24
+lots meat 24
+side dishes 23
+served cold 23
+served side 23
+grilled onions 23
+fruit salad 23
+lemon soup 23
+love pita 23
+meat cooked 23
+nicely seasoned 23
+portion huge 23
+big chunks 23
+lavosh shawarma wrap 23
+looked good 23
+soft inside 23
+pita bread soft 23
+shirazi salad 23
+yogurt dip 23
+perfect amount 23
+lemon garlic 23
+big portion 23
+pita shack 23
+meat eater 22
+tuna salad 22
+pretty bland 22
+fresh vegetables 22
+soft pita 22
+home made 22
+green peppers 22
+salad side 22
+generous amount 22
+fresh baked 22
+roasted tomato 22
+curry soup 22
+piece baklava 22
+gyro sandwiches 22
+plenty meat 22
+craving gyro 22
+vegetable salad 22
+lentil fetoosh 22
+pieces chicken 22
+chicken wings 22
+bed rice 22
+mixed grill 22
+ordered gyro plate 22
+ground beef kabob 22
+king gyros 22
+ordered chicken pita 22
+fattoush salad 22
+meat combo 22
+greek grill 22
+turkey sandwich 21
+made house 21
+good thing 21
+sun dried tomatoes 21
+perfect size 21
+jalepeno hummus 21
+macro platter 21
+cilantro jalapeno 21
+veggie burger 21
+boyfriend ordered 21
+greek bistro 21
+appetizer sampler 21
+meat eaters 21
+dill sauce 21
+lamb beef gyro 21
+harissa fries 21
+ordered chicken shawarma 20
+super yummy 20
+lamb meatballs 20
+luke warm 20
+good amount 20
+chicago style 20
+lavosh pizza 20
+philly chicken pita 20
+chicken del sol 20
+chicken shawarma pita 20
+philly cheesesteak 20
+lamb kebab 20
+diced tomatoes 20
+garbanzo beans 20
+lacked flavor 20
+souvlaki plate 20
+jalape hummus 20
+big fat gyro 20
+flame kabob 20
+bit bland 19
+good sized 19
+greek salad gyro meat 19
+hummus baba 19
+roasted eggplant 19
+chicago gyro 19
+lots flavor 19
+sun dried tomato 19
+chicken marsala 19
+kind bland 19
+juicy tender 19
+onions tomatoes 19
+lamb shanks 19
+extra pitas 19
+steamed veggies 19
+steak shawarma 19
+tomato onion 19
+ordered grilled 19
+lamb sliders 19
+kale salad 19
+red lentil soup 18
+salt pepper 18
+steak sandwich 18
+marinara sauce 18
+grilled chicken breast 18
+white sauce 18
+lamb souvlaki 18
+spinach artichoke dip 18
+packed flavor 18
+roasted red pepper hummus 18
+mixed beans 18
+cilantro jalape hummus 18
+ordered chicken gyro 18
+amount food 18
+bread served 18
+casablanca chicken sandwich 18
+east side 17
+potato soup 17
+red peppers 17
+good stuff 17
+huge chunks 17
+tomato based 17
+ordered steak 17
+looked delicious 17
+leg lamb 17
+sampler plate 17
+chicken caesar 17
+didn taste 17
+cucumber slices 17
+fresh crisp 17
+amount meat 17
+moist inside 17
+glazed chicken 17
+turkey wrap 17
+ranch dressing 17
+naan bread 17
+marinated chicken 17
+bbq sauce 17
+spinach dip 17
+shish kabob house 17
+caribbean salad 17
+meat lovers 17
+athen fries 17
+pesto sauce 17
+steak kabobs 16
+nom nom 16
+decent size 16
+bit salty 16
+herbs spices 16
+food delicious 16
+curry chicken 16
+juicy flavorful 16
+fruit cheese 16
+chicken phyllo 16
+potato chips 15
+pork souvlaki 15
+grilled shrimp 15
+freshly prepared 15
+fresh healthy 15
+vegan options 15
+homemade pita 15
+order extra 15
+extra side 15
+pasta dishes 15
+fresh oven 15
+chicken tikka masala 15
+rotisserie chicken 15
+made scratch 14
+shwarma wrap 14
+husband loves 14
+seasoned perfection 14
+greek restaurants 14
+kabob platter 14
+small plates 14
+shawarma sandwich 14
+philly cheese steak 14
+big deal 13
+pretty decent 13
+extra tzatziki 13
+fava beans 13
+philly cheese 13
+grilled veggie 13
+fresh baked bread 13
+mediterranean food 13
+fish chips 13
+herb flavors 13
+mediterranean chicken 12
+surprisingly good 12
+warm soft 12
+flavor texture 12
+served bed 12
+cooked seasoned 12
+chicken pasta 12
+rice cooked 12
+greek places 12
+tastes fresh 12
+pretty small 12
+sized portion 12
+beef kebab 12
+fan pita jungle 12
+baklava cheesecake 12
+greek style 11
+perfect combination 11
+shawarma pita 11
+pepper hummus 11
+shawarma wrap 11
+artichoke dip 11
+lamb kisra 11
+pasta dish 10
+souvlaki pita 10
+side tzatziki 10
+pricey side 10
+main dish 10
+lamb shawarma 10
+fell love 10
+made order 10
+looked tasted 10
+grilled salmon 10
+garlic lemon 10
+greek restaurant 10
+mediterranean grill 10
+gyros town 9
+mashed potatoes 9
+fried calamari 9
+chicken lavosh pizza 9
+decent amount 9
+cilantro jalape 9
+sooo good 9
+bell pepper hummus 9
+pretty standard 9
+greek mediterranean 9
+mediterranean middle eastern 9
+beef shwarma 9
+bread soft 9
+chicken tikka 9
+mad greek 9
+cut half 8
+broiled chicken 8
+red bell 8
+soft warm 8
+vegetarian vegan 8
+seasoned cooked 8
+greek salad gyro 8
+chicken shish 8
+chicken lavosh 8
+artichoke hearts 8
+damn good 7
+bit pricey 7
+philly steak 7
+good food 7
+burger king 7
+salty taste 7
+jalapeno cilantro 7
+mediterranean style 7
+looked amazing 7
+bread pesto 7
+cheese steak 7
+rosemary chicken 6
+parmesan cheese 6
+tasted great 6
+bread warm 6
+ate half 6
+mediterranean cuisine 6
+favorite thing 6
+light refreshing 6
+great greek 6
+grilled vegetable 6
+tikka masala 6
+red bell pepper 6
+favorite greek 6
+fan greek food 6
+fat gyro 6
+tad bit 5
+craving greek 5
+mediterranean places 5
+absolutely delicious 5
+lavosh shawarma 5
+favorite dishes 5
+smooth creamy 5
+pre made 5
+food amazing 5
+friend mine 5
+pretty damn 5
+perfectly prepared 5
+sweet potato fries 5
+dried tomatoes 5
+full meal 5
+authentic greek 5
+del sol 5
+great choice 4
+favorite places 4
+baked bread 4
+favorite restaurants 4
+leftovers home 4
+healthy meal 4
+extra virgin 4
+beef tenderloin 4
+rosemary fries 4
+garlic rosemary 4
+craving greek food 4
+enjoyed meal 4
+goat cheese 4
+kabob house 4
+wasn expecting 4
+middle eastern mediterranean 4
+red lentil 3
+taste mouth 3
+places ve 3
+make home 3
+cucumber dip 3
+pretty solid 3
+healthy options 3
+looked pretty 3
+steak cooked 3
+main dishes 3
+mediterranean restaurants 3
+italian sausage 3
+enjoyed food 3
+side greek 3
+love greek 3
+food tastes 3
+healthy food 3
+fresh air 3
+food decent 2
+ordered medium 2
+good deal 2
+simply put 2
+lot places 2
+main entree 2
+absolutely amazing 2
+half half 2
+appetizers entrees 2
+italian food 2
+red sangria 2
+cilantro jalepeno 2
+mediterranean italian 2
+potato fries 2
+pork chop 2
+super nice 2
+real thing 2
+grilled octopus 2
+glazed chicken lavosh 2
+personal favorite 2
+philly chicken 2
+food fantastic 2
+places town 2
+mediterranean fare 1
+medium rare 1
+great food 1
+ve found 1
+rest meal 1
+greek mediterranean food 1
+inside restaurant 1
+flatbread pizza 1
+drink order 1
+sweet potato 1
+casablanca chicken 1
+favorite restaurant 1
+extremely nice 1
+love love love 1
+pesto bread 1
+gave free 1
+excellent food 1
+love greek food 1
+sun dried 1
+fetoosh salad 1
+end meal 1
+absolutely love 1
+italian restaurant 1
+8 bucks 1
+eastern restaurant 1
+real deal 1
+food pretty good 1
+eastern mediterranean 1
+nice touch 1
+dried tomato 1
+cooked medium 1
+jungle location 1
+didn disappoint 1
+eastern cuisine 1
+spinach artichoke 1
+absolutely loved 1
+sweet savory 1
+overly sweet 1
+food awesome 1
+lot food 1
+fan mediterranean 1

@@ -1,0 +1,4880 @@
+food good 4350
+pretty good 3954
+great place 3167
+good food 2872
+love place 2761
+great food 2629
+good time 2624
+great service 2443
+service good 2261
+service great 2163
+great time 2057
+food great 1854
+staff friendly 1750
+bar food 1641
+great atmosphere 1525
+beer selection 1415
+good service 1352
+customer service 1261
+friendly staff 1196
+bottle service 1185
+service slow 1051
+food drinks 1016
+wait staff 952
+wine list 931
+mexican food 911
+service excellent 909
+wine bar 909
+good thing 878
+great experience 874
+food delicious 850
+irish pub 835
+nice place 809
+quality food 785
+beers tap 784
+glass wine 781
+cheap drinks 765
+food amazing 736
+food service 730
+prices reasonable 728
+top notch 712
+food pretty good 678
+menu items 667
+pretty cool 667
+dining experience 663
+good beer 652
+great spot 647
+wine selection 644
+friendly service 611
+great selection 611
+service friendly 580
+food excellent 575
+drink menu 571
+pretty decent 568
+great beer 566
+fun place 563
+food decent 547
+bad service 544
+atmosphere great 542
+super friendly 534
+excellent service 533
+drink prices 521
+bar staff 521
+great job 520
+good experience 517
+craft beer 516
+food menu 513
+nice touch 506
+good times 505
+bottle wine 503
+place awesome 502
+cool place 501
+great location 494
+recommend place 490
+nice atmosphere 489
+mixed drinks 488
+drinks cheap 487
+good selection 471
+good music 471
+drink specials 466
+beer tap 464
+great deal 462
+bartenders friendly 453
+delicious food 447
+place packed 442
+food average 442
+beer list 442
+pretty tasty 441
+drinks strong 441
+iced tea 435
+poor service 433
+bit pricey 426
+order food 423
+favorite place 412
+staff great 411
+wasn bad 411
+reasonable prices 406
+loved place 406
+slow service 404
+high quality 403
+hit miss 402
+table service 385
+perfect place 385
+items menu 384
+staff nice 376
+food quality 371
+drinks priced 370
+decent food 367
+looked good 366
+amazing food 361
+ve eaten 358
+fun atmosphere 357
+juke box 356
+foie gras 354
+cocktail menu 353
+sunday brunch 351
+good job 351
+food mediocre 350
+pub food 349
+draft beer 349
+cold beer 348
+hit spot 346
+place pretty 345
+food pretty 342
+bad experience 341
+good deal 340
+big deal 338
+place busy 336
+horrible service 336
+great beer selection 336
+comfort food 334
+atmosphere nice 331
+drinks expensive 330
+great meal 330
+favorite places 328
+waitress nice 328
+food tasty 326
+great music 326
+great prices 324
+craft beers 323
+pretty awesome 317
+isn bad 317
+super nice 314
+server nice 313
+good stuff 309
+coffee shop 307
+pretty nice 301
+mexican restaurant 301
+drinks pricey 298
+food fantastic 296
+kind place 296
+beer cold 294
+strong drinks 294
+love atmosphere 292
+service terrible 291
+great place hang 291
+good luck 290
+good prices 288
+wasn good 288
+good spot 288
+service horrible 287
+great flavor 286
+lunch dinner 286
+service attentive 284
+ve heard 284
+excellent food 284
+terrible service 283
+great dane 280
+nice selection 277
+wasn busy 277
+damn good 274
+great ambiance 274
+absolutely love 271
+friendly helpful 268
+grab drink 268
+pretty standard 266
+found place 264
+friendly attentive 262
+great view 260
+reasonable price 260
+wasn impressed 259
+wide variety 258
+server friendly 258
+service pretty good 257
+san francisco 256
+great vibe 255
+fast food 255
+fine dining 253
+bartender nice 252
+daily specials 251
+san diego 251
+place hang 251
+food served 251
+things menu 250
+prices high 250
+beer garden 250
+beer wine 249
+good things 248
+bad thing 247
+music good 247
+serve food 246
+bartender friendly 245
+tasted great 244
+enjoyed food 243
+service quick 241
+specialty drinks 241
+place eat 241
+cheap beer 239
+glasses wine 238
+type place 237
+absolutely delicious 235
+drink selection 235
+bar restaurant 234
+pretty busy 233
+priced drinks 233
+good idea 231
+worst service 231
+beer menu 230
+wine tasting 230
+cool atmosphere 230
+beer pong 229
+drink beer 229
+draft beers 229
+super cool 227
+good choice 227
+tasted good 227
+daily dose 226
+service top notch 225
+time ve 221
+thing place 221
+pub grub 220
+food arrived 220
+good quality 219
+bartenders nice 219
+specialty cocktails 218
+typical bar food 217
+service bad 216
+mediocre food 215
+good vibe 214
+fun time 213
+service decent 211
+places eat 211
+atmosphere fun 210
+beer drinker 210
+good beer selection 209
+place cool 209
+place isn 208
+great local 207
+good amount 206
+tasting menu 206
+service fast 205
+waitress friendly 204
+kilt lifter 204
+servers friendly 204
+high expectations 204
+service impeccable 202
+monte carlo 201
+service awesome 198
+service outstanding 197
+check place 196
+absolutely amazing 196
+love coming 196
+service fantastic 195
+san tan 195
+staff attentive 195
+food items 192
+friendly bartenders 191
+decor nice 191
+5th wine 191
+pub crawl 190
+good price 190
+diet coke 190
+grey goose 189
+downtown phoenix 188
+pretty big 187
+high end 186
+staff super friendly 186
+surprisingly good 185
+grocery store 183
+service prompt 183
+relaxed atmosphere 183
+moscow mule 183
+red wine 182
+selection beers 182
+service fine 182
+big fan 180
+tilted kilt 180
+server attentive 179
+quick drink 179
+lunch menu 178
+great patio 178
+great wine 178
+regular basis 177
+ve times 176
+service bit slow 174
+decent selection 173
+wine glass 173
+pretty quickly 172
+extremely friendly 170
+place empty 170
+regular menu 170
+high hopes 170
+pretty empty 169
+good mix 168
+personal favorite 167
+looked great 167
+good variety 166
+fell love 166
+food isn 164
+attentive service 164
+irish pubs 164
+italian food 164
+decent prices 163
+large selection 163
+quick bite 163
+huge selection 162
+place clean 162
+wings good 162
+service hit miss 161
+arrogant butcher 161
+good reviews 161
+sounded good 161
+love love love 161
+family friendly 160
+food options 160
+lunch time 159
+full bar 158
+nice dinner 158
+music great 158
+good sign 157
+wines glass 157
+staff awesome 157
+az 88 157
+good size 156
+wide selection 155
+dinner drinks 155
+favorite restaurant 155
+casey moore 155
+waitress attentive 155
+good bar food 154
+twin peaks 154
+pleasant surprise 153
+ve enjoyed 153
+menu limited 153
+menu looked 152
+root beer 152
+top shelf 152
+bottles wine 152
+selection beer 151
+couple beers 150
+love fact 150
+great customer service 150
+great addition 150
+german food 150
+ve found 148
+great choice 148
+ambiance nice 148
+prices fair 148
+irish bar 148
+ginger beer 148
+love decor 147
+mixed drink 147
+oatmeal stout 147
+cocktail list 147
+quick service 146
+pub quiz 146
+perfect spot 146
+lunch today 146
+wine beer 146
+ve tasted 146
+loved atmosphere 146
+attentive friendly 145
+favorite spot 145
+neighborhood bar 144
+kid friendly 144
+makes great 144
+peach ale 144
+bite eat 143
+heard place 143
+service industry 143
+top list 143
+food poisoning 142
+food outstanding 142
+staff friendly attentive 141
+good company 141
+great variety 139
+sat bar 139
+super busy 139
+favorite thing 139
+nice decor 139
+jack coke 139
+ping pong 139
+food overpriced 138
+pale ale 138
+chain restaurant 138
+great idea 137
+nice change 137
+place rocks 137
+service average 137
+dinner menu 137
+fast service 136
+family style 136
+sooo good 136
+soooo good 135
+great drink specials 135
+service poor 135
+dog friendly 135
+place serves 135
+wait staff friendly 134
+friends family 134
+limited menu 133
+food quickly 133
+brunch menu 133
+white wine 133
+pretty darn good 133
+food priced 133
+food alright 132
+central phoenix 132
+ve lived 132
+average food 131
+yummy food 131
+amount food 131
+looked menu 131
+expensive drinks 131
+bring food 131
+timely manner 130
+food wise 130
+cocktail waitress 130
+favorite restaurants 130
+cup coffee 130
+tempe location 130
+friendly atmosphere 129
+service received 129
+high prices 129
+hit place 129
+service awful 129
+wide range 128
+pretty damn 128
+cup tea 128
+tap water 128
+cool spot 127
+wine bars 127
+food great service 127
+gordon biersch 127
+music selection 127
+culinary dropout 127
+favorite part 126
+excited place 126
+huge fan 126
+food specials 126
+pretty quick 126
+british pub 126
+wine cellar 126
+world cup 125
+gin tonic 125
+pretty bad 124
+vibe place 124
+atmosphere cool 124
+pretty solid 123
+pretty small 123
+service sucks 123
+decent sized 123
+haven food 123
+ri ra 123
+miller lite 122
+serving food 122
+weather nice 122
+indian food 122
+food terrible 121
+pleasant experience 121
+pretty damn good 121
+super cute 121
+italian restaurant 121
+servers nice 120
+ambiance great 120
+drinks overpriced 120
+ice cold 120
+gordon ramsay 120
+arcadia farms 120
+end meal 119
+favorite things 119
+bit slow 119
+ll love 119
+pretty chill 119
+cool vibe 119
+nice ambiance 119
+time town 118
+chain restaurants 118
+breakfast menu 118
+lunch specials 117
+drinking beer 117
+local bar 116
+service bit 116
+heard good things 116
+wasn crowded 116
+quality service 115
+elephant bar 115
+food wonderful 114
+bottled beer 114
+overpriced drinks 113
+nice spot 113
+taste good 113
+menu item 113
+signature cocktails 113
+irish nachos 113
+menu options 113
+ordering food 112
+food fast 112
+menu extensive 112
+absolutely loved 112
+staff friendly helpful 112
+rum coke 112
+gotta love 111
+kids menu 111
+fun times 111
+wonderful experience 111
+craft brews 111
+fine irishmen 111
+real deal 110
+makes place 110
+good sized 110
+service exceptional 110
+drinks reasonable 110
+find place 110
+service par 109
+pub fare 109
+full menu 109
+absolutely love place 109
+alice cooper 109
+casual atmosphere 109
+craft cocktails 109
+great neighborhood 108
+ve experienced 108
+bartenders awesome 108
+beer battered 107
+prices decent 107
+food bland 107
+place chill 107
+service wonderful 107
+english pub 107
+service sucked 107
+rest menu 107
+pretty sweet 107
+price range 107
+beer selection good 106
+stiff drinks 106
+frequent place 106
+nice friendly 106
+added bonus 106
+grab beer 106
+times ve 106
+sushi bar 106
+favorite bar 105
+type food 105
+vegetarian options 105
+cocktail waitresses 105
+quality ingredients 105
+staff amazing 105
+bad meal 105
+pretty darn 104
+good ol 104
+service lacking 104
+great selection beers 104
+waiter nice 103
+list places 103
+decent price 103
+wonderful service 103
+great place drink 103
+knowledgeable menu 103
+food choices 102
+great place relax 102
+traditional pub 102
+beer selections 101
+food incredible 101
+good conversation 101
+food prepared 101
+service spotty 101
+place pretty cool 101
+bit overpriced 101
+isn great 101
+decent size 101
+place sucks 101
+decently priced 101
+food par 101
+place grab 101
+impressed food 101
+tap selection 100
+micro brews 100
+great things 100
+nice patio 100
+great care 100
+super tasty 100
+bit expensive 100
+wonderful time 100
+downtown chandler 100
+nice surprise 99
+bottled beers 99
+average bar food 99
+eat drink 99
+mexican restaurants 99
+house wine 99
+place opened 99
+servers bartenders 98
+great food service 98
+consistently good 98
+places ve 98
+good selection beers 98
+enjoyed experience 98
+pretty cheap 98
+place potential 98
+great place date 98
+extensive menu 98
+real ales 98
+great deals 97
+ve visited 97
+part meal 97
+good flavor 96
+decent beer selection 96
+restaurant week 96
+service great food 96
+place doesn 96
+staff members 96
+local brews 95
+brought food 95
+pitchers beer 95
+beer selection great 94
+super fun 94
+enjoyed atmosphere 94
+item menu 94
+fairly quickly 94
+amazing view 94
+pretty packed 94
+nice addition 93
+pretty average 93
+absolute favorite 93
+worst part 93
+brewing company 93
+atmosphere awesome 93
+coffee house 92
+looked pretty 92
+bar grill 91
+lunch spot 91
+couple drinks 91
+listed menu 91
+favorite spots 91
+good news 91
+sauvignon blanc 91
+staff member 91
+pitcher beer 91
+brew pub 91
+dining experiences 91
+good drink specials 91
+hang friends 91
+great place eat 91
+great wine selection 91
+unique experience 91
+convenient location 91
+horrible experience 91
+super cheap 90
+attentive staff 90
+servers attentive 90
+moderately priced 90
+drinks appetizers 90
+chill place 90
+beer prices 90
+price reasonable 90
+food delivered 90
+signature drinks 90
+looked amazing 89
+great selection beer 89
+rest food 89
+decent amount 89
+pretty fast 89
+great reviews 89
+beer cheap 89
+nice variety 89
+thing menu 89
+feel place 88
+beer specials 88
+fairly priced 88
+food tastes 88
+breakfast lunch 88
+thai food 88
+exceeded expectations 87
+service fast friendly 87
+cute place 87
+american food 87
+super yummy 87
+ordered drinks 86
+grab bite 86
+great start 86
+fun experience 86
+good eats 86
+nice change pace 86
+service pretty 86
+wine flights 86
+arcadia tavern 86
+crappy service 85
+super excited 85
+pint glass 85
+bottled water 85
+lived closer 85
+german beer 85
+locally owned 84
+food good service 84
+great place grab 84
+level service 84
+place relax 84
+drinks pretty 84
+craft beer selection 83
+enjoy meal 83
+soo good 83
+places town 83
+pretty good deal 83
+ice tea 83
+real ale 83
+chill atmosphere 82
+bahama breeze 82
+terrible experience 81
+worst experience 81
+doesn love 81
+place pretty empty 81
+atmosphere relaxed 81
+great environment 81
+helpful friendly 81
+good range 81
+town scottsdale 81
+comment food 80
+beer choices 80
+great place chill 80
+support local 80
+cool place hang 80
+beer sampler 80
+bartenders servers 80
+drinks aren 80
+afternoon tea 80
+friendly bartender 79
+wine pairing 79
+service mediocre 79
+alcoholic beverages 79
+marche bacchus 79
+coffee shops 79
+stumbled place 78
+staff helpful 78
+top things 78
+fun place hang 78
+ginger ale 78
+serve beer 78
+liquor store 78
+food court 78
+aces ales 78
+rum bar 78
+bar fare 77
+outstanding service 77
+quick lunch 77
+great tasting 77
+great option 77
+love ambiance 77
+wine pairings 77
+waiters waitresses 77
+great conversation 77
+great place hang friends 77
+pretty fun 77
+chinese food 77
+music pretty good 77
+scottsdale location 77
+eno vino 77
+waiter attentive 76
+good deals 76
+patio nice 76
+service quick friendly 76
+great place stop 76
+sounded great 76
+enjoyed meal 76
+grab drinks 76
+food meh 75
+warm inviting 75
+great ambience 75
+amount time 75
+postino central 75
+super friendly staff 74
+stopped lunch 74
+staff extremely 74
+piled high 74
+tastes good 74
+plastic cup 74
+central location 74
+bit high 74
+family friends 74
+view amazing 74
+nice helpful 74
+impressed service 74
+beer hall 74
+traditional irish 74
+wait staff attentive 73
+great date 73
+great wine list 73
+local beers 73
+robbie fox 73
+greeted friendly 72
+pretty crowded 72
+prompt service 72
+great place meet friends 72
+part experience 72
+beer snob 72
+good thing place 72
+great food great 72
+aren bad 72
+great concept 72
+drinks stiff 71
+beer taps 71
+fairly good 71
+sounds good 71
+good things place 71
+drink order 71
+average bar 71
+place crowded 71
+food orders 71
+great alternative 71
+drinks average 71
+sushi restaurant 71
+food solid 70
+pretty quiet 70
+draft beer selection 70
+good place hang 70
+love postino 70
+love love 70
+part town 70
+fast forward 70
+absolutely fantastic 70
+carlsbad tavern 70
+tequila bar 70
+bartenders attentive 69
+liquor selection 69
+time visited 69
+lack service 69
+wine selections 69
+bonus points 69
+food pretty decent 69
+rate place 69
+great food drinks 69
+drinks served 69
+restaurant busy 69
+generally good 69
+cafe zuzu 69
+waiter friendly 68
+staff knowledgeable 68
+food arrive 68
+great place meet 68
+pretty pricey 68
+good tunes 68
+great place enjoy 68
+options menu 68
+pretty strong 68
+higher end 68
+service good food 68
+lunch special 68
+local pub 67
+menu offers 67
+late lunch 67
+super sweet 67
+staff pleasant 67
+meet friends 67
+local spot 67
+great food great service 67
+great place lunch 67
+5 glasses wine 67
+place wasn busy 67
+pretty disappointed 67
+irish whiskey 67
+pricey side 67
+nice attentive 67
+su vino 67
+pretty bland 66
+prices average 66
+great beers tap 66
+prices bit 66
+food consistently 66
+great dining experience 66
+sunday afternoon 66
+food hit miss 66
+special occasion 66
+cocktail servers 66
+iced coffee 66
+pretty large 65
+food coma 65
+chill spot 65
+great touch 65
+waitresses friendly 65
+exceptional service 65
+food awful 65
+super attentive 65
+bit disappointed 65
+poor customer service 65
+decent bar food 65
+menu choices 65
+cheap booze 65
+bruschetta board 65
+time visit 65
+ice cold beer 64
+daily special 64
+service superb 64
+nice quiet 64
+nice job 64
+wine glasses 64
+glass water 64
+sunday lunch 64
+good ole 64
+wheat beer 64
+enjoyable experience 64
+service friendly attentive 64
+sunday morning 64
+pub grill 64
+love burgers 64
+irish coffee 64
+dining companion 63
+darn good 63
+friendly efficient 63
+beer drinking 63
+place grab drink 63
+breakfast brunch 63
+staff super 63
+ridiculously good 63
+decent beer 63
+quality quantity 63
+made experience 63
+knowledgeable staff 63
+bar serves 63
+extremely nice 63
+love love love place 63
+food sucks 63
+food surprisingly good 63
+simply amazing 63
+irish breakfast 63
+nice view 63
+excellent selection 63
+pretty expensive 63
+guest list 63
+tap beer 62
+atmosphere perfect 62
+soft drinks 62
+poor quality 62
+perfect amount 62
+cozy atmosphere 62
+born raised 62
+drink choice 62
+beer drinkers 62
+alcoholic drinks 62
+entire place 62
+beers choose 62
+pretty dead 62
+nice cold 61
+dining options 61
+price high 61
+received food 61
+extremely attentive 61
+loved decor 61
+pretty reasonable 61
+taste tops 61
+wine shop 61
+great suggestions 61
+order drinks 61
+great company 61
+food wasn good 61
+great neighborhood bar 60
+absolutely horrible 60
+drink list 60
+prices bit high 60
+strong drink 60
+romantic dinner 60
+enjoy atmosphere 60
+food beverage 60
+nice vibe 60
+relaxing atmosphere 60
+food spectacular 60
+good selection beer 60
+world beer 60
+authentic irish pub 60
+extremely helpful 59
+gastro pub 59
+entire meal 59
+wine tastings 59
+fair prices 59
+pub atmosphere 59
+pumpkin porter 59
+dirt cheap 59
+awful service 59
+slow night 59
+ale house 59
+change pace 59
+serve breakfast 59
+don serve food 59
+sooooo good 59
+domestic beers 59
+cheap beers 59
+domestic beer 59
+disappointing experience 59
+equally good 58
+prices cheap 58
+typical bar 58
+tap beers 58
+drink special 58
+top notch service 58
+extensive wine list 58
+beers draft 58
+super chill 58
+visited place 58
+food typical 58
+bartenders cool 58
+bartenders super friendly 58
+relax enjoy 58
+arrogant bastard 58
+adult beverages 58
+food forever 58
+strip prices 58
+favorite local 57
+food runner 57
+hh menu 57
+dining companions 57
+casual place 57
+selection wine 57
+stella artois 57
+service alright 57
+menu interesting 57
+impeccable service 57
+jack daniels 57
+food top notch 57
+pretty cool place 57
+nice clean 57
+bartender attentive 57
+craft beers tap 57
+town square 57
+man pub 57
+standard bar food 56
+pretty impressive 56
+tap list 56
+mediocre service 56
+food network 56
+wine flight 56
+drink prices reasonable 56
+food wasn bad 56
+worst customer service 56
+grab bite eat 56
+bit steep 56
+prices aren bad 56
+wasn packed 56
+good place eat 56
+entire time 56
+indian restaurant 56
+place offers 56
+food drink specials 56
+regular spot 56
+lot fun 56
+water glass 56
+excellent job 56
+fair amount 56
+higher quality 56
+whiskey selection 56
+holyrood 9a 56
+staff excellent 55
+bottle champagne 55
+great recommendations 55
+half priced 55
+place deserves 55
+prices aren 55
+lively atmosphere 55
+good laugh 55
+beer bread 55
+looked pretty good 55
+entire experience 55
+staff extremely friendly 55
+wine bruschetta 55
+kitchen staff 55
+alcoholic beverage 55
+favorite places eat 55
+excellent choice 55
+friendly servers 55
+love fez 55
+great views 54
+enjoy company 54
+south american 54
+date night 54
+drinks weak 54
+incredibly friendly 54
+friendly knowledgeable 54
+good vibes 54
+wasn overly 54
+wasn expecting 54
+place date 54
+wine drinker 54
+place dead 54
+fast friendly 54
+haven eaten 54
+high price 54
+service stellar 54
+warm friendly 54
+low quality 54
+restaurant clean 54
+time vegas 54
+tapas style 54
+table bottle service 54
+great mix 53
+bit pricy 53
+pretty slow 53
+hits spot 53
+british food 53
+high hopes place 53
+friendly welcoming 53
+wine store 53
+extremely busy 53
+perfect location 53
+makes feel 53
+fantastic experience 53
+classic cocktails 53
+high priced 53
+excellent customer service 53
+authentic irish 53
+village tavern 53
+personal preference 52
+recommend restaurant 52
+looked delicious 52
+pretty impressed 52
+server helpful 52
+ve bad 52
+pricey worth 52
+amazing selection 52
+cool thing 52
+lots beer 52
+pub style 52
+hand crafted 52
+fairly busy 52
+nice relaxing 52
+pretty close 52
+food isn bad 52
+food consistent 52
+friendly accommodating 52
+favorite place eat 52
+food allergies 52
+worst thing 52
+beer flight 52
+quiet drink 52
+nobhill tavern 52
+wasn terrible 51
+wine list extensive 51
+staff wonderful 51
+draft selection 51
+sparkling wine 51
+skip place 51
+quick bite eat 51
+specialty drink 51
+tempe marketplace 51
+super expensive 51
+changed menu 51
+reviews place 51
+monte cristo 51
+beer lover 51
+breakfast items 51
+bartenders make 51
+food truck 51
+range beers 51
+burgers town 50
+drink orders 50
+typical bar fare 50
+quick friendly 50
+stick beer 50
+entire staff 50
+place pretty busy 50
+local brewery 50
+atmosphere chill 50
+loved ambiance 50
+san tan brewery 50
+enjoyed visit 50
+family owned 50
+signature drink 50
+entire menu 50
+mexican cuisine 50
+arnold palmer 50
+love concept 50
+beer pong tables 50
+place stop 49
+local ingredients 49
+brews tap 49
+discovered place 49
+wings pretty good 49
+decor ambiance 49
+heard great things 49
+speak food 49
+pub feel 49
+serves food 49
+craft brew 49
+menu isn 49
+timely fashion 49
+cheap eats 49
+drinks poured 49
+burgers ve 49
+pretty interesting 49
+drinks bit pricey 49
+nice place hang 49
+weekend brunch 49
+avoid place 49
+decor cool 49
+good buzz 49
+love hate 49
+super fast 49
+hang spot 49
+super crowded 49
+raj ipa 49
+cheap prices 48
+prices steep 48
+grab quick 48
+service extremely slow 48
+expensive side 48
+fun environment 48
+drinks pretty cheap 48
+wasn disappointed 48
+friends town 48
+menu simple 48
+great service great food 48
+food phenomenal 48
+fairly large 48
+irish car bombs 48
+love idea 48
+sushi places 48
+real thing 48
+fruity drinks 48
+limited selection 47
+delicious cocktails 47
+staff rude 47
+ve disappointed 47
+food exceptional 47
+friends enjoyed 47
+prices higher 47
+special menu 47
+pretty basic 47
+wine bottles 47
+lack luster 47
+wasn horrible 47
+wee bit 47
+service prompt friendly 47
+woo hoo 47
+kind pricey 47
+selection beers tap 47
+portions huge 47
+authentic mexican food 47
+cuban food 47
+worth price 47
+friendly bar staff 47
+social house 47
+full meal 46
+dining area 46
+micro brew 46
+favorite bars 46
+drink food specials 46
+pretty extensive 46
+fun spot 46
+favorite mine 46
+expectations high 46
+top quality 46
+sort thing 46
+fair price 46
+blah blah blah 46
+pretty easy 46
+arcadia location 46
+water glasses 46
+atmosphere relaxing 46
+lot places 46
+glass empty 46
+cool decor 46
+love vibe 46
+super awesome 46
+bit priced 46
+pub 1842 46
+department store 46
+whiskey attic 46
+atmosphere casual 45
+dinner night 45
+nice gesture 45
+large variety 45
+tad bit 45
+nice casual 45
+restaurant side 45
+staff friendly accommodating 45
+bad idea 45
+atmosphere wonderful 45
+don drink beer 45
+dig place 45
+decor atmosphere 45
+bad deal 45
+pint beer 45
+irish music 45
+drinks apps 45
+side town 45
+airport food 45
+wanted love place 45
+tiki drinks 45
+standard fare 44
+menu selections 44
+locally sourced 44
+bad choice 44
+absolutely terrible 44
+menu online 44
+food isn great 44
+nice option 44
+staff courteous 44
+heard good 44
+standard pub 44
+service spectacular 44
+adult beverage 44
+huge variety 44
+pretty neat 44
+comfortable atmosphere 44
+pub board 44
+super bowl 44
+solid choice 44
+food consistently good 44
+food good price 44
+pretty disappointing 44
+diner food 44
+decor modern 44
+mixed feelings 44
+frozen drinks 44
+bar area 43
+server knowledgeable 43
+small price 43
+service friendly prompt 43
+nice weather 43
+beer draft 43
+bartender super friendly 43
+super strong 43
+service worse 43
+pretty simple 43
+wine bottle 43
+bit pricey side 43
+beer options 43
+loves place 43
+dog friendly patio 43
+food looked good 43
+pint guinness 43
+redeeming quality 43
+rest staff 43
+ambience nice 43
+va bene 43
+attentive helpful 43
+thought pretty good 43
+seasonal beers 43
+car bombs 43
+single malt 43
+love sushi 43
+awesome beer selection 42
+rotating taps 42
+food typical bar food 42
+huge portions 42
+overly friendly 42
+atmosphere makes 42
+pretty high 42
+served quickly 42
+shock top 42
+service pretty slow 42
+service meh 42
+menu changed 42
+compared places 42
+places phoenix 42
+efficient friendly 42
+neat place 42
+wasn spectacular 42
+kind slow 42
+nice mix 42
+place hang friends 42
+neighborhood pub 42
+reviewed place 42
+finger food 42
+kids love 42
+price drinks 42
+iced teas 42
+fairly empty 42
+full price 42
+served cold 42
+food terrific 42
+beer wine selection 42
+postino arcadia 42
+place dine 42
+large portions 42
+atmosphere decor 42
+thought cool 42
+rude staff 42
+american fare 42
+craft cocktail 42
+martini glass 42
+bar louie 42
+fink bomb 42
+server pleasant 41
+inviting atmosphere 41
+service attentive friendly 41
+ve bad experience 41
+enjoyed dinner 41
+neighborhood spot 41
+wasn mood 41
+found spot 41
+extremely disappointed 41
+knowledgeable friendly 41
+low prices 41
+place pretty dead 41
+drinks refilled 41
+great place grab drink 41
+moscow mules 41
+menu looked good 41
+decor awesome 41
+wasn big deal 41
+vintage 95 41
+ambiance decor 41
+food good priced 41
+bottle water 41
+staff attentive friendly 41
+thai restaurant 41
+huevos rancheros 41
+peach bellini 41
+nob hill 41
+waitstaff friendly 40
+place grab beer 40
+staff welcoming 40
+bar snacks 40
+food good bar food 40
+rum cokes 40
+late night menu 40
+family dinner 40
+ordered bottle 40
+fairly decent 40
+great place start 40
+phoenix area 40
+pint glasses 40
+service improved 40
+fairly standard 40
+bartenders quick 40
+super delicious 40
+breakfast morning 40
+cold beers 40
+staff accommodating 40
+sound quality 40
+modern decor 40
+variety beers 40
+restaurant serves 40
+drinks inexpensive 40
+pleasant atmosphere 40
+restaurant empty 40
+extremely rude 40
+skeptical chymist 40
+regular price 40
+great local bar 40
+american junkie 40
+pretty excited 40
+super hungry 40
+traditional scottish 40
+average price 39
+nice cozy 39
+lousy service 39
+absolutely wonderful 39
+food superb 39
+worst ve 39
+place quiet 39
+staff super nice 39
+selection wines 39
+great selection wines 39
+price wise 39
+drinks decently priced 39
+mardi gras 39
+kinda pricey 39
+whiskey sour 39
+brew beer 39
+love thee 39
+awesome job 39
+sit bar 39
+hangout spot 39
+prime location 39
+bruschetta amazing 39
+2 glasses wine 39
+looked smelled 39
+totally awesome 39
+high quality food 39
+deal breaker 39
+picked place 39
+hands favorite 39
+cider tap 39
+dinning experience 39
+mexican style 39
+japanese food 39
+shitty service 39
+gordon ramsay pub grill 39
+amazing job 38
+real treat 38
+options choose 38
+service efficient 38
+high marks 38
+bring date 38
+brunch sunday 38
+sat bar ordered 38
+cool concept 38
+server friendly attentive 38
+peaks brewery 38
+service smile 38
+food offerings 38
+ipa tap 38
+great place bring 38
+type restaurant 38
+beer lovers 38
+bad customer service 38
+nice ambience 38
+good food good service 38
+drinks filled 38
+nice guy 38
+couple glasses wine 38
+place popular 38
+haven found 38
+quality food service 38
+great memories 38
+pretty good selection 38
+vegetarian friendly 38
+bad reviews 38
+serving drinks 38
+prices expensive 38
+nice sized 38
+stone cold 38
+usual suspects 38
+good alternative 38
+kind thing 38
+looked cool 38
+service phenomenal 38
+change menu 38
+sushi restaurants 38
+mesa location 38
+great personality 37
+high top 37
+pretty sums 37
+downtown location 37
+isn cheap 37
+nice place relax 37
+place meet 37
+bad news 37
+huge deal 37
+prices pretty 37
+horrible customer service 37
+date spot 37
+helpful staff 37
+atmosphere pleasant 37
+reasonable amount time 37
+quick dinner 37
+places offer 37
+freezing cold 37
+stiff drink 37
+couple cocktails 37
+comfort zone 37
+real quick 37
+nice chill 37
+glass champagne 37
+lower prices 37
+pretty typical 37
+ice rink 37
+service friendly efficient 37
+casual dinner 37
+changing menu 37
+service friendly fast 37
+place sit 37
+ridiculously expensive 37
+drinks flowing 37
+ve life 37
+service incredibly slow 37
+refreshing change 37
+due location 37
+creative menu 37
+food isn good 37
+thing keeping 37
+cantina laredo 37
+nightly specials 36
+good fashioned 36
+atmosphere cozy 36
+long time 36
+today lunch 36
+slightly average 36
+lots choices 36
+friendly prompt 36
+great date spot 36
+great combination 36
+devil ale 36
+isn thing 36
+love hate relationship 36
+crappy food 36
+service top 36
+angel trumpet 36
+part restaurant 36
+bars ve 36
+choices menu 36
+amazingly good 36
+standard bar 36
+fairly cheap 36
+bartenders waitresses 36
+service generally 36
+alcoholic drink 36
+good place meet 36
+good selection drinks 36
+great potential 36
+seared foie gras 36
+pub edinburgh 36
+pubs edinburgh 36
+high quality ingredients 35
+order food drinks 35
+lots options 35
+empty glass 35
+customer service skills 35
+ain bad 35
+place bring 35
+thought pretty 35
+atmosphere pretty cool 35
+wine choices 35
+dining partner 35
+nice place drink 35
+price quality 35
+guinness tap 35
+regular stop 35
+staff polite 35
+love affair 35
+local breweries 35
+patrons friendly 35
+upscale restaurant 35
+nice environment 35
+lot options 35
+wide array 35
+pet friendly 35
+weekly specials 35
+super packed 35
+weather perfect 35
+absolutely perfect 35
+type atmosphere 35
+personally love 35
+food reasonable 35
+family town 35
+classy place 35
+casual dining 35
+service professional 35
+staff lovely 35
+place pretty packed 35
+food subpar 35
+staff professional 35
+higher prices 35
+peach beer 35
+wasn super 35
+bring friends 35
+family restaurant 35
+mexican fare 35
+appetizers drinks 35
+diverse menu 35
+beer whiskey 35
+positive experience 35
+bartenders pretty 35
+jack cokes 35
+beer selection decent 35
+personal favorites 35
+sam fox 35
+fois gras 35
+red squirrel 35
+busy night 34
+family members 34
+ve heard good things 34
+bartenders knowledgeable 34
+service slower 34
+downtown phx 34
+haven heard 34
+variety menu 34
+standard bar fare 34
+lunch sunday 34
+tasted pretty good 34
+nice treat 34
+couple times 34
+places valley 34
+drinks affordable 34
+real estate 34
+waitresses nice 34
+fine dining experience 34
+service terrific 34
+dinner date 34
+absolutely fabulous 34
+patio dog friendly 34
+life changing 34
+read menu 34
+introduced place 34
+stop drink 34
+varied menu 34
+empty glasses 34
+section menu 34
+lunch yesterday 34
+margarita rocks 34
+domestic drafts 34
+cold winter 34
+super duper 34
+captain morgan 34
+supporting local 34
+alice wonderland 34
+pretty awful 34
+atmosphere unique 34
+cocktail server 34
+hard find 34
+drinks cheaper 34
+culinary experience 34
+bars restaurants 34
+amazing beer selection 34
+local hangout 33
+drinks quickly 33
+good place chill 33
+great place catch 33
+food arrives 33
+found favorite 33
+nice glass wine 33
+drinks pretty strong 33
+wasn fan 33
+staff incredibly 33
+unique atmosphere 33
+generous pours 33
+damn thing 33
+great place sit 33
+amber ale 33
+wasn special 33
+beer bottles 33
+gourmet food 33
+greasy bar food 33
+ordered glass wine 33
+heard great 33
+nice presentation 33
+butcher block 33
+stellar service 33
+place pretty awesome 33
+prices bit steep 33
+service issues 33
+decent selection beers 33
+atmosphere comfortable 33
+bartenders pour 33
+extensive list 33
+ice water 33
+original location 33
+love peaks 33
+good place grab 33
+restaurant beautiful 33
+find decent 33
+drinks fairly priced 33
+food runners 33
+restaurant part 33
+large glass 33
+ales tap 33
+rum jungle 33
+dave busters 33
+staying monte carlo 33
+ghillie dhu 33
+tap beer selection 32
+friendly professional 32
+cozy place 32
+super helpful 32
+standard pub fare 32
+drank beer 32
+prompt friendly 32
+half price 32
+eat lunch 32
+eat dinner 32
+long island iced tea 32
+service consistently 32
+glass bottle 32
+extremely knowledgeable 32
+hostess friendly 32
+consistently great 32
+low carb 32
+big hit 32
+bartender super nice 32
+menu diverse 32
+style pub 32
+ll good time 32
+pleased experience 32
+ve sampled 32
+checked place 32
+hasn changed 32
+bring dog 32
+good lord 32
+cool ambiance 32
+sat bar bartender 32
+online menu 32
+house wines 32
+beer ice cold 32
+bit loud 32
+wonderful meal 32
+damn tasty 32
+good time friends 32
+watered drinks 32
+scotch ale 32
+bartenders super nice 32
+goose island 32
+good portion 32
+drinks weren 32
+vip bottle service 32
+hawaiian food 32
+soooooo good 32
+affordable prices 32
+irish fare 32
+slightly higher 32
+house margaritas 32
+place wasn packed 32
+basic bar food 31
+impression place 31
+excellent beer selection 31
+lot things 31
+special place heart 31
+low expectations 31
+cheaper drinks 31
+grab table 31
+waiter helpful 31
+ambiance cool 31
+place fills 31
+wasn blown 31
+wanting place 31
+southern california 31
+casey moores 31
+drinks cheap strong 31
+place feels 31
+friendly folks 31
+brewed beer 31
+rosie mccaffrey 31
+prices low 31
+restaurants town 31
+place filled 31
+absolutely beautiful 31
+waitress helpful 31
+bruschetta boards 31
+portions big 31
+weren bad 31
+kung pao 31
+absolutely incredible 31
+ve dined 31
+house made 31
+daily basis 31
+chinese restaurant 31
+quick stop 31
+love mexican food 31
+decor pretty 31
+type thing 31
+nice buzz 31
+good place stop 31
+loved fact 31
+mixed reviews 31
+entire restaurant 31
+play beer pong 31
+pretty penny 31
+vegan menu 31
+fusion restaurant 31
+service super slow 31
+bottle service tables 31
+grab lunch 30
+local brew 30
+atmosphere lively 30
+tad pricey 30
+stopped quick 30
+food edible 30
+quality product 30
+ordered bottle wine 30
+absolutely ridiculous 30
+knowledgable menu 30
+warm welcoming 30
+good pub food 30
+beer snobs 30
+service extremely 30
+light lunch 30
+lack thereof 30
+beers wines 30
+bartender helpful 30
+recently moved 30
+isn huge 30
+enjoy ambiance 30
+looked tasty 30
+high tops 30
+welcoming atmosphere 30
+portions large 30
+pretty generous 30
+staff friendly knowledgeable 30
+funny thing 30
+single thing 30
+friendly wait staff 30
+things changed 30
+great tunes 30
+coffee tea 30
+bento box 30
+draft house 30
+places madison 30
+malt house 30
+menu includes 30
+sounded delicious 30
+japanese restaurant 30
+unique delicious 30
+close house 30
+high tea 30
+brew dog 30
+local places 29
+high school 29
+type establishment 29
+gin tonics 29
+ale tap 29
+helpful attentive 29
+recently visited 29
+drink selections 29
+based experience 29
+quick pint 29
+stale beer 29
+ve recently 29
+beer connoisseur 29
+nice size 29
+staff friendly efficient 29
+local businesses 29
+options limited 29
+staff generally 29
+poor experience 29
+american cuisine 29
+visiting town 29
+super friendly attentive 29
+good luck finding 29
+fine establishment 29
+server super nice 29
+great local spot 29
+quick easy 29
+bar order drinks 29
+enjoying drinks 29
+prices high side 29
+pretty weak 29
+authentic mexican 29
+slightly overpriced 29
+humble opinion 29
+irish bars 29
+stopped drink 29
+beer selection pretty good 29
+ridiculously priced 29
+recommending place 29
+authentic german 29
+made great recommendations 29
+auld dubliner 29
+postino east 29
+range drinks 29
+wee pub 29
+tivoli village 29
+cask 63 29
+fine dining restaurant 28
+daily drink specials 28
+ale asylum 28
+order drink 28
+rest meal 28
+bad experiences 28
+serving staff 28
+pretty limited 28
+place close 28
+extremely tasty 28
+employees friendly 28
+pretty mediocre 28
+waitress super nice 28
+great things place 28
+big portions 28
+peaks beer 28
+small portions 28
+sat patio 28
+high class 28
+nice place eat 28
+incredibly nice 28
+service pretty quick 28
+due fact 28
+reasonable drink prices 28
+local dines 28
+romantic date 28
+intimate atmosphere 28
+visiting family 28
+beer liquor 28
+fair share 28
+reasonable priced 28
+brunch weekends 28
+favorite dishes 28
+house brews 28
+weak drinks 28
+presentation nice 28
+super slow 28
+worst restaurant 28
+speedy service 28
+absolutely gorgeous 28
+beer pong table 28
+wasn thrilled 28
+florida cafe 28
+beer bust 28
+pour drinks 28
+places serve 28
+ve gotta 28
+irish beers 28
+ra sushi 28
+locally grown 28
+vegan options 28
+food trucks 28
+irish accent 28
+tuck shop 28
+johnny fox 28
+great place watch 27
+crazy busy 27
+perused menu 27
+drinks snacks 27
+lived phoenix 27
+service experienced 27
+memory serves 27
+bit small 27
+list beers 27
+portions small 27
+micro brewery 27
+feeling adventurous 27
+seasonal beer 27
+beer flights 27
+tea coffee 27
+brunch spot 27
+food snob 27
+offers great 27
+san fran 27
+weather cools 27
+ambiance perfect 27
+20 bottle wine 27
+tasted amazing 27
+hard time 27
+red wines 27
+staff nice friendly 27
+smelled good 27
+chill vibe 27
+wonderful evening 27
+jack box 27
+visited location 27
+san jose 27
+fancy schmancy 27
+perusing menu 27
+kid menu 27
+convenient place 27
+food timely manner 27
+wonderful job 27
+ping pong table 27
+ve grown 27
+wasn terribly 27
+efficient service 27
+faster service 27
+interesting concept 27
+finding place 27
+bucket beer 27
+wait time 27
+worst meal 27
+gay friendly 27
+energy drink 27
+fantastic job 27
+spot hang 27
+prices lower 27
+drinks aren cheap 27
+ordering drinks 27
+fun vibe 27
+brunch lunch 27
+water feature 27
+excellent food service 27
+german restaurant 27
+diablo cantina 27
+champagne cocktail 27
+love lux 27
+traditional german 27
+cask ales 27
+banger brewing 27
+boulders broadway 27
+neeps tatties 27
+good measure 26
+fast friendly service 26
+mixed feelings place 26
+lots things 26
+dang good 26
+great place unwind 26
+prices par 26
+lot choices 26
+bit disappointing 26
+service friendly quick 26
+decent wine list 26
+friends good time 26
+ve bad meal 26
+irish car bomb 26
+high standards 26
+nice neighborhood 26
+nice alternative 26
+nice kick 26
+pros cons 26
+milk stout 26
+holds special place heart 26
+hh specials 26
+prices affordable 26
+decent priced 26
+trendy atmosphere 26
+stopped dinner 26
+neighborhood restaurant 26
+brunch buffet 26
+quality control 26
+stella tap 26
+place unwind 26
+bottle wine bruschetta 26
+board bruschetta 26
+time ate 26
+excellent recommendations 26
+beer selection tap 26
+wasn impressive 26
+staff patrons 26
+bar offers 26
+member staff 26
+tropical drinks 26
+fills quickly 26
+cabernet sauvignon 26
+insanely good 26
+friendly environment 26
+fairly reasonable 26
+atmosphere welcoming 26
+isn busy 26
+isn big 26
+looked interesting 26
+places eat vegas 26
+warm cozy 26
+service slow side 26
+bartenders super 26
+enjoyed meals 26
+favorite part meal 26
+couple things 26
+job keeping 26
+polite attentive 26
+slightly expensive 26
+friends great time 26
+peruse menu 26
+morning breakfast 26
+bit limited 26
+service adequate 26
+gin fizz 26
+downtown tempe 26
+knowledgeable beers 26
+restaurants bars 26
+fox restaurant 26
+jamaican food 26
+indian restaurants 26
+good place watch 25
+raised prices 25
+tom collins 25
+chalk board 25
+stanley cup 25
+quantity quality 25
+location opened 25
+overly crowded 25
+tasted pretty 25
+pretty picky 25
+restaurant offers 25
+absolutely awful 25
+fairly quiet 25
+buy bottle 25
+late dinner 25
+great venue 25
+eclectic menu 25
+location convenient 25
+good selection beers tap 25
+local beers tap 25
+nice selection beers 25
+overly impressed 25
+find spot 25
+food good prices 25
+surprisingly delicious 25
+totally cool 25
+drinks strong cheap 25
+drink deals 25
+sounded interesting 25
+pretty funny 25
+closer house 25
+specialty cocktail 25
+specialty martinis 25
+selection limited 25
+waitress super 25
+great selection wine 25
+server nice attentive 25
+style restaurant 25
+place pretty big 25
+pretty good size 25
+meet expectations 25
+extremely impressed 25
+traditional style 25
+restaurants area 25
+price points 25
+personal touch 25
+signature cocktail 25
+craft beer tap 25
+beer fest 25
+server friendly helpful 25
+isn bad thing 25
+decent selection beer 25
+good place start 25
+mexican places 25
+themed restaurant 25
+tad slow 25
+tequila selection 25
+super clean 25
+makes perfect 25
+drinks watered 25
+nice relaxed 25
+half bottles wine 25
+heard lot 25
+restaurant industry 25
+terrible customer service 25
+seamus mccaffrey 25
+cab fare 25
+looked inviting 25
+friendly hostess 25
+taste alcohol 25
+bad mood 25
+added nice 25
+sake bombs 25
+rum runner 25
+german beers 25
+decent pub 25
+extremely expensive 25
+crafted cocktails 25
+mickie finnz 25
+mans pub 25
+guest ales 25
+quench thirst 24
+perfect size 24
+super reasonable 24
+place blows 24
+east valley 24
+bartenders friendly attentive 24
+chandler location 24
+drink food orders 24
+restaurants phoenix 24
+weekly basis 24
+relaxed environment 24
+place wasn crowded 24
+alice cooperstown 24
+diner style 24
+kinda cool 24
+visit phoenix 24
+customer base 24
+don miss 24
+selection craft beers 24
+crazy expensive 24
+bar crawl 24
+hard cider 24
+kool aid 24
+cool place chill 24
+local restaurants 24
+slightly disappointed 24
+cask ale 24
+favorite thing menu 24
+waitress friendly attentive 24
+sample beers 24
+root beer float 24
+prices pretty reasonable 24
+important thing 24
+local business 24
+long island ice tea 24
+perfect choice 24
+comfort foods 24
+copper mug 24
+itty bitty 24
+amazing views 24
+glasses full 24
+recently discovered 24
+looked tasted 24
+perfect date 24
+beautiful restaurant 24
+ridiculously overpriced 24
+super small 24
+perfect weather 24
+glasses empty 24
+atmosphere inviting 24
+price fair 24
+atmosphere great food 24
+extremely loud 24
+constantly changing 24
+knowledge menu 24
+tall glass 24
+nice cold beer 24
+grab dinner 24
+regular rotation 24
+regular bar food 24
+typical scottsdale 24
+bad seat house 24
+kids meal 24
+ping pong tables 24
+tasted watered 24
+ve encountered 24
+big drinker 24
+awful experience 24
+top shelf liquor 24
+traditional mexican 24
+high energy 24
+pretty steep 24
+great job keeping 24
+bit skeptical 24
+chill environment 24
+slow times 24
+great date night 24
+necessarily bad thing 24
+real irish pub 24
+fell love place 24
+ll find 24
+beers world 24
+fancy cocktails 24
+lack customer service 24
+overly priced 24
+american express 24
+absolutely loved place 24
+hand crafted cocktails 24
+tastes amazing 24
+bar tenders 24
+miller alehouse 24
+sochu house 24
+view wine bar 24
+decent drink specials 23
+thought good idea 23
+creative cocktails 23
+local joint 23
+warm fuzzy 23
+pub crawls 23
+special events 23
+fries pretty good 23
+everytime ve 23
+santan brewery 23
+fall love 23
+relaxed vibe 23
+easter brunch 23
+relax drink 23
+draft bottle 23
+huge selection beers 23
+feel bit 23
+apps drinks 23
+bar order drink 23
+service inconsistent 23
+pretty good job 23
+price tag 23
+personal experience 23
+menu offerings 23
+absolutely adore 23
+nice setting 23
+poured drinks 23
+typical pub 23
+visiting phoenix 23
+equally delicious 23
+extensive selection 23
+recommended place 23
+gilbert location 23
+ideal place 23
+enjoying meal 23
+low price 23
+extremely slow 23
+empty restaurant 23
+american style 23
+selection craft 23
+beat price 23
+similar experience 23
+generous pour 23
+heard great things place 23
+wine connoisseur 23
+fancy restaurant 23
+exceptionally good 23
+friends ordered 23
+cool idea 23
+bartenders aren 23
+good food great service 23
+beer festival 23
+place hasn 23
+brew pubs 23
+icy cold 23
+lot restaurants 23
+drip coffee 23
+bit weak 23
+weren busy 23
+music awesome 23
+big dog 23
+buckets beer 23
+morning coffee 23
+owners staff 23
+heard good things place 23
+long island iced teas 23
+selection tap 23
+drink prices high 23
+irish stew 23
+beers offer 23
+redeeming qualities 23
+good job keeping 23
+house margarita 23
+love spicy food 23
+service atrocious 23
+sucker good 23
+food pretty damn good 23
+mardi gras beads 23
+loved vibe 23
+strong tasty 23
+interesting cocktails 23
+drinks pretty pricey 23
+american diner 23
+proper pub 23
+love vig 23
+lunch buffet 23
+rum punch 23
+owns place 22
+tavern grill 22
+good bye 22
+pretty loud 22
+ve bad service 22
+matt big breakfast 22
+extremely pleased 22
+mexican joint 22
+thought pretty cool 22
+moderately busy 22
+friendly quick 22
+glass vino 22
+selection beer wine 22
+dinner tonight 22
+cask conditioned 22
+moved phoenix 22
+couple pints 22
+consistently good food 22
+ve met 22
+weekday lunch 22
+staff helpful friendly 22
+helpful suggestions 22
+beer selection pretty 22
+support local businesses 22
+job making 22
+worst dining experience 22
+view awesome 22
+enjoyed company 22
+stopped quick drink 22
+waiters attentive 22
+town guests 22
+ice teas 22
+doesn taste 22
+hh prices 22
+shiner bock 22
+customer satisfaction 22
+menu features 22
+gave great service 22
+great lunch spot 22
+great food great atmosphere 22
+creative delicious 22
+interior nice 22
+food amazing service 22
+made great suggestions 22
+bucket list 22
+isnt bad 22
+looked yummy 22
+glass full 22
+bar tempe 22
+superior service 22
+staff nice helpful 22
+captain coke 22
+eat meal 22
+puerto rican 22
+pretty hard 22
+world class 22
+restaurants vegas 22
+overly expensive 22
+draught beers 22
+staff customers 22
+pretty normal 22
+fruity drink 22
+serve alcohol 22
+enjoy weather 22
+great place spend 22
+memorable experience 22
+irish themed 22
+feeling bit 22
+stopped breakfast 22
+chai tea 22
+tap haus 22
+modern twist 22
+gave great recommendations 22
+paradise cantina 22
+scottish pub 22
+quiet pint 22
+studio vino 22
+angels trumpet 22
+specials week 21
+repeat customer 21
+fast efficient 21
+grab quick bite 21
+service subpar 21
+2 beers 21
+ve wanting 21
+isn greatest 21
+worth visit 21
+waitress super friendly 21
+tasted fine 21
+gin martini 21
+perfect setting 21
+fairly small 21
+bit higher 21
+high top table 21
+restaurant week menu 21
+junk food 21
+prices weren bad 21
+kinda slow 21
+waitresses bartenders 21
+beer brewed 21
+food average bar food 21
+saturday lunch 21
+plenty choices 21
+wide selection beers 21
+cheap strong drinks 21
+places visit 21
+items choose 21
+couple friends 21
+groupon deal 21
+nice compliment 21
+management staff 21
+speciality drinks 21
+fantastic view 21
+super friendly helpful 21
+fine dining establishment 21
+list things 21
+fallen love 21
+average joe 21
+single time 21
+high points 21
+hot spot 21
+great place grab beer 21
+times enjoyed 21
+drinks super cheap 21
+bring kids 21
+service pretty bad 21
+perfect timing 21
+friendly neighborhood 21
+local favorites 21
+variety things 21
+weather permits 21
+scotch selection 21
+easy miss 21
+menu varied 21
+perfect balance 21
+server extremely 21
+waitstaff attentive 21
+prices moderate 21
+friendly personable 21
+super convenient 21
+impressed decor 21
+patio awesome 21
+ve things menu 21
+fond memories 21
+favorite brewery 21
+haute cuisine 21
+average pub 21
+pour guinness 21
+speed service 21
+tim finnegans 21
+mexican dishes 21
+server super 21
+super easy 21
+super impressed 21
+staff friendly welcoming 21
+impressed quality 21
+experience enjoyable 21
+good selection wines 21
+train staff 21
+late breakfast 21
+due lack 21
+lunch saturday 21
+pretty dang good 21
+spotty service 21
+greatest thing 21
+flight beers 21
+food preparation 21
+hearing good things 21
+beer brat 21
+cup joe 21
+nice place chill 21
+tapas menu 21
+bottle grey goose 21
+flair bartenders 21
+fox restaurants 21
+astor house 21
+modern margarita 21
+favorite hangout 20
+making drinks 20
+browsed menu 20
+chicago style 20
+locally made 20
+great addition neighborhood 20
+packed flavor 20
+bar type food 20
+beers tap bottles 20
+thrown good measure 20
+wonderful dining experience 20
+surprisingly good food 20
+easy find 20
+pretty gross 20
+lux coffee 20
+coca cola 20
+bartender friendly attentive 20
+pretty good bar food 20
+great start meal 20
+carry conversation 20
+red ale 20
+quality taste 20
+bit crowded 20
+crown coke 20
+love em 20
+ve frequented 20
+neighborhood joint 20
+pretty popular 20
+neighborhood hangout 20
+disappointed food service 20
+ice skating 20
+loyal customer 20
+mondays tuesdays 20
+wine expert 20
+trendy spot 20
+atmosphere trendy 20
+knew menu 20
+glass red wine 20
+drink snack 20
+frozen drink 20
+coke products 20
+favorite items 20
+beer flowing 20
+pretty low 20
+place downhill 20
+frequenting place 20
+friendly fast 20
+personal opinion 20
+meals ve 20
+dining establishment 20
+regular hangout 20
+apache junction 20
+decor beautiful 20
+higher expectations 20
+feel bad 20
+place delivers 20
+nice balance 20
+playing beer pong 20
+pretty consistent 20
+waitress prompt 20
+good natured 20
+menu fairly 20
+summer time 20
+specials board 20
+drinks pretty expensive 20
+super rude 20
+plastic cups 20
+friendly inviting 20
+bit bland 20
+jager bombs 20
+lived madison 20
+bartenders rude 20
+echo tap 20
+place great potential 20
+bit lacking 20
+normal bar 20
+service horrendous 20
+champagne cocktails 20
+stained glass 20
+bartenders fast 20
+german beer hall 20
+poor quality food 20
+wasn loud 20
+delirium tremens 20
+sparkling water 20
+sticker shock 20
+pimm cup 20
+drinks super expensive 20
+handcrafted cocktails 20
+specialty drink menu 20
+pricing reasonable 20
+drinks bit expensive 20
+arcy mcgee 20
+traditional pubs 20
+cask barrel 20
+cooper tavern 20
+downtown madison 19
+selection draft beers 19
+nicely priced 19
+sunday breakfast 19
+business casual 19
+drinks average price 19
+bright spot 19
+draught beer 19
+thought nice touch 19
+food isnt 19
+romantic spot 19
+house specialty 19
+business lunch 19
+inflated prices 19
+decor pretty cool 19
+town friends 19
+huge selection beer 19
+carly bistro 19
+tap bottle 19
+sonora brewhouse 19
+menu consists 19
+things considered 19
+closest thing 19
+full glass 19
+staff management 19
+bartender super 19
+equally impressive 19
+upscale bar food 19
+damn fine 19
+frequent customer 19
+bruschetta bottle wine 19
+adore place 19
+wasn feeling 19
+decor unique 19
+clean modern 19
+enjoyed immensely 19
+afternoon lunch 19
+moved arizona 19
+yard house 19
+place meet friends 19
+glad found place 19
+bartender server 19
+make regular 19
+amazingly delicious 19
+grab seat 19
+healthy options 19
+super casual 19
+lacking flavor 19
+impressive selection 19
+husband enjoyed 19
+server attentive friendly 19
+ain cheap 19
+bad luck 19
+bit odd 19
+fast paced 19
+blended drinks 19
+ve heard great things 19
+restaurant area 19
+pulp fiction 19
+fast food joint 19
+bomb diggity 19
+friendly chatty 19
+thrift store 19
+extremely overpriced 19
+places area 19
+bar serves food 19
+single malts 19
+tasty beverages 19
+freaking awesome 19
+thing change 19
+pitcher sangria 19
+phoenix magazine 19
+serving size 19
+phoenix airport 19
+generous portions 19
+beer geek 19
+haven disappointed 19
+friendliness staff 19
+pear cider 19
+places downtown 19
+coffee cup 19
+waitress nice attentive 19
+lived expectations 19
+spectacular view 19
+village pub 19
+recently opened 19
+kona grill 19
+dave buster 19
+hendricks gin 19
+irish accents 19
+cucumber water 19
+places edinburgh 19
+ecco vino 19
+whiskey row 19
+dave electric 19
+johnny chu 19
+food pretty standard 18
+bar tenders friendly 18
+kicked notch 18
+friendliest staff 18
+nice place enjoy 18
+greatly appreciated 18
+bit hit miss 18
+whiskey coke 18
+lunch dinner menu 18
+bit spendy 18
+cartel coffee 18
+fairly extensive 18
+cabo wabo 18
+good selection wine 18
+real complaints 18
+quick efficient 18
+favorite item 18
+sealed deal 18
+wasn huge fan 18
+food surprisingly 18
+freakin awesome 18
+thing missing 18
+vegetarian option 18
+casual lunch 18
+location downtown 18
+big ol 18
+finger foods 18
+glass malbec 18
+wasn expected 18
+bottled beer selection 18
+ve eaten times 18
+great food reasonable prices 18
+fills fast 18
+moved az 18
+ambiance relaxing 18
+portions generous 18
+aren cheap 18
+welcoming friendly 18
+knowledgeable wines 18
+tempe area 18
+domestic draft 18
+wait staff friendly attentive 18
+downtown gilbert 18
+ordered glass 18
+provide good service 18
+unique dishes 18
+bring town 18
+frozen margaritas 18
+peaks tempe 18
+grab grub 18
+drinks reasonable price 18
+unlike places 18
+beer goggles 18
+met expectations 18
+traditional mexican food 18
+prices extremely reasonable 18
+place reminds 18
+staff nice attentive 18
+place pretty crowded 18
+cheap compared 18
+bit noisy 18
+march bacchus 18
+view spectacular 18
+nice accommodating 18
+spot grab 18
+hob nob 18
+spot hit 18
+san carlos 18
+downtown mesa 18
+staff knowledgable 18
+forward visit 18
+restaurants valley 18
+drink prices average 18
+difficult find 18
+places scottsdale 18
+belgian beers 18
+farmers market 18
+menu pretty extensive 18
+fairly quick 18
+sat sushi bar 18
+beer cider 18
+places hang 18
+traditional irish pub 18
+redeeming factor 18
+speciality cocktails 18
+souvenir cup 18
+restaurant opened 18
+girly drink 18
+upscale casual 18
+cous cous 18
+opened location 18
+beer list extensive 18
+stone ipa 18
+enjoy view 18
+food excellent service 18
+served family style 18
+prices pretty high 18
+indian cuisine 18
+whisky selection 18
+edinburgh pub 18
+range spirits 18
+cheap cheerful 18
+miller ale house 18
+tavern grille 18
+angels trumpet ale house 18
+makes fun 17
+quick attentive 17
+constantly rotating 17
+solid selection 17
+high end restaurants 17
+small size 17
+found gem 17
+kind cool 17
+seated pretty quickly 17
+provided excellent service 17
+5 wines 17
+scottish ale 17
+locally brewed 17
+actual restaurant 17
+place hangout 17
+outrageously priced 17
+place called 17
+bit longer 17
+indian school 17
+frou frou 17
+fox hound 17
+end bar 17
+hit table 17
+similar experiences 17
+wheat beers 17
+living social deal 17
+lovely evening 17
+family owned operated 17
+coffee cups 17
+pricing fair 17
+staff incredibly friendly 17
+staff efficient 17
+surprisingly tasty 17
+specialty burgers 17
+bottles cans 17
+visiting az 17
+20 bottle wine bruschetta 17
+im fan 17
+sounded amazing 17
+extremely limited 17
+mini pitchers 17
+guaranteed good time 17
+enjoyable evening 17
+vibe relaxed 17
+extremely reasonable 17
+small bar 17
+worst service ve 17
+blah blah 17
+bucket beers 17
+plenty places 17
+pretty legit 17
+beverage choice 17
+pours generous 17
+eaten times 17
+napa valley 17
+typical american 17
+conversation friends 17
+type places 17
+locations town 17
+ve coming 17
+extremely crowded 17
+fireball whiskey 17
+waiter super nice 17
+pretty buzzed 17
+negro modelo 17
+slow inattentive 17
+ruined experience 17
+imported beers 17
+lau lau 17
+town business 17
+service painfully slow 17
+prices reflect 17
+poured top 17
+menu looked interesting 17
+decently sized 17
+nice place sit 17
+slightly pricey 17
+lot flavor 17
+pretty dang 17
+spot town 17
+cozy spot 17
+decor ambience 17
+great tasting food 17
+bit difficult 17
+good sized portions 17
+variety items 17
+family member 17
+incredibly slow 17
+german style 17
+quality sushi 17
+sunday evening 17
+worst experiences 17
+real world 17
+awesome view 17
+high standard 17
+pleasant attentive 17
+super loud 17
+high noon 17
+chai latte 17
+place pretty small 17
+bottle goose 17
+tables bottle service 17
+served warm 17
+breakfast joint 17
+imported beer 17
+extensive beer 17
+american bar grille 17
+drink menu extensive 17
+friendly knowledgable 17
+fez ticoz 17
+bitter twisted 17
+windsor style 17
+favorite neighborhood 16
+menu sounds 16
+addition neighborhood 16
+favorite place town 16
+frequent visitor 16
+stopped quick bite 16
+made house 16
+favorite item menu 16
+full flavor 16
+perfectly fine 16
+tad expensive 16
+variety options 16
+lack quality 16
+bottle wine 20 16
+important part 16
+ate lunch 16
+lived az 16
+super picky 16
+bar type 16
+fairly limited 16
+buy drinks 16
+list extensive 16
+british pubs 16
+brewed beers 16
+menu offered 16
+place existed 16
+italian restaurants 16
+small pitcher 16
+poor man 16
+totally fine 16
+perfect blend 16
+peaks brews 16
+cooler weather 16
+great job making 16
+nice selection beers tap 16
+spend time 16
+wines choose 16
+pleased find 16
+place grab drinks 16
+food great prices 16
+haven reviewed 16
+relaxing environment 16
+friendly talkative 16
+wine pours 16
+store bought 16
+small amount 16
+absolutely stunning 16
+good place catch 16
+fill fast 16
+panda express 16
+glass ice 16
+stopped quick lunch 16
+moving az 16
+enjoy coming 16
+plenty options 16
+friends enjoy 16
+children menu 16
+bad sign 16
+ridiculously cheap 16
+brilliant idea 16
+thing ate 16
+ate dinner 16
+popular items 16
+prices expect 16
+fine dining restaurants 16
+personally prefer 16
+great selection beers tap 16
+pbr tap 16
+tap handles 16
+places eat drink 16
+pizza joint 16
+busy weekends 16
+drink chat 16
+glad found 16
+bit expensive side 16
+variety dishes 16
+high ratings 16
+added touch 16
+cold brew 16
+bottle sake 16
+typical pub food 16
+highest quality 16
+dinner family 16
+coffee pastries 16
+coffee houses 16
+options area 16
+wasn big 16
+add list 16
+place grab bite 16
+fez foodies 16
+experiences ve 16
+weren impressed 16
+wines tap 16
+hospitality industry 15
+recently changed 15
+simple things 15
+servers super friendly 15
+darn tasty 15
+menu sounded 15
+location close 15
+attentive overbearing 15
+recently added 15
+top 5 15
+casual environment 15
+mixing drinks 15
+grab pint 15
+local craft beer 15
+haven experienced 15
+serves purpose 15
+pretty diverse 15
+attentive personable 15
+food great price 15
+server bartender 15
+lower expectations 15
+mini pitcher 15
+worth wait 15
+sunday night 15
+large amount 15
+warm weather 15
+provided great 15
+glasses wine 5 15
+postino bruschetta 15
+romantic evening 15
+servers knowledgeable 15
+flavor profiles 15
+selection spirits 15
+support local business 15
+place eat drink 15
+changed bit 15
+great place hangout 15
+bar grille 15
+wines beers 15
+super bowl sunday 15
+kids meals 15
+food decent prices 15
+varied selection 15
+wow factor 15
+favorite steakhouse 15
+absolutely packed 15
+2 draft beers 15
+watch world cup 15
+outback steakhouse 15
+chill friends 15
+frequent establishment 15
+bring family 15
+beers ales 15
+looked promising 15
+type stuff 15
+basic bar 15
+overly sweet 15
+lower price 15
+african american 15
+extremely accommodating 15
+food reasonable price 15
+wasnt bad 15
+extremely friendly helpful 15
+lunch break 15
+menu description 15
+bit overwhelmed 15
+brunch today 15
+knowledgable staff 15
+romantic setting 15
+items selected 15
+favorite bar madison 15
+slow slow 15
+find places 15
+super close 15
+absolute worst 15
+round drinks 15
+place start 15
+mexico style 15
+incredibly delicious 15
+tad high 15
+delicious sounding 15
+horrible horrible 15
+prices outrageous 15
+peaks brewing 15
+great place start night 15
+types beers 15
+aren places 15
+unique interesting 15
+cool environment 15
+time visiting 15
+staff pretty nice 15
+variety flavors 15
+selection appetizers 15
+ve meaning 15
+pints guinness 15
+bartender busy 15
+vibe cool 15
+pricier side 15
+casual date 15
+interesting decor 15
+liter beer 15
+mesa grill 15
+serve beer wine 15
+chinese buffet 15
+wines spirits 15
+social tap 15
+serving breakfast 14
+national chain 14
+real life 14
+isn worth 14
+enjoy conversation 14
+amount alcohol 14
+selection cheeses 14
+things change 14
+menu listed 14
+az restaurant week 14
+terms quality 14
+hearing great things 14
+single item 14
+variety beers tap 14
+place lot fun 14
+ve driven 14
+board bottle 14
+authentic british 14
+slightly cheaper 14
+cold pint 14
+packed punch 14
+don drink 14
+chill place hang 14
+ve received 14
+average age 14
+casual fun 14
+soft spot 14
+perfect date spot 14
+perfect mix 14
+wine lovers 14
+entire life 14
+love love place 14
+places dine 14
+pretty rad 14
+places nearby 14
+prime spot 14
+2 bottles wine 14
+drink bite eat 14
+buffet style 14
+rate higher 14
+large selection beers 14
+generally speaking 14
+part chain 14
+wasn huge 14
+north scottsdale 14
+fries good 14
+fine dinning 14
+lack flavor 14
+guess good thing 14
+entire thing 14
+breakfast buffet 14
+grill marks 14
+import beers 14
+painfully slow 14
+cheaper places 14
+average priced 14
+serve food late 14
+bar madison 14
+odd location 14
+incredibly rude 14
+ve pleasure 14
+nice place grab 14
+equally amazing 14
+knowledgeable helpful 14
+typical mexican 14
+due size 14
+english irish 14
+wasn crazy 14
+arizona peach 14
+cute waitresses 14
+personal fave 14
+lots fun 14
+wasn big fan 14
+packed full 14
+waiter super 14
+uuu uuu 14
+dining option 14
+prices weren 14
+ambiance modern 14
+cold rainy 14
+favorite places town 14
+addition downtown 14
+scottish breakfast 14
+super greasy 13
+possibly worst 13
+haven bad 13
+extensive wine 13
+seat bar 13
+brew selection 13
+food typical bar 13
+overly busy 13
+mediocre bar food 13
+dining establishments 13
+full sized 13
+friendly outgoing 13
+glass house wine 13
+prepared wait 13
+favorite mexican 13
+bud lite 13
+regular haunt 13
+selection decent 13
+helpful knowledgeable 13
+convenience store 13
+totally worth 13
+things life 13
+stop lunch 13
+lots places 13
+attentive intrusive 13
+trendy decor 13
+favorite restaurant phoenix 13
+great place date night 13
+times lunch 13
+grab glass wine 13
+pretty lame 13
+neighborhood hang 13
+offered suggestions 13
+hard beat 13
+relaxing evening 13
+san tan brewing 13
+recently remodeled 13
+italian cuisine 13
+pitcher water 13
+glass house 13
+quantity food 13
+super nice friendly 13
+consistent quality 13
+love spicy 13
+place heart 13
+friends hang 13
+hang enjoy 13
+don serve 13
+spot grab drink 13
+served plastic 13
+selection cigars 13
+ding ding ding 13
+bit hesitant 13
+variety music 13
+super nice attentive 13
+extremely high 13
+served purpose 13
+real complaint 13
+true irish 13
+whiskey scotch 13
+vast selection 13
+heavy pour 13
+kind bland 13
+regular sized 13
+reserved bottle service 13
+sushi joint 13
+lunch week 13
+favorite foods 13
+big smile 13
+bit heavy 13
+consistently good service 13
+decor interesting 13
+drinks fairly 13
+negative experience 13
+bit greasy 13
+looked forward 13
+spot chill 13
+selection local 13
+german music 13
+rim glass 13
+night dinner 13
+sweet tea 13
+typical chain 13
+small cup 13
+extremely disappointing 13
+rum diet 13
+cocktail bars 13
+overpriced mediocre 13
+favourite pubs 13
+mighty tasty 12
+restaurants downtown 12
+reasonable amount 12
+special occasions 12
+time ll 12
+friendly informative 12
+casual vibe 12
+selection bottles 12
+period time 12
+miller high life 12
+times week 12
+time life 12
+server polite 12
+mix match 12
+5 glass 12
+incredibly attentive 12
+happening place 12
+service ve received 12
+packed house 12
+eat sushi 12
+totally recommend 12
+variety wines 12
+place stop drink 12
+staff trained 12
+nice break 12
+forward visiting 12
+regular size 12
+hang outs 12
+menu states 12
+generally pretty 12
+things improve 12
+expectations low 12
+pleasant helpful 12
+prompt courteous 12
+extremely difficult 12
+lagunitas ipa 12
+beautiful presentation 12
+things downhill 12
+sip drink 12
+don eat 12
+lot potential 12
+compared restaurants 12
+owned operated 12
+packs punch 12
+perfect end 12
+start meal 12
+condiment bar 12
+beers tap bottle 12
+isn necessarily 12
+bit overwhelming 12
+madison area 12
+chatted bit 12
+fact serve 12
+tasted delicious 12
+slow busy 12
+place stays 12
+festive atmosphere 12
+large selection beer 12
+peach schnapps 12
+mix flavors 12
+times square 12
+restaurants strip 12
+authentic italian 12
+places sit 12
+freaking amazing 12
+helpful helping 12
+big bonus 12
+stop serving 12
+real winner 12
+beautiful decor 12
+warm cold 12
+wasn memorable 12
+high maintenance 12
+nice wee 12
+irish republic 12
+refilled drinks 11
+feel relaxed 11
+eat week 11
+appreciated fact 11
+theme restaurant 11
+order bottle 11
+service oriented 11
+selection pretty good 11
+short list 11
+selection pretty 11
+supports local 11
+hard liquor 11
+bit pretentious 11
+location central 11
+white sangria 11
+variety appetizers 11
+da bomb 11
+glasses water 11
+pour drink 11
+margarita mix 11
+local hang 11
+quiet conversation 11
+high side 11
+selection brews 11
+upscale bar 11
+fun place hang friends 11
+town visiting 11
+style substance 11
+wife loved 11
+waitress extremely 11
+table side 11
+intimate setting 11
+aren expensive 11
+popular spot 11
+drink hand 11
+sister restaurant 11
+full energy 11
+helpful recommending 11
+beautiful view 11
+kind sucks 11
+met friends 11
+irish theme 11
+doesn sound 11
+patio perfect 11
+plain simple 11
+negative thing 11
+good mix music 11
+eat healthy 11
+makes sad 11
+heard mixed reviews 11
+makes easy 11
+cool kids 11
+lot cheaper 11
+incredibly tasty 11
+bit biased 11
+lived nearby 11
+place hang drink 11
+guinness stew 11
+decent portion 11
+feel comfortable 11
+martini glasses 11
+pay bottle service 11
+places vegas 11
+flavors choose 11
+cosy atmosphere 11
+place lot potential 11
+bit pricier 11
+expected lot 11
+bow bar 11
+golf tavern 11
+world end 11
+great addition downtown 11
+breakfast nachos 11
+stopped sunday 10
+attentive annoying 10
+generous serving 10
+make things 10
+bit chilly 10
+higher price 10
+actual meal 10
+perfect date night 10
+perfect compliment 10
+traditional british 10
+doesn matter 10
+bud miller 10
+types places 10
+neighborhood bar grill 10
+camelback corridor 10
+armadillo grill 10
+full size 10
+glasses filled 10
+portions decent 10
+upscale dining 10
+light dinner 10
+changed life 10
+brunch saturday 10
+world famous 10
+selection wines glass 10
+relax friends 10
+attentive pleasant 10
+hand made 10
+food average bar 10
+huge amount 10
+change scenery 10
+clean inviting 10
+touch class 10
+stopped today 10
+price wasn bad 10
+flavor wise 10
+drinking water 10
+car bomb 10
+frosted glass 10
+music pretty 10
+gotta admit 10
+ordered iced tea 10
+husband loves 10
+cheaper price 10
+cool factor 10
+breakfast foods 10
+age range 10
+place half full 10
+local bars 10
+high life 10
+long list 10
+stop quick 10
+hard choose 10
+wasnt impressed 10
+stopped serving 10
+great spot meet 10
+fell short 10
+driven place 10
+totally chill 10
+experience tonight 10
+fill glass 10
+feels bit 10
+change life 10
+hopes place 10
+busy packed 10
+bad taste 10
+sandwiches burgers 10
+ll enjoy 10
+bit tough 10
+real irish 10
+ve heard good 10
+knowledgable friendly 10
+times ve ve 10
+jameson ginger 10
+eat everyday 10
+market price 10
+pleased meals 10
+attentive knowledgeable 10
+morning brunch 10
+beers spirits 10
+taste wise 10
+comfortable environment 10
+selection bottled beers 10
+similar places 10
+tasted frozen 10
+prices fairly 10
+usual pub 10
+visit edinburgh 10
+cosy pub 10
+tiki mugs 10
+small town 9
+selection vast 9
+regular customers 9
+wide variety beers 9
+perfect match 9
+ll fine 9
+kind sad 9
+totally recommend place 9
+cup water 9
+drink alcohol 9
+favorite bar phoenix 9
+lunch weekday 9
+cheap strong 9
+vig uptown 9
+half bad 9
+treat customers 9
+doesn disappoint 9
+impress date 9
+types bruschetta 9
+ve couple 9
+evening friends 9
+perfect combination 9
+lazy sunday 9
+sit relax 9
+phoenix scottsdale 9
+interesting mix 9
+fun lively 9
+dream true 9
+kinda bland 9
+favorite team 9
+late night bite 9
+family visiting 9
+grab quick drink 9
+santan brewing 9
+life size 9
+rainforest cafe 9
+list wines 9
+location strip 9
+classy joint 9
+ve couple times 9
+big thumbs 9
+size portions 9
+soak alcohol 9
+selection impressive 9
+positive thing 9
+agree reviewers 9
+make big deal 9
+visited establishment 9
+real gem 9
+checked menu 9
+interior decor 9
+burgers sandwiches 9
+low end 9
+alot fun 9
+busy weekend 9
+ordering drink 9
+lived hype 9
+ellis island 9
+looked appetizing 9
+served martini glass 9
+great view strip 9
+sat empty 9
+places grab 9
+breakfast served 9
+selection extensive 9
+ve fair share 9
+selection beer tap 9
+fill quickly 9
+refilling drinks 9
+served plastic cups 9
+incredible view 9
+fusion cuisine 9
+modern trendy 9
+recommendation server 9
+selection draft 9
+belgian style 9
+bit sweet 9
+huge disappointment 9
+favourite places 9
+extremely small 9
+loved bite 9
+doesn offer 9
+visiting edinburgh 9
+gordon ramsay pub 9
+spot downtown 8
+sized portions 8
+slightest bit 8
+worth stop 8
+scottsdale phoenix 8
+rarely eat 8
+families kids 8
+sat table 8
+full house 8
+upscale feel 8
+big disappointment 8
+place grab bite eat 8
+variety foods 8
+lots interesting 8
+friendly courteous 8
+favorite bar town 8
+camelback mountain 8
+amazingly tasty 8
+hangout friends 8
+pick choose 8
+light meal 8
+kinda sucks 8
+picky eater 8
+north phoenix 8
+style pizza 8
+town visitors 8
+wife enjoyed 8
+east mesa 8
+doesn make 8
+variety choices 8
+ve worse 8
+house music 8
+serving sizes 8
+typical vegas 8
+half bottle 8
+service incredibly 8
+don feel 8
+ive times 8
+menu website 8
+nicer places 8
+late night 8
+special treat 8
+desserts amazing 8
+spots town 8
+fairly close 8
+isn type 8
+wash hands 8
+drinking establishment 8
+bit confused 8
+stopped lunch today 8
+life sized 8
+espresso martini 8
+prices ridiculous 8
+cool spot hang 8
+enjoyed bite 8
+filled water 8
+ridiculously small 8
+personal taste 8
+warm summer 8
+selection ales 8
+terribly busy 8
+places strip 8
+restaurant business 8
+holly madison 8
+lunch work 8
+attentive polite 8
+couple appetizers 8
+wasn expect 8
+matter busy 8
+ate breakfast 8
+kind sucked 8
+miller light 8
+tap bottles 8
+glass bubbles 8
+big share 8
+kind odd 8
+necessarily bad 8
+downtown area 8
+wasn hungry 8
+eaten dinner 8
+sit patio 8
+bars town 8
+service skills 8
+selection booze 8
+cool school 8
+bring friends family 8
+expensive worth 8
+chicago dog 8
+warm springs 8
+poor reviews 8
+small bite 8
+table patio 8
+glass red 8
+selection whisky 8
+doesn feel 7
+bit kick 7
+expect find 7
+luck finding 7
+small cozy 7
+unique flavors 7
+place earth 7
+prices tad 7
+small plastic 7
+filling water 7
+wasn familiar 7
+make stop 7
+place exists 7
+local gem 7
+guaranteed good 7
+due high 7
+place chill friends 7
+friends visiting 7
+poor management 7
+place smells 7
+coolest thing 7
+true gem 7
+lived close 7
+full blown 7
+bruschetta 20 7
+plenty choose 7
+difficult eat 7
+times disappointed 7
+friends date 7
+doesn compare 7
+makes worth 7
+sooo fun 7
+weather cooler 7
+care customer 7
+selection draft beer 7
+sad thing 7
+food timely 7
+food reasonable prices 7
+kind small 7
+huge difference 7
+vegetarian vegan 7
+kinda sucked 7
+devil martini 7
+frozen margarita 7
+place accident 7
+winner book 7
+makes difference 7
+mixed grill 7
+love love love love 7
+bartenders extremely 7
+return visit 7
+bring water 7
+vegas offer 7
+beers ciders 7
+helpful suggesting 7
+make suggestions 7
+hang relax 7
+capitol square 7
+overpriced quality 7
+haven checked 7
+typical irish 7
+local spots 7
+unique flavor 7
+buy drink 7
+husband loved 7
+bartender poured 7
+diner type 7
+themed bar 7
+patio weather 7
+doesn serve 7
+work industry 7
+recommend place friends 7
+served small 7
+sunday mornings 7
+paradise valley 7
+decor vibe 7
+vast majority 7
+ll stick 7
+sushi chefs 7
+bars pubs 7
+huge patio 7
+nachos huge 7
+rest life 7
+rest night 7
+reasonable quality 7
+locals spot 7
+stopped grab 7
+world series 7
+restaurant section 7
+spectacular views 7
+water filled 7
+half full 7
+items ordered 7
+end world 7
+grabbing drink 7
+custom made 7
+friendly accomodating 7
+place socialize 7
+cozy feel 7
+sit enjoy 7
+normal sized 7
+hit miss depending 7
+end evening 7
+positive things 7
+cool place grab 7
+vegas standards 7
+lived area 7
+mini burgers 7
+bit boring 7
+lively fun 7
+visit vegas 7
+signature dishes 7
+glad stopped 7
+thought funny 7
+vip list 7
+made feel 7
+awesome views 7
+reading great reviews 7
+waitress brought 7
+music loud 7
+start evening 7
+sushi lover 7
+thanksgiving dinner 7
+slow side 7
+servers super 7
+kind hard 7
+worth visiting 7
+bartender made 7
+weekday afternoon 7
+wasn interested 7
+devil advocate 7
+selection real ales 7
+half pint 7
+downtown scottsdale 7
+don expect 6
+checked regularly 6
+week lunch 6
+busy sunday 6
+kind dead 6
+perfect view 6
+sat high top 6
+close personal 6
+bottles champagne 6
+makes laugh 6
+glasses champagne 6
+sandwiches salads 6
+reading menu 6
+water refilled 6
+urban vibe 6
+bruschetta bottle 6
+freaking delicious 6
+bud light 6
+feel special 6
+place bring date 6
+totally dig 6
+perfect temperature 6
+overly loud 6
+expect typical 6
+satisfying meal 6
+eclectic mix 6
+priced appetizers 6
+business meetings 6
+type music 6
+visiting friends 6
+ridiculously crowded 6
+visit establishment 6
+bar stocked 6
+yard dog 6
+ate half 6
+place eat vegas 6
+doesn stop 6
+hands worst 6
+taste bud 6
+arrived quickly 6
+sounds weird 6
+recommend stopping 6
+lots lots 6
+serving customers 6
+plain ol 6
+selection bottled 6
+absolutely die 6
+entire night 6
+place chill drink 6
+majority time 6
+south scottsdale 6
+craving sushi 6
+neighborhood bars 6
+tour guide 6
+bringing friends 6
+beer batter 6
+honestly thought 6
+recommend coming 6
+compared bars 6
+favorites include 6
+based reviews 6
+water bottle 6
+kind neat 6
+house specialties 6
+im glad 6
+server bring 6
+arrived late 6
+expecting lot 6
+bit hard 6
+hefty price 6
+portion size 6
+moved scottsdale 6
+lot worse 6
+seated quickly 6
+ve long time 6
+kind funny 6
+saturday afternoon 6
+start night 6
+selection micro brews 6
+agree reviews 6
+simple delicious 6
+heart beat 6
+favorite restaurant vegas 6
+lots flavor 6
+ding ding 6
+made recommendations 6
+forward returning 6
+fairly easy 6
+hard miss 6
+water glasses filled 6
+drinking spot 6
+pop rocks 6
+views strip 6
+decor gorgeous 6
+wife stopped 6
+found table 6
+south america 6
+addition town 6
+bruschetta planks 6
+red sangria 6
+enjoy beautiful 6
+idea expect 6
+bars edinburgh 6
+pubs area 6
+changed hands 6
+clothing store 6
+hope stays 6
+stop grab 5
+weird thing 5
+found odd 5
+wings weren 5
+nicely prepared 5
+patio dining 5
+pretty entertaining 5
+fun place grab 5
+burgers huge 5
+wanted order food 5
+kinda weird 5
+doesn work 5
+homey feel 5
+patio enjoy 5
+ate bite 5
+living phoenix 5
+phx area 5
+fun night 5
+provided excellent 5
+friends meet 5
+local neighborhood 5
+due proximity 5
+matter fact 5
+kids eat 5
+place spend 5
+patio area 5
+feelings place 5
+bad customer 5
+kind boring 5
+greeted quickly 5
+ve moved 5
+close proximity 5
+order nachos 5
+strong cheap 5
+craving mexican 5
+repeat business 5
+decent place grab 5
+die hard 5
+choose sit 5
+house red 5
+business partner 5
+served large 5
+place catch 5
+real flavor 5
+water bottles 5
+place grab quick 5
+times count 5
+slightly sweet 5
+ordered pitcher 5
+part charm 5
+lot reviews 5
+visiting scottsdale 5
+scottsdale area 5
+personally recommend 5
+possibly favorite 5
+spot meet 5
+local craft 5
+small children 5
+make feel 5
+late afternoon 5
+irish folk 5
+matter time 5
+generous helping 5
+hipster vibe 5
+tasty nonetheless 5
+cheaper strip 5
+half size 5
+thought weird 5
+lunch rush 5
+music isn 5
+freakin frog 5
+spots phoenix 5
+friends work 5
+actual bar 5
+great place kick 5
+server recommended 5
+dining hall 5
+sweet caroline 5
+worse worse 5
+real disappointment 5
+ve read 5
+end night 5
+drink called 5
+place kick 5
+ve occasions 5
+waitress order 5
+chill relax 5
+huge portion 5
+pricey compared 5
+business owners 5
+checked frequently 5
+side dishes 5
+water glasses full 5
+stopped table 5
+times opened 5
+ordered appetizers 5
+excited check 5
+rest evening 5
+great customer 5
+personal pizza 5
+number times 5
+ll miss 5
+north central 5
+drink menus 5
+chandler area 5
+wait table 5
+simply delicious 5
+tough find 5
+layout place 5
+pub type 5
+oldest pub 5
+mixed berry 5
+modern feel 5
+change usual 5
+repeat visit 5
+chada thai 5
+ramsay pub grill 5
+place watch 4
+massive amount 4
+served timely 4
+tiki bar 4
+closest friends 4
+public house 4
+gay bar 4
+generous amount 4
+perfect sharing 4
+fun watch 4
+long wait 4
+god damn 4
+helped choose 4
+beautiful patio 4
+fall winter 4
+lot work 4
+entire evening 4
+bars area 4
+feel family 4
+stopping drink 4
+traditional wings 4
+local grocery 4
+spend afternoon 4
+eaten life 4
+specials daily 4
+bar attached 4
+shelf liquor 4
+uber cool 4
+highlight evening 4
+hoping find 4
+high roller 4
+wife loves 4
+kinda funny 4
+large size 4
+plain view 4
+place sit relax 4
+heart town 4
+traditional american 4
+large pizza 4
+surprised quality 4
+ordered couple drinks 4
+bit annoying 4
+chef choice 4
+sit table 4
+locals bar 4
+visiting vegas 4
+couple glasses 4
+recommend sharing 4
+find table 4
+filling meal 4
+easily favorite 4
+south mountain 4
+end ordering 4
+wasn case 4
+bars madison 4
+depending mood 4
+soft pretzels 4
+makes difficult 4
+heart downtown 4
+totally dead 4
+table bottle 4
+drinks decently 4
+depending time 4
+lived vegas 4
+served side 4
+night week 4
+selection microbrews 4
+coolest part 4
+music alright 4
+recommend ordering 4
+crappy music 4
+management team 4
+flavor combinations 4
+beautiful weather 4
+beautiful setting 4
+fashion square 4
+sad part 4
+dozens times 4
+bite sized 4
+weird vibe 4
+overly packed 4
+doesn match 4
+bite size 4
+2 drinks 4
+served ice cold 4
+part evening 4
+bit confusing 4
+vegan vegetarian 4
+stopped late 4
+worth penny 4
+large portion 4
+draft bottled 4
+wasn worth 4
+ate drank 4
+long island 4
+wow wow 4
+bought bottle 4
+list impressive 4
+catch friends 4
+patio lovely 4
+lovely patio 4
+thought odd 4
+italian nachos 4
+margarita tasted 4
+stocked bar 4
+spot stop 4
+table tops 4
+night friends 4
+light refreshing 4
+white peach 4
+east side 4
+ice cups 4
+made ice 4
+20 bottle 4
+patio beautiful 4
+weren hungry 4
+vegan pizza 4
+bars valley 4
+brat haus 4
+cucumber martini 3
+depth flavor 3
+read reviews 3
+hot dog 3
+smaller expected 3
+hand hand 3
+place hangout friends 3
+fresh ingredients 3
+half price bottles 3
+high tables 3
+intimate conversation 3
+ordered bruschetta 3
+classic american 3
+large groups 3
+refilling water 3
+bit bigger 3
+hearty meal 3
+due poor 3
+doesn count 3
+bit weird 3
+saturday sunday 3
+check offer 3
+comfortable setting 3
+great spot watch 3
+popular locals 3
+entire table 3
+half bottles 3
+food pretty damn 3
+service hit 3
+fries awesome 3
+high top tables 3
+roosevelt row 3
+overly greasy 3
+grab glass 3
+ll stop 3
+god awful 3
+perfect complement 3
+don remember 3
+fair warning 3
+late night eats 3
+nice patio area 3
+met owners 3
+fun loving 3
+kind reminds 3
+made comment 3
+arizona state 3
+dinner rush 3
+short wait 3
+start end 3
+spend evening 3
+worth stopping 3
+large patio 3
+favorite bar vegas 3
+rogue hazelnut 3
+good selection draft 3
+waitress bring 3
+stopped saturday 3
+afternoon evening 3
+ordered iced 3
+style mexican 3
+loyal customers 3
+breakfast burritos 3
+heavy hand 3
+couple bottles 3
+bring town guests 3
+things wrong 3
+big portion 3
+fries cold 3
+world largest 3
+downright rude 3
+ll eat 3
+grab seat bar 3
+time choosing 3
+night life 3
+make regular stop 3
+ridiculously packed 3
+bartender rude 3
+waiter brought 3
+ridiculous amount 3
+mid range 3
+weren expecting 3
+stop coming 3
+place spend time 3
+favorite place vegas 3
+don frequent 3
+highlight meal 3
+make laugh 3
+super fresh 3
+short lived 3
+struck conversation 3
+made order 3
+man man 3
+restaurant half empty 3
+music sucked 3
+ordered usual 3
+dead guy 3
+phoenix metro 3
+favorite places vegas 3
+packed weekends 3
+don expecting 3
+entered restaurant 3
+staying monte 3
+gave recommendations 3
+loud conversation 3
+wait staff super 3
+hope return 3
+bad seat 3
+server drink order 3
+themed decor 3
+jade bar 3
+half price apps 3
+yucca tap 3
+living social 3
+mix music 3
+looked confused 3
+sour mix 3
+pub trivia 3
+makes hard 3
+hot bartenders 3
+great selection craft 3
+small side 3
+2 draft 3
+type feel 3
+farm table 3
+positive reviews 3
+japanese fusion 3
+brown ale 3
+half empty 3
+loud music 3
+empty tables 3
+afternoon snack 3
+wait long 3
+don change 3
+glasses made ice 3
+speak easy 3
+red white 3
+appetizers half price 3
+extensive cocktail 3
+continue frequent 3
+sweet taste 3
+don compare 3
+craving wings 3
+server brought 3
+tables empty 3
+hubby loved 3
+pay full price 3
+heard mixed 3
+place closes 3
+peaks peach 3
+locals hangout 3
+summerlin area 3
+hard eat 3
+typical neighborhood 2
+tastes fresh 2
+week opened 2
+knew wasn 2
+plain rude 2
+prefer sit 2
+hard time finding 2
+lot regulars 2
+feeling full 2
+ordered mojito 2
+bars phoenix 2
+small crowded 2
+checked times 2
+rave reviews 2
+place spend evening 2
+god sake 2
+tables seated 2
+care customers 2
+big difference 2
+fall asleep 2
+half appetizers 2
+moved area 2
+bartender gave 2
+pong tables 2
+times row 2
+tap bottled 2
+don wrong 2
+locals hang 2
+amount kick 2
+easy make 2
+longer usual 2
+don order 2
+low light 2
+terrible customer 2
+dinner saturday night 2
+intimate feel 2
+pizza wings 2
+heaven earth 2
+don expect fancy 2
+stopped check 2
+hard time choosing 2
+mickey hangover 2
+wasn spicy 2
+negative reviews 2
+coolest places 2
+server offered 2
+ve number times 2
+friends wanted 2
+beer float 2
+eat half 2
+tap room 2
+weekday night 2
+half eaten 2
+meet interesting 2
+return factor 2
+late evening 2
+ll end 2
+place jumping 2
+waiter waitress 2
+grab couple 2
+bring check 2
+sit chill 2
+play good music 2
+press coffee 2
+place sit enjoy 2
+visited saturday 2
+nicely presented 2
+crowded weekends 2
+water chestnuts 2
+moved table 2
+bitter taste 2
+crazy crowded 2
+kind gross 2
+big ups 2
+recommend making 2
+place date night 2
+hard make 2
+sour taste 2
+community table 2
+wanted eat 2
+insanely packed 2
+2 bottles 2
+view strip 2
+place start evening 2
+hot spots 2
+pomegranate margarita 2
+suggest ordering 2
+refilled water 2
+modern comfortable 2
+wait worth 2
+husband ate 2
+guess expected 2
+crazy packed 2
+seated patio 2
+met cool 2
+seared foie 2
+kind bummer 2
+spend lot 2
+piss poor 2
+bit spicy 2
+earth shattering 2
+everytime vegas 2
+ridiculously long 2
+combination ingredients 2
+chat friends 2
+buying bottle 2
+cozy comfortable 2
+industry night 2
+poor guy 2
+holds special 2
+isn necessarily bad 2
+neighboring table 2
+small patio 2
+moved vegas 2
+worst dining 2
+top level 2
+delivered table 2
+kind weird 2
+bit smaller 2
+husband ordered 2
+table sat 2
+expect fancy 2
+start drinking 2
+wasn long 2
+ordered burgers 2
+based fact 2
+order wings 2
+ll meet 2
+ve warned 2
+downtown vegas 2
+ordered 2 2
+saturday night 2
+gave suggestions 2
+server gave 2
+find place sit 2
+absolutely divine 2
+sat night 2
+night town 2
+genuinely interested 2
+find hard 2
+expect wait 2
+lower level 2
+waitress drink order 2
+ordered margarita 2
+delicious filling 2
+kinda hard 2
+great selection draft 2
+quickly greeted 2
+half order 2
+regular fries 2
+recommend visiting 2
+south end 2
+based recommendation 2
+weren disappointed 2
+make special 2
+date night spot 2
+japanese brazilian 2
+top tables 2
+tuesdays thursdays 2
+server suggested 2
+bit hard find 2
+ate entire 2
+themed bars 2
+waitresses hot 2
+quiz night 2
+area edinburgh 2
+bright side 2
+edinburgh university 2
+smaller portions 2
+chic trendy 2
+kids play 2
+waitress rude 2
+perfect consistency 2
+ve 5 times 2
+surprised find 2
+modern chic 2
+big fans 2
+play great music 2
+job creating 2
+ton fun 2
+time visit vegas 2
+ll returning 2
+seasonal pumpkin 2
+waitress recommended 2
+hungry thirsty 2
+crowded noisy 2
+round beers 2
+recommended server 2
+forever bring 2
+sit chat 2
+bartender suggested 2
+order wrong 2
+wanted order 2
+bland boring 2
+white pizza 2
+finding seat 2
+margarita pizza 2
+crazy loud 2
+small compared 2
+frozen pizza 2
+stop check 2
+portion sizes 2
+decor layout 2
+dinner saturday 2
+north end 2
+wanting check place 2
+small bowl 2
+longer expected 2
+hope make 2
+watch favorite 2
+couple times ve 1
+bit rough 1
+bartender hooked 1
+worth ordering 1
+bar hopping 1
+burgers fries 1
+bread stale 1
+price apps 1
+5 glasses 1
+balance flavors 1
+beer battered fries 1
+bars scottsdale 1
+waitress checked 1
+half price appetizers 1
+aloha kitchen 1
+ll bring 1
+kind lame 1
+ve long 1
+yum yum 1
+offered buy 1
+ordered pizza 1
+wait longer 1
+forever drink 1
+offers wide 1
+hot summer 1
+wait wasn long 1
+empty stomach 1
+grown ups 1
+loud crowded 1
+bartender knew 1
+rotating beer 1
+tasty filling 1
+hot wings 1
+half yard 1
+making feel 1
+night long 1
+white mocha 1
+read book 1
+make visit 1
+arrive table 1
+smaller size 1
+companion ordered 1
+arrived table 1
+tasted bland 1
+lots locals 1
+huge bowl 1
+suggested meet 1
+end strip 1
+ll start 1
+sit patio enjoy 1
+made laugh 1
+ice cube 1
+bottle grey 1
+large bowl 1
+entire strip 1
+beat view 1
+great food reasonable 1
+finding place sit 1
+favorite spots vegas 1
+north side 1
+playing good music 1
+chef tasting 1
+size small 1
+served mini 1
+saturday evening 1
+bars strip 1
+bartender recommended 1
+personally don 1
+guess expect 1
+bday dinner 1
+reading reviews 1
+hostess rude 1
+close strip 1
+pasta dishes 1
+entire dining 1
+accommodate large 1
+couple blocks 1
+small groups 1
+pet peeve 1
+excellent customer 1
+punch bowl 1
+wanted play 1
+adds charm 1
+degree weather 1
+ll admit 1
+sister ordered 1
+don care 1
+guy friends 1
+spicy kick 1
+close work 1
+south side 1
+waitress gave 1
+offered bring 1
+ordered side 1
+easy navigate 1
+companions ordered 1
+reviews read 1
+price bottles 1
+waiter knew 1
+super spicy 1
+tasted canned 1
+knew expect 1
+wait times 1
+defiantly recommend 1
+orders wrong 1
+place start night 1
+kinda lame 1
+wife ordered 1
+bring menus 1
+kitchen closes 1
+full effect 1
+good selection craft 1
+size portion 1
+make break 1
+irish car 1
+don carry 1
+greeted server 1
+liquor license 1
+kinda small 1
+waiter recommended 1
+snake river 1
+puck restaurant 1
+quickly brought 1
+prepared pay 1
+vegas weekend 1
+brazilian fusion 1
+raspberry mojito 1
+waiter suggested 1
+tables close 1
+super hot 1
+make exception 1
+longer normal 1
+sushi chef 1
+wanted meet 1
+heart soul 1
+white red 1
+warm soft 1
+mid week 1
+prepared spend 1
+mixed crowd 1
+hot tea 1
+insanely crowded 1
+busy saturday night 1
+nicely balanced 1
+locals visitors 1
+wait forever 1
+worst customer 1
+small ish 1
+served ice 1
+find seat 1
+wanted drink 1
+vip bottle 1
+make destination 1
+good sized portion 1
+tables full 1
+decide eat 1
+saturday morning 1
+time finding 1
+short sweet 1
+perfectly executed 1
+chic decor 1
+table mates 1
+served hot 1
+low class 1
+fraction price 1
+salads sandwiches 1
+portion generous 1
+don bring 1
+greater phoenix 1
+lot character 1
+bar dining area 1
+matt big 1
+patio area nice 1
+strip view 1
+nice view strip 1
+brought quickly 1
+groups friends 1
+ordered nachos 1
+night drinking 1
+worked hard 1
+fill water 1
+2 domestic 1
+arrived 5 1
+helped pick 1
+making easy 1
+vegas locals 1
+knew stuff 1
+english muffin 1
+don hate 1
+ordered sampler 1
+short expectations 1
+2 times 1
+busy saturday 1
+match play 1
+place hopping 1
+blend flavors 1
+ll make 1
+don offer 1
+crowded loud 1
+views vegas 1
+gotta check 1
+kinda gross 1
+beat coffeehouse 1
+full character 1
+post work 1
+week work 1
+view downtown 1
+fell asleep 1
+big eater 1
+state st 1
+doesn care 1
+late night snack 1
+remember names 1
+wait return 1
+web site 1
+notch service 1
+selection micro 1
+end restaurants 1
+2 appetizers 1
+brought table 1
+american pale 1
+mid town 1
+hard pick 1
+top tier 1
+future visits 1
+looked bored 1
+places spend 1
+lot bars 1
+end result 1
+portion sizes generous 1
+night eats 1
+music bit loud 1
+made feel comfortable 1
+loud annoying 1
+vanilla latte 1
+make feel comfortable 1
+island iced tea 1
+pay visit 1
+partner crime 1
+found seat 1
+blocks house 1
+big bowl 1
+wanted check place 1
+late sunday 1
+wife ate 1
+fresh tasting 1
+trumpet ale house 1
+vegas style 1
+lot smaller 1
+wanted sit 1
+small portion 1
+lack customer 1
+shabby chic 1
+forward coming 1
+phoenix metro area 1
+tasting room 1
+late night grub 1
+ll glad 1
+living room 1
+sadly disappointed 1
+met couple 1
+late night spot 1
+hate relationship 1
+bars downtown 1
+greeted smile 1
+server checked 1
+blind date 1
+repeat customers 1
+don necessarily 1
+don typically 1
+restaurant half full 1
+short staffed 1
+friends mine 1
