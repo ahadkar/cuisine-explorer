@@ -1,9 +1,9 @@
 hr {
-    width: 900px;
-    height: 1px;
+    width: auto;
+    height: 2px;
     background-color:#e5e6eb;
     border: 0 none;
-    /*margin: auto 10px 10px auto;*/
+    margin: auto 10px 10px auto;
 }
 
 /* unvisited link */
@@ -166,7 +166,7 @@ a:active {
 }
 
 #cuisine-title.active {
-     box-shadow: 0 0 35px #e5e6eb;   
+     box-shadow: 0 25px 35px #e5e6eb;   
 }
 
 .cuisine-sub-title {
@@ -178,8 +178,32 @@ a:active {
     font-weight: 700;
     font-size: 14px;
     color: #3b5998;
-    padding-top: 10px;
+    /*padding-top: 10px;*/
     padding-bottom: 10px;
+}
+
+.cuisine-sub-title-sticky {
+    display: grid;
+    grid-template-columns: auto 800px auto;
+    justify-items: stretch;
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    color: #3b5998;
+    /*padding-top: 10px;*/
+    padding-bottom: 10px;
+    z-index: 3;
+    transition: all 0.15s linear;
+    overflow: auto;
+    position: sticky; 
+    top: 120px; 
+    background-color: white;
+}
+
+#cuisine-sub-title-sticky.active {
+     box-shadow: 0 25px 35px #e5e6eb;
+     margin: 0px -10px 0px -10px;
 }
 
 .restaurants-container {
@@ -359,4 +383,47 @@ a:active {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     color: #3b5998;
+}
+
+.segmented-control-item {
+    display: grid;
+    grid-template-rows: : auto auto;
+    margin-left: 65px;
+}
+
+.buttonGroup > li {
+    display: inline-block;
+    border: solid 1px #26547C;
+    border-left: none;
+    -webkit-border-radius: 0px;
+    text-align: center;
+    color: #26547C;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    cursor: pointer;
+    margin-left: -4px;
+}
+
+.buttonGroup > li:first-child {
+    border-left: solid 1px #26547C;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    color: #26547C;
+}
+
+.buttonGroup > li:last-child {
+    -webkit-border-top-right-radius: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+}
+
+.buttonGroup > li.selected {
+    background-color: #26547C;
+    color: #fff;
+    border-color: #26547C;
+    font-weight: 500;
 }

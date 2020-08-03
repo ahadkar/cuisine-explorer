@@ -45,12 +45,30 @@
 
             <hr>
 
-            <div id="cuisine-sub-title" class="cuisine-sub-title">
+            <div id="cuisine-sub-title-sticky" class="cuisine-sub-title-sticky" style="margin-top: -10px;">
                 <div></div>
                 <div>
-                    <input type="text" name="search" id="search-text-box" class="search-text-box" placeholder="Search by Restaurant Name or Address">
-                    <div id="sub-title-content"></div>
-                    <!-- <div id="filter-container" class="filter-container">
+                    <div>
+                        <input type="text" name="search" id="search-text-box" class="search-text-box" placeholder="Search by Restaurant Name or Address">
+                        
+                        <div style="display: inline-block;">
+                            <div class="segmented-control-item" style="width: auto;">
+                                <div>
+                                    <ul class="buttonGroup" id="stars-type">
+                                        <li class="selected">All</li>
+                                        <li>5 Star</li>
+                                        <li>4 Star</li>
+                                        <li>3 Star</li>
+                                        <li>2 Star</li>
+                                        <li>1 Star</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="sub-title-content"></div>
+                    </div>
+                    <!--<div id="filter-container" class="filter-container">
                         <div class="dropdown">
                           <button class="dropbtn">Dropdown</button>
                           <div class="dropdown-content">
@@ -59,7 +77,7 @@
                             <a href="#">Link 3</a>
                           </div>
                         </div>
-                    </div> -->
+                    </div>-->
                 </div>
                 <div></div>
             </div>
@@ -80,13 +98,21 @@
         var cuisine_name = "";
         var total_count = 0;
         var all_data = 0;
+        var selected_stars = "All";
 
-        document.getElementById("search-text-box").addEventListener("keyup", function(e) {
-            if (!e) { var e = window.event; }
-            e.preventDefault(); // sometimes useful
+        var ul = document.getElementsByTagName("UL");
 
-            searchRestaurants();
-        }, false);
+        for(var i = 0, j = ul.length; i < j; i++) {
+            if (/\bbuttonGroup\b/.test(ul[i].className)) {
+                ul[i].onclick = onClickSegementedControl(ul[i]);
+            }
+        }
+
+        var search = document.getElementById("search-text-box");
+        search.addEventListener("keyup", searchRestaurants, false);
+
+        var stars = document.getElementById("stars-type");
+        stars.addEventListener("click", filterByStars, false);
 
         function setRestaurantCount(count) {
 
@@ -111,7 +137,31 @@
                 var address = all_data[i]['full_address'];
                 var nodes = document.getElementById(all_data[i]['business_id']);
                 if (nodes != null) {
-                    if (name.toLowerCase().includes(filter) || address.toLowerCase().includes(filter)) {
+                    var shouldAdd = false;
+
+                    if (selected_stars == "All") {
+                        shouldAdd = true;
+                    } else {
+                        if (parseInt(selected_stars) == parseInt(all_data[i]["stars"])) {
+                            shouldAdd = true;
+                        } else {
+                            shouldAdd = false;
+                        }
+                    }
+
+                    if (shouldAdd) {
+                        if (filter.length > 0) {
+                            if (name.toLowerCase().includes(filter) || address.toLowerCase().includes(filter)) {
+                                shouldAdd = true;
+                            } else {
+                                shouldAdd = false;
+                            }
+                        } else {
+                            shouldAdd = true;
+                        }
+                    }
+
+                    if (shouldAdd) {
                         nodes.style.display = "block";
                         count += 1;
                     } else {
@@ -121,6 +171,10 @@
             }
 
             setRestaurantCount(count)
+        }
+
+        function filterByStars() {
+            searchRestaurants();
         }
 
         function loadData() {
@@ -247,14 +301,49 @@
             $("#dish-names-container").html(div);
         }
 
+        function onClickSegementedControl(target) {
+            function event(event) {
+                var li = target.getElementsByTagName("LI");
+                
+                for (var i = 0, j = li.length; i < j; i++) {
+                    var _ = li[i];
+                    _.className = _.className.replace(/\bselected\b/, "")
+                    if (_ === event.target) 
+                        _.className += "selected";
+                }
+
+                for (var m = 0; m < li.length; m++) {
+                    var _ = li[m];
+                    if (_.className == "selected") {
+                        if (target.id == "stars-type") {
+                            selected_stars = _.innerHTML;
+                            selected_stars = selected_stars.split(' ')[0]
+                            console.log(selected_stars)
+                            break;
+                        }
+                    }
+                }
+            }
+
+            return event;
+        }
+
         $(window).scroll(function() {     
             var scroll = $(window).scrollTop();
-            if (scroll > 0) {
+            if (scroll > 0 && scroll < 200) {
                 $("#cuisine-title").addClass("active");
                 console.log("active")
             }
             else {
                 $("#cuisine-title").removeClass("active");
+            }
+
+            if (scroll > 100) {
+                $("#cuisine-sub-title-sticky").addClass("active");
+                console.log("active")
+            }
+            else {
+                $("#cuisine-sub-title-sticky").removeClass("active");
             }
         });
 
