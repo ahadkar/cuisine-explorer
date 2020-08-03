@@ -25,6 +25,84 @@ STOP_WORDS = set(stopwords.words('english'))
 
 lemmatizer = WordNetLemmatizer()
 
+def iso_date_from_date(date):
+
+	if "/" in date:
+		components = date.split("/")
+		if len(components) == 3:
+			month = components[0]
+			day = components[1]
+			year = components[2]
+
+			fixed_date = "20" + year + "-" + month + "-" + day
+
+			return fixed_date
+	return date
+
+
+def fix_all_dates():
+	
+	print("Reading cuisines...")
+	df = pd.read_csv("./cuisines.csv")
+
+	print("----------------------------------------------------------")
+		
+	for i, row in df.iterrows():
+		
+		cuisine_name = row["cuisine_name"]
+		filepath = "./cuisines/" + cuisine_name + "/reviews.csv"
+
+		if path.exists(filepath):
+
+			print("{0}/{1} Fixing reviews for: {2}".format(i + 1, len(df.index), cuisine_name))
+
+			rev_df = pd.read_csv(filepath)
+			all_dates = []
+
+			bar = ChargingBar('Fixing date', max=len(rev_df.index), suffix='%(index)d / %(max)d | %(percent)d%%')
+			for j, row_j in rev_df.iterrows():
+				date = row_j['date']
+				if len(date) > 0:
+					all_dates.append(iso_date_from_date(date))
+				else:
+					all_dates.append("")
+				bar.next()
+			bar.finish()
+
+			rev_df.insert(8, "iso_date", all_dates, True) 
+			rev_df.to_csv(filepath, index=False)
+
+			print("----------------------------------------------------------")
+
+
+def sort():
+	
+	print("Reading cuisines...")
+	df = pd.read_csv("./cuisines.csv")
+
+	print("----------------------------------------------------------")
+
+	# print("Fixing dates...")
+	# print("----------------------------------------------------------")	
+
+	# fix_all_dates()
+	
+	for i, row in df.iterrows():
+		
+		cuisine_name = row["cuisine_name"]
+		filepath = "./cuisines/" + cuisine_name + "/reviews.csv"
+
+		if path.exists(filepath):
+
+			print("{0}/{1} Sorting reviews for: {2}".format(i + 1, len(df.index), cuisine_name))
+
+			rev_df = pd.read_csv(filepath)
+			rev_df = rev_df.sort_values(by=['iso_date'], ascending=False)
+
+			rev_df.to_csv(filepath, index=False)
+
+		print("----------------------------------------------------------")
+
 
 def nltk_tag_to_wordnet_tag(nltk_tag):
 	if nltk_tag.startswith('J'):
@@ -416,8 +494,32 @@ def sentiment():
 		print("----------------------------------------------------------")
 
 
-def ratings_over_time()
-	pass
+def ratings_over_time():
+	
+	print("Reading cuisines...")
+	df = pd.read_csv("./cuisines.csv")
+
+	print("----------------------------------------------------------")
+	
+	for i, row in df.iterrows():
+		
+		cuisine_name = row["cuisine_name"]
+		filepath = "./cuisines/" + cuisine_name + "/reviews.csv"
+
+		if path.exists(filepath):
+
+			print("{0}/{1} Sorting reviews for: {2}".format(i + 1, len(df.index), cuisine_name))
+
+			rev_df = pd.read_csv(filepath)
+			new_df = rev_df.sort_values(by=['iso_date'], ascending=True)
+
+			new_df = new_df.loc[:, ['date','iso_date', 'stars']]
+
+			write_path = "./cuisines/" + cuisine_name + "/ratings_over_time.csv"
+			new_df.to_csv(write_path, index=False)
+
+
+		print("----------------------------------------------------------")
 
 
 def main():

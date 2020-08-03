@@ -1,220 +1,124 @@
 business_id,full_address,mon_hours,tue_hours,wed_hours,thu_hours,fri_hours,sat_hours,sun_hours,open,categories,city,review_count,name,neighborhoods,longitude,latitude,state,stars
-PX3e3qtBx_5VC3vqq47jpQ,"1116 S Dobson Rd
-Mesa, AZ 85202",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,,True,"Korean,Restaurants",Mesa,164,Hodori Restaurant,,-111.8751042,33.3948018,AZ,4.0
-QQvzErQ8Ijdy3SyEmYVG7Q,"1949 W Ray Rd
-Chandler, AZ 85224",,,,,,,,False,"Korean,Japanese,Restaurants",Chandler,7,Takamatsu Restaurant,,-111.8743502,33.3190309,AZ,3.0
-aLZoFhOmDtonrWJzUzh8TA,"6941 N Hayden Rd
-Ste B2
-Scottsdale, AZ 85250",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,16:00 - 21:00,True,"Korean,Thai,Chinese,Restaurants",Scottsdale,31,China Lite,,-111.906794671058,33.5370215832524,AZ,3.5
-z29_Qhpju0M4fBkhNfdiqg,"10040 N 43rd Ave
-Ste 1K
-Glendale, AZ 85302",,,,,,,,False,"Korean,Restaurants",Glendale,5,Seoul Jung,,-112.152357,33.578533,AZ,3.5
-UKKz4HdQC0aH9j5lLi4u8Q,"3920 Spring Mountain Rd
-Chinatown
-Las Vegas, NV 89102",11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,True,"Korean,Barbeque,Restaurants",Las Vegas,307,Tofu Hut,Chinatown,-115.193426683545,36.1264888197184,NV,3.5
-v8TQwyxEj4or2Yng6y0S7A,"4355 Spring Mountain Road
-Chinatown
-Las Vegas, NV 89102",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,True,"Korean,Barbeque,Restaurants",Las Vegas,116,Korean Garden BBQ House,Chinatown,-115.197904,36.125908,NV,3.0
-xxOQ7h6s3InV8o8DOVHlMA,"3909 W Sahara Ave
-Ste 1
+-r_4cKz_A8tj_SkiOL50yQ,"6350 W Charleston Blvd
+Ste 120
 Westside
-Las Vegas, NV 89102",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,10:30 - 20:00,True,"Korean,Asian Fusion,Hawaiian,Restaurants",Las Vegas,415,Island Style,Westside,-115.1938661,36.1440209,NV,4.5
-YqeK6ARj8ojseNCIYdg5WQ,"953 E Sahara Ave
-Ste E28
-Downtown
-Las Vegas, NV 89104",,,,,,,,True,"Korean,Restaurants",Las Vegas,3,Seoul Korean Bar B Q Restaurant,Downtown,-115.1425224,36.1439448,NV,1.5
-e15ZAv4Tcgkae-ZfCf3SXw,"953 E Sahara Ave
-Eastside
-Las Vegas, NV 89104",,,,,,,,True,"Korean,Barbeque,Restaurants",Las Vegas,11,Elephant BBQ Restaurant,Eastside,-115.1423943,36.1421289,NV,4.0
+Las Vegas, NV 89146",17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 02:00,17:00 - 02:00,,True,"Korean,Asian Fusion,Tapas Bars,Restaurants",Las Vegas,22,Moko Tapas Bar,Westside,-115.232528679236,36.1595152511225,NV,5.0
 YkRwenPlQRloPFOX5l-iEA,"953 E Sahara Ave
 Ste E18
 Eastside
 Las Vegas, NV 89104",,,,,,,,True,"Korean,Restaurants",Las Vegas,5,Sahara Korean Restaurant,Eastside,-115.1405587,36.1429063,NV,5.0
-z4acTO-MlZQdkgJE9QCM3g,"1401 University Ave
-Madison, WI 53715",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 21:00,12:00 - 21:00,False,"Korean,Japanese,Restaurants",Madison,5,Coreana,,-89.4090712,43.0732214,WI,3.5
-bZX-b9fInWIk8j3Y50uBWQ,"2503 University Ave
-Regent
-Madison, WI 53705",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,,True,"Korean,Restaurants",Madison,50,New Seoul Korean,Regent,-89.4288516,43.0720815,WI,3.5
-Em8zrIuxwBXnIZMDMreErQ,"18 W Adams St
-Phoenix, AZ 85003",10:30 - 14:30,10:30 - 14:30,10:30 - 14:30,10:30 - 14:30,10:30 - 14:30,,,True,"Korean,Japanese,Restaurants",Phoenix,27,Yasda Bento,,-112.0743318,33.4493946,AZ,3.0
-u1szzmBt9M5s86s446watA,"4211 W Bethany Home Rd
-Phoenix, AZ 85019",11:00 - 21:30,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 02:00,11:00 - 02:00,17:00 - 00:00,False,"Korean,Sushi Bars,Restaurants",Phoenix,10,Table Top Grill And Sushi,,-112.1496458,33.5237411,AZ,4.0
-Lvf3N3cfLAmOc5y8Eg8KDg,"3002 N Arizona Ave
-Chandler, AZ 85225",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:30,12:00 - 22:30,12:00 - 22:00,True,"Korean,Sushi Bars,Restaurants",Chandler,143,Takamatsu Of Chandler,,-111.84303,33.351089,AZ,3.5
-2X79qKO11V2ALh32WtOIxA,"1801 E Tropicana Ave
-Ste 12
-Eastside
-Las Vegas, NV 89119",,,,,,,,True,"Food,Grocery,Korean,Restaurants",Las Vegas,3,Seoul Market,"Eastside,Southeast,University",-115.1278021,36.1006803,NV,3.5
-J1UcYfDS-YjBNesfzptKaw,"1801 E Tropicana Ave
-Eastside
-Las Vegas, NV 89119",,,,,,,,False,"Korean,Restaurants",Las Vegas,25,Min Sok Chon,"Eastside,Southeast",-115.127262,36.1000159,NV,4.0
+rad3s5u3uNco7mZXQ-arOg,"700 E Sahara Ave
+Ste D
+Downtown
+Las Vegas, NV 89104",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,True,"Korean,Restaurants",Las Vegas,78,E-Jo Korean Restaurant,Downtown,-115.1457004,36.1443182,NV,4.5
+aplrc7fN1tCcBUo8Vt_1zQ,"6000 W Spring Mountain Rd
+Ste 1B
+Chinatown
+Las Vegas, NV 89146",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,08:00 - 15:00,True,"Korean,Hot Dogs,Restaurants",Las Vegas,28,Buldogis Cafe,Chinatown,-115.2234859,36.1255279,NV,4.5
+iv_RS3cUZpnoT-PnSTlIAQ,"6850 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89146",,,,,,,,True,"Korean,Restaurants",Las Vegas,4,Red Gate Wok,Chinatown,-115.24167944662099,36.12638089653429,NV,4.5
+xxOQ7h6s3InV8o8DOVHlMA,"3909 W Sahara Ave
+Ste 1
+Westside
+Las Vegas, NV 89102",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,10:30 - 20:00,True,"Korean,Asian Fusion,Hawaiian,Restaurants",Las Vegas,415,Island Style,Westside,-115.19386609999998,36.1440209,NV,4.5
+cKfp8Wz0321KV5BYEiknlg,"6850 Spring Mountain Rd
+Ste F-6
+Chinatown
+Las Vegas, NV 89146",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,True,"Korean,Restaurants",Las Vegas,4,Woori House,Chinatown,-115.241660657754,36.1263064927293,NV,4.5
+qnKX52X6N9tp5qcK3QankA,"30 W Galveston St
+Chandler, AZ 85225",,,,,,,,False,"Dry Cleaning & Laundry,Food,Local Services,Convenience Stores,Korean,Restaurants",Chandler,3,Uno Stop,,-111.8425,33.313742,AZ,4.5
+fLxMEtOihwvVmhmQrvT7BA,"5 Buccleuch Street
+Newington
+Edinburgh EH8 9JN",17:30 - 21:00,12:00 - 15:00,17:30 - 21:00,12:00 - 15:00,17:30 - 21:00,12:00 - 15:00,,True,"Korean,Restaurants",Edinburgh,28,Kim's Mini Meals,Newington,-3.1843653808582,55.94344310280599,EDH,4.5
+BH4ky1-owYRtIKRZ0bw9Rw,"4235 S Fort Apache Rd
+Ste 250
+Spring Valley
+Las Vegas, NV 89147",11:30 - 23:00,11:30 - 23:00,11:30 - 23:00,11:30 - 23:00,11:30 - 23:00,11:30 - 00:00,11:30 - 23:00,True,"Korean,Tapas Bars,Restaurants",Las Vegas,60,K-bop Korean Tapas Restaurant,Spring Valley,-115.297923,36.1122889,NV,4.5
 7f21MbcOzrlE1kMYe12LMQ,"Venetian Hotel
 3355 Las Vegas Blvd S
 Eastside
 Las Vegas, NV 89109",,,,,,,,False,"Chinese,Vietnamese,Sushi Bars,Japanese,Thai,Korean,Restaurants",Las Vegas,9,Tsunami Asian Grill & Sushi Bar,Eastside,-115.146372,36.124423,NV,4.5
-E9ZsPtGovfEPHlMHkDdlQA,"Bellagio Resort &Casino
-3600 S Las Vegas Blvd
-The Strip
-Las Vegas, NV 89109",11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,True,"Korean,Asian Fusion,Dim Sum,Chinese,Restaurants",Las Vegas,491,Noodles,The Strip,-115.176300531599,36.1122690547441,NV,3.0
-cWFpyN49FRsFrNd3_cb50g,"3049 Las Vegas Blvd
-Ste 20
-The Strip
-Las Vegas, NV 89109",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,True,"Korean,Barbeque,Restaurants",Las Vegas,122,Kimchi Korean Bbq,The Strip,-115.1645622,36.1314967,NV,3.0
-DTtIi7avC0Ed-tMZAAx4wA,"953 E Sahara Ave
-#E9
-Eastside
-Las Vegas, NV 89136",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,True,"Korean,Barbeque,Restaurants",Las Vegas,88,Jin Mee Korean BBQ Restaurant,Eastside,-115.1422063,36.1425179,NV,3.5
+LE07Aw-kgW4OHpdBHWYe5g,"6475 W Charleston Blvd
+Westside
+Las Vegas, NV 89146",10:00 - 17:00,10:00 - 17:00,10:00 - 17:00,10:00 - 17:00,10:00 - 17:00,,,True,"Korean,Restaurants",Las Vegas,31,Man Na,Westside,-115.23663940000002,36.15901820000001,NV,4.5
 R1RjCYfRZm9inTDQVVpUGQ,"2820 S Alma School Rd
 10
 Chandler, AZ 85249",,,,,,,,False,"Food,Ice Cream & Frozen Yogurt,Korean,Sandwiches,Restaurants",Chandler,18,Fresco,,-111.8601,33.2644333,AZ,4.5
-Ou21lwEBBlUNG3JRAFWFAA,"4214 W Dunlap Ave
-Phoenix, AZ 85051",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,12:00 - 22:00,12:00 - 22:00,True,"Korean,Japanese,Restaurants",Phoenix,112,Takamatsu,,-112.1496637,33.5675268,AZ,3.5
-Hb6n-TyLhEDdCyPyH3E3oQ,"3943 Spring Mountain Rd
+ADTZPVMIYJN0jAvvHxcBMw,"2291 S Fort Apache Rd
+Ste 102
+Westside
+Las Vegas, NV 89117",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:30 - 17:00,True,"Korean,Hot Dogs,Restaurants",Las Vegas,379,Buldogis Gourmet Hot Dogs,Westside,-115.2982993,36.1470835,NV,4.5
+rwn5on1IU1tjkfsOU1-9gg,"3400 S Jones Blvd
+Ste 12
 Chinatown
-Las Vegas, NV 89102",12:00 - 12:00,12:00 - 12:00,12:00 - 12:00,12:00 - 12:00,12:00 - 12:00,12:00 - 12:00,12:00 - 12:00,True,"Korean,Restaurants",Las Vegas,219,Dae Jang Keum Korean BBQ & Tofu Restaurant,Chinatown,-115.193578228354,36.1263962835073,NV,3.5
-6Y-6Y6sy6qOQHrWI37zR1Q,"4920 W Thunderbird Rd
-Ste 117
-Glendale, AZ 85306",11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 02:00,11:00 - 02:00,11:00 - 23:00,True,"Korean,Sushi Bars,Japanese,Restaurants",Glendale,146,OHYA Sushi Korean Kitchen & Bar,,-112.165567972652,33.6116508042702,AZ,3.5
+Las Vegas, NV 89146",17:00 - 03:00,17:00 - 03:00,17:00 - 03:00,17:00 - 03:00,17:00 - 04:00,17:00 - 04:00,17:00 - 03:00,True,"Korean,Chicken Wings,Barbeque,Restaurants",Las Vegas,29,Q Bistro,Chinatown,-115.2248077,36.12774870000001,NV,4.5
+H_SuH7uLiYahDMbNBB9kog,"633 N Decatur Blvd
+Ste H
+Las Vegas, NV 89107",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 16:00,True,"Korean,Asian Fusion,Mexican,Restaurants",Las Vegas,837,KoMex Fusion,,-115.206417,36.17993900000001,NV,4.5
 Rzg2-ugIG_UxQCN_JqXDcA,"3889 Spring Mountain Rd
 Chinatown
 Las Vegas, NV 89102",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,,True,"Korean,Restaurants",Las Vegas,177,Mr Tofu,Chinatown,-115.1917,36.126437,NV,4.0
-7PS_ozDjv5NnpdZGcOsDvQ,"2711 S Alma School Rd
-Ste 14
-Mesa, AZ 85210",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,11:00 - 23:00,16:00 - 21:00,True,"Korean,Restaurants",Mesa,42,Korean BBQ,,-111.857802,33.365763,AZ,3.5
-_CG5zJAoNN6gszjhSyUcww,"501 N Arizona Ave
-Chandler, AZ 85225",17:00 - 21:30,,17:00 - 21:30,11:00 - 15:00,17:00 - 21:30,11:30 - 21:30,11:30 - 21:30,True,"Korean,Restaurants",Chandler,157,Chodang,,-111.8411529,33.3118297,AZ,4.0
-LE07Aw-kgW4OHpdBHWYe5g,"6475 W Charleston Blvd
-Westside
-Las Vegas, NV 89146",10:00 - 17:00,10:00 - 17:00,10:00 - 17:00,10:00 - 17:00,10:00 - 17:00,,,True,"Korean,Restaurants",Las Vegas,31,Man Na,Westside,-115.2366394,36.1590182,NV,4.5
-vQo_kFaVjVa9H_nhRCz-Dw,"4215 Spring Mountain Rd
-Chinatown
-Las Vegas, NV 89102",09:00 - 02:00,09:00 - 02:00,09:00 - 02:00,09:00 - 02:00,09:00 - 02:00,09:00 - 02:00,09:00 - 02:00,True,"Korean,Barbeque,Restaurants",Las Vegas,176,Mother's Korean Grill,Chinatown,-115.1963604,36.1253986,NV,3.0
-pEYJpTbqCQLtSH_l91GbMg,"4355 Spring Mountain Rd
-Chinatown
-Las Vegas, NV 89102",18:00 - 04:00,18:00 - 04:00,18:00 - 04:00,18:00 - 04:00,18:00 - 04:00,18:00 - 04:00,18:00 - 04:00,False,"Korean,Restaurants,Karaoke,Nightlife",Las Vegas,50,Zizzy,Chinatown,-115.197904,36.125908,NV,3.5
-V3P4YnU1x9OttGfY-VfmOA,"1324 S Rural Rd
-Tempe, AZ 85281",,,,,,,,False,"Korean,Restaurants",Tempe,10,Seoul Garden,,-111.9262735,33.4130961,AZ,2.0
-65_YeaivbdWNk1ZHiAI77w,"3765 S Las Vegas Blvd
-The Strip
-Las Vegas, NV 89109",12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,True,"Korean,Barbeque,Restaurants",Las Vegas,109,Ginseng Korean BBQ II,The Strip,-115.1724485,36.1050296,NV,3.5
-U2dZYCgkuS9SGgyKaCUlbQ,"8826 S Eastern Ave
-Ste 113
-Las Vegas, NV 89123",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,11:00 - 21:00,True,"Korean,Restaurants",Las Vegas,136,Jun's House Korean Restaurant,,-115.115884515499,36.0292953640485,NV,4.0
-0WBsN95ItG6IyiB1X2lMrA,"4372 W Olive Ave
-Glendale, AZ 85302",,,,,,,,True,"Korean,Sushi Bars,Japanese,Restaurants",Glendale,42,Koi Sushi Bar & Grill,,-112.153833,33.567834,AZ,3.5
-1PcG-b2oT_qNy_3XjazD2w,"1414 N Scottsdale Rd
-Scottsdale, AZ 85250",,,,,,,,True,"Korean,Restaurants",Scottsdale,12,Korean Restaurant,,-111.9275459,33.4643735,AZ,2.5
-pAtTzUkgS8qtCW5EFTTRbg,"4480 S Paradise Rd
-Ste 1000
-Eastside
-Las Vegas, NV 89169",,,,,,,,False,"Korean,Barbeque,Restaurants",Las Vegas,8,SanToki Korean BBQ & Shabu Bar,Eastside,-115.152093,36.1088013,NV,2.5
-3r3Nt3ih6RSjtjgcIJXqwQ,"430 E Silverado Ranch Blvd
-Ste 115
-Southeast
-Las Vegas, NV 89183",,,,,,,,False,"Korean,Sushi Bars,Japanese,Hawaiian,Restaurants",Las Vegas,57,Yum Yum BBQ,Southeast,-115.1530086,36.0130882,NV,4.0
-MfQWzjADewehBJaK4oGj3g,"5115 Spring Mountain Rd
-Ste 228
-Chinatown
-Las Vegas, NV 89146",,19:00 - 04:00,19:00 - 04:00,19:00 - 04:00,19:00 - 04:00,19:00 - 04:00,19:00 - 04:00,True,"Nightlife,Korean,Asian Fusion,Karaoke,Restaurants",Las Vegas,84,Bazic Bar & Restoyaky,Chinatown,-115.211199,36.125587,NV,3.5
-lrrW5UAXn_FPQySynu5DrA,"2025 Village Center Cir
-Summerlin
-Las Vegas, NV 89134",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,False,"Korean,Sushi Bars,Restaurants",Las Vegas,80,Maru Korean BBQ & Sushi,Summerlin,-115.304085,36.1909769,NV,3.5
-fgEhjm06n5OukqRDf_CJog,"4490 Spring Mountain Rd
-Chinatown
-Las Vegas, NV 89102",,,,,,,,False,"Korean,Restaurants",Las Vegas,5,The Whale Island,Chinatown,-115.201741,36.126586,NV,4.0
-xCXSaqlKvclhWBczA4fqkA,"721 N Arizona Ave
-Ste 103
-Mesa, AZ 85209",,,,,,,,False,"Korean,Restaurants",Mesa,3,Manna Cafe,,-111.63461,33.38081,AZ,3.5
+PhHstMh3akn1hdPmdU2bCA,"4155 S Buffalo Dr
+Ste 103 and 104
+Spring Valley
+Las Vegas, NV 89147",,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 20:00,True,"Korean,Asian Fusion,Mexican,Restaurants",Las Vegas,106,KoMex Fusion,Spring Valley,-115.261817567562,36.113039760533,NV,4.0
+-ibQywC1gy8_NdcDIKh9GQ,"113 Buccleuch Street
+Newington
+Edinburgh EH8 9NG",,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,,True,"Korean,Japanese,Restaurants",Edinburgh,4,Cafe Andamiro,Newington,-3.1838281000000004,55.941933,EDH,4.0
+GvG0AuOhjbME0nUXMwVCjA,"2095 N Dobson Rd
+Chandler, AZ 85224",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,15:00 - 21:00,True,"Korean,Sushi Bars,Restaurants",Chandler,24,GOGI,,-111.87593579292299,33.3372575073559,AZ,4.0
 3T-tuQOo7r0GApFc4sBV-A,"2555 S Jones Blvd
 Ste 3
 Westside
 Las Vegas, NV 89146",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,11:00 - 21:00,,True,"Korean,Japanese,Restaurants",Las Vegas,50,Well Being In The Box,Westside,-115.2254682,36.1429917,NV,4.0
-cQJM8VpY21O3HVu7j_b7Vw,"4725 Spring Mountain Rd
+PX3e3qtBx_5VC3vqq47jpQ,"1116 S Dobson Rd
+Mesa, AZ 85202",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,,True,"Korean,Restaurants",Mesa,164,Hodori Restaurant,,-111.8751042,33.3948018,AZ,4.0
+J1UcYfDS-YjBNesfzptKaw,"1801 E Tropicana Ave
+Eastside
+Las Vegas, NV 89119",,,,,,,,False,"Korean,Restaurants",Las Vegas,25,Min Sok Chon,"Eastside,Southeast",-115.12726200000002,36.1000159,NV,4.0
+u1szzmBt9M5s86s446watA,"4211 W Bethany Home Rd
+Phoenix, AZ 85019",11:00 - 21:30,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 02:00,11:00 - 02:00,17:00 - 00:00,False,"Korean,Sushi Bars,Restaurants",Phoenix,10,Table Top Grill And Sushi,,-112.1496458,33.5237411,AZ,4.0
+3r3Nt3ih6RSjtjgcIJXqwQ,"430 E Silverado Ranch Blvd
+Ste 115
+Southeast
+Las Vegas, NV 89183",,,,,,,,False,"Korean,Sushi Bars,Japanese,Hawaiian,Restaurants",Las Vegas,57,Yum Yum BBQ,Southeast,-115.1530086,36.01308820000001,NV,4.0
+_CG5zJAoNN6gszjhSyUcww,"501 N Arizona Ave
+Chandler, AZ 85225",17:00 - 21:30,,17:00 - 21:30,11:00 - 15:00,17:00 - 21:30,11:30 - 21:30,11:30 - 21:30,True,"Korean,Restaurants",Chandler,157,Chodang,,-111.8411529,33.311829700000004,AZ,4.0
+e15ZAv4Tcgkae-ZfCf3SXw,"953 E Sahara Ave
+Eastside
+Las Vegas, NV 89104",,,,,,,,True,"Korean,Barbeque,Restaurants",Las Vegas,11,Elephant BBQ Restaurant,Eastside,-115.1423943,36.1421289,NV,4.0
+U2dZYCgkuS9SGgyKaCUlbQ,"8826 S Eastern Ave
+Ste 113
+Las Vegas, NV 89123",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,11:00 - 21:00,True,"Korean,Restaurants",Las Vegas,136,Jun's House Korean Restaurant,,-115.115884515499,36.0292953640485,NV,4.0
+lEXDCPsv92dgmIheehwQnQ,"953 E Sahara Ave
+Ste E-33
+Eastside
+Las Vegas, NV 89104",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,15:00 - 22:00,11:00 - 22:00,True,"Food,Do-It-Yourself Food,Korean,Restaurants",Las Vegas,22,Myung Sung,Eastside,-115.1423943,36.1421289,NV,4.0
+ki993w9EiPyzCCeqHVHsrA,"6850 Spring Mt Rd
 Chinatown
-Las Vegas, NV 89102",11:30 - 20:30,11:30 - 20:30,11:30 - 20:30,11:30 - 20:30,11:30 - 20:30,11:30 - 20:30,11:30 - 20:30,True,"Korean,Restaurants",Las Vegas,232,Honey Pig,Chinatown,-115.205231,36.1255979,NV,3.5
-p7m9uYWxKSFCF-qC7hPxPQ,"751 E Bell Rd
-Phoenix, AZ 85022",11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,12:00 - 21:30,True,"Korean,Japanese,Restaurants",Phoenix,53,J.K. Sushi,,-112.0645843,33.6402004,AZ,3.5
-agLIxM7QfuJmfTNf6ktaOg,"170 University Avenue W
-Waterloo, ON N2L 3E9",,,,,,,,True,"Korean,Restaurants",Waterloo,7,Seoul Soul,,-80.538629,43.472371,ON,3.0
-JxyHe2llgblxn5JvA5BsMg,"55 Northfield Drive E
-Waterloo, ON N2K 3T6",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,12:00 - 15:00,,True,"Korean,Sushi Bars,Japanese,Restaurants",Waterloo,11,Yummyaki Japanese Restaurant,,-80.5276372050324,43.5026116045707,ON,3.5
+Las Vegas, NV 89146",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,True,"Korean,Hawaiian,Restaurants",Las Vegas,17,Mi Ga,Chinatown,-115.24173600000002,36.127269,NV,4.0
+2pUJ5kwZRZNHDrrHTBrWMw,"8560 W Desert Inn Rd
+Ste D-3
+Westside
+Las Vegas, NV 89117",16:00 - 23:00,16:00 - 23:00,16:00 - 23:00,16:00 - 23:00,16:00 - 00:00,16:00 - 00:00,,False,"Nightlife,Korean,Bars,Restaurants",Las Vegas,24,9 on the Plate,Westside,-115.2778306,36.1297417,NV,4.0
+buUNo4XhN5TBGT50LqkPHw,"4505 Maryland Pkwy
+University
+Las Vegas, NV 89154",,,,,,,,True,"Korean,Sushi Bars,Japanese,Restaurants",Las Vegas,6,Sushic,University,-115.141935,36.109511,NV,4.0
 U8VA-RW6LYOhxR-Ygi6eDw,"7019 N Litchfield Rd
 Glendale, AZ 85307",,,,,,,,True,"Korean,Sushi Bars,Japanese,Restaurants",Glendale,45,Takamatsu's,,-112.3576963,33.5376858,AZ,4.0
-6bjKi4wtIJWD24bFtPV4Ow,"10040 N 43rd Ave
-Ste 1-K
-Glendale, AZ 85302",,,,,,,,False,"Korean,Restaurants",Glendale,11,Ewha Korean BBQ,,-112.152357,33.578533,AZ,3.0
-Mog8cxUbSs5DJ-4nGczi_Q,"1381 N Alma School Rd
-Chandler, AZ 85224",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 02:00,12:00 - 02:00,,True,"Korean,Chinese,Restaurants",Chandler,31,Sun Chinese Dining,,-111.858116,33.327278,AZ,3.5
-i_H_yKtISROjQ4eruSwyPw,"580 S  College Ave
-Ste 103
-Tempe, AZ 85281",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,,True,"Korean,Hawaiian,Restaurants",Tempe,85,Paradise Hawaiian BBQ,,-111.9351556,33.4247212,AZ,3.5
-Ttr7zkCUwGY0FxlRAEHopQ,"5300 Spring Mountain Rd
-Chinatown
-Las Vegas, NV 89146",,,,,,,,False,"Korean,Restaurants",Las Vegas,4,Won Mi,Chinatown,-115.213867,36.126501,NV,4.0
-45dBeYgn3Wlqnc4W0HxDPA,"4711 Spring Mountain Rd
-Chinatown
-Las Vegas, NV 89102",11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,False,"Korean,Buffets,Barbeque,Restaurants",Las Vegas,103,Woo Che,Chinatown,-115.2054322,36.1261038,NV,3.5
-wK2RM163ByHaGixGn_UzuA,"7575 W Cactus Rd
-Peoria, AZ 85381",,,,,,,,True,"Korean,Vietnamese,Sushi Bars,Restaurants",Peoria,12,Our House,,-112.222145,33.594892,AZ,3.0
-d7lu4pULWjS02FR-bQJLqQ,"6112 W Flamingo Rd
-Las Vegas, NV 89103",07:00 - 22:30,07:00 - 22:30,07:00 - 22:30,07:00 - 22:30,07:00 - 22:30,07:00 - 22:30,07:00 - 16:30,True,"Korean,Asian Fusion,Sushi Bars,Restaurants",Las Vegas,19,Sandai Sushi,,-115.2252203,36.1146152,NV,2.5
+sjO66SM-zICJr5VyumMuqA,"4362 W. Olive Ave
+Glendale, AZ 85302",11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 23:00,True,"Korean,Chinese,Restaurants",Glendale,96,Cafe Ga Hyang,,-112.15377557818701,33.56822767455839,AZ,4.0
 eL7RUC_jGRLBkmkvFqkAlQ,"9 E Southern Ave
 Tempe, AZ 85282",,,,,,,,False,"Food,Korean,Grocery,Restaurants",Tempe,28,Paldo Market,,-111.9376982,33.3928601,AZ,4.0
-FDWo5X_XoBVCaro22r2sUw,"13B Dundas St
-New Town
-Edinburgh EH3 6OG",17:30 - 22:30,12:00 - 15:00,12:00 - 15:00,12:00 - 15:00,12:00 - 15:00,12:00 - 22:30,,True,"Food,Korean,Restaurants",Edinburgh,22,Shilla,New Town,-3.1984603,55.9565065,EDH,3.5
-vPnwX30Gn0oa4dVBL0W4Ww,"4480 Spring Mountain Rd
-Chinatown
-Las Vegas, NV 89102",11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,True,"Korean,Buffets,Barbeque,Restaurants",Las Vegas,380,Sura BBQ Buffet,Chinatown,-115.201181,36.126728,NV,3.5
-DUDX6e_9RPEdyvyJ88w4sA,"8310 S Rainbow Blvd
-Ste 100
-Southwest
-Las Vegas, NV 89139",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 00:00,11:00 - 00:00,11:00 - 23:00,False,"Korean,Sushi Bars,Japanese,Restaurants",Las Vegas,58,Nagoya Japanese Restaurant & Korean BBQ,Southwest,-115.242713,36.036676,NV,3.0
-mzQp4bnowm0ELC7aJOqpLQ,"3535 Las Vegas Blvd
-The Strip
-Las Vegas, NV 89109",,,,,,,,True,"Korean,Japanese,Chinese,Restaurants",Las Vegas,106,Ginseng 3,The Strip,-115.172532,36.118221,NV,3.0
-xiA7_Y02ygsd2TmhEJXsqQ,"1414 N Scottsdale Rd
-Scottsdale, AZ 85257",,,,,,,,True,"Korean,Restaurants",Scottsdale,40,Red Kimchi Korean Restaurant,,-111.9275459,33.4643735,AZ,3.0
-grpKIY7PepztAJ4w_RLVNw,"5030 Spring Mountain Rd
-Chinatown
-Spring Valley, NV 89103",,,,,,,,False,"Korean,Restaurants",Spring Valley,15,Seoul Oak,Chinatown,-115.2096939,36.1270306,NV,3.0
-mMbEPzRrRTKhSVb-rOgdUw,"3429 S Jones Blvd
-Chinatown
-Las Vegas, NV 89107",,,,,,,,False,"Korean,Restaurants",Las Vegas,19,E-Jo Korean Restaurant,Chinatown,-115.225189,36.1266465,NV,3.5
-sjO66SM-zICJr5VyumMuqA,"4362 W. Olive Ave
-Glendale, AZ 85302",11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 23:00,True,"Korean,Chinese,Restaurants",Glendale,96,Cafe Ga Hyang,,-112.153775578187,33.5682276745584,AZ,4.0
-WjYJlmKwdYsNEcrJ6D0C_A,"1901 Cayuga St
-Ste 110
-Middleton, WI 53562",17:00 - 20:30,17:00 - 20:30,17:00 - 20:30,17:00 - 20:30,17:00 - 20:30,17:00 - 21:00,17:00 - 20:30,True,"Korean,Asian Fusion,Restaurants",Middleton,59,K Peppers,,-89.513737,43.096359,WI,3.5
-MxTa2R2tSXFRt6UPwmeTdg,"1324 S Rural Rd
-Tempe, AZ 85281",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:30,11:00 - 22:30,11:00 - 22:00,False,"Korean,Japanese,Barbeque,Restaurants",Tempe,3,Ichiban Korean BBQ & Sushi,,-111.9262937,33.4143548,AZ,2.5
-qnKX52X6N9tp5qcK3QankA,"30 W Galveston St
-Chandler, AZ 85225",,,,,,,,False,"Dry Cleaning & Laundry,Food,Local Services,Convenience Stores,Korean,Restaurants",Chandler,3,Uno Stop,,-111.8425,33.313742,AZ,4.5
 mfHEqL7Lxkzl7BFy9mCGBA,"953 E Sahara Ave
 Ste E-28
 Eastside
 Las Vegas, NV 89104",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,True,"Korean,Restaurants",Las Vegas,16,Ma Dang,Eastside,-115.1423943,36.1421289,NV,4.0
-EgJaDh6PUnkQanbG7zjbLw,"4711 Spring Mountain Rd
-Chinatown
-Las Vegas, NV 89102",,,,,,,,False,"Korean,Restaurants",Las Vegas,6,Woo Che Asian Grill,Chinatown,-115.2053944,36.1261436,NV,3.0
 G6mZKMiDqHDgH92IOg9QhQ,"7775 S Rainbow Blvd
 Ste 105
 Southwest
-Las Vegas, NV 89139",11:30 - 03:00,11:30 - 03:00,11:30 - 03:00,11:30 - 03:00,11:30 - 04:00,11:30 - 04:00,12:00 - 02:00,True,"Korean,Barbeque,Restaurants",Las Vegas,375,Soyo Korean Barstaurant,Southwest,-115.24373888969399,36.0471471940935,NV,4.0
-PN9w-QGQtSwCmf4jcrme_g,"4550 S Maryland Pkwy
-Ste 9
-University
-Las Vegas, NV 89119",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,11:00 - 19:00,,True,"Korean,Japanese,Restaurants",Las Vegas,43,Teriyaki Time,University,-115.1370841,36.1066864,NV,3.5
-8-4Qz-_g4kT-Eg1AekhXbA,"Summerlin
-Las Vegas, NV 89128",11:00 - 20:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,,False,"Korean,Mexican,Food Stands,Restaurants",Las Vegas,68,Hanshiktaco,Summerlin,-115.2659777,36.1988542,NV,3.5
-H_SuH7uLiYahDMbNBB9kog,"633 N Decatur Blvd
-Ste H
-Las Vegas, NV 89107",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 16:00,True,"Korean,Asian Fusion,Mexican,Restaurants",Las Vegas,837,KoMex Fusion,,-115.206417,36.179939,NV,4.5
-7UZQ6qGX8lP7a3jokfYVjQ,"721 N Arizona Ave
-Gilbert, AZ 85233",,,,,,,,False,"Korean,Japanese,Restaurants",Gilbert,10,QQ Grill,,-111.841114,33.363016,AZ,3.0
-bdqt0fNaaAcA70hYsIGNDw,"6850 Spring Mountain Rd
-Chinatown
-Spring Valley, NV 89146",,,,,,,,True,"Korean,Restaurants",Spring Valley,6,Noodle Village,Chinatown,-115.241454,36.126697,NV,3.5
+Las Vegas, NV 89139",11:30 - 03:00,11:30 - 03:00,11:30 - 03:00,11:30 - 03:00,11:30 - 04:00,11:30 - 04:00,12:00 - 02:00,True,"Korean,Barbeque,Restaurants",Las Vegas,375,Soyo Korean Barstaurant,Southwest,-115.243738889694,36.0471471940935,NV,4.0
 bWH38_hb6EffnfjiIB7-GQ,"5300 Spring Mountain Rd
 Ste 101
 Chinatown
@@ -222,6 +126,144 @@ Las Vegas, NV 89146",,,,,,,,False,"Korean,Restaurants",Las Vegas,3,2010 Fusion R
 nKrK1aK2uWtL57Q3ShH6Hg,"16459 N Scottsdale Rd
 Ste 119
 Scottsdale, AZ 85254",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 21:00,12:00 - 21:00,True,"Korean,Sushi Bars,Restaurants",Scottsdale,111,Yume Sushi Grill,,-111.925367,33.636364,AZ,4.0
+Ttr7zkCUwGY0FxlRAEHopQ,"5300 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89146",,,,,,,,False,"Korean,Restaurants",Las Vegas,4,Won Mi,Chinatown,-115.213867,36.126501,NV,4.0
+92Z2b94IO-ovEUmrkzarMQ,"5035 S Fort Apache Rd
+Ste 106
+Spring Valley
+Las Vegas, NV 89148",11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,True,"Food,Desserts,Korean,Soup,Restaurants",Las Vegas,85,Mashisoyo,Spring Valley,-115.297977975539,36.09753503807811,NV,4.0
+SM3EGMqG1MN1kYVGIXLx4Q,"933 E University Dr
+Ste 106
+Tempe, AZ 85281",11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 22:00,False,"Korean,Fast Food,Restaurants",Tempe,20,The Flame Broiler,,-111.9247139,33.421350800000006,AZ,4.0
+WbgDscs1H4kXOZdoDs2aow,"445 W Craig Rd
+Ste 110
+North Las Vegas, NV 89032",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,True,"Korean,Restaurants",North Las Vegas,72,Jun's Korean Restaurant,,-115.1468916,36.2389527,NV,4.0
+fgEhjm06n5OukqRDf_CJog,"4490 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89102",,,,,,,,False,"Korean,Restaurants",Las Vegas,5,The Whale Island,Chinatown,-115.201741,36.126586,NV,4.0
+5PSjlaVzR1RooMhYmjRmBQ,"MVP's Sports Lounge
+6120 W Tropicana Ave
+Las Vegas, NV 89103",17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 01:00,17:00 - 01:00,17:00 - 00:00,False,"Korean,Hot Dogs,Restaurants",Las Vegas,6,Buldogis Eatery,,-115.226669311523,36.100295974278296,NV,4.0
+iUPJmJvHy9fVfRxsuwwdLQ,"4480 Paradise Rd
+Eastside
+Las Vegas, NV 89169",11:30 - 02:00,11:30 - 02:00,11:30 - 02:00,11:30 - 02:00,11:30 - 02:00,11:30 - 02:00,11:30 - 02:00,True,"Korean,Japanese,Barbeque,Restaurants",Las Vegas,82,Gangnam Asian BBQ Dining,Eastside,-115.151261,36.108898,NV,4.0
+45dBeYgn3Wlqnc4W0HxDPA,"4711 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89102",11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,False,"Korean,Buffets,Barbeque,Restaurants",Las Vegas,103,Woo Che,Chinatown,-115.2054322,36.1261038,NV,3.5
+aLZoFhOmDtonrWJzUzh8TA,"6941 N Hayden Rd
+Ste B2
+Scottsdale, AZ 85250",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,16:00 - 21:00,True,"Korean,Thai,Chinese,Restaurants",Scottsdale,31,China Lite,,-111.90679467105801,33.5370215832524,AZ,3.5
+8-4Qz-_g4kT-Eg1AekhXbA,"Summerlin
+Las Vegas, NV 89128",11:00 - 20:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,,False,"Korean,Mexican,Food Stands,Restaurants",Las Vegas,68,Hanshiktaco,Summerlin,-115.2659777,36.1988542,NV,3.5
+lrrW5UAXn_FPQySynu5DrA,"2025 Village Center Cir
+Summerlin
+Las Vegas, NV 89134",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,False,"Korean,Sushi Bars,Restaurants",Las Vegas,80,Maru Korean BBQ & Sushi,Summerlin,-115.304085,36.1909769,NV,3.5
+pEYJpTbqCQLtSH_l91GbMg,"4355 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89102",18:00 - 04:00,18:00 - 04:00,18:00 - 04:00,18:00 - 04:00,18:00 - 04:00,18:00 - 04:00,18:00 - 04:00,False,"Korean,Restaurants,Karaoke,Nightlife",Las Vegas,50,Zizzy,Chinatown,-115.197904,36.125908,NV,3.5
+WjYJlmKwdYsNEcrJ6D0C_A,"1901 Cayuga St
+Ste 110
+Middleton, WI 53562",17:00 - 20:30,17:00 - 20:30,17:00 - 20:30,17:00 - 20:30,17:00 - 20:30,17:00 - 21:00,17:00 - 20:30,True,"Korean,Asian Fusion,Restaurants",Middleton,59,K Peppers,,-89.513737,43.096359,WI,3.5
+0WBsN95ItG6IyiB1X2lMrA,"4372 W Olive Ave
+Glendale, AZ 85302",,,,,,,,True,"Korean,Sushi Bars,Japanese,Restaurants",Glendale,42,Koi Sushi Bar & Grill,,-112.153833,33.567834000000005,AZ,3.5
+vPnwX30Gn0oa4dVBL0W4Ww,"4480 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89102",11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,True,"Korean,Buffets,Barbeque,Restaurants",Las Vegas,380,Sura BBQ Buffet,Chinatown,-115.201181,36.126728,NV,3.5
+cQJM8VpY21O3HVu7j_b7Vw,"4725 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89102",11:30 - 20:30,11:30 - 20:30,11:30 - 20:30,11:30 - 20:30,11:30 - 20:30,11:30 - 20:30,11:30 - 20:30,True,"Korean,Restaurants",Las Vegas,232,Honey Pig,Chinatown,-115.205231,36.1255979,NV,3.5
+i_H_yKtISROjQ4eruSwyPw,"580 S  College Ave
+Ste 103
+Tempe, AZ 85281",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,,True,"Korean,Hawaiian,Restaurants",Tempe,85,Paradise Hawaiian BBQ,,-111.9351556,33.4247212,AZ,3.5
+Mog8cxUbSs5DJ-4nGczi_Q,"1381 N Alma School Rd
+Chandler, AZ 85224",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 02:00,12:00 - 02:00,,True,"Korean,Chinese,Restaurants",Chandler,31,Sun Chinese Dining,,-111.858116,33.327278,AZ,3.5
+mMbEPzRrRTKhSVb-rOgdUw,"3429 S Jones Blvd
+Chinatown
+Las Vegas, NV 89107",,,,,,,,False,"Korean,Restaurants",Las Vegas,19,E-Jo Korean Restaurant,Chinatown,-115.225189,36.1266465,NV,3.5
+JxyHe2llgblxn5JvA5BsMg,"55 Northfield Drive E
+Waterloo, ON N2K 3T6",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,12:00 - 15:00,,True,"Korean,Sushi Bars,Japanese,Restaurants",Waterloo,11,Yummyaki Japanese Restaurant,,-80.5276372050324,43.5026116045707,ON,3.5
+p7m9uYWxKSFCF-qC7hPxPQ,"751 E Bell Rd
+Phoenix, AZ 85022",11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,12:00 - 21:30,True,"Korean,Japanese,Restaurants",Phoenix,53,J.K. Sushi,,-112.0645843,33.6402004,AZ,3.5
+65_YeaivbdWNk1ZHiAI77w,"3765 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109",12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,True,"Korean,Barbeque,Restaurants",Las Vegas,109,Ginseng Korean BBQ II,The Strip,-115.17244850000002,36.1050296,NV,3.5
+UKKz4HdQC0aH9j5lLi4u8Q,"3920 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89102",11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,True,"Korean,Barbeque,Restaurants",Las Vegas,307,Tofu Hut,Chinatown,-115.193426683545,36.126488819718396,NV,3.5
+xCXSaqlKvclhWBczA4fqkA,"721 N Arizona Ave
+Ste 103
+Mesa, AZ 85209",,,,,,,,False,"Korean,Restaurants",Mesa,3,Manna Cafe,,-111.63461,33.38081,AZ,3.5
+FDWo5X_XoBVCaro22r2sUw,"13B Dundas St
+New Town
+Edinburgh EH3 6OG",17:30 - 22:30,12:00 - 15:00,12:00 - 15:00,12:00 - 15:00,12:00 - 15:00,12:00 - 22:30,,True,"Food,Korean,Restaurants",Edinburgh,22,Shilla,New Town,-3.1984603,55.9565065,EDH,3.5
+z29_Qhpju0M4fBkhNfdiqg,"10040 N 43rd Ave
+Ste 1K
+Glendale, AZ 85302",,,,,,,,False,"Korean,Restaurants",Glendale,5,Seoul Jung,,-112.152357,33.578533,AZ,3.5
+PN9w-QGQtSwCmf4jcrme_g,"4550 S Maryland Pkwy
+Ste 9
+University
+Las Vegas, NV 89119",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,11:00 - 19:00,,True,"Korean,Japanese,Restaurants",Las Vegas,43,Teriyaki Time,University,-115.1370841,36.1066864,NV,3.5
+FX3skXQE-HwP_Cpss_nWdQ,"6850 Spring Mountain Rd
+Ste F-6
+Chinatown
+Las Vegas, NV 89146",,,,,,,,False,"Korean,Chicken Wings,Food Court,Restaurants",Las Vegas,11,Han's Chicken,Chinatown,-115.2416392,36.1269391,NV,3.5
+bdqt0fNaaAcA70hYsIGNDw,"6850 Spring Mountain Rd
+Chinatown
+Spring Valley, NV 89146",,,,,,,,True,"Korean,Restaurants",Spring Valley,6,Noodle Village,Chinatown,-115.241454,36.126697,NV,3.5
+z4acTO-MlZQdkgJE9QCM3g,"1401 University Ave
+Madison, WI 53715",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 21:00,12:00 - 21:00,False,"Korean,Japanese,Restaurants",Madison,5,Coreana,,-89.4090712,43.0732214,WI,3.5
+Qs_rxSL6BfBFzAr30VLeuw,"6820 Spring Mountain Rd
+Ste 110
+Chinatown
+Las Vegas, NV 89146",09:00 - 09:00,09:00 - 09:00,09:00 - 09:00,09:00 - 09:00,09:00 - 09:00,09:00 - 09:00,09:00 - 09:00,False,"Korean,Restaurants",Las Vegas,97,Woonam Jung,Chinatown,-115.240993239407,36.1267664216023,NV,3.5
+OmJ283Un9mAbr_gc7v4N4A,"705 S Forest Rd
+Tempe, AZ 85281",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,,True,"Korean,Japanese,Restaurants",Tempe,36,Grilled Ave Teriyaki House,,-111.936439,33.422788,AZ,3.5
+Ou21lwEBBlUNG3JRAFWFAA,"4214 W Dunlap Ave
+Phoenix, AZ 85051",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,12:00 - 22:00,12:00 - 22:00,True,"Korean,Japanese,Restaurants",Phoenix,112,Takamatsu,,-112.1496637,33.5675268,AZ,3.5
+Hb6n-TyLhEDdCyPyH3E3oQ,"3943 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89102",12:00 - 12:00,12:00 - 12:00,12:00 - 12:00,12:00 - 12:00,12:00 - 12:00,12:00 - 12:00,12:00 - 12:00,True,"Korean,Restaurants",Las Vegas,219,Dae Jang Keum Korean BBQ & Tofu Restaurant,Chinatown,-115.193578228354,36.1263962835073,NV,3.5
+oe45XbxddG4EKhpWAHIk2w,"6607 S Central Ave
+Phoenix, AZ 85042",,,,,,,,False,"Korean,Japanese,Restaurants",Phoenix,10,Taka Grill and Cafe,,-112.07296200000002,33.386429,AZ,3.5
+MfQWzjADewehBJaK4oGj3g,"5115 Spring Mountain Rd
+Ste 228
+Chinatown
+Las Vegas, NV 89146",,19:00 - 04:00,19:00 - 04:00,19:00 - 04:00,19:00 - 04:00,19:00 - 04:00,19:00 - 04:00,True,"Nightlife,Korean,Asian Fusion,Karaoke,Restaurants",Las Vegas,84,Bazic Bar & Restoyaky,Chinatown,-115.211199,36.125587,NV,3.5
+7PS_ozDjv5NnpdZGcOsDvQ,"2711 S Alma School Rd
+Ste 14
+Mesa, AZ 85210",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,11:00 - 23:00,16:00 - 21:00,True,"Korean,Restaurants",Mesa,42,Korean BBQ,,-111.857802,33.365763,AZ,3.5
+6Y-6Y6sy6qOQHrWI37zR1Q,"4920 W Thunderbird Rd
+Ste 117
+Glendale, AZ 85306",11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 02:00,11:00 - 02:00,11:00 - 23:00,True,"Korean,Sushi Bars,Japanese,Restaurants",Glendale,146,OHYA Sushi Korean Kitchen & Bar,,-112.165567972652,33.6116508042702,AZ,3.5
+DTtIi7avC0Ed-tMZAAx4wA,"953 E Sahara Ave
+#E9
+Eastside
+Las Vegas, NV 89136",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,True,"Korean,Barbeque,Restaurants",Las Vegas,88,Jin Mee Korean BBQ Restaurant,Eastside,-115.1422063,36.1425179,NV,3.5
+kdq8IpZHw_ehrZSXLIqcOg,"2 King Street N
+Waterloo, ON N2J 1N9",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,True,"Nightlife,Korean,Bars,Restaurants",Waterloo,13,The Famous Owl Of Minerva Korean Restaurant & Bar,,-80.5222854,43.4653831,ON,3.5
+To9FBacgnXPJ4GpJbnMVvA,"4435 Las Vegas Blvd N
+Las Vegas, NV 89115",,,,,,,,False,"Korean,Restaurants",Las Vegas,3,Korea House BBQ,,-115.0538879,36.2409341,NV,3.5
+2X79qKO11V2ALh32WtOIxA,"1801 E Tropicana Ave
+Ste 12
+Eastside
+Las Vegas, NV 89119",,,,,,,,True,"Food,Grocery,Korean,Restaurants",Las Vegas,3,Seoul Market,"Eastside,Southeast,University",-115.1278021,36.10068029999999,NV,3.5
+Lvf3N3cfLAmOc5y8Eg8KDg,"3002 N Arizona Ave
+Chandler, AZ 85225",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:30,12:00 - 22:30,12:00 - 22:00,True,"Korean,Sushi Bars,Restaurants",Chandler,143,Takamatsu Of Chandler,,-111.84303,33.351089,AZ,3.5
+bZX-b9fInWIk8j3Y50uBWQ,"2503 University Ave
+Regent
+Madison, WI 53705",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,,True,"Korean,Restaurants",Madison,50,New Seoul Korean,Regent,-89.4288516,43.0720815,WI,3.5
+yS0IzGJDtGKZubmGIbrZIA,"6630 N Durango Dr
+Ste 180
+Centennial
+Las Vegas, NV 89149",11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 22:00,True,"Korean,Sushi Bars,Restaurants",Las Vegas,51,Red Ginseng Narita Sushi & BBQ,Centennial,-115.28673650295299,36.28129520693071,NV,3.5
+cwrf67GWlXnwNDEY0iiTgw,"117 E Mifflin St
+Capitol
+Madison, WI 53703",11:30 - 14:00,11:30 - 14:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,11:30 - 14:00,,True,"Korean,Restaurants",Madison,42,Sol's On the Square,Capitol,-89.383313,43.076622,WI,3.5
+DUDX6e_9RPEdyvyJ88w4sA,"8310 S Rainbow Blvd
+Ste 100
+Southwest
+Las Vegas, NV 89139",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 00:00,11:00 - 00:00,11:00 - 23:00,False,"Korean,Sushi Bars,Japanese,Restaurants",Las Vegas,58,Nagoya Japanese Restaurant & Korean BBQ,Southwest,-115.242713,36.036676,NV,3.0
 8X_9ue_Hnpr1lYa90EG3bw,"Greenland Market
 6850 Spring Mountain Rd
 Westside
@@ -229,130 +271,88 @@ Las Vegas, NV 89146",,,,,,,,True,"Korean,Restaurants",Las Vegas,20,Island Style 
 kvQ2riK7acx0HGNKRsbang,"10040N 43rd Ave
 Ste 1 K
 Glendale, AZ 85302",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,False,"Korean,Restaurants",Glendale,24,Seoul Korean Grill,,-112.1517773,33.5787342,AZ,3.0
-rad3s5u3uNco7mZXQ-arOg,"700 E Sahara Ave
-Ste D
-Downtown
-Las Vegas, NV 89104",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,True,"Korean,Restaurants",Las Vegas,78,E-Jo Korean Restaurant,Downtown,-115.1457004,36.1443182,NV,4.5
-SM3EGMqG1MN1kYVGIXLx4Q,"933 E University Dr
-Ste 106
-Tempe, AZ 85281",11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 22:00,False,"Korean,Fast Food,Restaurants",Tempe,20,The Flame Broiler,,-111.9247139,33.4213508,AZ,4.0
-fLxMEtOihwvVmhmQrvT7BA,"5 Buccleuch Street
-Newington
-Edinburgh EH8 9JN",17:30 - 21:00,12:00 - 15:00,17:30 - 21:00,12:00 - 15:00,17:30 - 21:00,12:00 - 15:00,,True,"Korean,Restaurants",Edinburgh,28,Kim's Mini Meals,Newington,-3.1843653808582,55.943443102806,EDH,4.5
-ADTZPVMIYJN0jAvvHxcBMw,"2291 S Fort Apache Rd
-Ste 102
-Westside
-Las Vegas, NV 89117",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:30 - 17:00,True,"Korean,Hot Dogs,Restaurants",Las Vegas,379,Buldogis Gourmet Hot Dogs,Westside,-115.2982993,36.1470835,NV,4.5
-OmJ283Un9mAbr_gc7v4N4A,"705 S Forest Rd
-Tempe, AZ 85281",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,,True,"Korean,Japanese,Restaurants",Tempe,36,Grilled Ave Teriyaki House,,-111.936439,33.422788,AZ,3.5
-Qs_rxSL6BfBFzAr30VLeuw,"6820 Spring Mountain Rd
-Ste 110
+grpKIY7PepztAJ4w_RLVNw,"5030 Spring Mountain Rd
 Chinatown
-Las Vegas, NV 89146",09:00 - 09:00,09:00 - 09:00,09:00 - 09:00,09:00 - 09:00,09:00 - 09:00,09:00 - 09:00,09:00 - 09:00,False,"Korean,Restaurants",Las Vegas,97,Woonam Jung,Chinatown,-115.240993239407,36.1267664216023,NV,3.5
-WbgDscs1H4kXOZdoDs2aow,"445 W Craig Rd
-Ste 110
-North Las Vegas, NV 89032",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,True,"Korean,Restaurants",North Las Vegas,72,Jun's Korean Restaurant,,-115.1468916,36.2389527,NV,4.0
-V0l8hCGeNmtubh37HvcKcQ,"6850 Spring Mountain Rd
-Chinatown
-Las Vegas, NV 89102",,,,,,,,False,"Korean,Chicken Wings,Restaurants",Las Vegas,6,K Jun Chicken,Chinatown,-115.2416392,36.1269391,NV,3.0
-92Z2b94IO-ovEUmrkzarMQ,"5035 S Fort Apache Rd
-Ste 106
-Spring Valley
-Las Vegas, NV 89148",11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,True,"Food,Desserts,Korean,Soup,Restaurants",Las Vegas,85,Mashisoyo,Spring Valley,-115.297977975539,36.0975350380781,NV,4.0
-XvQDPOu2oTdNPx8kiiTYow,"742 E Glendale Ave
-Phoenix, AZ 85020",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 22:00,10:30 - 22:00,10:30 - 21:00,True,"Korean,Asian Fusion,Japanese,Restaurants",Phoenix,6,Pei Wei Asian Diner,,-112.063942,33.53876,AZ,2.0
-oe45XbxddG4EKhpWAHIk2w,"6607 S Central Ave
-Phoenix, AZ 85042",,,,,,,,False,"Korean,Japanese,Restaurants",Phoenix,10,Taka Grill and Cafe,,-112.072962,33.386429,AZ,3.5
-5PSjlaVzR1RooMhYmjRmBQ,"MVP's Sports Lounge
-6120 W Tropicana Ave
-Las Vegas, NV 89103",17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 01:00,17:00 - 01:00,17:00 - 00:00,False,"Korean,Hot Dogs,Restaurants",Las Vegas,6,Buldogis Eatery,,-115.226669311523,36.1002959742783,NV,4.0
+Spring Valley, NV 89103",,,,,,,,False,"Korean,Restaurants",Spring Valley,15,Seoul Oak,Chinatown,-115.2096939,36.12703060000001,NV,3.0
+xiA7_Y02ygsd2TmhEJXsqQ,"1414 N Scottsdale Rd
+Scottsdale, AZ 85257",,,,,,,,True,"Korean,Restaurants",Scottsdale,40,Red Kimchi Korean Restaurant,,-111.9275459,33.4643735,AZ,3.0
+E9ZsPtGovfEPHlMHkDdlQA,"Bellagio Resort &Casino
+3600 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109",11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,True,"Korean,Asian Fusion,Dim Sum,Chinese,Restaurants",Las Vegas,491,Noodles,The Strip,-115.17630053159901,36.1122690547441,NV,3.0
+QQvzErQ8Ijdy3SyEmYVG7Q,"1949 W Ray Rd
+Chandler, AZ 85224",,,,,,,,False,"Korean,Japanese,Restaurants",Chandler,7,Takamatsu Restaurant,,-111.8743502,33.3190309,AZ,3.0
+cWFpyN49FRsFrNd3_cb50g,"3049 Las Vegas Blvd
+Ste 20
+The Strip
+Las Vegas, NV 89109",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,True,"Korean,Barbeque,Restaurants",Las Vegas,122,Kimchi Korean Bbq,The Strip,-115.1645622,36.1314967,NV,3.0
 pBNidjx4tvT2X1EOnpiABw,"7225 S Durango Dr
 Ste 105
 Southwest
 Las Vegas, NV 89113",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,12:00 - 21:00,False,"Korean,Sushi Bars,Japanese,Restaurants",Las Vegas,11,Yum Yum BBQ,"Southwest,Spring Valley",-115.2800962,36.0569676,NV,3.0
+mzQp4bnowm0ELC7aJOqpLQ,"3535 Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109",,,,,,,,True,"Korean,Japanese,Chinese,Restaurants",Las Vegas,106,Ginseng 3,The Strip,-115.172532,36.11822100000001,NV,3.0
+7UZQ6qGX8lP7a3jokfYVjQ,"721 N Arizona Ave
+Gilbert, AZ 85233",,,,,,,,False,"Korean,Japanese,Restaurants",Gilbert,10,QQ Grill,,-111.841114,33.363015999999995,AZ,3.0
+EgJaDh6PUnkQanbG7zjbLw,"4711 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89102",,,,,,,,False,"Korean,Restaurants",Las Vegas,6,Woo Che Asian Grill,Chinatown,-115.20539440000002,36.1261436,NV,3.0
+a7Qk3nMgJNwEzZygfstnyw,"10040 N 43 Ave
+Ste 1K
+Glendale, AZ 85302",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,12:00 - 22:00,12:00 - 21:00,True,"Korean,Barbeque,Restaurants",Glendale,35,Koryo Korean BBQ,,-112.152147369923,33.5781497241086,AZ,3.0
+V0l8hCGeNmtubh37HvcKcQ,"6850 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89102",,,,,,,,False,"Korean,Chicken Wings,Restaurants",Las Vegas,6,K Jun Chicken,Chinatown,-115.2416392,36.1269391,NV,3.0
+kFgZU_gT1TvaPSCkYyf1Sg,"22 Brougham Place
+Tollcross
+Edinburgh EH3 9JU",,,,,,,,True,"Korean,Restaurants",Edinburgh,11,Ong Gie,"Tollcross,The Meadows",-3.2017491,55.94272660000001,EDH,3.0
+WQo8LVU-ZjRhTGcqEZ0VZA,"953 E Sahara Ave
+Eastside
+Las Vegas, NV 89109",,,,,,,,True,"Korean,Restaurants",Las Vegas,4,Garden Korean Restaurant,Eastside,-115.1423943,36.1421289,NV,3.0
+v8TQwyxEj4or2Yng6y0S7A,"4355 Spring Mountain Road
+Chinatown
+Las Vegas, NV 89102",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,True,"Korean,Barbeque,Restaurants",Las Vegas,116,Korean Garden BBQ House,Chinatown,-115.197904,36.125908,NV,3.0
+vQo_kFaVjVa9H_nhRCz-Dw,"4215 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89102",09:00 - 02:00,09:00 - 02:00,09:00 - 02:00,09:00 - 02:00,09:00 - 02:00,09:00 - 02:00,09:00 - 02:00,True,"Korean,Barbeque,Restaurants",Las Vegas,176,Mother's Korean Grill,Chinatown,-115.1963604,36.1253986,NV,3.0
+6bjKi4wtIJWD24bFtPV4Ow,"10040 N 43rd Ave
+Ste 1-K
+Glendale, AZ 85302",,,,,,,,False,"Korean,Restaurants",Glendale,11,Ewha Korean BBQ,,-112.152357,33.578533,AZ,3.0
+agLIxM7QfuJmfTNf6ktaOg,"170 University Avenue W
+Waterloo, ON N2L 3E9",,,,,,,,True,"Korean,Restaurants",Waterloo,7,Seoul Soul,,-80.538629,43.472371,ON,3.0
+Em8zrIuxwBXnIZMDMreErQ,"18 W Adams St
+Phoenix, AZ 85003",10:30 - 14:30,10:30 - 14:30,10:30 - 14:30,10:30 - 14:30,10:30 - 14:30,,,True,"Korean,Japanese,Restaurants",Phoenix,27,Yasda Bento,,-112.0743318,33.4493946,AZ,3.0
+wK2RM163ByHaGixGn_UzuA,"7575 W Cactus Rd
+Peoria, AZ 85381",,,,,,,,True,"Korean,Vietnamese,Sushi Bars,Restaurants",Peoria,12,Our House,,-112.222145,33.594892,AZ,3.0
+bnWEP4mB1npXjgVNa5-9Ug,"396 King Street N
+Waterloo, ON N2J 2Z3",,,,,,,,True,"Korean,Barbeque,Restaurants",Waterloo,11,Busan Korean BBQ,,-80.52656429999998,43.4841189,ON,3.0
+SptRBfZ_NGrNKhdKLmqUFw,"4435 Las Vegas Blvd
+Las Vegas, NV 89119",,,,,,,,False,"Korean,Barbeque,Restaurants",Las Vegas,6,Korea House BBQ,,-115.05379486084,36.2412567138672,NV,3.0
+MdOWvWXCPR9mhvZ3AHZOQg,"5030 Spring Mountain Rd
+Westside
+Las Vegas, NV 89146",10:00 - 04:00,10:00 - 04:00,10:00 - 04:00,10:00 - 04:00,10:00 - 04:00,10:00 - 04:00,10:00 - 04:00,True,"Korean,Restaurants",Las Vegas,9,Korean Delicious Restaurant,Westside,-115.22474,36.14201,NV,2.5
 qPrLJ6TibtKZAogClraJNA,"McCarran International Airport
 1198 Sir Patrick Ave
 Southeast
 Las Vegas, NV 89119",,,,,,,,True,"Korean,Asian Fusion,Thai,Restaurants",Las Vegas,71,Pei Wei Asian Diner,Southeast,-115.139022827148,36.0885162353516,NV,2.5
-kdq8IpZHw_ehrZSXLIqcOg,"2 King Street N
-Waterloo, ON N2J 1N9",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,True,"Nightlife,Korean,Bars,Restaurants",Waterloo,13,The Famous Owl Of Minerva Korean Restaurant & Bar,,-80.5222854,43.4653831,ON,3.5
-WQo8LVU-ZjRhTGcqEZ0VZA,"953 E Sahara Ave
+pAtTzUkgS8qtCW5EFTTRbg,"4480 S Paradise Rd
+Ste 1000
 Eastside
-Las Vegas, NV 89109",,,,,,,,True,"Korean,Restaurants",Las Vegas,4,Garden Korean Restaurant,Eastside,-115.1423943,36.1421289,NV,3.0
-SptRBfZ_NGrNKhdKLmqUFw,"4435 Las Vegas Blvd
-Las Vegas, NV 89119",,,,,,,,False,"Korean,Barbeque,Restaurants",Las Vegas,6,Korea House BBQ,,-115.05379486084,36.2412567138672,NV,3.0
-To9FBacgnXPJ4GpJbnMVvA,"4435 Las Vegas Blvd N
-Las Vegas, NV 89115",,,,,,,,False,"Korean,Restaurants",Las Vegas,3,Korea House BBQ,,-115.0538879,36.2409341,NV,3.5
-yS0IzGJDtGKZubmGIbrZIA,"6630 N Durango Dr
-Ste 180
-Centennial
-Las Vegas, NV 89149",11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 22:00,True,"Korean,Sushi Bars,Restaurants",Las Vegas,51,Red Ginseng Narita Sushi & BBQ,Centennial,-115.286736502953,36.2812952069307,NV,3.5
-a7Qk3nMgJNwEzZygfstnyw,"10040 N 43 Ave
-Ste 1K
-Glendale, AZ 85302",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,12:00 - 22:00,12:00 - 21:00,True,"Korean,Barbeque,Restaurants",Glendale,35,Koryo Korean BBQ,,-112.152147369923,33.5781497241086,AZ,3.0
-iUPJmJvHy9fVfRxsuwwdLQ,"4480 Paradise Rd
-Eastside
-Las Vegas, NV 89169",11:30 - 02:00,11:30 - 02:00,11:30 - 02:00,11:30 - 02:00,11:30 - 02:00,11:30 - 02:00,11:30 - 02:00,True,"Korean,Japanese,Barbeque,Restaurants",Las Vegas,82,Gangnam Asian BBQ Dining,Eastside,-115.151261,36.108898,NV,4.0
-buUNo4XhN5TBGT50LqkPHw,"4505 Maryland Pkwy
-University
-Las Vegas, NV 89154",,,,,,,,True,"Korean,Sushi Bars,Japanese,Restaurants",Las Vegas,6,Sushic,University,-115.141935,36.109511,NV,4.0
-lEXDCPsv92dgmIheehwQnQ,"953 E Sahara Ave
-Ste E-33
-Eastside
-Las Vegas, NV 89104",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,15:00 - 22:00,11:00 - 22:00,True,"Food,Do-It-Yourself Food,Korean,Restaurants",Las Vegas,22,Myung Sung,Eastside,-115.1423943,36.1421289,NV,4.0
-BH4ky1-owYRtIKRZ0bw9Rw,"4235 S Fort Apache Rd
-Ste 250
-Spring Valley
-Las Vegas, NV 89147",11:30 - 23:00,11:30 - 23:00,11:30 - 23:00,11:30 - 23:00,11:30 - 23:00,11:30 - 00:00,11:30 - 23:00,True,"Korean,Tapas Bars,Restaurants",Las Vegas,60,K-bop Korean Tapas Restaurant,Spring Valley,-115.297923,36.1122889,NV,4.5
+Las Vegas, NV 89169",,,,,,,,False,"Korean,Barbeque,Restaurants",Las Vegas,8,SanToki Korean BBQ & Shabu Bar,Eastside,-115.152093,36.1088013,NV,2.5
+1PcG-b2oT_qNy_3XjazD2w,"1414 N Scottsdale Rd
+Scottsdale, AZ 85250",,,,,,,,True,"Korean,Restaurants",Scottsdale,12,Korean Restaurant,,-111.9275459,33.4643735,AZ,2.5
+MxTa2R2tSXFRt6UPwmeTdg,"1324 S Rural Rd
+Tempe, AZ 85281",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:30,11:00 - 22:30,11:00 - 22:00,False,"Korean,Japanese,Barbeque,Restaurants",Tempe,3,Ichiban Korean BBQ & Sushi,,-111.9262937,33.4143548,AZ,2.5
+d7lu4pULWjS02FR-bQJLqQ,"6112 W Flamingo Rd
+Las Vegas, NV 89103",07:00 - 22:30,07:00 - 22:30,07:00 - 22:30,07:00 - 22:30,07:00 - 22:30,07:00 - 22:30,07:00 - 16:30,True,"Korean,Asian Fusion,Sushi Bars,Restaurants",Las Vegas,19,Sandai Sushi,,-115.2252203,36.1146152,NV,2.5
 6x5yOyKHuC0aDw3u2mFKyw,"3400 E Sky Harbor Blvd
 Phoenix, AZ 85034",,,,,,,,True,"Korean,Asian Fusion,Japanese,Restaurants",Phoenix,12,Pei Wei Asian Diner,,-112.0069893,33.4354634,AZ,2.0
-MdOWvWXCPR9mhvZ3AHZOQg,"5030 Spring Mountain Rd
-Westside
-Las Vegas, NV 89146",10:00 - 04:00,10:00 - 04:00,10:00 - 04:00,10:00 - 04:00,10:00 - 04:00,10:00 - 04:00,10:00 - 04:00,True,"Korean,Restaurants",Las Vegas,9,Korean Delicious Restaurant,Westside,-115.22474,36.14201,NV,2.5
-2pUJ5kwZRZNHDrrHTBrWMw,"8560 W Desert Inn Rd
-Ste D-3
-Westside
-Las Vegas, NV 89117",16:00 - 23:00,16:00 - 23:00,16:00 - 23:00,16:00 - 23:00,16:00 - 00:00,16:00 - 00:00,,False,"Nightlife,Korean,Bars,Restaurants",Las Vegas,24,9 on the Plate,Westside,-115.2778306,36.1297417,NV,4.0
-rwn5on1IU1tjkfsOU1-9gg,"3400 S Jones Blvd
-Ste 12
-Chinatown
-Las Vegas, NV 89146",17:00 - 03:00,17:00 - 03:00,17:00 - 03:00,17:00 - 03:00,17:00 - 04:00,17:00 - 04:00,17:00 - 03:00,True,"Korean,Chicken Wings,Barbeque,Restaurants",Las Vegas,29,Q Bistro,Chinatown,-115.2248077,36.1277487,NV,4.5
-kFgZU_gT1TvaPSCkYyf1Sg,"22 Brougham Place
-Tollcross
-Edinburgh EH3 9JU",,,,,,,,True,"Korean,Restaurants",Edinburgh,11,Ong Gie,"Tollcross,The Meadows",-3.2017491,55.9427266,EDH,3.0
-cwrf67GWlXnwNDEY0iiTgw,"117 E Mifflin St
-Capitol
-Madison, WI 53703",11:30 - 14:00,11:30 - 14:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,11:30 - 14:00,,True,"Korean,Restaurants",Madison,42,Sol's On the Square,Capitol,-89.383313,43.076622,WI,3.5
-ki993w9EiPyzCCeqHVHsrA,"6850 Spring Mt Rd
-Chinatown
-Las Vegas, NV 89146",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,True,"Korean,Hawaiian,Restaurants",Las Vegas,17,Mi Ga,Chinatown,-115.241736,36.127269,NV,4.0
-FX3skXQE-HwP_Cpss_nWdQ,"6850 Spring Mountain Rd
-Ste F-6
-Chinatown
-Las Vegas, NV 89146",,,,,,,,False,"Korean,Chicken Wings,Food Court,Restaurants",Las Vegas,11,Han's Chicken,Chinatown,-115.2416392,36.1269391,NV,3.5
-PhHstMh3akn1hdPmdU2bCA,"4155 S Buffalo Dr
-Ste 103 and 104
-Spring Valley
-Las Vegas, NV 89147",,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 20:00,True,"Korean,Asian Fusion,Mexican,Restaurants",Las Vegas,106,KoMex Fusion,Spring Valley,-115.261817567562,36.113039760533,NV,4.0
-cKfp8Wz0321KV5BYEiknlg,"6850 Spring Mountain Rd
-Ste F-6
-Chinatown
-Las Vegas, NV 89146",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,True,"Korean,Restaurants",Las Vegas,4,Woori House,Chinatown,-115.241660657754,36.1263064927293,NV,4.5
--ibQywC1gy8_NdcDIKh9GQ,"113 Buccleuch Street
-Newington
-Edinburgh EH8 9NG",,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,,True,"Korean,Japanese,Restaurants",Edinburgh,4,Cafe Andamiro,Newington,-3.1838281,55.941933,EDH,4.0
-iv_RS3cUZpnoT-PnSTlIAQ,"6850 Spring Mountain Rd
-Chinatown
-Las Vegas, NV 89146",,,,,,,,True,"Korean,Restaurants",Las Vegas,4,Red Gate Wok,Chinatown,-115.241679446621,36.1263808965343,NV,4.5
-GvG0AuOhjbME0nUXMwVCjA,"2095 N Dobson Rd
-Chandler, AZ 85224",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,15:00 - 21:00,True,"Korean,Sushi Bars,Restaurants",Chandler,24,GOGI,,-111.875935792923,33.3372575073559,AZ,4.0
-aplrc7fN1tCcBUo8Vt_1zQ,"6000 W Spring Mountain Rd
-Ste 1B
-Chinatown
-Las Vegas, NV 89146",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,08:00 - 15:00,True,"Korean,Hot Dogs,Restaurants",Las Vegas,28,Buldogis Cafe,Chinatown,-115.2234859,36.1255279,NV,4.5
-bnWEP4mB1npXjgVNa5-9Ug,"396 King Street N
-Waterloo, ON N2J 2Z3",,,,,,,,True,"Korean,Barbeque,Restaurants",Waterloo,11,Busan Korean BBQ,,-80.5265643,43.4841189,ON,3.0
--r_4cKz_A8tj_SkiOL50yQ,"6350 W Charleston Blvd
-Ste 120
-Westside
-Las Vegas, NV 89146",17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 02:00,17:00 - 02:00,,True,"Korean,Asian Fusion,Tapas Bars,Restaurants",Las Vegas,22,Moko Tapas Bar,Westside,-115.232528679236,36.1595152511225,NV,5.0
+XvQDPOu2oTdNPx8kiiTYow,"742 E Glendale Ave
+Phoenix, AZ 85020",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 22:00,10:30 - 22:00,10:30 - 21:00,True,"Korean,Asian Fusion,Japanese,Restaurants",Phoenix,6,Pei Wei Asian Diner,,-112.063942,33.53876,AZ,2.0
+V3P4YnU1x9OttGfY-VfmOA,"1324 S Rural Rd
+Tempe, AZ 85281",,,,,,,,False,"Korean,Restaurants",Tempe,10,Seoul Garden,,-111.9262735,33.413096100000004,AZ,2.0
+YqeK6ARj8ojseNCIYdg5WQ,"953 E Sahara Ave
+Ste E28
+Downtown
+Las Vegas, NV 89104",,,,,,,,True,"Korean,Restaurants",Las Vegas,3,Seoul Korean Bar B Q Restaurant,Downtown,-115.14252240000002,36.1439448,NV,1.5

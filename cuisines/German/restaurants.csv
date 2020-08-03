@@ -1,57 +1,57 @@
 business_id,full_address,mon_hours,tue_hours,wed_hours,thu_hours,fri_hours,sat_hours,sun_hours,open,categories,city,review_count,name,neighborhoods,longitude,latitude,state,stars
 Ms5LIdGyj51F2xn53JsOLQ,"1110 E Lake Mead Blvd
 North Las Vegas, NV 89030",,18:30 - 22:00,,16:00 - 21:00,16:00 - 21:00,16:00 - 23:00,,True,"German,Arts & Entertainment,Restaurants,Social Clubs",North Las Vegas,4,German-American Social Club of Nevada,,-115.126747,36.196154,NV,4.5
+bsurBnPwOHcz8ATxzgxcEA,"2237 N Rampart Blvd
+Summerlin
+Las Vegas, NV 89134",07:30 - 17:30,07:30 - 17:30,07:30 - 17:30,07:30 - 17:30,07:30 - 17:30,07:00 - 16:00,,True,"Bakeries,Food,German,Restaurants",Las Vegas,73,German Bread Bakery,Summerlin,-115.2816937,36.2006526,NV,4.5
+Ah5sMocfo1FTk6vekMLM6g,"10890 S Eastern
+Anthem
+Henderson, NV 89052",,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,11:00 - 21:00,True,"German,Restaurants",Henderson,6,Bavarian Castle,Anthem,-115.100014,35.99528220000001,NV,4.5
+0SGgz8jHkSCcxcYOXOAkLw,"9814 W Peoria Ave
+Peoria, AZ 85345",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 21:00,10:00 - 21:00,,,False,"Bakeries,Food,German,Restaurants",Peoria,4,Der Kaffee Kuchen,,-112.2704165,33.5803756,AZ,4.5
+C185HewDKhT0s6JmFFFqcg,"4850 W Sunset Rd
+Las Vegas, NV 89118",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,16:00 - 21:00,16:00 - 21:00,True,"German,Cafes,Restaurants",Las Vegas,155,Café Berlin,,-115.207142829895,36.072446989297205,NV,4.0
+Iy0ODOuWkzdwv_Y4xxNmgA,"164 Victoria Street N
+Kitchener, ON N2H 5C6",11:00 - 20:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 21:00,16:00 - 20:00,True,"German,Czech,Slovakian,Restaurants",Kitchener,8,Metro Restaurant,,-80.49113100000002,43.4558048,ON,4.0
+zOCdVUKUN3b-obT67Qjyww,"5739 W Glendale Ave
+Glendale, AZ 85301",16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,21:00 - 00:00,12:00 - 21:00,21:00 - 00:00,20:00 - 00:00,True,"German,Restaurants",Glendale,260,Haus Murphy's,,-112.18271680176301,33.538497090339696,AZ,4.0
+ask-mVRByAVOrHAgGxySoA,"12535 W Bell Rd
+Surprise, AZ 85374",,,,,,,,False,"German,Restaurants",Surprise,17,Bayrischer Hof New German Restaurant,,-112.331276,33.6385213,AZ,4.0
+qKveGgmo0xRqNVf60ww3_g,"185 Bruntsfield Place
+Bruntsfield
+Edinburgh EH10 4DG",,,09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,10:30 - 18:00,True,"Bakeries,Food,Coffee & Tea,German,Restaurants",Edinburgh,56,Falko Konditormeister,Bruntsfield,-3.2095683,55.9357223,EDH,4.0
+IblEAPlN6dfkJb1pvgRrJg,"5117 W Charleston Blvd
+Westside
+Las Vegas, NV 89146",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 20:00,12:00 - 20:00,False,"German,American (Traditional),Restaurants",Las Vegas,29,Dita's,Westside,-115.208633422852,36.158699035644496,NV,4.0
+PWG28q4JFOc8FiRBjnfCkA,"3622 N Scottsdale Rd
+Scottsdale, AZ 85251",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 00:00,10:00 - 00:00,10:00 - 22:00,True,"German,Pubs,Bars,Nightlife,Restaurants",Scottsdale,320,Brat Haus,,-111.926443,33.490031,AZ,4.0
+iQJ7bvH3aA0H4Re03XkWRw,"429 Ottawa St S
+Kitchener, ON N2M 3P6",,,,,,,,True,"German,Event Planning & Services,Venues & Event Spaces,Restaurants",Kitchener,11,Concordia Club,,-80.47942459999999,43.4315202,ON,4.0
+GzWiVvE6JDdBNowNVshItA,"4815 E Main St
+Ste 16
+Mesa, AZ 85205",16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,True,"German,Restaurants",Mesa,72,Zur Kate,,-111.726882,33.4149445,AZ,4.0
 6S8VwQ22xdj7rOX00SceJg,"610 E Sahara Ave
 Ste 2
 Downtown
 Las Vegas, NV 89104",17:00 - 20:00,17:00 - 20:00,17:00 - 20:00,17:00 - 20:00,17:00 - 20:00,17:00 - 20:00,17:00 - 20:00,False,"German,Delis,Restaurants",Las Vegas,42,Cafe Heidelberg German Market & Restaurant,Downtown,-115.1464168,36.1439863,NV,3.5
-Ih1TGSZyu2Q8htn2JA4tIA,"4815 E Main St
-Ste 32
-Mesa, AZ 85205",,,,,,,,True,"German,Restaurants",Mesa,51,Bavarian Point Restaurant,,-111.726788,33.415073,AZ,3.5
-GzWiVvE6JDdBNowNVshItA,"4815 E Main St
-Ste 16
-Mesa, AZ 85205",16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,True,"German,Restaurants",Mesa,72,Zur Kate,,-111.726882,33.4149445,AZ,4.0
-0SGgz8jHkSCcxcYOXOAkLw,"9814 W Peoria Ave
-Peoria, AZ 85345",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 21:00,10:00 - 21:00,,,False,"Bakeries,Food,German,Restaurants",Peoria,4,Der Kaffee Kuchen,,-112.2704165,33.5803756,AZ,4.5
 K-_erZm_YNzg0Ahzcdx0TQ,"3175 E Tropicana Ave
 Ste B
 Eastside
 Las Vegas, NV 89121",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,17:00 - 22:00,,False,"German,Italian,French,Restaurants",Las Vegas,3,Swiss Cafe Restaurant,"Eastside,Southeast",-115.1060721,36.0998468,NV,3.5
-gTsg3Nj8pKvsmVz3dbLfiA,"514 E Wilson St
-Capitol
-Madison, WI 53703",,16:00 - 00:00,16:00 - 00:30,16:00 - 02:00,16:00 - 02:30,16:00 - 02:30,16:00 - 00:00,True,"German,Bars,Nightlife,Restaurants",Madison,119,Essen Haus,Capitol,-89.376534,43.07624,WI,3.5
+I_N5b-CA6j0TFMpy1xYKdQ,"4900 E Indian School Rd
+Phoenix, AZ 85018",,,,,,,,False,"German,Restaurants",Phoenix,37,Black Forest Mill,,-111.975898,33.495018,AZ,3.5
+Ih1TGSZyu2Q8htn2JA4tIA,"4815 E Main St
+Ste 32
+Mesa, AZ 85205",,,,,,,,True,"German,Restaurants",Mesa,51,Bavarian Point Restaurant,,-111.72678799999998,33.415073,AZ,3.5
 ES-j5yNTgmgbL4He0h6otA,"4510 Paradise Rd
 Eastside
 Las Vegas, NV 89109",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 00:00,11:00 - 00:00,11:00 - 23:00,True,"German,Bars,Nightlife,Restaurants",Las Vegas,772,Hofbräuhaus,Eastside,-115.1518374,36.1078048,NV,3.5
-zOCdVUKUN3b-obT67Qjyww,"5739 W Glendale Ave
-Glendale, AZ 85301",16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,21:00 - 00:00,12:00 - 21:00,21:00 - 00:00,20:00 - 00:00,True,"German,Restaurants",Glendale,260,Haus Murphy's,,-112.182716801763,33.5384970903397,AZ,4.0
-I_N5b-CA6j0TFMpy1xYKdQ,"4900 E Indian School Rd
-Phoenix, AZ 85018",,,,,,,,False,"German,Restaurants",Phoenix,37,Black Forest Mill,,-111.975898,33.495018,AZ,3.5
-Iy0ODOuWkzdwv_Y4xxNmgA,"164 Victoria Street N
-Kitchener, ON N2H 5C6",11:00 - 20:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 21:00,16:00 - 20:00,True,"German,Czech,Slovakian,Restaurants",Kitchener,8,Metro Restaurant,,-80.491131,43.4558048,ON,4.0
-iQJ7bvH3aA0H4Re03XkWRw,"429 Ottawa St S
-Kitchener, ON N2M 3P6",,,,,,,,True,"German,Event Planning & Services,Venues & Event Spaces,Restaurants",Kitchener,11,Concordia Club,,-80.4794246,43.4315202,ON,4.0
-qKveGgmo0xRqNVf60ww3_g,"185 Bruntsfield Place
-Bruntsfield
-Edinburgh EH10 4DG",,,09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,09:00 - 18:00,10:30 - 18:00,True,"Bakeries,Food,Coffee & Tea,German,Restaurants",Edinburgh,56,Falko Konditormeister,Bruntsfield,-3.2095683,55.9357223,EDH,4.0
-ask-mVRByAVOrHAgGxySoA,"12535 W Bell Rd
-Surprise, AZ 85374",,,,,,,,False,"German,Restaurants",Surprise,17,Bayrischer Hof New German Restaurant,,-112.331276,33.6385213,AZ,4.0
-bsurBnPwOHcz8ATxzgxcEA,"2237 N Rampart Blvd
-Summerlin
-Las Vegas, NV 89134",07:30 - 17:30,07:30 - 17:30,07:30 - 17:30,07:30 - 17:30,07:30 - 17:30,07:00 - 16:00,,True,"Bakeries,Food,German,Restaurants",Las Vegas,73,German Bread Bakery,Summerlin,-115.2816937,36.2006526,NV,4.5
-C185HewDKhT0s6JmFFFqcg,"4850 W Sunset Rd
-Las Vegas, NV 89118",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,16:00 - 21:00,16:00 - 21:00,True,"German,Cafes,Restaurants",Las Vegas,155,Café Berlin,,-115.207142829895,36.0724469892972,NV,4.0
-IblEAPlN6dfkJb1pvgRrJg,"5117 W Charleston Blvd
-Westside
-Las Vegas, NV 89146",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 20:00,12:00 - 20:00,False,"German,American (Traditional),Restaurants",Las Vegas,29,Dita's,Westside,-115.208633422852,36.1586990356445,NV,4.0
-PWG28q4JFOc8FiRBjnfCkA,"3622 N Scottsdale Rd
-Scottsdale, AZ 85251",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 00:00,10:00 - 00:00,10:00 - 22:00,True,"German,Pubs,Bars,Nightlife,Restaurants",Scottsdale,320,Brat Haus,,-111.926443,33.490031,AZ,4.0
+gTsg3Nj8pKvsmVz3dbLfiA,"514 E Wilson St
+Capitol
+Madison, WI 53703",,16:00 - 00:00,16:00 - 00:30,16:00 - 02:00,16:00 - 02:30,16:00 - 02:30,16:00 - 00:00,True,"German,Bars,Nightlife,Restaurants",Madison,119,Essen Haus,Capitol,-89.37653399999998,43.07624000000001,WI,3.5
 A6Jk6xKV3fk-eYSvrZUzww,"9400 S Eastern Ave
 Ste 106A
 Southeast
 Henderson, NV 89123",11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,False,"German,Sandwiches,Restaurants",Henderson,10,The Berliner,Southeast,-115.118583679199,36.0180702209473,NV,3.5
 s3NM3Lgh6ZHvY5sN9f-WBg,"37645 N Cave Creek Rd
 Cave Creek, AZ 85331",,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,11:00 - 21:00,False,"German,Greek,Italian,Restaurants",Cave Creek,14,Heavens Kaffee World Cuisine,,-111.954744458199,33.8274273433727,AZ,3.5
-Ah5sMocfo1FTk6vekMLM6g,"10890 S Eastern
-Anthem
-Henderson, NV 89052",,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,11:00 - 21:00,True,"German,Restaurants",Henderson,6,Bavarian Castle,Anthem,-115.100014,35.9952822,NV,4.5

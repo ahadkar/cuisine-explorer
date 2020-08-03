@@ -13,6 +13,9 @@ def main():
 	parser.add_argument('--reviews', action='store_true')
 	parser.add_argument('--similarity', action='store_true')
 	parser.add_argument('--sentiment', action='store_true')
+	parser.add_argument('--sort_reviews', action='store_true')
+	parser.add_argument('--sort_restaurants', action='store_true')
+	parser.add_argument('--ratings_over_time', action='store_true')
 	parser.add_argument('--all', action='store_true')
 	
 	args = parser.parse_args()
@@ -27,6 +30,12 @@ def main():
 		reviews.similarity()
 	elif args.sentiment:
 		reviews.sentiment()
+	elif args.sort_reviews:
+		reviews.sort()
+	elif args.sort_restaurants:
+		restaurants.sort()
+	elif args.ratings_over_time:
+		reviews.ratings_over_time()
 	elif args.all:
 		cuisines.create_filesystem()
 		restaurants.restaurants()

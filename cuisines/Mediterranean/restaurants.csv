@@ -1,821 +1,821 @@
-business_id,full_address,mon_hours,tue_hours,wed_hours,thu_hours,fri_hours,sat_hours,sun_hours,open,categories,city,city,name,neighborhoods,longitude,latitude,state,stars
-Ryq600aoE3h8_qRQGIed9A,"2810 E Washington Ave
-Eken Park
-Madison, WI 53704",07:00 - 20:00,06:00 - 20:00,07:00 - 20:00,06:00 - 20:00,06:00 - 20:00,07:00 - 20:00,06:00 - 19:30,TRUE,"Bakeries,Lebanese,Food,Mediterranean,Middle Eastern,Restaurants",Madison,40,People's Bakery,Eken Park,-89.345949,43.102942,WI,4
-IceZ4BtTz76eppjNWm-c6A,"1030 NW Grand Ave
-Phoenix, AZ 85007",06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 00:00,09:00 - 00:00,10:00 - 15:00,FALSE,"Greek,Mediterranean,Restaurants",Phoenix,60,Paisley Violin,,-112.086757,33.4549264,AZ,3.5
-trAvQPp7gps0Btk-2AmLpw,"521 W McDowell
-Phoenix, AZ 85003",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,TRUE,"Mediterranean,Greek,Southern,Restaurants",Phoenix,109,Zoes Kitchen,,-112.081565,33.465499,AZ,3.5
-odhXwWaYZvD_icIN6f_DbA,"814 N Central Ave
-Phoenix, AZ 85004",07:30 - 17:00,07:30 - 17:00,07:30 - 17:00,07:30 - 17:00,07:30 - 17:00,08:00 - 16:00,,TRUE,"Greek,Mediterranean,Sandwiches,Restaurants",Phoenix,75,Athenian Express,,-112.0740241,33.4574932,AZ,3.5
-FltN1Hnw4n7BORXJH1kaeg,"1588 E Bethany Home Rd
-Phoenix, AZ 85014",,,,,,,,FALSE,"Greek,Mediterranean,Middle Eastern,Restaurants",Phoenix,8,Mediterranean House,,-112.0479298,33.5237171,AZ,4
-t54zAs7IftAVb9SKcCRotw,"3015 E Thomas Rd
-Phoenix, AZ 85016",,,,,,,,FALSE,"Greek,Mediterranean,Restaurants",Phoenix,34,Bacchanal Ristorante,,-112.016481,33.479605,AZ,4
-KLaxBc83JnxyGf7GP7enYA,"1940 E Camelback Rd
-Phoenix, AZ 85016",,,,,,,,TRUE,"Greek,Mediterranean,Restaurants",Phoenix,49,Greekfest Restaurant,,-112.0394,33.510225,AZ,3.5
-Rg3INE2p4zQYvfMvJduEOQ,"4747 N 20th St
-Phoenix, AZ 85016",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,TRUE,"Greek,Mediterranean,Restaurants",Phoenix,118,Cyprus Grill of Phoenix,,-112.0388617,33.5062577,AZ,4
-cvb__rYMkj4BMhC3p_FB3Q,"4041 E Thomas Rd
-Ste 107
-Phoenix, AZ 85018",,,,,,,,FALSE,"Greek,Mediterranean,Restaurants",Phoenix,14,Olympic Flame,,-111.994039,33.479852,AZ,4
-MPziC5MO2QQiYVAMM3fdSw,"4231 E Indian School Rd
-Phoenix, AZ 85018",16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,FALSE,"Restaurants,Mediterranean,Italian",Phoenix,56,La Fontanella Restaurant,,-111.98959,33.4949597,AZ,3.5
-3Zsjlum5kl5N5KV712aTMQ,"11111 N 7th St
-Phoenix, AZ 85020",18:00 - 21:30,18:00 - 21:30,18:00 - 21:30,18:00 - 21:30,18:00 - 22:00,18:00 - 22:00,18:00 - 21:30,TRUE,"Italian,American (Traditional),Mediterranean,Restaurants",Phoenix,189,Different Pointe of View,,-112.064668,33.59547,AZ,4
-qXQ3ZBdwI3GlbR5-eYWqNA,"4747 E Bell Rd
-Phoenix, AZ 85032",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,,TRUE,"Greek,Mediterranean,Restaurants",Phoenix,102,Saba's Mediterranean Cuisine,,-112.00303,33.62121,AZ,4
-nBrD6TxddhHx4FhMk32JvQ,"10826 S 48th St
-Phoenix, AZ 85044",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,,TRUE,"Greek,Mediterranean,Restaurants",Phoenix,101,Niro's Gyros,,-111.9803928,33.3482841,AZ,4
-_HAYDjkPJVabBXyvx-u9YQ,"7000 E Mayo Blvd
-Phoenix, AZ 85054",,,,,,,,TRUE,"Greek,Mediterranean,Restaurants",Phoenix,28,Extreme Pita,,-111.9299197,33.6554989,AZ,4
-4rr-CJp0jMKr-kg9wnrTdw,"2620 W Broadway Rd
-Mesa, AZ 85202",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,11:00 - 19:00,TRUE,"Middle Eastern,Lebanese,Mediterranean,Arabian,Restaurants",Mesa,76,Princess Mediterranean Market & Deli,,-111.887898,33.407997,AZ,4.5
-1Duul3qCnLrNak1Np-iHfw,"1949 W Ray Rd
-Chandler, AZ 85224",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,TRUE,"Vegetarian,American (New),Mediterranean,Restaurants",Chandler,228,Pita Jungle,,-111.874339,33.319062,AZ,4
-FjQWjXvFCdrgdU3Rgi3b3w,"7132 E Becker Ln
-Scottsdale, AZ 85254",,,,,,,,TRUE,"Greek,Mediterranean,Restaurants",Scottsdale,48,Gyros Express,,-111.926732,33.583142,AZ,4
-KAKyy-8lKrPEzvtZJM1PGQ,"16758 E Glenbrook Blvd
-Fountain Hills, AZ 85268",,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,,FALSE,"Greek,Mediterranean,Restaurants",Fountain Hills,12,Jimmy's Krazy Greek Restaurant,,-111.7184703,33.6246091,AZ,4
-vN4mFODLd-gLmDg261wsyw,"12645 N Saguaro Blvd
-Ste 11
-Fountain Hills, AZ 85268",08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,TRUE,"Pizza,Mediterranean,Restaurants",Fountain Hills,49,Euro Pizza Cafe,,-111.7163108,33.6005624,AZ,3.5
-Aicnm12Zped8nQFXyRRFvw,"3332 S Mill Ave
-Tempe, AZ 85282",,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,,TRUE,"Mediterranean,Greek,Middle Eastern,Restaurants",Tempe,65,Byblos Restaurant,,-111.940663,33.392538,AZ,4
-3CXIK5KjXAPf90pZY_aazA,"5023 W Olive Ave
-Glendale, AZ 85302",,,,,,,,FALSE,"Greek,Persian/Iranian,Mediterranean,Restaurants",Glendale,17,Shish Kebab House,,-112.1707057,33.5675046,AZ,3.5
-SkcccvAydbt5zlQI0EUL2g,"7369 W Bell Rd
-Peoria, AZ 85382",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 21:00,11:00 - 21:00,11:00 - 19:00,TRUE,"Greek,Mediterranean,Restaurants",Peoria,184,Greek Wraps,,-112.217436,33.637659,AZ,4.5
-LsUJZOMKl4QpWbVCV2nVqQ,"1300 W Sunset Rd
-Henderson, NV 89014",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,11:00 - 18:00,TRUE,"Greek,Mediterranean,Restaurants",Henderson,68,Kyklos Greek Cafe,,-115.045078,36.068241,NV,4
-ky6c1bhp1695tWLfnyKOyQ,"9550 S Eastern Ave
-Southeast
-Las Vegas, NV 89123",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 20:00,TRUE,"Mediterranean,Persian/Iranian,Middle Eastern,Restaurants",Las Vegas,79,Kabob Grill,Southeast,-115.117581,36.0146584,NV,4
-ivi5jHjmf2uV8faGJ9Rfig,"1910 Village Center Cir
-Ste 7
-Summerlin
-Las Vegas, NV 89134",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,11:00 - 21:00,12:00 - 20:00,TRUE,"Mediterranean,Restaurants",Las Vegas,48,Sultan's Grill,Summerlin,-115.3055866,36.1929381,NV,3
-3YLo7L0_1_Hy9SIuDrDceg,"5239 W Charleston Blvd
-Westside
-Las Vegas, NV 89146",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,,TRUE,"Greek,Mediterranean,Restaurants",Las Vegas,31,Gyro Time Restaurant,Westside,-115.2125455,36.1589411,NV,3.5
-Y-owGVK9wY-kZYPwG30nZw,"225 S Century Ave
-Waunakee, WI 53597",,,,,,,,TRUE,"Mediterranean,Diners,Restaurants",Waunakee,7,Spring Garden Restaurant,,-89.4617535,43.1900279,WI,3.5
-OXLegbUo6HA3DN3lBFTsUg,"316 State St
-Capitol
-Madison, WI 53703",11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,TRUE,"Greek,Mediterranean,Restaurants",Madison,81,Parthenon Gyros Restaurant,Capitol,-89.3906223,43.0749048,WI,3.5
-ed5VpqG6NlI2_ALQpZ0lLA,"625 State St
-Capitol
-Madison, WI 53703",10:00 - 16:00,10:00 - 16:00,10:00 - 16:00,10:00 - 16:00,10:00 - 16:00,10:00 - 16:00,,TRUE,"Greek,Mediterranean,Restaurants",Madison,101,Mediterranean Cafe,Capitol,-89.3964056,43.0748824,WI,4.5
-Dn5JUcOKejakeuUwMlSR5Q,"119 E Main St
-Capitol
-Madison, WI 53703",,,,,,,,FALSE,"Middle Eastern,Mediterranean,Moroccan,Restaurants",Madison,18,Casbah Restaurant,Capitol,-89.3811811,43.0750283,WI,3.5
-H-e74SghEFfIz_TdUS_2KQ,"453 W Gilman St
-Capitol
-Madison, WI 53703",,,,,,,,FALSE,"Falafel,Mediterranean,Restaurants",Madison,9,King of Falafel,Capitol,-89.3950302,43.0736042,WI,4
-nbpY3tbPrAksoqOrYwlx7Q,"547 State St
-Capitol
-Madison, WI 53703",09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 23:00,09:00 - 23:00,09:00 - 22:00,FALSE,"Restaurants,Mediterranean,Turkish",Madison,68,Husnu's,Capitol,-89.3952452,43.0748682,WI,3.5
-yH6iIl_4jzNF44L3HUZ3AQ,"558 State St
-Capitol
-Madison, WI 53703",,,,,,,,FALSE,"Greek,Mediterranean,Mexican,Restaurants",Madison,4,Saz,Capitol,-89.394958,43.075141,WI,4
-0pXk2JkijBpi2Iz0D5pFXA,"541 State St
-Capitol
-Madison, WI 53703",,,,,,,,FALSE,"Afghan,Mediterranean,Restaurants",Madison,92,Kabul Restaurant,Capitol,-89.3951624,43.0748598,WI,3.5
-_z9UrC5hCTBK1JIgQD0YDw,"232 State St
-Capitol
-Madison, WI 53703",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:30,10:30 - 22:30,10:30 - 22:00,TRUE,"American (New),Mediterranean,Restaurants",Madison,34,Noodles & Company,Capitol,-89.3893921,43.0747807,WI,3.5
-TqR8kAPQ-2Np8RAaL_aspA,"5510 University Ave
-Spring Harbor
-Madison, WI 53705",,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,FALSE,"Middle Eastern,Mediterranean,Restaurants",Madison,54,Shish Cafe Inc,Spring Harbor,-89.4757133,43.0830865,WI,4
-omWFwLRqI3VTcM46L8-qaA,"3600 University Ave
-Madison, WI 53705",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,TRUE,"American (New),Mediterranean,Restaurants",Madison,6,Noodles & Company,,-89.4492329,43.07567412,WI,3
-dOo_jUaYeHC4b6bgOytinw,"6405 Mineral Point Rd
-Madison, WI 53705",,15:30 - 21:00,15:30 - 21:00,15:30 - 22:00,15:30 - 23:00,16:30 - 23:00,,TRUE,"Mediterranean,Restaurants",Madison,39,Otto's Restaurant & Bar,,-89.4904169,43.060101,WI,4
-OwZGnPRa4ey7uVtmtkgOxw,"1851 Monroe St
-Vilas
-Madison, WI 53711",17:00 - 21:00,11:00 - 15:00,11:00 - 15:00,17:00 - 21:00,11:00 - 22:00,11:00 - 22:00,09:00 - 14:00,FALSE,"Mediterranean,Restaurants",Madison,8,The Dardanelles,Vilas,-89.416916,43.064708,WI,2.5
-7NMvQUStQYd0ArBNnqAWtg,"2969 Cahill Main
-Fitchburg, WI 53711",16:00 - 19:00,16:00 - 19:00,16:00 - 19:00,16:00 - 19:00,16:00 - 19:00,16:00 - 19:00,,TRUE,"Mediterranean,Restaurants",Fitchburg,12,Tuscany Mediterranean Grill,,-89.4232997,43.0165531,WI,3
-BNOFxq6AAXamgLw_tzbe7Q,"16 W Adams St
-Phoenix, AZ 85003",,,,,,,,TRUE,"Burgers,Hot Dogs,Mediterranean,Restaurants",Phoenix,25,Coney Island Grill,,-112.0742949,33.4494411,AZ,3.5
-VGhMTZyqmGmM4Lrn9i6yuQ,"1335 W Thomas Rd
-Phoenix, AZ 85013",11:00 - 15:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,,TRUE,"Vegetarian,Persian/Iranian,Mediterranean,Restaurants",Phoenix,48,Persian Garden Cafe,,-112.0906922,33.4802751,AZ,4
-0dIChGWBs9ueUXl0hhkw2w,"4041 N 15th Ave
-Phoenix, AZ 85015",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,13:00 - 19:00,TRUE,"Greek,Mediterranean,Sandwiches,Restaurants",Phoenix,108,Crazy Jim's,,-112.0910715,33.4943622,AZ,4
-K28O8R76bJFUt57ScN46Mw,"2340 W Northern Ave
-Phoenix, AZ 85021",,,,,,,,TRUE,"Greek,Mediterranean,Restaurants",Phoenix,16,Athen's Gyros & Pasta,,-112.1089428,33.5531186,AZ,3.5
-2to5b5taseO9zZ9tnQqhlw,"1810 W Northern Ave
-Phoenix, AZ 85021",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,,TRUE,"Greek,Mediterranean,Restaurants",Phoenix,32,Gyro's House,,-112.098337,33.553457,AZ,4
-3VKJ7cWSH38QKgCrYlG3Mg,"7126 N 35th Ave
-Phoenix, AZ 85051",,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,TRUE,"Greek,Mediterranean,Restaurants",Phoenix,52,The Golden Greek,,-112.1343372,33.5415109,AZ,4
-LxNehlnStQY_rxEwiPof_g,"4243 W Thunderbird Rd
-Phoenix, AZ 85053",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 19:30,,TRUE,"Greek,Mediterranean,Restaurants",Phoenix,88,King Gyros,,-112.1500691,33.6106434,AZ,4.5
-fWnGkLnZzv2yl3fB7xF40g,"17040 N Scottsdale Rd
-Scottsdale, AZ 85255",11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 22:30,11:00 - 22:30,11:00 - 21:30,TRUE,"Mediterranean,Persian/Iranian,Middle Eastern,Restaurants",Scottsdale,273,Persian Room,,-111.9257091,33.641182,AZ,4
-Dh-jKrXlivowMGDtfD_gug,"222 East University Dr
-Tempe, AZ 85281",11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,12:00 - 03:00,FALSE,"Mediterranean,Sandwiches,Restaurants",Tempe,25,The Pita Pit,,-111.935883,33.422318,AZ,3
-eGevCRobYnA_HSj60sEWvQ,"1250 E. Apache Blvd.
-Tempe, AZ 85281",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,TRUE,"Vegetarian,American (New),Mediterranean,Restaurants",Tempe,323,Pita Jungle,,-111.9185086,33.4153291,AZ,4
-eg4nd09goZ8opkthsKgn5Q,"1125 E Apache Blvd
-Tempe, AZ 85281",16:00 - 02:00,16:00 - 02:00,16:00 - 02:00,16:00 - 02:00,16:00 - 04:00,16:00 - 04:00,16:00 - 02:00,TRUE,"Mediterranean,Middle Eastern,Restaurants",Tempe,28,King Tut Cafe & Catering,,-111.921157,33.414417,AZ,4
-XBm9ffI2pK-A_HcoHXAbcQ,"525 S Mill Ave
-Tempe, AZ 85281",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 00:00,11:00 - 00:00,11:00 - 23:00,TRUE,"Greek,Mediterranean,Restaurants",Tempe,140,My Big Fat Greek Restaurant,,-111.9398454,33.4247786,AZ,3.5
-ll8SKTQKqajLeLi64-93Qw,"4825 W Flamingo Rd
-Las Vegas, NV 89103",,,,,,,,FALSE,"Bakeries,Mediterranean,Middle Eastern,Food,Restaurants",Las Vegas,5,Byblos Cafe & Pastries,,-115.206845,36.114821,NV,4.5
-8Z3jgKCdfp57PvT1AFOWtg,"3900 Paradise Rd
-Ste Y
-Eastside
-Las Vegas, NV 89169",17:30 - 23:00,17:30 - 23:00,17:30 - 23:00,17:30 - 23:00,17:30 - 23:00,17:30 - 23:00,17:30 - 23:00,TRUE,"Mediterranean,Middle Eastern,Moroccan,Restaurants",Las Vegas,209,Marrakech Moroccan Restaurant,Eastside,-115.1542695,36.1186973,NV,4
-1qTt_LcXVJ6b_5OXvnDLTg,"855 E Twain Ave
-Ste 101
-Eastside
-Las Vegas, NV 89169",,,,,,,,TRUE,"Kosher,Mediterranean,Restaurants",Las Vegas,13,Haifa Restaurant,Eastside,-115.14491,36.121559,NV,2.5
-8lLkZOfXbSMumZC-v08GaA,"8380 W Sahara Ave
-Westside
-Las Vegas, NV 89117",11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,TRUE,"Greek,Mediterranean,Middle Eastern,Restaurants",Las Vegas,252,Paymon's Mediterranean Cafe & Hookah Lounge,Westside,-115.273936,36.144668,NV,3.5
-2l4UTdi_F9zVZ1Kv4Fj-zQ,"7365 W Sahara Ave
-Ste K
-Westside
-Las Vegas, NV 89117",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,12:00 - 20:00,TRUE,"Greek,Lebanese,Mediterranean,Middle Eastern,Restaurants",Las Vegas,101,Hedary's Mediterranean Restaurant,Westside,-115.2536257,36.1430817,NV,4
-y6sNNP97UCSl_p2o5Wm40A,"4147 S Maryland Pkwy
-Eastside
-Las Vegas, NV 89119",11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,TRUE,"Greek,Vegetarian,Mediterranean,Restaurants",Las Vegas,274,Paymon's Mediterranean Cafe & Lounge,"Eastside,University",-115.13823,36.1135943,NV,4
-LsArM1PhbqvXK3lDK-Ch_w,"4632 S Maryland Pkwy
-University
-Las Vegas, NV 89119",10:30 - 19:00,10:30 - 19:00,10:30 - 19:00,10:30 - 19:00,10:30 - 19:00,11:00 - 17:00,00:00 - 20:00,TRUE,"Greek,Mediterranean,Middle Eastern,Restaurants",Las Vegas,202,Stephano's Greek & Mediterranean Grill,University,-115.136178,36.1051599,NV,4
-ns-NxkoIKUJgfZ_WSTzLdw,"7660 W Cheyenne Avenue
-Summerlin
-Las Vegas, NV 89129",,,,,,,,TRUE,"Greek,Mediterranean,Restaurants",Las Vegas,38,Gyro Time Restaurant,"Summerlin,Northwest",-115.2627104,36.2184533,NV,3.5
-OdetLT5gBDPneWZUfyf7_A,"226 State St
-Capitol
-Madison, WI 53703",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 18:30,TRUE,"Greek,Bars,Mediterranean,Nightlife,Restaurants",Madison,48,Nick's Restaurant,Capitol,-89.389178,43.074983,WI,3.5
-KjymOs12Mpy0Kd54b7T9MA,"Bellagio Resort &Casino
-3600 S Las Vegas Blvd
-The Strip
-Las Vegas, NV 89109",11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,TRUE,"Mediterranean,Restaurants",Las Vegas,980,Olives,The Strip,-115.17698,36.111978,NV,4
-EWMwV5V9BxNs_U6nNVMeqw,"3815 N Central Ave
-Phoenix, AZ 85012",11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 01:00,10:00 - 01:00,10:00 - 00:00,TRUE,"Bars,Mediterranean,Nightlife,Lounges,American (New),Restaurants",Phoenix,1046,FEZ,,-112.0734977,33.4916953,AZ,4
-t4pkeGscooStLjy-Js5Byw,"16447 N Scottsdale Rd
-Ste 101
-Scottsdale, AZ 85254",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 20:00,FALSE,"Greek,Mediterranean,Restaurants",Scottsdale,55,Daphne's California Greek,,-111.9240654,33.63566702,AZ,3
-Ez2MFsVT5lJZ05yvK_0AXQ,"7366 E. Shea Blvd.
-Scottsdale, AZ 85260",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,TRUE,"Middle Eastern,Vegetarian,American (New),Mediterranean,Restaurants",Scottsdale,286,Pita Jungle,,-111.9222691,33.5840139,AZ,4
-gBVytpiIYGLB1wce-Dfbxg,"3305 W Chandler Blvd
-Ste 8
-Chandler, AZ 85226",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,11:00 - 23:00,11:00 - 22:00,TRUE,"Greek,Mediterranean,Restaurants",Chandler,108,My Big Fat Greek Restaurant,,-111.8984043,33.3047696,AZ,3.5
-nRO4tRwimU12hg7Cnz__iA,"13843 N Tatum Blvd
-Ste 29
-Phoenix, AZ 85032",11:00 - 20:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 21:00,16:00 - 20:00,TRUE,"Greek,Mediterranean,Restaurants",Phoenix,145,Eden's Grill Inn,,-111.976905,33.612935,AZ,4.5
-u2OC1xmpAyF9R5RiKdbV-g,"207 N Gilbert Rd
-Ste 105
-Gilbert, AZ 85233",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,12:00 - 21:00,TRUE,"Greek,Italian,Mediterranean,Restaurants",Gilbert,128,Romeo's Euro Cafe,,-111.8036,33.3518,AZ,3.5
-ILoDsxtqtLU2oTMaf_laGQ,"4872 W Lone Mountain Rd
-Northwest
-Las Vegas, NV 89130",08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,,TRUE,"Greek,Mediterranean,Restaurants",Las Vegas,164,Baladie Café,Northwest,-115.2091942,36.2467581,NV,4.5
-53YGfwmbW73JhFiemNeyzQ,"7135 E Camelback Rd
-Ste 195
-Scottsdale, AZ 85251",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,10:00 - 23:00,10:00 - 22:00,TRUE,"Breakfast & Brunch,American (New),Mediterranean,Restaurants",Scottsdale,654,Olive & Ivy,,-111.9276185,33.5019817,AZ,4
-7u55OIKwMmnWGnobEEUNvg,"505 S Mill Ave
-Tempe, AZ 85281",,,,,,,,TRUE,"Greek,Mediterranean,Restaurants",Tempe,4,La Pita Bar & Grill,,-111.9398439,33.4252092,AZ,2
-lzS66BeoLL0GRn1KrlmmFg,"7816 N 27th Ave
-Phoenix, AZ 85051",09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,TRUE,"Greek,Mediterranean,Middle Eastern,Restaurants",Phoenix,9,Kabob Palace,,-112.1169966,33.5516353,AZ,4
-7H0nbExftMZlpZDXm0QrBw,"1150 S Gilbert Rd
-Gilbert, AZ 85296",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,TRUE,"Buffets,Mediterranean,Halal,Restaurants",Gilbert,117,Phoenicia,,-111.7903,33.329291,AZ,4
-niPFXq4r2mc0zFlOpWV3Eg,"4218 N Scottsdale Rd
-Scottsdale, AZ 85250",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 00:00,11:00 - 00:00,11:00 - 22:00,FALSE,"Greek,Mediterranean,Restaurants",Scottsdale,55,My Big Fat Greek Restaurant,,-111.9262954,33.4974247,AZ,3.5
-n_d7HDsTdLc9IWwuPHBNlg,"4001 S Decatur Blvd
-Ste 34
-Las Vegas, NV 89103",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 21:00,13:00 - 20:00,TRUE,"Greek,Mediterranean,Restaurants",Las Vegas,166,The Fat Greek,,-115.209289,36.117196,NV,4
-3W59npo0X8utnGYLxl8GvA,"2550 S Rainbow Blvd
-Ste W1
-Westside
-Las Vegas, NV 89146",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 01:00,11:00 - 02:00,11:00 - 22:00,FALSE,"Greek,Mediterranean,Restaurants",Las Vegas,63,Opa Restaurant,Westside,-115.242469,36.14294,NV,3.5
-TQhP4vCMjvX527YMxPfuUA,"10625 N Tatum Blvd
-Phoenix, AZ 85028",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,11:00 - 23:00,11:00 - 22:00,TRUE,"Greek,Mediterranean,Restaurants",Phoenix,104,My Big Fat Greek Restaurant,,-111.9770187,33.5834449,AZ,3
-6ZGiMSM9cesy3ipHJoruVg,"4440 S Maryland Pkwy
-University
-Las Vegas, NV 89119",,,,,,,,TRUE,"Bars,Mediterranean,Nightlife,Restaurants",Las Vegas,3,Cafe Hookah,University,-115.1373615,36.1084263,NV,3.5
-cDrqjvg2KEyJm3QS3KAJ2Q,"2909 S Dobson Rd
-Mesa, AZ 85202",11:00 - 20:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 20:00,FALSE,"Mediterranean,Restaurants",Mesa,12,Dooby's Grill Cafe,,-111.8763611,33.3624072,AZ,3.5
-tO_iqxmqoVtALIeA-dxJLQ,"1825 E University Dr
-Tempe, AZ 85281",,,,,,,,TRUE,"Greek,Mediterranean,Restaurants",Tempe,4,Theo's Spartan Grill,,-111.9092417,33.4218916,AZ,3
-tpIU_ZvIfCfCp36IgghlHQ,"1641 E Camelback Rd
-Phoenix, AZ 85016",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:30,11:00 - 21:30,11:00 - 21:00,TRUE,"Greek,Southern,Mediterranean,Restaurants",Phoenix,112,Zoes Kitchen,,-112.045816,33.508756,AZ,3.5
-w19cemjVR8u02PgjFpJ7Mw,"4340 E. Indian School Rd.
-Phoenix, AZ 85018",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,TRUE,"Vegetarian,American (New),Mediterranean,Restaurants",Phoenix,242,Pita Jungle,,-111.9883722,33.4954826,AZ,4
-UL6H7LGaeM4X0p8OJ3h1aw,"10210 W McDowell Rd
-Unit 120
-Avondale, AZ 85323",,,,,,,,FALSE,"Greek,Mediterranean,Restaurants",Avondale,6,Ararat Mediterranean Restaurant,,-112.345359,33.430535,AZ,4
-D9H2EYJa9n7yDU013SVgvg,"2524 University Ave
-Regent
-Madison, WI 53774",,,,,,,,FALSE,"Vegetarian,Mediterranean,Moroccan,Greek,Middle Eastern,Restaurants",Madison,8,Lulu's Deli and Restaurant,Regent,-89.42972,43.072576,WI,3.5
-XGK7mKZJQtJa77Izhx6xyQ,"8275 W Lake Pleasant Pkwy
-Peoria, AZ 85382",,,,,,,,FALSE,"Mediterranean,Restaurants",Peoria,6,Royal Gyros,,-112.239255,33.669826,AZ,4
-H0QkByri08NTgd8KEdyCsw,"777 S College Ave
-Tempe, AZ 85281",,,,,,,,TRUE,"American (New),Mediterranean,Restaurants",Tempe,7,Extreme Pita,,-111.9349687,33.4222436,AZ,2.5
-VD8a_B589J_NlCirS8QA0Q,"37555 Hum Rd
-Ste 109
-Carefree, AZ 85377",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,FALSE,"Greek,Mediterranean,Restaurants",Carefree,24,Saba's Mediterranean Cuisine,,-111.922982,33.825638,AZ,4
-6mwduQ8fVQ_lDKDWHLvkCA,"3510 W Bell Rd
-Glendale, AZ 85308",,,,,,,,TRUE,"Greek,Mediterranean,Restaurants",Glendale,16,Mr Gyros,,-112.1348263,33.6408201,AZ,3.5
-XxE8YV18K6Cb7uvQLN3XZQ,"205 N Country Club Dr
-Mesa, AZ 85201",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,11:00 - 20:00,TRUE,"Greek,Mediterranean,Restaurants",Mesa,61,Georges Gyros,,-111.8393707,33.419866,AZ,4.5
-5hFnyiEboorArk7cbCYeXQ,"3434 W Greenway Rd
-Phoenix, AZ 85053",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,12:00 - 19:00,09:00 - 16:00,TRUE,"Greek,Mediterranean,Restaurants",Phoenix,26,JT Gyros,,-112.132496,33.626344,AZ,3.5
-238vCjwa6kQCV7ukJI6d8A,"3655 W Anthem Way
-Anthem, AZ 85086",,,,,,,,TRUE,"Greek,Mediterranean,Restaurants",Anthem,23,Mr Gyros II,,-112.1388544,33.8649126,AZ,4
-c5awK9N87I8DiEvVrNDEMg,"6447 E Southern Ave
-Mesa, AZ 85206",,,,,,,,TRUE,"Greek,Mediterranean,Restaurants",Mesa,55,My Big Fat Greek Restaurant,,-111.6927462,33.3936604,AZ,3
-9nC58L8jwheiihZfc3poJA,"5050 E McDowell Rd
-Phoenix, AZ 85008",,,,,,,,TRUE,"Middle Eastern,African,Mediterranean,Restaurants",Phoenix,21,Juba Restaurant,,-111.9738427,33.46587326,AZ,4
-iAmIyYVuQ8rDfbM-serqHA,"3850 E Sunset Rd
-Ste D
-Southeast
-Las Vegas, NV 89120",12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,12:00 - 03:00,17:00 - 03:00,17:00 - 01:00,TRUE,"Hookah Bars,Bars,Mediterranean,Nightlife,Restaurants",Las Vegas,77,The Olive Mediterranean Grill,Southeast,-115.0903923,36.07184399,NV,4
-NJK4GW2pjvmvAPQ_OXMHQw,"8826 S Eastern Ave
-Las Vegas, NV 89123",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 02:00,11:00 - 03:00,11:00 - 01:00,TRUE,"Mediterranean,Middle Eastern,Restaurants",Las Vegas,59,Ali Baba Cuisine,,-115.116608,36.029158,NV,3
-GaAVP8Tn8uUrZtulQw2iXA,"6620 W Flamingo Rd
-Ste 7
-Las Vegas, NV 89103",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,TRUE,"Mediterranean,Middle Eastern,Restaurants",Las Vegas,142,Shish Kabob House,,-115.236636,36.114921,NV,4
-2MY2YOCvReXGpXxtN0_a3A,"565 Marks St
-Henderson, NV 89014",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 21:00,11:00 - 21:00,,TRUE,"Greek,Mediterranean,Restaurants",Henderson,125,Greek Bistro,,-115.037085,36.062364,NV,4.5
-Cl6KfeDfh9FfWYV5cbz-zw,"6115 S Fort Apache Rd
-Ste 100
-Spring Valley
-Las Vegas, NV 89148",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,11:00 - 23:00,11:00 - 22:00,TRUE,"Greek,Mediterranean,Middle Eastern,Restaurants",Las Vegas,152,Khoury's Mediterranean Restaurant,Spring Valley,-115.2986223,36.0770695,NV,3.5
-DTaaI8_d5bcFBWbiisls4w,"2790 E Flamingo Rd
-Eastside
-Las Vegas, NV 89121",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,FALSE,"Persian/Iranian,Mediterranean,Restaurants",Las Vegas,12,Royal Persis,Eastside,-115.112467,36.11543,NV,3.5
-cmf4fKU9D6XIvciQj7RjoQ,"7871 W Charleston Blvd
-Westside
-Las Vegas, NV 89117",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 17:00,TRUE,"Greek,Mediterranean,Restaurants",Las Vegas,215,Yassou,Westside,-115.263591,36.158669,NV,4
-HEcysZlyextbht05aYZ-xQ,"507 E Fremont St
-Downtown
-Las Vegas, NV 89101",10:30 - 23:30,10:30 - 23:30,10:30 - 23:30,10:30 - 23:30,10:30 - 00:00,10:30 - 00:00,13:00 - 22:30,TRUE,"Pakistani,Mediterranean,Halal,Restaurants",Las Vegas,160,Kabob Korner,Downtown,-115.1403267,36.1689727,NV,4
-qC6ZqST6Q58qXHsDAjM_5w,"2980 St Rose Pkwy
-Southeast
-Henderson, NV 89052",11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 03:00,11:00 - 03:00,11:00 - 01:00,FALSE,"Mediterranean,Restaurants",Henderson,6,Chandelier Meditaranean Restaurant,"Southeast,Anthem",-115.1177757,36.0053075,NV,4
-Ap6gsHZAT_ALSmBg2Zut3Q,"6949 E Shea Blvd
-Scottsdale, AZ 85254",,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 21:00,12:00 - 21:00,FALSE,"Greek,Vegetarian,Mediterranean,Middle Eastern,Restaurants",Scottsdale,16,Sabuddy Israeli,,-111.931282,33.581569,AZ,4.5
-bjUH-01t834CVg0Yl0CLWQ,"400 E Van Buren St
-Phoenix, AZ 85004",,,,,,,,TRUE,"Greek,Pizza,Mediterranean,Restaurants",Phoenix,82,My Big Fat Greek Restaurant,,-112.0686974,33.45243407,AZ,3
-Gw8DsQQCO5m1hggXqwynFg,"402 E Greenway Blvd
-Phoenix, AZ 85073",,,,,,,,FALSE,"Greek,Mediterranean,Restaurants",Phoenix,23,Greek Patio,,-112.068404,33.637793,AZ,3
-EYRaUAgeLc1gntkpZv2WHg,"1550 N Dysart Rd
-Ste B-8
-Goodyear, AZ 85395",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,TRUE,"Greek,Restaurants,Mediterranean,Italian",Goodyear,69,Dino's Greek and Italian Grill,,-112.341878,33.463543,AZ,3.5
-M1n4HVSdD9FIyfmIoxxRrg,"2425 Atwood Ave
-Schenk - Atwood
-Madison, WI 53704",17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 22:00,11:00 - 22:00,17:00 - 21:00,TRUE,"Restaurants,Mediterranean,Moroccan,Italian",Madison,85,Bunky's Cafe,Schenk - Atwood,-89.346172,43.093634,WI,3.5
-ufD1e1Fxgin3W0oOf3W5og,"4568 E Cactus Rd
-Phoenix, AZ 85073",,,,,,,,TRUE,"Greek,Mediterranean,Restaurants",Phoenix,10,Opa! Souvlaki,,-111.9834389,33.6011167,AZ,3.5
-BPN8GzoigZNQHEve5iP-gw,"25062 S Meridian Rd
-Queen Creek, AZ 85142",08:00 - 17:00,08:00 - 17:00,08:00 - 17:00,08:00 - 17:00,08:00 - 21:00,08:00 - 21:00,08:00 - 17:00,TRUE,"Bars,Mediterranean,Wine Bars,Nightlife,Restaurants,Sandwiches",Queen Creek,29,Queen Creek Olive Mill Eatery,,-111.5832386,33.2210188,AZ,3.5
-2Fn5-x5IX7CfhCKFYaZGyA,"7070 N Durango Dr
-Centennial
-Las Vegas, NV 89149",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,12:00 - 20:00,TRUE,"Greek,Mediterranean,Restaurants",Las Vegas,163,Market Grille Cafe,Centennial,-115.2877293,36.2903141,NV,4
-yJYXwvF_RBUIdguShrYSSg,"77 Sirloin Strip
-Capitol View Heights
-Madison, WI 53713",16:00 - 22:00,16:00 - 00:00,16:00 - 00:00,16:00 - 01:00,16:00 - 02:30,16:00 - 02:30,16:00 - 22:00,TRUE,"Bars,Mediterranean,Middle Eastern,Nightlife,Lounges,Restaurants",Madison,14,Mediterranean Hookah Lounge and Cafe,Capitol View Heights,-89.386628,43.038886,WI,4.5
-6xDQaprsX-GMl6umXeILPw,"101 N 1st Ave
-Phoenix, AZ 85003",,,,,,,,FALSE,"Greek,American (New),Mediterranean,Restaurants",Phoenix,7,101 Bistro,,-112.074714,33.449799,AZ,3.5
-kCH4JxdKdwDfJdNFElSHzg,"610 E Roosevelt St
-Phoenix, AZ 85004",,,,,,,,FALSE,"Greek,Mediterranean,Restaurants",Phoenix,13,The Nile Cafe,,-112.0662616,33.4588994,AZ,3.5
-131oUL1FGLOg0AxbBxCtzg,"4860 W Flamingo Rd
-Las Vegas, NV 89103",,,,,,,,FALSE,"Greek,Mediterranean,Restaurants",Las Vegas,23,Greek American Grille,,-115.136389,36.175,NV,4
-EorbNAe004JPljoJlcBMog,"2101 S Decatur Blvd
-Trader Joe's Plaza
-Las Vegas, NV 89136",,,,,,,,FALSE,"Greek,Mediterranean,Middle Eastern,Restaurants",Las Vegas,5,Lily's Persian & Mediterranean Cuisine,,-115.136389,36.175,NV,2.5
-#NAME?,"717 W Union Hills
-Ste 1
-Phoenix, AZ 85027",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 18:00,TRUE,"Greek,Mediterranean,Restaurants",Phoenix,143,Chicago Gyros,,-112.0835799,33.65435321,AZ,4.5
-FY_OXEVcewAQFZuu6fynLA,"4026 E Indian School Rd
-Phoenix, AZ 85073",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 20:00,TRUE,"Greek,Mediterranean,Restaurants",Phoenix,182,Z's Greek,,-111.9940154,33.4953688,AZ,4.5
-9ucO4e2ZQeeXANqMZT67GQ,"11 E 6th St
-Tempe, AZ 85281",09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,TRUE,"Greek,Mediterranean,Restaurants",Tempe,53,The Munchies Cafe,,-111.9394584,33.42416511,AZ,4
-O1pk6lxrTI0zJrdQuXhIEQ,"10040 W McDowell Rd
-Avondale, AZ 85323",,,,,,,,FALSE,"Greek,Mediterranean,Restaurants",Avondale,11,My Big Fat Greek Restaurant,,-112.2796661,33.4646908,AZ,4
-VVPVg9aJzNczTgeM36TGJw,"2855 W Ray Rd
-Chandler, AZ 85224",,,,,,,,FALSE,"Greek,Mediterranean,Restaurants",Chandler,10,Daphne's Greek Cafe,,-111.8904425,33.3203241,AZ,3
-hUvLxFBm2e2rWyUfqwvl-A,"2135 E Camelback Rd
-Phoenix, AZ 85016",,,,,,,,FALSE,"Greek,Mediterranean,Restaurants",Phoenix,4,My Big Fat Greek Restaurant,,-112.035636,33.507982,AZ,2
-50hOEQ2OutvIxrMjNml5bA,"11144 N Frank Lloyd Wright Blvd
-Ste E9
-Scottsdale, AZ 85259",11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,TRUE,"Mediterranean,Persian/Iranian,Middle Eastern,Restaurants",Scottsdale,88,Pars Persian Cuisine,,-111.8363223,33.58712209,AZ,4
-VpHNYumY3F92a90AArkFyQ,"1900 W Chandler Blvd
-Ste 21
-Chandler, AZ 85224",,,,,,,,TRUE,"Greek,Mediterranean,Restaurants",Chandler,65,Gyro Express,,-111.8742595,33.307263,AZ,4
-zTh0ArlhidvA2C8RNE5wbg,"1320 W Elliot Rd
-Tempe, AZ 85284",,,,,,,,FALSE,"Greek,Mediterranean,Restaurants",Tempe,4,Extreme Pita,,-111.9593221,33.3491937,AZ,4
-KBtkZjuHbmAyxnDzSd5xgw,"The District at Green Valley Ranch
-2225 Village Walk Dr , Ste 175
-Anthem
-Henderson, NV 89052",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 20:00,TRUE,"Mediterranean,Restaurants",Henderson,126,Crazy Pita Rotisserie & Grill,Anthem,-115.0849843,36.02131308,NV,4
-DjVWQ_Idtw6X5Eg0W5JFWg,"15090 N Northsight Blvd
-Scottsdale, AZ 85260",11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,,TRUE,"Greek,Mediterranean,Restaurants",Scottsdale,61,Greek Gyros,,-111.89655,33.6234324,AZ,4
-oc9IJ7lhXKuXVK9JJBnohA,"610 N Alma School Rd
-Chandler, AZ 85224",08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,,TRUE,"Greek,Mediterranean,Restaurants",Chandler,68,The Greeks Grill,,-111.860324,33.31414285,AZ,4
-zmvIqh26-lzpZROHuhA-6w,"4040 W Ray Rd
-Ste 12
-Chandler, AZ 85226",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 21:00,12:00 - 20:00,11:00 - 20:00,TRUE,"Greek,Mediterranean,Restaurants",Chandler,108,Spices Mediterranean Kitchen,,-111.912972,33.32012,AZ,4
-bS6d_0qYc4Qt43-0Tr3xkQ,"440 W Warner Rd
-Tempe, AZ 85284",,,,,,,,TRUE,"Greek,Mediterranean,Restaurants",Tempe,4,Zorbas Grill,,-111.9445728,33.3350531,AZ,2.5
-NNGJQF3WeIHzGzweCpZ-VA,"2241 N 7th St
-Phoenix, AZ 85006",,,,,,,,FALSE,"Restaurants,Mediterranean,Italian",Phoenix,114,La Piccola Cucina,,-112.064752,33.472674,AZ,3.5
-tQTqlMW0sODNbe188ah1Yg,"8378 W Thunderbird Rd
-Peoria, AZ 85381",,,,,,,,TRUE,"Greek,Mediterranean,Restaurants",Peoria,30,Gyros Palace,,-112.240062,33.611202,AZ,3.5
-7YYD_agS3Kb2sAx9JPkQEw,"25062 S Meridian Rd
-Queen Creek, AZ 85142",08:00 - 17:00,08:00 - 17:00,08:00 - 17:00,08:00 - 17:00,08:00 - 21:00,08:00 - 21:00,08:00 - 17:00,TRUE,"Tours,Hotels & Travel,Mediterranean,Restaurants",Queen Creek,241,Queen Creek Olive Mill,,-111.5832712,33.22078481,AZ,4
-9pUPWfv2SV6DpzJRIlDYeQ,"9500 S Eastern Ave
-Southeast
-Henderson, NV 89052",,,,,,,,FALSE,"Greek,Mediterranean,Restaurants",Henderson,5,Greek Village Cafe,Southeast,-115.1185519,36.0169498,NV,1.5
-MFPk16G7fAxnCKTyfjw8Vw,"1850 W. Southern Ave.
-Mesa, AZ 85202",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,TRUE,"Vegetarian,American (New),Mediterranean,Restaurants",Mesa,112,Pita Jungle,,-111.8718374,33.3935611,AZ,4
-9em_vfSjwcPqQgU8Zj-hzA,"1940 S Alma School Rd
-Ste 5
-Chandler, AZ 85286",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 21:00,11:00 - 21:00,TRUE,"Greek,Mediterranean,Restaurants",Chandler,105,Pitta Souvli,,-111.8604023,33.2770908,AZ,4
-2WYBbV-VCKcnFemxWDZH_w,"239 E Main St
-Sun Prairie, WI 53590",,16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,11:00 - 21:00,16:00 - 21:00,TRUE,"Greek,Mediterranean,Restaurants",Sun Prairie,30,Atlantis Taverna,,-89.2115951,43.1829812,WI,4.5
-_qTzOkbin2giDOrFsaxm8A,"Baiz Market
-523 N 20th St
-Phoenix, AZ 85006",,,,,,,,TRUE,"Mediterranean,Middle Eastern,Halal,Restaurants",Phoenix,60,Al-Hana,,-112.038676,33.455036,AZ,4
-qwmHm3s8p7J12AIY6Co8HQ,"7530 W Bell Rd
-Ste 106
-Glendale, AZ 85308",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,TRUE,"Vegetarian,American (New),Mediterranean,Restaurants",Glendale,168,Pita Jungle,,-112.220869,33.639638,AZ,4
-u0cuE27NIdXAil6i-scRGw,"8565 W Sahara Ave
-Westside
-Las Vegas, NV 89117",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 00:00,11:00 - 00:00,11:00 - 23:00,TRUE,"Greek,Mediterranean,Restaurants",Las Vegas,78,The Mad Greek,Westside,-115.278464,36.1428,NV,3
-7KfgI59JMuYfL4yBKsl6BA,"83 Erb St W
-Waterloo, ON N2L 6C2",,,,,,,,TRUE,"Bars,Greek,Mediterranean,Wine Bars,Nightlife,Restaurants",Waterloo,10,Sole Restaurant & Wine Bar,,-80.5273068,43.463366,ON,4
-mNyXXerIPD8Zer88YidV4w,"150 University Avenue W
-Waterloo, ON N2L 3E4",,,,,,,,TRUE,"Mediterranean,Restaurants",Waterloo,6,Almadina Egyptian Cuisine,,-80.5353761,43.4723904,ON,3
-rN2cc4bXzlsIxhWEoolBTg,"7620 E McKellips Rd
-Ste 6
-Scottsdale, AZ 85257",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,TRUE,"Greek,American (Traditional),Mediterranean,Restaurants",Scottsdale,143,George's Famous Gyros,,-111.916537,33.45168,AZ,4.5
-btay-zbv6GGEp6c3Wg2MSw,"171 N Gibson Rd
-Henderson, NV 89014",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,,TRUE,"Greek,Mediterranean,Middle Eastern,Restaurants",Henderson,39,Manna Mediterranean,,-115.0298537,36.0394128,NV,3
-NigPSYUkjJ_JPzaDlApF_A,"1639 W Warm Springs Rd
-Henderson, NV 89014",10:30 - 20:30,10:30 - 20:30,10:30 - 20:30,10:30 - 20:30,10:30 - 20:30,10:30 - 20:30,12:00 - 20:30,FALSE,"Greek,Mediterranean,Restaurants",Henderson,8,Tony's Place,,-115.0544316,36.0561389,NV,4
-wzk5FU5ccZeRduXzbDzcOw,"6599 Las Vegas Blvd
-Bldg P, Ste B150
-Southeast
-Las Vegas, NV 89119",12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,12:00 - 02:00,11:00 - 02:00,11:00 - 22:00,FALSE,"Bars,Wine Bars,Mediterranean,Greek,Nightlife,Restaurants",Las Vegas,24,Grape Vegas,Southeast,-115.1776615,36.0686142,NV,3
-NB3Oli21be-k4r_iy4oC0Q,"3107 S Lindsay Rd
-Gilbert, AZ 85296",,,,,,,,FALSE,"Greek,Mediterranean,Restaurants",Gilbert,3,Chef H,,-111.773654,33.293754,AZ,3.5
-6tq-oJui3bsePoAFn6x-sQ,"1158 W Washington St
-Tempe, AZ 85281",10:30 - 19:00,10:30 - 19:00,10:30 - 19:00,10:30 - 19:00,10:30 - 19:00,11:00 - 16:00,,TRUE,"Mediterranean,Restaurants",Tempe,38,Sami's Gyros,,-111.9213414,33.42284828,AZ,3
-rGvkljWlP7ysvLEUucoyqA,"3655 S Durango Dr
-Ste 11-14
-Spring Valley
-Las Vegas, NV 89147",09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 16:00,TRUE,"Persian/Iranian,Mediterranean,Restaurants",Las Vegas,122,Zaytoon Mediterranean Market and Kabob,Spring Valley,-115.2794069,36.1238325,NV,4.5
-oCatThs5uhSGDgSV2KxxgA,"91 Broughton Street
-New Town
-Edinburgh EH1 3RX",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 23:00,10:00 - 23:00,10:00 - 22:00,TRUE,"Brasseries,Mediterranean,Restaurants",Edinburgh,37,Olive Branch Bistro,New Town,-3.1897546,55.9585748,EDH,3.5
-DrZ8rReiyTsLXoLr42APBA,"89 Hanover Street
-New Town
-Edinburgh EH2 1EE",,,,,,,,TRUE,"Greek,Mediterranean,Restaurants",Edinburgh,5,Athena Greek Restaurant,New Town,-3.1974478,55.954171,EDH,3.5
-CZSicdXjP5ekbTySTxgNQw,"48 George Iv Bridge
-Old Town
-Edinburgh EH1 1EJ",11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,TRUE,"Fast Food,Mediterranean,Sandwiches,Restaurants",Edinburgh,18,Mediterranean Gate,Old Town,-3.1916186,55.947906,EDH,4
-lHWkpPjN8IuVq-Chn5n8PA,"505 S Mill Ave
-Tempe, AZ 85281",11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,FALSE,"Greek,Mediterranean,Nightlife,Dance Clubs,Restaurants",Tempe,48,Crave Cafe & Lounge,,-111.9398439,33.4252092,AZ,3
-0bQKW7e23wTJxgvs_p2HjQ,"9619 N Hayden Rd
-Scottsdale, AZ 85258",10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 16:00,,TRUE,"Greek,Vegetarian,Mediterranean,Restaurants",Scottsdale,38,Shish Kabobs & Gyros,,-111.9055104,33.5737667,AZ,4
-0Bilf-3-J8hIekQVWyRGWg,"17191 N Litchfield Rd
-Surprise, AZ 85374",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,,FALSE,"Greek,Restaurants,Mediterranean,Italian",Surprise,7,Mike's Greek & Italian Cuisine,,-112.3594317,33.6403184,AZ,3
-IsFQ32WyFS3WSoXjUJ1dcQ,"4220 W Summit Walk Ct
-Ste 1202
-Anthem, AZ 85086",,,,,,,,FALSE,"Greek,Mediterranean,Restaurants",Anthem,7,Cafe Afify,,-112.1512485,33.8701661,AZ,3
-CF3dd_PNGAjK_Lo0eETTUA,"3049 S Las Vegas Blvd
-The Strip
-Las Vegas, NV 89109",,,,,,,,FALSE,"Greek,Mediterranean,Restaurants",Las Vegas,27,The Mad Greek Cafe,The Strip,-115.1648858,36.1314439,NV,3
-uIDdneARsmwPLebKrwMtBw,"1431 E Williams Field Rd
-Ste 101
-Gilbert, AZ 85295",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,11:00 - 21:00,TRUE,"Vegetarian,American (New),Mediterranean,Restaurants",Gilbert,140,Pita Jungle,,-111.7593107,33.3063001,AZ,4
-wl51t6lT7leiX64SlkOx6g,"20910 N Tatum Blvd
-Suite 140
-Phoenix, AZ 85050",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,TRUE,"Vegetarian,American (New),Mediterranean,Restaurants",Phoenix,215,Pita Jungle,,-111.9791944,33.6756727,AZ,4
-QbS8kEuBXfN6FN_JCuFLuw,"15/16 George IV Bridge
-Grassmarket
-Edinburgh EH1 1EE",12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,TRUE,"Modern European,Mediterranean,British,Restaurants",Edinburgh,100,The Outsider,"Grassmarket,Old Town",-3.1921432,55.9479597,EDH,4
-5_TX9FincQ29TOSLDfFxUQ,"751 N High Point Rd
-Wexford
-Madison, WI 53717",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,16:00 - 22:00,16:00 - 21:00,TRUE,"Italian,Mediterranean,Restaurants",Madison,43,Oliva,Wexford,-89.5183683,43.0761711,WI,3.5
-3YTW5lq-s-vNI640l-qm_Q,"933 E University Dr
-Ste 108
-Tempe, AZ 85281",10:30 - 03:30,10:30 - 03:30,10:30 - 03:30,10:30 - 03:30,10:30 - 03:30,10:30 - 03:30,11:00 - 01:00,TRUE,"Greek,Mediterranean,Restaurants",Tempe,116,Oliveo Grill,,-111.9247139,33.4213508,AZ,3.5
-dn9sB0Kok8cnkDhpcl7YCg,"10652 N 32nd St
-Phoenix, AZ 85028",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,,TRUE,"Mediterranean,Middle Eastern,Restaurants",Phoenix,57,Gyro House,,-112.0131039,33.5834928,AZ,4.5
-OiCxoAIoBvEWxf7p1qVVmA,"Aria Resort and Casino
-3732 Las Vegas Blvd S
-The Strip
-Las Vegas, NV 89109",17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 22:00,TRUE,"American (New),Mediterranean,Restaurants",Las Vegas,646,Sage,The Strip,-115.1765013,36.10757739,NV,4
-j7n42b5qDMJR68q3Dv9u6A,"2734 W Bell Rd
-Ste 1330
-Phoenix, AZ 85053",,,,,,,,FALSE,"Mediterranean,Restaurants",Phoenix,3,La Mirage,,-112.1185603,33.6397206,AZ,3.5
-FrPm9l_CmSwBe8TCEiQnUg,"7101 E Thunderbird Rd
-Ste 101A
-Scottsdale, AZ 85254",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 00:00,11:00 - 00:00,11:00 - 22:00,FALSE,"Wine Bars,Bars,Mediterranean,Nightlife,Restaurants",Scottsdale,7,Crush'd Wine Bar and Market,,-111.927561,33.610963,AZ,4.5
-cTUy1cEkxWeE0eoU_P9SNA,"7051 E McDowell Rd
-Scottsdale, AZ 85257",07:00 - 15:30,07:00 - 15:30,07:00 - 15:30,07:00 - 15:30,07:00 - 15:30,07:00 - 15:30,07:00 - 15:30,FALSE,"Mediterranean,Restaurants",Scottsdale,15,The Nile Cafe,,-111.9292957,33.4656052,AZ,3.5
-wtD7EvFhxt8EeNODbl1G_A,"7175 W Lake Mead Blvd
-Ste 130
-Las Vegas, NV 89128",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,,TRUE,"Greek,Mediterranean,Restaurants",Las Vegas,145,Market Grille Cafe,,-115.24816,36.195285,NV,4
-vnnZKz4MhVtC7S3QdQPnfw,"2702 E Washington Ave
-Eken Park
-Madison, WI 53704",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,,TRUE,"Greek,American (Traditional),Mediterranean,Restaurants",Madison,13,New Gyro House,Eken Park,-89.347327,43.10227,WI,3.5
-bfWpJH1kXf8jeD39IkDtUQ,"2107 S Rural Rd
-Tempe, AZ 85282",10:30 - 23:00,10:30 - 23:00,10:30 - 23:00,10:30 - 23:00,10:30 - 01:00,10:30 - 01:00,10:30 - 21:00,FALSE,"Pizza,Mediterranean,Restaurants",Tempe,46,Jamie's Pizza and Pitas,,-111.9254244,33.4060271,AZ,3.5
-l-Xv5Kmg2gilJI3-DGVCqw,"7014 E. Camelback Rd.
-Scottsdale, AZ 85251",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,11:00 - 18:00,TRUE,"Vegetarian,American (New),Mediterranean,Restaurants",Scottsdale,59,Pita Jungle,,-111.9290233,33.5025088,AZ,3.5
-p5YO2FZzwktYgtKOUynM-w,"1649 S Stapley Dr
-Ste 105
-Mesa, AZ 85204",,,,,,,,FALSE,"Mediterranean,Restaurants",Mesa,8,Haris's Pita Grill,,-111.8026941,33.38323,AZ,3.5
-iG6o2hynadsVsOWeh9b1Vg,"87 Giles St
-Leith
-Leith
-Edinburgh EH6 6BZ",,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,,TRUE,"Mediterranean,Restaurants",Edinburgh,3,Vintners Rooms,Leith,-3.1723567,55.9740305,EDH,5
-3SrWEUCWNy4lDq7ElWmtwA,"2980 S Durango Dr
-Ste 101
-Westside
-Las Vegas, NV 89117",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,,FALSE,"Mediterranean,Restaurants",Las Vegas,12,Mad Pita Express,Westside,-115.278458,36.134956,NV,4
-QD8wcMoJ7YPBCA5uKA27zg,"7377 S Jones Blvd
-Ste 116
-Southwest
-Las Vegas, NV 89139",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,12:00 - 23:00,12:00 - 22:00,FALSE,"Mediterranean,Restaurants",Las Vegas,50,Ambrosia Café,Southwest,-115.225806,36.055251,NV,3.5
-khUAi7h8c57uHdliKrv5FA,"5826 W Olive Ave
-Ste B101
-Glendale, AZ 85302",09:00 - 20:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 20:00,TRUE,"Greek,Mediterranean,Middle Eastern,Restaurants",Glendale,71,Babylon Gyros & Shish Kabobs,,-112.1845146,33.5690224,AZ,4
-38TiseZcVyypjNzuOROOWQ,"4804 E Chandler Blvd
-Ste 108
-Phoenix, AZ 85048",11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 15:00,FALSE,"Mediterranean,Restaurants",Phoenix,4,Grill Wrap Cafe,,-111.979651,33.305766,AZ,4
-TnkxapUN4nWMz_z5h3qMYg,"1001 N 3rd Ave
-Ste 3
-Phoenix, AZ 85003",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:00 - 22:00,TRUE,"Vegetarian,American (New),Mediterranean,Restaurants",Phoenix,214,Pita Jungle,,-112.077468,33.459014,AZ,4
-zfY68t7nVihCwiCsCgM6cw,"1930 W Pinnacle Peak Rd
-Ste 101
-Phoenix, AZ 85027",09:00 - 19:00,09:00 - 19:00,09:00 - 19:00,09:00 - 19:00,09:00 - 19:00,04:00 - 19:00,11:00 - 19:00,TRUE,"Food,Ethnic Food,Specialty Food,Mediterranean,Restaurants",Phoenix,74,Olive Tree Market & Grill,,-112.101312,33.6988429,AZ,4.5
-emKCDGxYpL-hsLDQiULBdQ,"1290 N Scottsdale Rd
-Ste 107
-Tempe, AZ 85281",11:30 - 14:30,11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,11:30 - 01:00,17:00 - 01:00,17:00 - 22:00,TRUE,"Middle Eastern,Lebanese,Mediterranean,Restaurants",Tempe,111,Mijana,,-111.92746,33.442946,AZ,3.5
-9gGnlsFKiAYu3kDPATWm-w,"393 W Warner Rd
-Chandler, AZ 85225",,,,,,,,FALSE,"Mediterranean,Restaurants",Chandler,4,Flaming Kabob 2,,-111.8463705,33.3344463,AZ,3.5
-zonV2F6YNVn2_sI5dK82eg,"5118 S Rural Rd
-Tempe, AZ 85282",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,,TRUE,"Middle Eastern,Mediterranean,Restaurants",Tempe,75,Pita Shack,,-111.9286883,33.3785599,AZ,4
-VBoE8WUu1-hpZHZbJ-pyWA,"27 Marshall Street
-Newington
-Newington
-Edinburgh EH8 9BJ",09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,FALSE,"Food,Coffee & Tea,Mediterranean,British,Restaurants",Edinburgh,11,Double Dutch,Newington,-3.186607,55.94591,EDH,3.5
-oh--8vNSaBDbA-9LPCvRHQ,"1405 E Sunset Rd
-Ste 130
-Southeast
-Las Vegas, NV 89119",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,12:00 - 21:00,FALSE,"Persian/Iranian,Mediterranean,Halal,Restaurants",Las Vegas,49,Flame Kabob,Southeast,-115.134212,36.071228,NV,3.5
--3yID57d0cMpYZZr13CTHw,"138 Bruntsfield Pl
-Bruntsfield
-Edinburgh EH10 4ER",09:00 - 19:00,09:00 - 19:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,10:00 - 16:00,FALSE,"Breakfast & Brunch,Mediterranean,Restaurants",Edinburgh,7,Ooud Kitchen,Bruntsfield,-3.2084101,55.9365693,EDH,3
-j68EhQdQZUg4GiS-3dIIBw,"34 Bread St
-Old Town
-Edinburgh EH3 9AF",,,,,,,,TRUE,"Bars,Mediterranean,Nightlife,Restaurants",Edinburgh,4,Monboddo,Old Town,-3.2033489,55.9457861,EDH,3
-IvZAp1s__opMulOa3QL3hg,"1368 N Arizona Ave
-Suite #101
-Chandler, AZ 85225",,,,,,,,TRUE,"Mediterranean,Restaurants",Chandler,3,Magic Kabob,,-111.842494,33.326976,AZ,3.5
-ns2vxJtyMFyf1OuuasdRyQ,"256 Leith Walk
-Leith
-Edinburgh EH6 5EL",10:00 - 17:00,10:00 - 17:00,10:00 - 17:00,10:00 - 17:00,10:00 - 17:00,11:00 - 17:00,,TRUE,"Mediterranean,Restaurants",Edinburgh,3,The Spicy Pot,Leith,-3.1757804,55.9662231,EDH,3.5
-eX_f1ZzrpejCp6xJpfLmDQ,"830 E Indian School Rd
-Phoenix, AZ 85014",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,08:00 - 22:00,TRUE,"Greek,Mediterranean,Middle Eastern,Restaurants",Phoenix,46,Athens Bar & Grill,,-112.0632727,33.4947482,AZ,4
-OqSiWQHnqYEWCIJLR-BcFw,"19 Colinton Road
-Edinburgh EH10 5DP",,,,,,,,FALSE,"Cafes,Mediterranean,Restaurants",Edinburgh,9,The Olive Branch Bistro,,-3.2106617,55.9338246,EDH,4
-rS-Fa73RchacSmfKO3dyPA,"100-102 Dalry Rd
-West End
-Edinburgh EH11 2DW",12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 23:00,12:00 - 23:00,12:00 - 16:00,TRUE,"Vegetarian,Mediterranean,Restaurants",Edinburgh,5,Good Seed Bistro,"West End,Haymarket",-3.2194172,55.9436732,EDH,4
-1GYzYjw-eLqppSL1ni82sA,"15 Bristo Pl
-Old Town
-Edinburgh EH1 1EZ",12:00 - 02:00,12:00 - 02:00,12:00 - 02:00,12:00 - 02:00,12:00 - 03:00,12:00 - 03:00,12:00 - 02:00,TRUE,"Falafel,Mediterranean,Restaurants",Edinburgh,6,Elfalafel,Old Town,-3.1912214,55.9461148,EDH,3.5
-R9uAC0qIVMDQ8mEtwY2ZYg,"16 Drummond Street
-Newington
-Edinburgh EH8 9TX",17:00 - 23:00,12:00 - 15:00,17:00 - 23:00,12:00 - 15:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,TRUE,"Bistros,Mediterranean,French,Restaurants",Edinburgh,10,B'est,Newington,-3.1849185,55.9473465,EDH,4
-0TgiBiSmp6cHVGqDuIkANA,"43-45 Salisbury Road
-Newington
-Edinburgh EH16 5AA",18:00 - 21:00,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,TRUE,"Food,Coffee & Tea,Mediterranean,French,Restaurants",Edinburgh,3,Cafe Cassis,Newington,-3.1769633,55.9377649,EDH,4.5
-ukTwFX4wQW4FbQbnWI9aJg,"263 E Warner Rd
-Ste 105
-Gilbert, AZ 85296",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 20:00,TRUE,"Fast Food,Mediterranean,Restaurants",Gilbert,72,Pita Di Vita,,-111.7838032,33.3349062,AZ,4.5
-AqYrDAMzoRER7Mj8bJqAXQ,"8 North Bridge
-Old Town
-Edinburgh EH1 1",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,,TRUE,"Middle Eastern,Fast Food,Mediterranean,Restaurants",Edinburgh,8,Zenobia,"Old Town,Royal Mile",-3.1879677,55.9510507,EDH,3
-LCPso_j2icWvJI1bHN9uDQ,"172 Morningside Rd
-Morningside
-Edinburgh EH10 4AX",,,,,,,,TRUE,"Mediterranean,Restaurants",Edinburgh,4,Yellow Café,Morningside,-3.2096007,55.9294257,EDH,4.5
-PjMX4gcLx7m9TRKjGvyO-A,"6475 W Charleston Blvd
-Ste 120
-Westside
-Las Vegas, NV 89146",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,08:00 - 20:00,08:00 - 20:00,TRUE,"Mediterranean,Restaurants",Las Vegas,4,Joseph's Cuisine,Westside,-115.2366829,36.1588556,NV,3.5
-7onAEqbbZChyYdB2nJoQdg,"4757 E Greenway Rd
-Phoenix, AZ 85032",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 21:00,11:00 - 21:00,11:00 - 20:00,TRUE,"Mediterranean,Restaurants",Phoenix,104,ZK Grill,,-111.9786771,33.62598203,AZ,4
-BcuFT-gQj6Epl56ZAWJIdA,"209 W Jackson St
-Phoenix, AZ 85003",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,,,TRUE,"American (Traditional),Mediterranean,Restaurants",Phoenix,12,ZeeZ Grill,,-112.076896,33.4447199,AZ,3
-8GlGakyGqp9WvToKcnJmxg,"111 S Hamilton St
-Capitol
-Madison, WI 53703",11:30 - 14:00,11:30 - 14:00,11:30 - 14:00,11:30 - 14:00,11:30 - 14:00,17:00 - 22:00,,TRUE,"Italian,Mediterranean,Restaurants",Madison,123,Nostrano,Capitol,-89.384011,43.072631,WI,4
-kjYB71u_mUoE2w-_NnN4Ig,"150 University Avenue W
-Suite 3
-Waterloo, ON N2L 3E4",11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,11:30 - 23:00,12:00 - 23:00,12:00 - 22:00,TRUE,"Restaurants,Mediterranean,Turkish",Waterloo,11,Meet Point Restaurant,,-80.53588852,43.47244173,ON,3.5
-s_aCmrCP8QmOHASsOlA33A,"9711 S Eastern Ave
-Ste H9
-Southeast
-Las Vegas, NV 89183",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,FALSE,"American (Traditional),Mediterranean,Restaurants",Las Vegas,21,Chicken D'Lish,Southeast,-115.1189623,36.0123098,NV,3.5
-1T1hQpU4kbukSLoz947BWQ,"4130 S Sandhill Rd
-Eastside
-Las Vegas, NV 89121",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,,FALSE,"Middle Eastern,Greek,Mediterranean,Restaurants",Las Vegas,22,Filfila Mediterranean Cafe,Eastside,-115.0917302,36.1144544,NV,4
-l8uDeX2E58RBEc6FfQpdHw,"933 E University Dr
-Ste 115
-Tempe, AZ 85281",10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,FALSE,"Vegetarian,Mediterranean,Restaurants",Tempe,57,Tsom Vegetarian Flavors,,-111.9247139,33.4213508,AZ,3.5
-PfXzO0BdNAoKjWKQ_bG06A,"4440 S Maryland Pkwy
-Ste 113
-University
-Las Vegas, NV 89119",,,,,,,,FALSE,"Middle Eastern,Vegetarian,Mediterranean,Restaurants",Las Vegas,5,Cedars Restaurant,University,-115.1370794,36.1087848,NV,4
-bNu-PVXtfyLE6A1qv9bDcA,"4441 N Buckboard Trl
-Scottsdale, AZ 85251",17:00 - 02:00,17:00 - 02:00,17:00 - 02:00,17:00 - 03:00,17:00 - 04:00,17:00 - 04:00,17:00 - 02:00,TRUE,"Lebanese,Bars,Mediterranean,Middle Eastern,Nightlife,Hookah Bars,Restaurants",Scottsdale,17,Oasis Cafe,,-111.9233588,33.5017388,AZ,4
-DNdb2LwLnMiLIhFJnYRoLQ,"7435 S Eastern Ave
-Ste 110
-Southeast
-Las Vegas, NV 89123",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,FALSE,"Pizza,Mediterranean,Restaurants",Las Vegas,27,Garden Cafe,Southeast,-115.15036,36.02395515,NV,4
-XstnM5vqSqdw-9rLSzUg5A,"6119 Odana Rd
-Madison, WI 53719",,,,,,,,TRUE,"Mediterranean,Restaurants",Madison,48,The Nile,,-89.486175,43.0529381,WI,3.5
-93hdmjYc8IXsf69VrkRHog,"15414 N 19th Ave
-Phoenix, AZ 85023",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,TRUE,"Greek,American (Traditional),Mediterranean,Restaurants",Phoenix,149,Good Fellas Grill,,-112.1002302,33.6264211,AZ,4.5
-ikuXlYpFsaEs2xlvlopxQw,"8115 N 19th Ave
-Ste A101
-Phoenix, AZ 85021",,,,,,,,FALSE,"Middle Eastern,Mediterranean,Restaurants",Phoenix,18,Golden Valley,,-112.09925,33.555296,AZ,4
-AfWA8pvc5AW9QafQLui7_A,"1275 W Warm Springs Rd
-Ste 160
-Henderson, NV 89014",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 21:00,11:00 - 21:00,,TRUE,"Greek,Mediterranean,Diners,Restaurants",Henderson,279,The Great Greek,,-115.0416366,36.0555969,NV,4.5
-6lcay-E_ssmzpGanKbColg,"4811 N 16th St
-Ste 104
-Phoenix, AZ 85016",,,,,,,,TRUE,"Mediterranean,Restaurants",Phoenix,44,ZK Grill,,-112.047066,33.507549,AZ,3.5
-NZSa_ULvwidCxA0OG7B2Ig,"7116 E Mercer Ln
-Scottsdale, AZ 85254",08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 16:00,19:30 - 23:00,08:00 - 20:00,TRUE,"Kosher,Vegetarian,Mediterranean,Restaurants",Scottsdale,49,Mozart Cafe & Bakery,,-111.927548,33.585636,AZ,4.5
-7-vGQpfj0RcOD-Cy7CXDiA,"2580 W Chandler Blvd
-Ste 3
-Chandler, AZ 85224",10:30 - 20:30,10:30 - 20:30,10:30 - 20:30,10:30 - 20:30,10:30 - 21:00,10:30 - 21:00,11:00 - 18:00,TRUE,"Greek,Mediterranean,Middle Eastern,Restaurants",Chandler,54,Pita Heaven,,-111.88557,33.306806,AZ,3.5
-xvnh_wZ7xbfTCzVKGr_P5A,"3380 S Arville
-Ste C
-Westside
-Las Vegas, NV 89102",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,10:30 - 21:00,TRUE,"Italian,Mediterranean,Restaurants",Las Vegas,10,Sofia's Cafe,Westside,-115.1988518,36.1286647,NV,3
-yY3JDvjkgh1aSCanr9mgBQ,"6719 Frank Lloyd Wright
-Middleton, WI 53562",,,,,,,,FALSE,"Mediterranean,Restaurants",Middleton,9,Palmyra Restaurant,,-89.498128,43.106913,WI,3.5
-vogZZuDmuVZmKssoZ11Kyw,"2105 Sherman Ave
-Madison, WI 53704",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,,TRUE,"Food,Mediterranean,Food Trucks,Restaurants",Madison,132,Banzo,,-89.36459541,43.10167223,WI,4.5
-7aS0iFpab3XHFQrRGMOKXw,"2530 W Happy Valley Rd
-Ste 1261
-Phoenix, AZ 85085",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,TRUE,"Vegetarian,American (New),Mediterranean,Restaurants",Phoenix,83,Pita Jungle,,-112.113014,33.713095,AZ,4
-OgnHyXXqElaPgs7isOrdBQ,"450 Fremont St
-Ste 123
-Downtown
-Las Vegas, NV 89101",11:00 - 23:30,11:00 - 23:30,11:00 - 23:30,11:00 - 23:30,11:00 - 01:00,11:00 - 01:00,11:00 - 23:30,TRUE,"Burgers,Vegetarian,Mediterranean,Restaurants",Las Vegas,81,Cous Cous Mediterranean Cafe,Downtown,-115.1408463,36.17005539,NV,4
-7eUFOcfxuXDdrHGVSp3_9A,"1845 E Broadway Rd
-Tempe, AZ 85281",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,11:00 - 21:00,TRUE,"American (New),Mediterranean,Gluten-Free,Restaurants",Tempe,142,Herb 'n Flavors,,-111.9081116,33.40657334,AZ,4
-q4TqK1xIa1QOp_wjiFjb3A,"4561 W Flamingo Rd
-Las Vegas, NV 89103",16:00 - 03:00,17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 03:00,17:00 - 03:00,17:00 - 00:00,FALSE,"Tapas/Small Plates,Tapas Bars,Mediterranean,Restaurants",Las Vegas,88,Marbella Tapas,,-115.2032516,36.1153832,NV,3.5
-tWVuAPWXvW2g8ce0WWepXA,"20206 N 27th Ave
-Ste A
-Phoenix, AZ 85027",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,,TRUE,"Greek,American (Traditional),Mediterranean,Restaurants",Phoenix,37,George's Famous Gyros & Pasta,,-112.117962,33.670413,AZ,4.5
-u37MZNUTDE3ijQraArwLrA,"380 W Sahara Ave
-The Strip
-Las Vegas, NV 89102",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,TRUE,"Mediterranean,Restaurants",Las Vegas,8,Pumpkin & Pecan Shish Kabob Shop,The Strip,-115.1627872,36.1440399,NV,2.5
-mSARPsn69D62ugw3rJxOtQ,"3111 W Chandler Blvd
-Chandler, AZ 85226",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,11:00 - 18:00,TRUE,"Middle Eastern,Greek,Mediterranean,Restaurants",Chandler,17,Gyro King,,-111.9026145,33.3052343,AZ,3.5
-SKO1eefgrWjTp-NnsS7FTw,"6420 S Pecos Rd
-Southeast
-Las Vegas, NV 89120",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,TRUE,"Mediterranean,Restaurants",Las Vegas,126,Parsley Mediterranean Grill,Southeast,-115.100413,36.072381,NV,3.5
-yQW-kC_vmhmw78D62HKZdQ,"1639 W Warm Springs Rd
-Henderson, NV 89014",10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,FALSE,"Mediterranean,Restaurants",Henderson,8,Mediterranean Grill,,-115.0559333,36.0557242,NV,3
-mMbsqbFSaHsBxZQPGNSuOQ,"4255 S Durango Dr
-Spring Valley
-Las Vegas, NV 89147",11:30 - 21:00,11:30 - 21:00,11:30 - 21:00,11:30 - 21:00,11:30 - 21:30,11:30 - 21:30,11:30 - 21:00,FALSE,"Persian/Iranian,Mediterranean,Restaurants",Las Vegas,32,The Village Mediterranean Grill,Spring Valley,-115.2793898,36.1121084,NV,4
-EDJCvbklEbHU1e1sOfBreg,"4680 S Maryland Pkwy
-University
-Las Vegas, NV 89119",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 02:00,10:30 - 02:00,10:30 - 19:00,TRUE,"Greek,Fast Food,Mediterranean,Restaurants",Las Vegas,49,Pita Pit,University,-115.1367851,36.104435,NV,3.5
-Aam-loVHeWJzFmjR9i4uow,"2101 S Decatur Blvd
-Westside
-Las Vegas, NV 89102",,,,,,,,TRUE,"Mediterranean,Restaurants",Las Vegas,7,Royal Cuisine,Westside,-115.2098129,36.1486584,NV,4
-RO1fBofbml7ygeY2AiWFYg,"5255 S Decatur Blvd
-Ste 115
-Las Vegas, NV 89118",07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,TRUE,"Food,Coffee & Tea,Mediterranean,Breakfast & Brunch,Restaurants",Las Vegas,120,The Daily Egg,,-115.2088673,36.0944572,NV,3.5
-5niUestkeI0tBcBAv4SyKw,"4921 E Ray Rd
-Ste B2
-Phoenix, AZ 85044",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,TRUE,"Vegetarian,American (New),Mediterranean,Restaurants",Phoenix,116,Pita Jungle,,-111.9765164,33.3172434,AZ,4
-Lq0kV5Tp6QcAMP-OOnHCtA,"1155 S Higley Rd
-Mesa, AZ 85206",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,,FALSE,"Greek,Mediterranean,Restaurants",Mesa,13,Ariana's Kabob & Gyros,,-111.718791,33.394408,AZ,3.5
-6UGAtEw8TH6J6YeRRZpwKg,"3801 Las Vegas Blvd S
-Eastside
-Las Vegas, NV 89109",18:00 - 00:00,18:00 - 00:00,18:00 - 02:00,20:00 - 03:00,20:00 - 03:00,11:30 - 18:00,11:30 - 18:00,FALSE,"Mediterranean,Restaurants",Las Vegas,49,Bagatelle Las Vegas,Eastside,-115.146372,36.124423,NV,3
-g1nyGrCI6ibXlIRLMWtvhA,"16948 E Shea Blvd
-Ste 101
-Fountain Hills, AZ 85268",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,10:00 - 20:00,TRUE,"Food,Ethnic Food,Specialty Food,Mediterranean,Restaurants",Fountain Hills,32,Munich Gyros,,-111.7142695,33.5738374,AZ,4.5
--I8JegdD-4huAo3z0A_ZhA,"4440 S Maryland Pkwy
-Ste 109
-University
-Las Vegas, NV 89119",10:30 - 22:30,10:30 - 22:30,10:30 - 22:30,10:30 - 22:30,10:30 - 22:30,10:30 - 22:30,12:00 - 21:00,TRUE,"Persian/Iranian,Mediterranean,Restaurants",Las Vegas,38,Flame Kabob,University,-115.1372337,36.10864355,NV,3
-wxd-aYUwswZKjoIr8t-53w,"9915 W Mcdowell Rd
-Ste 104
-Avondale, AZ 85392",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 22:00,10:30 - 22:00,10:30 - 21:00,TRUE,"Greek,Vegetarian,Mediterranean,Restaurants",Avondale,143,Pita Kitchen,,-112.2727525,33.46456819,AZ,4.5
-rLHVgSA8foTgapmzzUyamw,"5686 W Bell Rd
-Glendale, AZ 85308",10:30 - 15:00,15:00 - 22:00,15:00 - 22:00,15:00 - 22:00,15:00 - 02:00,15:00 - 02:00,15:00 - 22:00,TRUE,"Mediterranean,Middle Eastern,Event Planning & Services,Venues & Event Spaces,Restaurants",Glendale,28,Cleopatra,,-112.181582,33.640122,AZ,3
-W3VsNhHLMRj5ABMdMcpaUw,"7122 E Greenway Pkwy
-Ste 120
-Scottsdale, AZ 85254",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 21:00,10:00 - 21:00,12:00 - 18:00,TRUE,"Food,Specialty Food,Mediterranean,Restaurants",Scottsdale,12,Queen Creek Olive Mill Oils & Olives Kierland Commons,,-111.9293764,33.6228883,AZ,5
-jNc_HINcNZx-jkh06R2YEQ,"6530 W Happy Valley
-Ste 114
-Glendale, AZ 85310",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 20:00,TRUE,"Middle Eastern,Greek,Mediterranean,Restaurants",Glendale,37,Ammos Mediterranean Grill,,-112.2006889,33.713643,AZ,4
-ASGebKrraHYSBaEcavy3Xg,"10720 S Eastern Ave
-Ste 100
-Anthem
-Henderson, NV 89052",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,08:00 - 22:00,08:00 - 21:00,FALSE,"Breakfast & Brunch,Caterers,Mediterranean,Event Planning & Services,Restaurants",Henderson,87,Bon Chef Cafe,Anthem,-115.1025425,35.9975751,NV,4
-6kyDVPmMcp5Bogqcc99low,"2790 S Fish Hatchery Rd
-Fitchburg, WI 53711",15:00 - 21:00,15:00 - 21:00,15:00 - 21:00,15:00 - 21:00,15:00 - 22:00,15:00 - 22:00,09:00 - 15:00,TRUE,"Wine Bars,Bars,Mediterranean,Nightlife,Restaurants",Fitchburg,31,Veranda Restaurant & Wine Bar,,-89.426755,43.006191,WI,3.5
-b-K95FpxCtIBCEr0GvuQGw,"1405 E Sunset Rd
-Ste 130
-Southeast
-Las Vegas, NV 89119",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,TRUE,"Mediterranean,Restaurants",Las Vegas,79,Fresh Kabob,Southeast,-115.1342367,36.07142799,NV,4
-goLadHq-tQII-WCrqjVnIQ,"Boulevard Mall
-3528 S Maryland Pkwy
-Eastside
-Paradise, NV 89109",,,,,,,,TRUE,"Mediterranean,Restaurants",Paradise,4,Ele's Fresh Mediterranean Grill,Eastside,-115.1459885,36.12511938,NV,4
-setfRzkAcOPxKH5TZLTqJQ,"3400 E Sky Harbor Blvd
-Ste 3300
-Phoenix, AZ 85034",,,,,,,,TRUE,"Breakfast & Brunch,American (New),Mediterranean,Restaurants",Phoenix,38,Olive & Ivy,,-112.0067166,33.4357166,AZ,3.5
-MyeOK7hDefkzlOW4-Y0qVw,"100 E Washington Ave
-Capitol
-Madison, WI 53703",10:00 - 14:00,10:00 - 14:00,10:00 - 14:00,10:00 - 14:00,10:00 - 14:00,,,TRUE,"Falafel,Mediterranean,Restaurants",Madison,4,King of Falafel and Grill,Capitol,-89.38228607,43.07602692,WI,3.5
-Oi_OT6erHvm6lb_D8bwslw,"2502 E Camelback Rd
-Ste 148H
-Phoenix, AZ 85016",10:00 - 20:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 20:00,11:00 - 20:00,12:00 - 18:00,TRUE,"Food,Specialty Food,Mediterranean,Restaurants",Phoenix,6,Queen Creek Olive Mill Oils & Olives Biltmore Fashion Park,,-112.027191,33.510185,AZ,5
-tYOx9fHj6B6rmoNRdrAPFQ,"14880 N Northsight Blvd
-Scottsdale, AZ 85260",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 19:00,FALSE,"Middle Eastern,Mediterranean,Restaurants",Scottsdale,51,The Mediterranean Grill,,-111.8983459,33.62164688,AZ,4.5
-5W2s7_z9u15l1HcuoAHsfg,"7116 E Mercer Ln
-Scottsdale, AZ 85254",,,,,,,,FALSE,"Kosher,Mediterranean,Middle Eastern,Restaurants",Scottsdale,23,Paprika Mediterranean Experience,,-111.927548,33.585636,AZ,4
-1epH2hHsZ2HoSU8ugWWSOw,"933 E University Dr
-Ste 112
-Tempe, AZ 85281",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,TRUE,"Middle Eastern,Mediterranean,Ethiopian,Restaurants",Tempe,22,Juba,,-111.9247139,33.4213508,AZ,4.5
-gpAAY-SdEFyKpk8NSSHsgQ,"3617 E Southern Ave
-Ste 4
-Mesa, AZ 85206",10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,,TRUE,"Greek,Mediterranean,Restaurants",Mesa,25,Gyro House,,-111.7531446,33.3936881,AZ,4
-pW2YJJHHDhs2GgMsbj9FbQ,"Superstition Springs Blvd
-Mesa, AZ",,,,,,,,TRUE,"Greek,Mediterranean,Restaurants",Mesa,3,Zita Mediterranean Eatery,,-111.6849409,33.383932,AZ,2
-yggyuN3FV_NiQCKfvN-b-Q,"2502 E Camelback Rd
-Ste 148A
-Phoenix, AZ 85016",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,12:00 - 18:00,FALSE,"Bars,Mediterranean,Wine Bars,Nightlife,Restaurants,Sandwiches",Phoenix,22,Queen Creek Olive Mill Trattoria,,-112.0284918,33.5104258,AZ,4
-zXR9WUVpo-PF8xH5SmQ_xA,"73 Hanover Street
-New Town
-Edinburgh EH2 1EE",,,,,,,,TRUE,"Restaurants,Mediterranean,Turkish",Edinburgh,6,Yeni Meze Bar,New Town,-3.1973593,55.953935,EDH,3.5
-l-BQohlzgAwKxK3ltXuOVw,"8876 S Eastern Ave
-Las Vegas, NV 89123",08:00 - 19:00,08:00 - 19:00,08:00 - 19:00,08:00 - 19:00,08:00 - 19:00,08:00 - 19:00,08:00 - 19:00,TRUE,"Bakeries,Food,Mediterranean,Restaurants",Las Vegas,6,Nour Deli And Bakery,,-115.1149607,36.0291019,NV,4
-XjdTBvHGFQl0NdUuoGLdBw,"9940 W Happy Valley Pkwy 101
-Peoria, AZ 85383",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 22:00,11:00 - 19:00,TRUE,"Mediterranean,Restaurants",Peoria,29,Gyros Town,,-112.2731482,33.7114452,AZ,4
-3ULJQrfcz81fYgBomNHV8Q,"3400 S Jones Blvd
-Las Vegas, NV 89146",16:00 - 05:30,16:00 - 05:30,16:00 - 05:30,16:00 - 05:30,16:00 - 05:30,16:00 - 05:30,16:00 - 05:30,TRUE,"Bars,Mediterranean,Dance Clubs,Nightlife,Hookah Bars,Restaurants",Las Vegas,10,Myxx Hookah Lounge,,-115.2245664,36.1280756,NV,3.5
-dGar8pDtGR5_6IIRqMfcIQ,"10211 N Scottsdale Rd
-Scottsdale, AZ 85253",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 15:00,,11:00 - 21:00,TRUE,"Kosher,Mediterranean,Restaurants",Scottsdale,31,Kitchen18,,-111.925555,33.5786877,AZ,4
-svx5Gw-FJ6ZU9hb58aXgLg,"930 W Broadway Rd
-Ste 11
-Tempe, AZ 85282",10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 19:00,,TRUE,"Middle Eastern,Lebanese,Mediterranean,Moroccan,Restaurants",Tempe,177,Hummus Xpress,,-111.9537532,33.40780326,AZ,4.5
+business_id,full_address,mon_hours,tue_hours,wed_hours,thu_hours,fri_hours,sat_hours,sun_hours,open,categories,city,city.1,name,neighborhoods,longitude,latitude,state,stars
 sJpv6MouGQhQOt0V0W0UYw,"8665 W Flamingo Rd
 Ste 107
 Spring Valley
-Las Vegas, NV 89147",12:00 - 02:00,12:00 - 02:00,12:00 - 02:00,12:00 - 02:00,12:00 - 02:00,12:00 - 02:00,12:00 - 02:00,TRUE,"Bars,Mediterranean,Nightlife,Lounges,Hookah Bars,Restaurants",Las Vegas,68,Layla Grill & Hookah,Spring Valley,-115.2803993,36.1139221,NV,5
-CuaZCAmWy1h7DuYfEG3lpQ,"27 Marshall Street
-Newington
-Newington
-Edinburgh EH8 9BJ",,,,,,,,TRUE,"Mediterranean,Restaurants",Edinburgh,9,Olive Tree,Newington,-3.1842824,55.9424256,EDH,3.5
-KrFkX0kVeCrjdqoakXYy8w,"10612 S Eastern Ave
-Anthem
-Henderson, NV 89052",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 22:00,10:30 - 22:00,11:00 - 21:00,TRUE,"Greek,Mediterranean,Salad,Restaurants",Henderson,104,Stephano's Greek & Mediterranean Grill,Anthem,-115.10386,35.9988269,NV,4.5
-iRIqMJbQ_BBFkQC5oU9SOg,"9864 W Peoria Ave
-Peoria, AZ 85345",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 21:00,11:00 - 02:00,11:00 - 20:00,FALSE,"Lebanese,Mediterranean,Middle Eastern,Restaurants",Peoria,3,Nineveh Restaurant,,-112.2716651,33.5803521,AZ,2
-F706EOWbbOe_zdXrVc0jew,"McCarran International Airport Concourse E
-5757 Wayne Newton Blvd
-Southeast
-Las Vegas, NV 89111",,,,,,,,TRUE,"Food,Mediterranean,Restaurants",Las Vegas,5,La Tapenade Mediterranean Cafe,Southeast,-115.133261,36.08040931,NV,2
-zhq6sI96WcBQRvkQq8NfKQ,"2920 E Germann Rd
-Chandler, AZ 85286",,,,,,,,TRUE,"Greek,Mediterranean,Restaurants",Chandler,17,My Big Fat Greek Restaurant,,-111.7894116,33.27781067,AZ,3.5
-8JcgRwcyqpQUle4HIlwG0A,"7510 S Priest Dr
-Ste 104
-Tempe, AZ 85283",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 16:00,TRUE,"Greek,Mediterranean,Vegan,Restaurants",Tempe,26,Tzikii Pita Grill,,-111.9635376,33.34963636,AZ,4
-Hl8ChFS_0BgSKYxNAdOzbQ,"10895 S Eastern Ave
-Ste 130
-Anthem
-Henderson, NV 89052",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,11:00 - 20:00,TRUE,"Middle Eastern,Vegetarian,Mediterranean,Restaurants",Henderson,39,Yalla Mediterranean Grill,Anthem,-115.101582,35.993777,NV,4
-RqddKSVAuYRKjV8KZFuMQA,"1101 Sherman Ave
-Tenney - Lapham
-Madison, WI 53704",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,11:00 - 21:00,,FALSE,"Fast Food,Cafes,Mediterranean,Restaurants",Madison,3,Zizo Cafe,Tenney - Lapham,-89.374657,43.088836,WI,4
-ELFgjsfhfy8plr7g_ouyMg,"Chandler, AZ 85286",,,,,,,,TRUE,"Indian,Mediterranean,Restaurants",Chandler,3,Biryani Kitchens,,-111.8210866,33.2664407,AZ,3.5
-iZdynPTpKwbX5O3uLeC9Gg,"5932 W Bell Rd
-Ste D-109
-Glendale, AZ 85308",,,,,,,,TRUE,"Greek,Mediterranean,Restaurants",Glendale,9,Chicago Gyros,,-112.1870284,33.6403912,AZ,4
-Y1jkxceoqE5LrTL5eqPXsA,"814 E Union Hills Rd
-Phoenix, AZ 85024",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 22:00,10:00 - 00:00,10:00 - 20:00,TRUE,"Russian,American (Traditional),Mediterranean,Restaurants",Phoenix,11,Euro Grill,,-112.062315,33.655825,AZ,3.5
-dpnUnyzN_by1MER7F8ezzA,"15414 N 7th St
-Ste 6
-Phoenix, AZ 85022",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 19:00,,TRUE,"Greek,Mediterranean,Restaurants",Phoenix,26,Gyrosology,,-112.0662462,33.62630761,AZ,4.5
-fC2nbJgAazYnLK2pCDineg,"7000 E Mayo Blvd
-Phoenix, AZ 85054",11:00 - 20:00,11:00 - 18:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,,TRUE,"Persian/Iranian,Mediterranean,Restaurants",Phoenix,29,Skewers Persian Grill,,-111.9300279,33.65568399,AZ,4.5
-jXwMec7aDs_hXKhSUvBHfw,"4929 W Ray Rd
-Chandler, AZ 85226",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 21:00,11:00 - 20:00,11:00 - 20:00,FALSE,"Greek,American (New),Mediterranean,Restaurants",Chandler,20,Greek Grill & Fry Co.,,-111.925763,33.319526,AZ,3.5
-6dmzRLVm1M25X8X699kBPw,"23535 N Scottsdale Rd
-Ste 102
-Scottsdale, AZ 85255",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,TRUE,"Food,Food Delivery Services,Greek,Mediterranean,Restaurants",Scottsdale,26,Pita Cafe,,-111.9252851,33.7012665,AZ,4
-l-npaoUMhCy8HocKsuI-GQ,"6160 W Tropicana Ave
-Ste E 8
-Las Vegas, NV 89103",10:00 - 00:00,10:00 - 00:00,10:00 - 00:00,10:00 - 00:00,10:00 - 00:00,10:00 - 00:00,12:00 - 00:00,TRUE,"Mediterranean,Restaurants",Las Vegas,26,BG Bistro,,-115.2272996,36.10052786,NV,4.5
-Af2qmVsMCzpKEg4DxsCm2g,"1310 E Silverado Ranch Blvd
-Southeast
-Las Vegas, NV 89123",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,TRUE,"Mediterranean,Restaurants",Las Vegas,59,Pita House,Southeast,-115.134967,36.013806,NV,4.5
-y-7MgH1zwW3vagfSLlmZUw,"3701 N Marshall Way
-Scottsdale, AZ 85251",17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,TRUE,"Food,Desserts,American (New),Mediterranean,Restaurants",Scottsdale,59,Virtù,,-111.927964,33.490695,AZ,4
-jS3cHd1E5TuUZbQWpBZqVg,"6593 Las Vegas Blvd S
-Ste 222
-Southeast
-Las Vegas, NV 89119",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,TRUE,"Irish,American (New),Mediterranean,Restaurants",Las Vegas,118,McFadden's Restaurant and Saloon,Southeast,-115.1776797,36.0684803,NV,2.5
-#NAME?,"5440 Willow Rd
-Waunakee, WI 53597",,11:00 - 14:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,,,FALSE,"Italian,Mediterranean,Restaurants",Waunakee,3,Bunky's Cafe,,-89.41630907,43.15066584,WI,4.5
+Las Vegas, NV 89147",12:00 - 02:00,12:00 - 02:00,12:00 - 02:00,12:00 - 02:00,12:00 - 02:00,12:00 - 02:00,12:00 - 02:00,True,"Bars,Mediterranean,Nightlife,Lounges,Hookah Bars,Restaurants",Las Vegas,68,Layla Grill & Hookah,Spring Valley,-115.2803993,36.1139221,NV,5.0
 0HIOVPAD0NngfT1_zrUh5w,"1445 W Southern Ave
 Fiesta Mall
-Mesa, AZ 85202",,,,,,,,TRUE,"Mediterranean,Restaurants",Mesa,8,Sahara Express,,-111.8609449,33.38891454,AZ,5
-4KUtlXKejC8saY5euhDVrA,"4312 W Cactus Rd
-Ste 10
-Glendale, AZ 85304",09:00 - 17:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,TRUE,"Mediterranean,Restaurants",Glendale,33,Shawarma King,,-112.1522241,33.5964473,AZ,4.5
-zbjPg_vvxCWkFjeEvVpmnA,"1500 N Green Valley Pkwy
-Ste 230
-Henderson, NV 89074",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,11:00 - 16:00,TRUE,"Lebanese,Mediterranean,American (New),Middle Eastern,Restaurants",Henderson,48,ZiKiZ,,-115.086426,36.02951,NV,4.5
-giaz_4IuWCB56GIYY1Qlig,"1805 E Elliot Rd
-Tempe, AZ 85284",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:30 - 14:00,FALSE,"Mediterranean,Restaurants",Tempe,7,Fusion Mediterranean Delight,,-111.909978,33.3478761,AZ,4.5
+Mesa, AZ 85202",,,,,,,,True,"Mediterranean,Restaurants",Mesa,8,Sahara Express,,-111.8609449,33.38891454,AZ,5.0
+W3VsNhHLMRj5ABMdMcpaUw,"7122 E Greenway Pkwy
+Ste 120
+Scottsdale, AZ 85254",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 21:00,10:00 - 21:00,12:00 - 18:00,True,"Food,Specialty Food,Mediterranean,Restaurants",Scottsdale,12,Queen Creek Olive Mill Oils & Olives Kierland Commons,,-111.9293764,33.6228883,AZ,5.0
+Oi_OT6erHvm6lb_D8bwslw,"2502 E Camelback Rd
+Ste 148H
+Phoenix, AZ 85016",10:00 - 20:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 20:00,11:00 - 20:00,12:00 - 18:00,True,"Food,Specialty Food,Mediterranean,Restaurants",Phoenix,6,Queen Creek Olive Mill Oils & Olives Biltmore Fashion Park,,-112.027191,33.510185,AZ,5.0
+Ls2ZYnTrESmH8t9TpCSHqA,"4804 E Chandler Blvd
+Phoenix, AZ 85048",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 21:00,11:00 - 21:00,11:00 - 20:00,True,"Mediterranean,Restaurants",Phoenix,3,ZK Grill,,-111.9798844,33.3057767,AZ,5.0
+iG6o2hynadsVsOWeh9b1Vg,"87 Giles St
+Leith
+Leith
+Edinburgh EH6 6BZ",,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,,True,"Mediterranean,Restaurants",Edinburgh,3,Vintners Rooms,Leith,-3.1723567000000004,55.97403050000001,EDH,5.0
 pXZtlGpKm-AHLPjD-reuIw,"1320 E Broadway Rd
 Ste 101
-Tempe, AZ 85281",12:00 - 21:00,12:00 - 21:00,12:00 - 21:00,12:00 - 21:00,12:00 - 22:00,12:00 - 22:00,12:00 - 21:00,TRUE,"Mediterranean,Arabian,Middle Eastern,Restaurants",Tempe,9,Palm Beach Middle Eastern Restaurant,,-111.9171196,33.40829585,AZ,4.5
-99sCwDPUWx_b-n-d6sZ0CA,"3510 E Bell Rd
-Ste 3
-Phoenix, AZ 85032",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 17:00,TRUE,"Greek,Mediterranean,Restaurants",Phoenix,25,Kabab House,,-112.0063922,33.6412984,AZ,4.5
-CpR0HFCJNjZ4bAHlR3EVhA,"15689 N Hayden Rd
-Ste C3
-Scottsdale, AZ 85260",11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 21:00,11:00 - 21:00,11:00 - 19:00,TRUE,"Mediterranean,Restaurants",Scottsdale,13,Aladdin Mediterranean Deli & Cafe,,-111.8920458,33.62864677,AZ,4
-z7wUzllCnzHVuNzMQw43Hw,"14858 N Frank Lloyd Wright Blvd
-Scottsdale, AZ 85260",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,TRUE,"Vegetarian,American (New),Mediterranean,Restaurants",Scottsdale,56,Pita Jungle,,-111.8757538,33.62113975,AZ,3.5
-0aKii4YS6MYZlPCsKPaF5w,"Desert Ridge
-21001 N Tatum Blvd, Ste 36-1210
-Phoenix, AZ 85050",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,TRUE,"Mediterranean,Restaurants",Phoenix,30,Garbanzo Mediterranean Grill,,-111.9723853,33.67605373,AZ,3.5
-NqA43LG4PCPEDQT672zMNA,"1652 S. Val Vista Dr.
-Suite 128
-Mesa, AZ 85204",,,,,,,,TRUE,"Vegetarian,American (New),Mediterranean,Restaurants",Mesa,49,Pita Jungle,,-111.7558768,33.3853255,AZ,4
-1Vaz1OBQGj7xiCxIBuQIvA,"At Town Square
-6587 S Las Vegas Blvd, Ste 190
-Southeast
-Las Vegas, NV 89119",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,TRUE,"Mediterranean,Restaurants",Las Vegas,39,Crazy Pita Rotisserie & Grill,Southeast,-115.1784122,36.06957968,NV,4
+Tempe, AZ 85281",12:00 - 21:00,12:00 - 21:00,12:00 - 21:00,12:00 - 21:00,12:00 - 22:00,12:00 - 22:00,12:00 - 21:00,True,"Mediterranean,Arabian,Middle Eastern,Restaurants",Tempe,9,Palm Beach Middle Eastern Restaurant,,-111.9171196,33.40829585,AZ,4.5
+4KUtlXKejC8saY5euhDVrA,"4312 W Cactus Rd
+Ste 10
+Glendale, AZ 85304",09:00 - 17:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,True,"Mediterranean,Restaurants",Glendale,33,Shawarma King,,-112.1522241,33.5964473,AZ,4.5
 vcMcfqkkX-o4Ta-hr65odg,"5932 W Bell
 Ste D 109
-Glendale, AZ 85308",10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 18:00,TRUE,"Greek,American (Traditional),Mediterranean,Restaurants",Glendale,9,Al's Gyro's,,-112.1870284,33.6403912,AZ,4.5
-VRKO86sUgxlXhVUurPwHBw,"8877 N Scottsdale Rd
-Ste 402
-Scottsdale, AZ 85258",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,17:00 - 22:00,17:00 - 22:00,TRUE,"Bars,Mediterranean,Cocktail Bars,Nightlife,Restaurants,Italian",Scottsdale,49,Naya Mediterranean Cuisine,,-111.925034,33.5659639,AZ,4
-4oYMRD8vawSyXTdFl3-nPA,"36460 N Encanterra Dr
-San Tan Valley, AZ 85140",,,,,,,,TRUE,"Mediterranean,Restaurants",San Tan Valley,6,Bistro 1528,,-111.5561122,33.2115591,AZ,3.5
-bNXbX9sAyRb971A0-tIPrw,"4568 E Cactus Rd
-Phoenix, AZ 85032",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 21:00,FALSE,"Persian/Iranian,Mediterranean,Restaurants",Phoenix,14,Persian King,,-111.9834389,33.6011167,AZ,3.5
+Glendale, AZ 85308",10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 18:00,True,"Greek,American (Traditional),Mediterranean,Restaurants",Glendale,9,Al's Gyro's,,-112.1870284,33.6403912,AZ,4.5
+zbjPg_vvxCWkFjeEvVpmnA,"1500 N Green Valley Pkwy
+Ste 230
+Henderson, NV 89074",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,11:00 - 16:00,True,"Lebanese,Mediterranean,American (New),Middle Eastern,Restaurants",Henderson,48,ZiKiZ,,-115.086426,36.02951,NV,4.5
+giaz_4IuWCB56GIYY1Qlig,"1805 E Elliot Rd
+Tempe, AZ 85284",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:30 - 14:00,False,"Mediterranean,Restaurants",Tempe,7,Fusion Mediterranean Delight,,-111.909978,33.3478761,AZ,4.5
+2WYBbV-VCKcnFemxWDZH_w,"239 E Main St
+Sun Prairie, WI 53590",,16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,16:00 - 21:00,11:00 - 21:00,16:00 - 21:00,True,"Greek,Mediterranean,Restaurants",Sun Prairie,30,Atlantis Taverna,,-89.21159509999998,43.1829812,WI,4.5
+4rr-CJp0jMKr-kg9wnrTdw,"2620 W Broadway Rd
+Mesa, AZ 85202",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,11:00 - 19:00,True,"Middle Eastern,Lebanese,Mediterranean,Arabian,Restaurants",Mesa,76,Princess Mediterranean Market & Deli,,-111.887898,33.407996999999995,AZ,4.5
+l-npaoUMhCy8HocKsuI-GQ,"6160 W Tropicana Ave
+Ste E 8
+Las Vegas, NV 89103",10:00 - 00:00,10:00 - 00:00,10:00 - 00:00,10:00 - 00:00,10:00 - 00:00,10:00 - 00:00,12:00 - 00:00,True,"Mediterranean,Restaurants",Las Vegas,26,BG Bistro,,-115.2272996,36.10052786,NV,4.5
+#NAME?,"717 W Union Hills
+Ste 1
+Phoenix, AZ 85027",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 18:00,True,"Greek,Mediterranean,Restaurants",Phoenix,143,Chicago Gyros,,-112.08357990000002,33.65435321,AZ,4.5
+Ap6gsHZAT_ALSmBg2Zut3Q,"6949 E Shea Blvd
+Scottsdale, AZ 85254",,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 21:00,12:00 - 21:00,False,"Greek,Vegetarian,Mediterranean,Middle Eastern,Restaurants",Scottsdale,16,Sabuddy Israeli,,-111.931282,33.581569,AZ,4.5
+SkcccvAydbt5zlQI0EUL2g,"7369 W Bell Rd
+Peoria, AZ 85382",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 21:00,11:00 - 21:00,11:00 - 19:00,True,"Greek,Mediterranean,Restaurants",Peoria,184,Greek Wraps,,-112.217436,33.637659,AZ,4.5
+yJYXwvF_RBUIdguShrYSSg,"77 Sirloin Strip
+Capitol View Heights
+Madison, WI 53713",16:00 - 22:00,16:00 - 00:00,16:00 - 00:00,16:00 - 01:00,16:00 - 02:30,16:00 - 02:30,16:00 - 22:00,True,"Bars,Mediterranean,Middle Eastern,Nightlife,Lounges,Restaurants",Madison,14,Mediterranean Hookah Lounge and Cafe,Capitol View Heights,-89.386628,43.038886,WI,4.5
+Af2qmVsMCzpKEg4DxsCm2g,"1310 E Silverado Ranch Blvd
+Southeast
+Las Vegas, NV 89123",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,True,"Mediterranean,Restaurants",Las Vegas,59,Pita House,Southeast,-115.134967,36.013806,NV,4.5
 dcoG-HYQEAgvFzcBtQb_yg,"1674 N Higley Rd
 Ste 104
-Gilbert, AZ 85234",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,TRUE,"Afghan,Mediterranean,Middle Eastern,Restaurants",Gilbert,70,Rania's Kabob Grill,,-111.724168,33.381279,AZ,4.5
-Z98h1BhssZeFfZvcVTYOpw,"223 E Brown Rd
-Mesa, AZ 85201",10:30 - 00:00,10:30 - 00:00,10:30 - 00:00,10:30 - 02:00,10:30 - 02:00,10:30 - 02:00,10:30 - 00:00,TRUE,"Italian,Mediterranean,Pizza,Restaurants",Mesa,18,"MAYA New York Pizza, Bar & Grill",,-111.826084,33.434384,AZ,2.5
+Gilbert, AZ 85234",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,True,"Afghan,Mediterranean,Middle Eastern,Restaurants",Gilbert,70,Rania's Kabob Grill,,-111.724168,33.381279,AZ,4.5
+zfY68t7nVihCwiCsCgM6cw,"1930 W Pinnacle Peak Rd
+Ste 101
+Phoenix, AZ 85027",09:00 - 19:00,09:00 - 19:00,09:00 - 19:00,09:00 - 19:00,09:00 - 19:00,04:00 - 19:00,11:00 - 19:00,True,"Food,Ethnic Food,Specialty Food,Mediterranean,Restaurants",Phoenix,74,Olive Tree Market & Grill,,-112.101312,33.6988429,AZ,4.5
+ed5VpqG6NlI2_ALQpZ0lLA,"625 State St
+Capitol
+Madison, WI 53703",10:00 - 16:00,10:00 - 16:00,10:00 - 16:00,10:00 - 16:00,10:00 - 16:00,10:00 - 16:00,,True,"Greek,Mediterranean,Restaurants",Madison,101,Mediterranean Cafe,Capitol,-89.3964056,43.0748824,WI,4.5
+VXLTu4PnNrKYsma_UiB5WQ,"1747 E Camelback Rd
+Ste 103
+Phoenix, AZ 85016",09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 20:00,09:00 - 20:00,True,"Mediterranean,Restaurants",Phoenix,3,Greka Pita,,-112.0437342,33.50835444,AZ,4.5
+FY_OXEVcewAQFZuu6fynLA,"4026 E Indian School Rd
+Phoenix, AZ 85073",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 20:00,True,"Greek,Mediterranean,Restaurants",Phoenix,182,Z's Greek,,-111.9940154,33.4953688,AZ,4.5
 0IV5L36XeQShzWiUhom9bQ,"8150 S Maryland Pkwy
 120
 Southeast
-Las Vegas, NV 89123",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 20:00,TRUE,"Afghan,Mediterranean,Restaurants",Las Vegas,18,Kabob Factory,Southeast,-115.1353976,36.0416591,NV,4.5
-tFPN713LPJi7MQpErUCKmw,"4575 E Cactus Rd
-Ste 140
-Phoenix, AZ 85032",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,TRUE,"Mediterranean,Restaurants",Phoenix,17,Garbanzo Mediterranean Grill,,-111.9834622,33.59949052,AZ,3.5
-OVjs6oiUxmpXEvXqlGciMQ,"9301 E Shea Blvd
-Ste 109
-Scottsdale, AZ 85260",,,,,,,,TRUE,"Falafel,Greek,Mediterranean,Restaurants",Scottsdale,9,Gyros Express,,-111.880627,33.5811962,AZ,4
-tFWuvLflDDvTdypS_vdfNA,"5190 S Valley View Blvd
-Ste 100
-Las Vegas, NV 89118",08:00 - 16:00,08:00 - 16:00,08:00 - 16:00,08:00 - 16:00,08:00 - 16:00,,,TRUE,"Falafel,Italian,Mediterranean,Restaurants",Las Vegas,4,Mia Bella Cafe,,-115.189211,36.095691,NV,4
-61KIRAhuBo2qECDMoG-T5Q,"6530 S Decatur Blvd
-Las Vegas, NV 89118",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,11:00 - 19:00,11:00 - 19:00,TRUE,"Mediterranean,Restaurants",Las Vegas,35,Shawarma Plus,,-115.2073833,36.071207,NV,3.5
-3KUwS1FedV0_L5y_D9YAiQ,"419 State St
-Capitol
-Madison, WI 53703",,,,,,,,TRUE,"Mediterranean,Restaurants",Madison,23,Palmyra Mediterranean Grill,Capitol,-89.3925202,43.0748105,WI,3.5
-VXLTu4PnNrKYsma_UiB5WQ,"1747 E Camelback Rd
-Ste 103
-Phoenix, AZ 85016",09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 20:00,09:00 - 20:00,TRUE,"Mediterranean,Restaurants",Phoenix,3,Greka Pita,,-112.0437342,33.50835444,AZ,4.5
-A01nkmSFV2W8U5lHPd_XXQ,"4515 Monona Dr
-Monona, WI 53716",10:00 - 22:00,11:30 - 15:00,11:30 - 15:00,11:30 - 15:00,11:30 - 15:00,11:30 - 15:00,17:00 - 20:00,TRUE,"Greek,Mediterranean,Restaurants",Monona,4,Its All Greek,,-89.326424,43.0707675,WI,3.5
-Ls2ZYnTrESmH8t9TpCSHqA,"4804 E Chandler Blvd
-Phoenix, AZ 85048",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 21:00,11:00 - 21:00,11:00 - 20:00,TRUE,"Mediterranean,Restaurants",Phoenix,3,ZK Grill,,-111.9798844,33.3057767,AZ,5
-DJcfo17B-761yesIILSxEQ,"7131 W Ray Rd
-Ste 7
-Chandler, AZ 85226",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,TRUE,"Greek,Mediterranean,Restaurants",Chandler,13,Zoe's Kitchen,,-111.9683442,33.31756062,AZ,3.5
+Las Vegas, NV 89123",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 20:00,True,"Afghan,Mediterranean,Restaurants",Las Vegas,18,Kabob Factory,Southeast,-115.1353976,36.0416591,NV,4.5
+99sCwDPUWx_b-n-d6sZ0CA,"3510 E Bell Rd
+Ste 3
+Phoenix, AZ 85032",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 17:00,True,"Greek,Mediterranean,Restaurants",Phoenix,25,Kabab House,,-112.0063922,33.6412984,AZ,4.5
+dpnUnyzN_by1MER7F8ezzA,"15414 N 7th St
+Ste 6
+Phoenix, AZ 85022",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 19:00,,True,"Greek,Mediterranean,Restaurants",Phoenix,26,Gyrosology,,-112.0662462,33.62630761,AZ,4.5
+fC2nbJgAazYnLK2pCDineg,"7000 E Mayo Blvd
+Phoenix, AZ 85054",11:00 - 20:00,11:00 - 18:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,,True,"Persian/Iranian,Mediterranean,Restaurants",Phoenix,29,Skewers Persian Grill,,-111.9300279,33.65568399,AZ,4.5
+dn9sB0Kok8cnkDhpcl7YCg,"10652 N 32nd St
+Phoenix, AZ 85028",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,,True,"Mediterranean,Middle Eastern,Restaurants",Phoenix,57,Gyro House,,-112.0131039,33.583492799999995,AZ,4.5
+#NAME?,"5440 Willow Rd
+Waunakee, WI 53597",,11:00 - 14:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,,,False,"Italian,Mediterranean,Restaurants",Waunakee,3,Bunky's Cafe,,-89.41630907,43.15066584,WI,4.5
+0TgiBiSmp6cHVGqDuIkANA,"43-45 Salisbury Road
+Newington
+Edinburgh EH16 5AA",18:00 - 21:00,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,True,"Food,Coffee & Tea,Mediterranean,French,Restaurants",Edinburgh,3,Cafe Cassis,Newington,-3.1769633,55.9377649,EDH,4.5
 yZXEELxi8KMwzXCHP345GQ,"2550 S Rainbow Blvd
 Ste  W1
 Westside
-Las Vegas, NV 89146",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,TRUE,"Bars,Turkish,Mediterranean,Nightlife,Lounges,Restaurants",Las Vegas,18,Maza Mediterranean Grill & Lounge,Westside,-115.2419755,36.1433968,NV,4.5
+Las Vegas, NV 89146",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,True,"Bars,Turkish,Mediterranean,Nightlife,Lounges,Restaurants",Las Vegas,18,Maza Mediterranean Grill & Lounge,Westside,-115.2419755,36.1433968,NV,4.5
+1epH2hHsZ2HoSU8ugWWSOw,"933 E University Dr
+Ste 112
+Tempe, AZ 85281",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,True,"Middle Eastern,Mediterranean,Ethiopian,Restaurants",Tempe,22,Juba,,-111.9247139,33.421350800000006,AZ,4.5
+ukTwFX4wQW4FbQbnWI9aJg,"263 E Warner Rd
+Ste 105
+Gilbert, AZ 85296",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 20:00,True,"Fast Food,Mediterranean,Restaurants",Gilbert,72,Pita Di Vita,,-111.7838032,33.3349062,AZ,4.5
+tYOx9fHj6B6rmoNRdrAPFQ,"14880 N Northsight Blvd
+Scottsdale, AZ 85260",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 19:00,False,"Middle Eastern,Mediterranean,Restaurants",Scottsdale,51,The Mediterranean Grill,,-111.8983459,33.62164688,AZ,4.5
+rN2cc4bXzlsIxhWEoolBTg,"7620 E McKellips Rd
+Ste 6
+Scottsdale, AZ 85257",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,True,"Greek,American (Traditional),Mediterranean,Restaurants",Scottsdale,143,George's Famous Gyros,,-111.916537,33.45168,AZ,4.5
+tWVuAPWXvW2g8ce0WWepXA,"20206 N 27th Ave
+Ste A
+Phoenix, AZ 85027",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,,True,"Greek,American (Traditional),Mediterranean,Restaurants",Phoenix,37,George's Famous Gyros & Pasta,,-112.117962,33.670413,AZ,4.5
+rGvkljWlP7ysvLEUucoyqA,"3655 S Durango Dr
+Ste 11-14
+Spring Valley
+Las Vegas, NV 89147",09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 16:00,True,"Persian/Iranian,Mediterranean,Restaurants",Las Vegas,122,Zaytoon Mediterranean Market and Kabob,Spring Valley,-115.2794069,36.1238325,NV,4.5
+LxNehlnStQY_rxEwiPof_g,"4243 W Thunderbird Rd
+Phoenix, AZ 85053",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 19:30,,True,"Greek,Mediterranean,Restaurants",Phoenix,88,King Gyros,,-112.15006909999998,33.6106434,AZ,4.5
+svx5Gw-FJ6ZU9hb58aXgLg,"930 W Broadway Rd
+Ste 11
+Tempe, AZ 85282",10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 19:00,,True,"Middle Eastern,Lebanese,Mediterranean,Moroccan,Restaurants",Tempe,177,Hummus Xpress,,-111.9537532,33.40780326,AZ,4.5
+wxd-aYUwswZKjoIr8t-53w,"9915 W Mcdowell Rd
+Ste 104
+Avondale, AZ 85392",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 22:00,10:30 - 22:00,10:30 - 21:00,True,"Greek,Vegetarian,Mediterranean,Restaurants",Avondale,143,Pita Kitchen,,-112.2727525,33.46456819,AZ,4.5
+ll8SKTQKqajLeLi64-93Qw,"4825 W Flamingo Rd
+Las Vegas, NV 89103",,,,,,,,False,"Bakeries,Mediterranean,Middle Eastern,Food,Restaurants",Las Vegas,5,Byblos Cafe & Pastries,,-115.206845,36.114821,NV,4.5
+g1nyGrCI6ibXlIRLMWtvhA,"16948 E Shea Blvd
+Ste 101
+Fountain Hills, AZ 85268",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,10:00 - 20:00,True,"Food,Ethnic Food,Specialty Food,Mediterranean,Restaurants",Fountain Hills,32,Munich Gyros,,-111.7142695,33.5738374,AZ,4.5
+2MY2YOCvReXGpXxtN0_a3A,"565 Marks St
+Henderson, NV 89014",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 21:00,11:00 - 21:00,,True,"Greek,Mediterranean,Restaurants",Henderson,125,Greek Bistro,,-115.037085,36.062364,NV,4.5
+KrFkX0kVeCrjdqoakXYy8w,"10612 S Eastern Ave
+Anthem
+Henderson, NV 89052",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 22:00,10:30 - 22:00,11:00 - 21:00,True,"Greek,Mediterranean,Salad,Restaurants",Henderson,104,Stephano's Greek & Mediterranean Grill,Anthem,-115.10386,35.9988269,NV,4.5
+FrPm9l_CmSwBe8TCEiQnUg,"7101 E Thunderbird Rd
+Ste 101A
+Scottsdale, AZ 85254",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 00:00,11:00 - 00:00,11:00 - 22:00,False,"Wine Bars,Bars,Mediterranean,Nightlife,Restaurants",Scottsdale,7,Crush'd Wine Bar and Market,,-111.927561,33.610963,AZ,4.5
+vogZZuDmuVZmKssoZ11Kyw,"2105 Sherman Ave
+Madison, WI 53704",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,,True,"Food,Mediterranean,Food Trucks,Restaurants",Madison,132,Banzo,,-89.36459541,43.10167223,WI,4.5
+NZSa_ULvwidCxA0OG7B2Ig,"7116 E Mercer Ln
+Scottsdale, AZ 85254",08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 16:00,19:30 - 23:00,08:00 - 20:00,True,"Kosher,Vegetarian,Mediterranean,Restaurants",Scottsdale,49,Mozart Cafe & Bakery,,-111.927548,33.585636,AZ,4.5
+AfWA8pvc5AW9QafQLui7_A,"1275 W Warm Springs Rd
+Ste 160
+Henderson, NV 89014",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 21:00,11:00 - 21:00,,True,"Greek,Mediterranean,Diners,Restaurants",Henderson,279,The Great Greek,,-115.0416366,36.0555969,NV,4.5
+93hdmjYc8IXsf69VrkRHog,"15414 N 19th Ave
+Phoenix, AZ 85023",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,True,"Greek,American (Traditional),Mediterranean,Restaurants",Phoenix,149,Good Fellas Grill,,-112.1002302,33.6264211,AZ,4.5
+nRO4tRwimU12hg7Cnz__iA,"13843 N Tatum Blvd
+Ste 29
+Phoenix, AZ 85032",11:00 - 20:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 21:00,16:00 - 20:00,True,"Greek,Mediterranean,Restaurants",Phoenix,145,Eden's Grill Inn,,-111.976905,33.612935,AZ,4.5
+XxE8YV18K6Cb7uvQLN3XZQ,"205 N Country Club Dr
+Mesa, AZ 85201",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,11:00 - 20:00,True,"Greek,Mediterranean,Restaurants",Mesa,61,Georges Gyros,,-111.8393707,33.419866,AZ,4.5
+LCPso_j2icWvJI1bHN9uDQ,"172 Morningside Rd
+Morningside
+Edinburgh EH10 4AX",,,,,,,,True,"Mediterranean,Restaurants",Edinburgh,4,Yellow Café,Morningside,-3.2096007,55.9294257,EDH,4.5
+ILoDsxtqtLU2oTMaf_laGQ,"4872 W Lone Mountain Rd
+Northwest
+Las Vegas, NV 89130",08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,,True,"Greek,Mediterranean,Restaurants",Las Vegas,164,Baladie Café,Northwest,-115.2091942,36.2467581,NV,4.5
+XGK7mKZJQtJa77Izhx6xyQ,"8275 W Lake Pleasant Pkwy
+Peoria, AZ 85382",,,,,,,,False,"Mediterranean,Restaurants",Peoria,6,Royal Gyros,,-112.239255,33.669826,AZ,4.0
+ky6c1bhp1695tWLfnyKOyQ,"9550 S Eastern Ave
+Southeast
+Las Vegas, NV 89123",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 20:00,True,"Mediterranean,Persian/Iranian,Middle Eastern,Restaurants",Las Vegas,79,Kabob Grill,Southeast,-115.117581,36.01465839999999,NV,4.0
+VD8a_B589J_NlCirS8QA0Q,"37555 Hum Rd
+Ste 109
+Carefree, AZ 85377",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,False,"Greek,Mediterranean,Restaurants",Carefree,24,Saba's Mediterranean Cuisine,,-111.922982,33.825638,AZ,4.0
+2l4UTdi_F9zVZ1Kv4Fj-zQ,"7365 W Sahara Ave
+Ste K
+Westside
+Las Vegas, NV 89117",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,12:00 - 20:00,True,"Greek,Lebanese,Mediterranean,Middle Eastern,Restaurants",Las Vegas,101,Hedary's Mediterranean Restaurant,Westside,-115.2536257,36.1430817,NV,4.0
+3Zsjlum5kl5N5KV712aTMQ,"11111 N 7th St
+Phoenix, AZ 85020",18:00 - 21:30,18:00 - 21:30,18:00 - 21:30,18:00 - 21:30,18:00 - 22:00,18:00 - 22:00,18:00 - 21:30,True,"Italian,American (Traditional),Mediterranean,Restaurants",Phoenix,189,Different Pointe of View,,-112.064668,33.59547,AZ,4.0
+fWnGkLnZzv2yl3fB7xF40g,"17040 N Scottsdale Rd
+Scottsdale, AZ 85255",11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 22:30,11:00 - 22:30,11:00 - 21:30,True,"Mediterranean,Persian/Iranian,Middle Eastern,Restaurants",Scottsdale,273,Persian Room,,-111.9257091,33.641182,AZ,4.0
+LsUJZOMKl4QpWbVCV2nVqQ,"1300 W Sunset Rd
+Henderson, NV 89014",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,11:00 - 18:00,True,"Greek,Mediterranean,Restaurants",Henderson,68,Kyklos Greek Cafe,,-115.045078,36.068241,NV,4.0
+UL6H7LGaeM4X0p8OJ3h1aw,"10210 W McDowell Rd
+Unit 120
+Avondale, AZ 85323",,,,,,,,False,"Greek,Mediterranean,Restaurants",Avondale,6,Ararat Mediterranean Restaurant,,-112.345359,33.430535,AZ,4.0
+y6sNNP97UCSl_p2o5Wm40A,"4147 S Maryland Pkwy
+Eastside
+Las Vegas, NV 89119",11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,True,"Greek,Vegetarian,Mediterranean,Restaurants",Las Vegas,274,Paymon's Mediterranean Cafe & Lounge,"Eastside,University",-115.13823,36.1135943,NV,4.0
+LsArM1PhbqvXK3lDK-Ch_w,"4632 S Maryland Pkwy
+University
+Las Vegas, NV 89119",10:30 - 19:00,10:30 - 19:00,10:30 - 19:00,10:30 - 19:00,10:30 - 19:00,11:00 - 17:00,00:00 - 20:00,True,"Greek,Mediterranean,Middle Eastern,Restaurants",Las Vegas,202,Stephano's Greek & Mediterranean Grill,University,-115.136178,36.1051599,NV,4.0
+qXQ3ZBdwI3GlbR5-eYWqNA,"4747 E Bell Rd
+Phoenix, AZ 85032",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,,True,"Greek,Mediterranean,Restaurants",Phoenix,102,Saba's Mediterranean Cuisine,,-112.00303,33.62121,AZ,4.0
+238vCjwa6kQCV7ukJI6d8A,"3655 W Anthem Way
+Anthem, AZ 85086",,,,,,,,True,"Greek,Mediterranean,Restaurants",Anthem,23,Mr Gyros II,,-112.1388544,33.8649126,AZ,4.0
+8Z3jgKCdfp57PvT1AFOWtg,"3900 Paradise Rd
+Ste Y
+Eastside
+Las Vegas, NV 89169",17:30 - 23:00,17:30 - 23:00,17:30 - 23:00,17:30 - 23:00,17:30 - 23:00,17:30 - 23:00,17:30 - 23:00,True,"Mediterranean,Middle Eastern,Moroccan,Restaurants",Las Vegas,209,Marrakech Moroccan Restaurant,Eastside,-115.1542695,36.1186973,NV,4.0
+jNc_HINcNZx-jkh06R2YEQ,"6530 W Happy Valley
+Ste 114
+Glendale, AZ 85310",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 20:00,True,"Middle Eastern,Greek,Mediterranean,Restaurants",Glendale,37,Ammos Mediterranean Grill,,-112.2006889,33.713643,AZ,4.0
+9nC58L8jwheiihZfc3poJA,"5050 E McDowell Rd
+Phoenix, AZ 85008",,,,,,,,True,"Middle Eastern,African,Mediterranean,Restaurants",Phoenix,21,Juba Restaurant,,-111.97384270000002,33.46587326,AZ,4.0
+eg4nd09goZ8opkthsKgn5Q,"1125 E Apache Blvd
+Tempe, AZ 85281",16:00 - 02:00,16:00 - 02:00,16:00 - 02:00,16:00 - 02:00,16:00 - 04:00,16:00 - 04:00,16:00 - 02:00,True,"Mediterranean,Middle Eastern,Restaurants",Tempe,28,King Tut Cafe & Catering,,-111.921157,33.414417,AZ,4.0
+eGevCRobYnA_HSj60sEWvQ,"1250 E. Apache Blvd.
+Tempe, AZ 85281",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,True,"Vegetarian,American (New),Mediterranean,Restaurants",Tempe,323,Pita Jungle,,-111.9185086,33.4153291,AZ,4.0
+iAmIyYVuQ8rDfbM-serqHA,"3850 E Sunset Rd
+Ste D
+Southeast
+Las Vegas, NV 89120",12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,12:00 - 03:00,17:00 - 03:00,17:00 - 01:00,True,"Hookah Bars,Bars,Mediterranean,Nightlife,Restaurants",Las Vegas,77,The Olive Mediterranean Grill,Southeast,-115.0903923,36.07184399,NV,4.0
+cvb__rYMkj4BMhC3p_FB3Q,"4041 E Thomas Rd
+Ste 107
+Phoenix, AZ 85018",,,,,,,,False,"Greek,Mediterranean,Restaurants",Phoenix,14,Olympic Flame,,-111.994039,33.479852,AZ,4.0
+w19cemjVR8u02PgjFpJ7Mw,"4340 E. Indian School Rd.
+Phoenix, AZ 85018",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,True,"Vegetarian,American (New),Mediterranean,Restaurants",Phoenix,242,Pita Jungle,,-111.9883722,33.4954826,AZ,4.0
+nBrD6TxddhHx4FhMk32JvQ,"10826 S 48th St
+Phoenix, AZ 85044",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,,True,"Greek,Mediterranean,Restaurants",Phoenix,101,Niro's Gyros,,-111.9803928,33.3482841,AZ,4.0
+Ryq600aoE3h8_qRQGIed9A,"2810 E Washington Ave
+Eken Park
+Madison, WI 53704",07:00 - 20:00,06:00 - 20:00,07:00 - 20:00,06:00 - 20:00,06:00 - 20:00,07:00 - 20:00,06:00 - 19:30,True,"Bakeries,Lebanese,Food,Mediterranean,Middle Eastern,Restaurants",Madison,40,People's Bakery,Eken Park,-89.345949,43.102942,WI,4.0
+VpHNYumY3F92a90AArkFyQ,"1900 W Chandler Blvd
+Ste 21
+Chandler, AZ 85224",,,,,,,,True,"Greek,Mediterranean,Restaurants",Chandler,65,Gyro Express,,-111.8742595,33.307263,AZ,4.0
+ASGebKrraHYSBaEcavy3Xg,"10720 S Eastern Ave
+Ste 100
+Anthem
+Henderson, NV 89052",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,08:00 - 22:00,08:00 - 21:00,False,"Breakfast & Brunch,Caterers,Mediterranean,Event Planning & Services,Restaurants",Henderson,87,Bon Chef Cafe,Anthem,-115.1025425,35.9975751,NV,4.0
+5niUestkeI0tBcBAv4SyKw,"4921 E Ray Rd
+Ste B2
+Phoenix, AZ 85044",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,True,"Vegetarian,American (New),Mediterranean,Restaurants",Phoenix,116,Pita Jungle,,-111.9765164,33.3172434,AZ,4.0
+Aam-loVHeWJzFmjR9i4uow,"2101 S Decatur Blvd
+Westside
+Las Vegas, NV 89102",,,,,,,,True,"Mediterranean,Restaurants",Las Vegas,7,Royal Cuisine,Westside,-115.2098129,36.1486584,NV,4.0
+Aicnm12Zped8nQFXyRRFvw,"3332 S Mill Ave
+Tempe, AZ 85282",,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,,True,"Mediterranean,Greek,Middle Eastern,Restaurants",Tempe,65,Byblos Restaurant,,-111.940663,33.392538,AZ,4.0
+KjymOs12Mpy0Kd54b7T9MA,"Bellagio Resort &Casino
+3600 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109",11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,11:00 - 22:30,True,"Mediterranean,Restaurants",Las Vegas,980,Olives,The Strip,-115.17698,36.111978,NV,4.0
+O1pk6lxrTI0zJrdQuXhIEQ,"10040 W McDowell Rd
+Avondale, AZ 85323",,,,,,,,False,"Greek,Mediterranean,Restaurants",Avondale,11,My Big Fat Greek Restaurant,,-112.2796661,33.4646908,AZ,4.0
+yH6iIl_4jzNF44L3HUZ3AQ,"558 State St
+Capitol
+Madison, WI 53703",,,,,,,,False,"Greek,Mediterranean,Mexican,Restaurants",Madison,4,Saz,Capitol,-89.394958,43.075141,WI,4.0
+t54zAs7IftAVb9SKcCRotw,"3015 E Thomas Rd
+Phoenix, AZ 85016",,,,,,,,False,"Greek,Mediterranean,Restaurants",Phoenix,34,Bacchanal Ristorante,,-112.016481,33.479605,AZ,4.0
+3VKJ7cWSH38QKgCrYlG3Mg,"7126 N 35th Ave
+Phoenix, AZ 85051",,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,True,"Greek,Mediterranean,Restaurants",Phoenix,52,The Golden Greek,,-112.1343372,33.5415109,AZ,4.0
+Rg3INE2p4zQYvfMvJduEOQ,"4747 N 20th St
+Phoenix, AZ 85016",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,True,"Greek,Mediterranean,Restaurants",Phoenix,118,Cyprus Grill of Phoenix,,-112.0388617,33.5062577,AZ,4.0
+7eUFOcfxuXDdrHGVSp3_9A,"1845 E Broadway Rd
+Tempe, AZ 85281",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,11:00 - 21:00,True,"American (New),Mediterranean,Gluten-Free,Restaurants",Tempe,142,Herb 'n Flavors,,-111.9081116,33.40657334,AZ,4.0
+2to5b5taseO9zZ9tnQqhlw,"1810 W Northern Ave
+Phoenix, AZ 85021",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,,True,"Greek,Mediterranean,Restaurants",Phoenix,32,Gyro's House,,-112.098337,33.553457,AZ,4.0
+cmf4fKU9D6XIvciQj7RjoQ,"7871 W Charleston Blvd
+Westside
+Las Vegas, NV 89117",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 17:00,True,"Greek,Mediterranean,Restaurants",Las Vegas,215,Yassou,Westside,-115.263591,36.158669,NV,4.0
+9ucO4e2ZQeeXANqMZT67GQ,"11 E 6th St
+Tempe, AZ 85281",09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,True,"Greek,Mediterranean,Restaurants",Tempe,53,The Munchies Cafe,,-111.9394584,33.42416511,AZ,4.0
+2Fn5-x5IX7CfhCKFYaZGyA,"7070 N Durango Dr
+Centennial
+Las Vegas, NV 89149",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,12:00 - 20:00,True,"Greek,Mediterranean,Restaurants",Las Vegas,163,Market Grille Cafe,Centennial,-115.2877293,36.2903141,NV,4.0
+0dIChGWBs9ueUXl0hhkw2w,"4041 N 15th Ave
+Phoenix, AZ 85015",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,13:00 - 19:00,True,"Greek,Mediterranean,Sandwiches,Restaurants",Phoenix,108,Crazy Jim's,,-112.0910715,33.4943622,AZ,4.0
+H-e74SghEFfIz_TdUS_2KQ,"453 W Gilman St
+Capitol
+Madison, WI 53703",,,,,,,,False,"Falafel,Mediterranean,Restaurants",Madison,9,King of Falafel,Capitol,-89.39503020000002,43.0736042,WI,4.0
+VGhMTZyqmGmM4Lrn9i6yuQ,"1335 W Thomas Rd
+Phoenix, AZ 85013",11:00 - 15:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,,True,"Vegetarian,Persian/Iranian,Mediterranean,Restaurants",Phoenix,48,Persian Garden Cafe,,-112.0906922,33.4802751,AZ,4.0
+dOo_jUaYeHC4b6bgOytinw,"6405 Mineral Point Rd
+Madison, WI 53705",,15:30 - 21:00,15:30 - 21:00,15:30 - 22:00,15:30 - 23:00,16:30 - 23:00,,True,"Mediterranean,Restaurants",Madison,39,Otto's Restaurant & Bar,,-89.49041690000001,43.060101,WI,4.0
+HEcysZlyextbht05aYZ-xQ,"507 E Fremont St
+Downtown
+Las Vegas, NV 89101",10:30 - 23:30,10:30 - 23:30,10:30 - 23:30,10:30 - 23:30,10:30 - 00:00,10:30 - 00:00,13:00 - 22:30,True,"Pakistani,Mediterranean,Halal,Restaurants",Las Vegas,160,Kabob Korner,Downtown,-115.1403267,36.16897270000001,NV,4.0
+qC6ZqST6Q58qXHsDAjM_5w,"2980 St Rose Pkwy
+Southeast
+Henderson, NV 89052",11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 03:00,11:00 - 03:00,11:00 - 01:00,False,"Mediterranean,Restaurants",Henderson,6,Chandelier Meditaranean Restaurant,"Southeast,Anthem",-115.1177757,36.0053075,NV,4.0
+EWMwV5V9BxNs_U6nNVMeqw,"3815 N Central Ave
+Phoenix, AZ 85012",11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 01:00,10:00 - 01:00,10:00 - 00:00,True,"Bars,Mediterranean,Nightlife,Lounges,American (New),Restaurants",Phoenix,1046,FEZ,,-112.0734977,33.4916953,AZ,4.0
+FltN1Hnw4n7BORXJH1kaeg,"1588 E Bethany Home Rd
+Phoenix, AZ 85014",,,,,,,,False,"Greek,Mediterranean,Middle Eastern,Restaurants",Phoenix,8,Mediterranean House,,-112.0479298,33.523717100000006,AZ,4.0
+TqR8kAPQ-2Np8RAaL_aspA,"5510 University Ave
+Spring Harbor
+Madison, WI 53705",,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,False,"Middle Eastern,Mediterranean,Restaurants",Madison,54,Shish Cafe Inc,Spring Harbor,-89.4757133,43.0830865,WI,4.0
+131oUL1FGLOg0AxbBxCtzg,"4860 W Flamingo Rd
+Las Vegas, NV 89103",,,,,,,,False,"Greek,Mediterranean,Restaurants",Las Vegas,23,Greek American Grille,,-115.136389,36.175,NV,4.0
+GaAVP8Tn8uUrZtulQw2iXA,"6620 W Flamingo Rd
+Ste 7
+Las Vegas, NV 89103",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,True,"Mediterranean,Middle Eastern,Restaurants",Las Vegas,142,Shish Kabob House,,-115.236636,36.114921,NV,4.0
+FjQWjXvFCdrgdU3Rgi3b3w,"7132 E Becker Ln
+Scottsdale, AZ 85254",,,,,,,,True,"Greek,Mediterranean,Restaurants",Scottsdale,48,Gyros Express,,-111.926732,33.583141999999995,AZ,4.0
+lzS66BeoLL0GRn1KrlmmFg,"7816 N 27th Ave
+Phoenix, AZ 85051",09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,True,"Greek,Mediterranean,Middle Eastern,Restaurants",Phoenix,9,Kabob Palace,,-112.1169966,33.5516353,AZ,4.0
+Ez2MFsVT5lJZ05yvK_0AXQ,"7366 E. Shea Blvd.
+Scottsdale, AZ 85260",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,True,"Middle Eastern,Vegetarian,American (New),Mediterranean,Restaurants",Scottsdale,286,Pita Jungle,,-111.9222691,33.584013899999995,AZ,4.0
+7H0nbExftMZlpZDXm0QrBw,"1150 S Gilbert Rd
+Gilbert, AZ 85296",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,True,"Buffets,Mediterranean,Halal,Restaurants",Gilbert,117,Phoenicia,,-111.7903,33.329291,AZ,4.0
+1Duul3qCnLrNak1Np-iHfw,"1949 W Ray Rd
+Chandler, AZ 85224",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,True,"Vegetarian,American (New),Mediterranean,Restaurants",Chandler,228,Pita Jungle,,-111.874339,33.319062,AZ,4.0
+KAKyy-8lKrPEzvtZJM1PGQ,"16758 E Glenbrook Blvd
+Fountain Hills, AZ 85268",,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,,False,"Greek,Mediterranean,Restaurants",Fountain Hills,12,Jimmy's Krazy Greek Restaurant,,-111.7184703,33.6246091,AZ,4.0
+n_d7HDsTdLc9IWwuPHBNlg,"4001 S Decatur Blvd
+Ste 34
+Las Vegas, NV 89103",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 21:00,13:00 - 20:00,True,"Greek,Mediterranean,Restaurants",Las Vegas,166,The Fat Greek,,-115.20928899999998,36.117196,NV,4.0
+_HAYDjkPJVabBXyvx-u9YQ,"7000 E Mayo Blvd
+Phoenix, AZ 85054",,,,,,,,True,"Greek,Mediterranean,Restaurants",Phoenix,28,Extreme Pita,,-111.9299197,33.6554989,AZ,4.0
+mMbsqbFSaHsBxZQPGNSuOQ,"4255 S Durango Dr
+Spring Valley
+Las Vegas, NV 89147",11:30 - 21:00,11:30 - 21:00,11:30 - 21:00,11:30 - 21:00,11:30 - 21:30,11:30 - 21:30,11:30 - 21:00,False,"Persian/Iranian,Mediterranean,Restaurants",Las Vegas,32,The Village Mediterranean Grill,Spring Valley,-115.2793898,36.1121084,NV,4.0
+53YGfwmbW73JhFiemNeyzQ,"7135 E Camelback Rd
+Ste 195
+Scottsdale, AZ 85251",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,10:00 - 23:00,10:00 - 22:00,True,"Breakfast & Brunch,American (New),Mediterranean,Restaurants",Scottsdale,654,Olive & Ivy,,-111.9276185,33.501981699999995,AZ,4.0
+50hOEQ2OutvIxrMjNml5bA,"11144 N Frank Lloyd Wright Blvd
+Ste E9
+Scottsdale, AZ 85259",11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,True,"Mediterranean,Persian/Iranian,Middle Eastern,Restaurants",Scottsdale,88,Pars Persian Cuisine,,-111.8363223,33.58712209,AZ,4.0
+uIDdneARsmwPLebKrwMtBw,"1431 E Williams Field Rd
+Ste 101
+Gilbert, AZ 85295",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,11:00 - 21:00,True,"Vegetarian,American (New),Mediterranean,Restaurants",Gilbert,140,Pita Jungle,,-111.7593107,33.3063001,AZ,4.0
+OgnHyXXqElaPgs7isOrdBQ,"450 Fremont St
+Ste 123
+Downtown
+Las Vegas, NV 89101",11:00 - 23:30,11:00 - 23:30,11:00 - 23:30,11:00 - 23:30,11:00 - 01:00,11:00 - 01:00,11:00 - 23:30,True,"Burgers,Vegetarian,Mediterranean,Restaurants",Las Vegas,81,Cous Cous Mediterranean Cafe,Downtown,-115.1408463,36.17005539,NV,4.0
+zonV2F6YNVn2_sI5dK82eg,"5118 S Rural Rd
+Tempe, AZ 85282",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,,True,"Middle Eastern,Mediterranean,Restaurants",Tempe,75,Pita Shack,,-111.9286883,33.3785599,AZ,4.0
+MFPk16G7fAxnCKTyfjw8Vw,"1850 W. Southern Ave.
+Mesa, AZ 85202",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,True,"Vegetarian,American (New),Mediterranean,Restaurants",Mesa,112,Pita Jungle,,-111.8718374,33.39356110000001,AZ,4.0
+_qTzOkbin2giDOrFsaxm8A,"Baiz Market
+523 N 20th St
+Phoenix, AZ 85006",,,,,,,,True,"Mediterranean,Middle Eastern,Halal,Restaurants",Phoenix,60,Al-Hana,,-112.038676,33.455036,AZ,4.0
+qwmHm3s8p7J12AIY6Co8HQ,"7530 W Bell Rd
+Ste 106
+Glendale, AZ 85308",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,True,"Vegetarian,American (New),Mediterranean,Restaurants",Glendale,168,Pita Jungle,,-112.220869,33.639638,AZ,4.0
+7KfgI59JMuYfL4yBKsl6BA,"83 Erb St W
+Waterloo, ON N2L 6C2",,,,,,,,True,"Bars,Greek,Mediterranean,Wine Bars,Nightlife,Restaurants",Waterloo,10,Sole Restaurant & Wine Bar,,-80.52730679999998,43.463366,ON,4.0
+eX_f1ZzrpejCp6xJpfLmDQ,"830 E Indian School Rd
+Phoenix, AZ 85014",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,08:00 - 22:00,True,"Greek,Mediterranean,Middle Eastern,Restaurants",Phoenix,46,Athens Bar & Grill,,-112.0632727,33.494748200000004,AZ,4.0
+7YYD_agS3Kb2sAx9JPkQEw,"25062 S Meridian Rd
+Queen Creek, AZ 85142",08:00 - 17:00,08:00 - 17:00,08:00 - 17:00,08:00 - 17:00,08:00 - 21:00,08:00 - 21:00,08:00 - 17:00,True,"Tours,Hotels & Travel,Mediterranean,Restaurants",Queen Creek,241,Queen Creek Olive Mill,,-111.5832712,33.22078481,AZ,4.0
+NigPSYUkjJ_JPzaDlApF_A,"1639 W Warm Springs Rd
+Henderson, NV 89014",10:30 - 20:30,10:30 - 20:30,10:30 - 20:30,10:30 - 20:30,10:30 - 20:30,10:30 - 20:30,12:00 - 20:30,False,"Greek,Mediterranean,Restaurants",Henderson,8,Tony's Place,,-115.0544316,36.05613889999999,NV,4.0
+CZSicdXjP5ekbTySTxgNQw,"48 George Iv Bridge
+Old Town
+Edinburgh EH1 1EJ",11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,True,"Fast Food,Mediterranean,Sandwiches,Restaurants",Edinburgh,18,Mediterranean Gate,Old Town,-3.1916186,55.947906,EDH,4.0
+0bQKW7e23wTJxgvs_p2HjQ,"9619 N Hayden Rd
+Scottsdale, AZ 85258",10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 16:00,,True,"Greek,Vegetarian,Mediterranean,Restaurants",Scottsdale,38,Shish Kabobs & Gyros,,-111.9055104,33.5737667,AZ,4.0
+zmvIqh26-lzpZROHuhA-6w,"4040 W Ray Rd
+Ste 12
+Chandler, AZ 85226",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 21:00,12:00 - 20:00,11:00 - 20:00,True,"Greek,Mediterranean,Restaurants",Chandler,108,Spices Mediterranean Kitchen,,-111.912972,33.32012,AZ,4.0
+wl51t6lT7leiX64SlkOx6g,"20910 N Tatum Blvd
+Suite 140
+Phoenix, AZ 85050",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,True,"Vegetarian,American (New),Mediterranean,Restaurants",Phoenix,215,Pita Jungle,,-111.9791944,33.6756727,AZ,4.0
+iZdynPTpKwbX5O3uLeC9Gg,"5932 W Bell Rd
+Ste D-109
+Glendale, AZ 85308",,,,,,,,True,"Greek,Mediterranean,Restaurants",Glendale,9,Chicago Gyros,,-112.1870284,33.6403912,AZ,4.0
+9em_vfSjwcPqQgU8Zj-hzA,"1940 S Alma School Rd
+Ste 5
+Chandler, AZ 85286",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 21:00,11:00 - 21:00,True,"Greek,Mediterranean,Restaurants",Chandler,105,Pitta Souvli,,-111.8604023,33.2770908,AZ,4.0
+OiCxoAIoBvEWxf7p1qVVmA,"Aria Resort and Casino
+3732 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,17:00 - 22:00,True,"American (New),Mediterranean,Restaurants",Las Vegas,646,Sage,The Strip,-115.1765013,36.10757739,NV,4.0
+QbS8kEuBXfN6FN_JCuFLuw,"15/16 George IV Bridge
+Grassmarket
+Edinburgh EH1 1EE",12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,12:00 - 23:00,True,"Modern European,Mediterranean,British,Restaurants",Edinburgh,100,The Outsider,"Grassmarket,Old Town",-3.1921432000000003,55.94795970000001,EDH,4.0
+TnkxapUN4nWMz_z5h3qMYg,"1001 N 3rd Ave
+Ste 3
+Phoenix, AZ 85003",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:00 - 22:00,True,"Vegetarian,American (New),Mediterranean,Restaurants",Phoenix,214,Pita Jungle,,-112.077468,33.459014,AZ,4.0
+oc9IJ7lhXKuXVK9JJBnohA,"610 N Alma School Rd
+Chandler, AZ 85224",08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,,True,"Greek,Mediterranean,Restaurants",Chandler,68,The Greeks Grill,,-111.860324,33.31414285,AZ,4.0
+zTh0ArlhidvA2C8RNE5wbg,"1320 W Elliot Rd
+Tempe, AZ 85284",,,,,,,,False,"Greek,Mediterranean,Restaurants",Tempe,4,Extreme Pita,,-111.9593221,33.3491937,AZ,4.0
+DjVWQ_Idtw6X5Eg0W5JFWg,"15090 N Northsight Blvd
+Scottsdale, AZ 85260",11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,,True,"Greek,Mediterranean,Restaurants",Scottsdale,61,Greek Gyros,,-111.89655,33.6234324,AZ,4.0
+KBtkZjuHbmAyxnDzSd5xgw,"The District at Green Valley Ranch
+2225 Village Walk Dr , Ste 175
+Anthem
+Henderson, NV 89052",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 20:00,True,"Mediterranean,Restaurants",Henderson,126,Crazy Pita Rotisserie & Grill,Anthem,-115.0849843,36.02131308,NV,4.0
+3SrWEUCWNy4lDq7ElWmtwA,"2980 S Durango Dr
+Ste 101
+Westside
+Las Vegas, NV 89117",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,,False,"Mediterranean,Restaurants",Las Vegas,12,Mad Pita Express,Westside,-115.278458,36.134956,NV,4.0
+38TiseZcVyypjNzuOROOWQ,"4804 E Chandler Blvd
+Ste 108
+Phoenix, AZ 85048",11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 15:00,False,"Mediterranean,Restaurants",Phoenix,4,Grill Wrap Cafe,,-111.979651,33.305766,AZ,4.0
+khUAi7h8c57uHdliKrv5FA,"5826 W Olive Ave
+Ste B101
+Glendale, AZ 85302",09:00 - 20:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 20:00,True,"Greek,Mediterranean,Middle Eastern,Restaurants",Glendale,71,Babylon Gyros & Shish Kabobs,,-112.1845146,33.5690224,AZ,4.0
+b-K95FpxCtIBCEr0GvuQGw,"1405 E Sunset Rd
+Ste 130
+Southeast
+Las Vegas, NV 89119",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,True,"Mediterranean,Restaurants",Las Vegas,79,Fresh Kabob,Southeast,-115.1342367,36.07142799,NV,4.0
+OqSiWQHnqYEWCIJLR-BcFw,"19 Colinton Road
+Edinburgh EH10 5DP",,,,,,,,False,"Cafes,Mediterranean,Restaurants",Edinburgh,9,The Olive Branch Bistro,,-3.2106617,55.9338246,EDH,4.0
+wtD7EvFhxt8EeNODbl1G_A,"7175 W Lake Mead Blvd
+Ste 130
+Las Vegas, NV 89128",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,,True,"Greek,Mediterranean,Restaurants",Las Vegas,145,Market Grille Cafe,,-115.24816,36.195285,NV,4.0
+yggyuN3FV_NiQCKfvN-b-Q,"2502 E Camelback Rd
+Ste 148A
+Phoenix, AZ 85016",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,12:00 - 18:00,False,"Bars,Mediterranean,Wine Bars,Nightlife,Restaurants,Sandwiches",Phoenix,22,Queen Creek Olive Mill Trattoria,,-112.0284918,33.5104258,AZ,4.0
+tFWuvLflDDvTdypS_vdfNA,"5190 S Valley View Blvd
+Ste 100
+Las Vegas, NV 89118",08:00 - 16:00,08:00 - 16:00,08:00 - 16:00,08:00 - 16:00,08:00 - 16:00,,,True,"Falafel,Italian,Mediterranean,Restaurants",Las Vegas,4,Mia Bella Cafe,,-115.189211,36.095691,NV,4.0
+l-BQohlzgAwKxK3ltXuOVw,"8876 S Eastern Ave
+Las Vegas, NV 89123",08:00 - 19:00,08:00 - 19:00,08:00 - 19:00,08:00 - 19:00,08:00 - 19:00,08:00 - 19:00,08:00 - 19:00,True,"Bakeries,Food,Mediterranean,Restaurants",Las Vegas,6,Nour Deli And Bakery,,-115.1149607,36.0291019,NV,4.0
+7aS0iFpab3XHFQrRGMOKXw,"2530 W Happy Valley Rd
+Ste 1261
+Phoenix, AZ 85085",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,True,"Vegetarian,American (New),Mediterranean,Restaurants",Phoenix,83,Pita Jungle,,-112.113014,33.713095,AZ,4.0
+DNdb2LwLnMiLIhFJnYRoLQ,"7435 S Eastern Ave
+Ste 110
+Southeast
+Las Vegas, NV 89123",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,False,"Pizza,Mediterranean,Restaurants",Las Vegas,27,Garden Cafe,Southeast,-115.15036,36.02395515,NV,4.0
+bNu-PVXtfyLE6A1qv9bDcA,"4441 N Buckboard Trl
+Scottsdale, AZ 85251",17:00 - 02:00,17:00 - 02:00,17:00 - 02:00,17:00 - 03:00,17:00 - 04:00,17:00 - 04:00,17:00 - 02:00,True,"Lebanese,Bars,Mediterranean,Middle Eastern,Nightlife,Hookah Bars,Restaurants",Scottsdale,17,Oasis Cafe,,-111.9233588,33.501738800000005,AZ,4.0
+1T1hQpU4kbukSLoz947BWQ,"4130 S Sandhill Rd
+Eastside
+Las Vegas, NV 89121",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,,False,"Middle Eastern,Greek,Mediterranean,Restaurants",Las Vegas,22,Filfila Mediterranean Cafe,Eastside,-115.0917302,36.1144544,NV,4.0
+8GlGakyGqp9WvToKcnJmxg,"111 S Hamilton St
+Capitol
+Madison, WI 53703",11:30 - 14:00,11:30 - 14:00,11:30 - 14:00,11:30 - 14:00,11:30 - 14:00,17:00 - 22:00,,True,"Italian,Mediterranean,Restaurants",Madison,123,Nostrano,Capitol,-89.384011,43.072631,WI,4.0
+7onAEqbbZChyYdB2nJoQdg,"4757 E Greenway Rd
+Phoenix, AZ 85032",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 21:00,11:00 - 21:00,11:00 - 20:00,True,"Mediterranean,Restaurants",Phoenix,104,ZK Grill,,-111.9786771,33.62598203,AZ,4.0
+R9uAC0qIVMDQ8mEtwY2ZYg,"16 Drummond Street
+Newington
+Edinburgh EH8 9TX",17:00 - 23:00,12:00 - 15:00,17:00 - 23:00,12:00 - 15:00,17:00 - 23:00,17:00 - 23:00,17:00 - 23:00,True,"Bistros,Mediterranean,French,Restaurants",Edinburgh,10,B'est,Newington,-3.1849185,55.9473465,EDH,4.0
+ikuXlYpFsaEs2xlvlopxQw,"8115 N 19th Ave
+Ste A101
+Phoenix, AZ 85021",,,,,,,,False,"Middle Eastern,Mediterranean,Restaurants",Phoenix,18,Golden Valley,,-112.09925,33.55529600000001,AZ,4.0
+rS-Fa73RchacSmfKO3dyPA,"100-102 Dalry Rd
+West End
+Edinburgh EH11 2DW",12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 22:00,12:00 - 23:00,12:00 - 23:00,12:00 - 16:00,True,"Vegetarian,Mediterranean,Restaurants",Edinburgh,5,Good Seed Bistro,"West End,Haymarket",-3.2194172,55.943673200000006,EDH,4.0
+goLadHq-tQII-WCrqjVnIQ,"Boulevard Mall
+3528 S Maryland Pkwy
+Eastside
+Paradise, NV 89109",,,,,,,,True,"Mediterranean,Restaurants",Paradise,4,Ele's Fresh Mediterranean Grill,Eastside,-115.1459885,36.12511938,NV,4.0
+gpAAY-SdEFyKpk8NSSHsgQ,"3617 E Southern Ave
+Ste 4
+Mesa, AZ 85206",10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,10:30 - 20:00,,True,"Greek,Mediterranean,Restaurants",Mesa,25,Gyro House,,-111.7531446,33.3936881,AZ,4.0
+PfXzO0BdNAoKjWKQ_bG06A,"4440 S Maryland Pkwy
+Ste 113
+University
+Las Vegas, NV 89119",,,,,,,,False,"Middle Eastern,Vegetarian,Mediterranean,Restaurants",Las Vegas,5,Cedars Restaurant,University,-115.1370794,36.1087848,NV,4.0
+OVjs6oiUxmpXEvXqlGciMQ,"9301 E Shea Blvd
+Ste 109
+Scottsdale, AZ 85260",,,,,,,,True,"Falafel,Greek,Mediterranean,Restaurants",Scottsdale,9,Gyros Express,,-111.880627,33.58119620000001,AZ,4.0
+6dmzRLVm1M25X8X699kBPw,"23535 N Scottsdale Rd
+Ste 102
+Scottsdale, AZ 85255",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,True,"Food,Food Delivery Services,Greek,Mediterranean,Restaurants",Scottsdale,26,Pita Cafe,,-111.9252851,33.7012665,AZ,4.0
+XjdTBvHGFQl0NdUuoGLdBw,"9940 W Happy Valley Pkwy 101
+Peoria, AZ 85383",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 22:00,11:00 - 19:00,True,"Mediterranean,Restaurants",Peoria,29,Gyros Town,,-112.2731482,33.71144520000001,AZ,4.0
+VRKO86sUgxlXhVUurPwHBw,"8877 N Scottsdale Rd
+Ste 402
+Scottsdale, AZ 85258",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,17:00 - 22:00,17:00 - 22:00,True,"Bars,Mediterranean,Cocktail Bars,Nightlife,Restaurants,Italian",Scottsdale,49,Naya Mediterranean Cuisine,,-111.925034,33.5659639,AZ,4.0
+8JcgRwcyqpQUle4HIlwG0A,"7510 S Priest Dr
+Ste 104
+Tempe, AZ 85283",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,12:00 - 16:00,True,"Greek,Mediterranean,Vegan,Restaurants",Tempe,26,Tzikii Pita Grill,,-111.9635376,33.34963636,AZ,4.0
+Hl8ChFS_0BgSKYxNAdOzbQ,"10895 S Eastern Ave
+Ste 130
+Anthem
+Henderson, NV 89052",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,11:00 - 20:00,True,"Middle Eastern,Vegetarian,Mediterranean,Restaurants",Henderson,39,Yalla Mediterranean Grill,Anthem,-115.101582,35.993777,NV,4.0
+RqddKSVAuYRKjV8KZFuMQA,"1101 Sherman Ave
+Tenney - Lapham
+Madison, WI 53704",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,11:00 - 21:00,,False,"Fast Food,Cafes,Mediterranean,Restaurants",Madison,3,Zizo Cafe,Tenney - Lapham,-89.374657,43.088836,WI,4.0
+dGar8pDtGR5_6IIRqMfcIQ,"10211 N Scottsdale Rd
+Scottsdale, AZ 85253",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 15:00,,11:00 - 21:00,True,"Kosher,Mediterranean,Restaurants",Scottsdale,31,Kitchen18,,-111.925555,33.5786877,AZ,4.0
+y-7MgH1zwW3vagfSLlmZUw,"3701 N Marshall Way
+Scottsdale, AZ 85251",17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,True,"Food,Desserts,American (New),Mediterranean,Restaurants",Scottsdale,59,Virtù,,-111.927964,33.490695,AZ,4.0
+CpR0HFCJNjZ4bAHlR3EVhA,"15689 N Hayden Rd
+Ste C3
+Scottsdale, AZ 85260",11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 21:00,11:00 - 21:00,11:00 - 19:00,True,"Mediterranean,Restaurants",Scottsdale,13,Aladdin Mediterranean Deli & Cafe,,-111.8920458,33.62864677,AZ,4.0
+NqA43LG4PCPEDQT672zMNA,"1652 S. Val Vista Dr.
+Suite 128
+Mesa, AZ 85204",,,,,,,,True,"Vegetarian,American (New),Mediterranean,Restaurants",Mesa,49,Pita Jungle,,-111.7558768,33.3853255,AZ,4.0
+5W2s7_z9u15l1HcuoAHsfg,"7116 E Mercer Ln
+Scottsdale, AZ 85254",,,,,,,,False,"Kosher,Mediterranean,Middle Eastern,Restaurants",Scottsdale,23,Paprika Mediterranean Experience,,-111.927548,33.585636,AZ,4.0
+1Vaz1OBQGj7xiCxIBuQIvA,"At Town Square
+6587 S Las Vegas Blvd, Ste 190
+Southeast
+Las Vegas, NV 89119",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,True,"Mediterranean,Restaurants",Las Vegas,39,Crazy Pita Rotisserie & Grill,Southeast,-115.1784122,36.06957968,NV,4.0
+tFPN713LPJi7MQpErUCKmw,"4575 E Cactus Rd
+Ste 140
+Phoenix, AZ 85032",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,True,"Mediterranean,Restaurants",Phoenix,17,Garbanzo Mediterranean Grill,,-111.9834622,33.59949052,AZ,3.5
+NNGJQF3WeIHzGzweCpZ-VA,"2241 N 7th St
+Phoenix, AZ 85006",,,,,,,,False,"Restaurants,Mediterranean,Italian",Phoenix,114,La Piccola Cucina,,-112.064752,33.472674,AZ,3.5
+kjYB71u_mUoE2w-_NnN4Ig,"150 University Avenue W
+Suite 3
+Waterloo, ON N2L 3E4",11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,11:30 - 23:00,12:00 - 23:00,12:00 - 22:00,True,"Restaurants,Mediterranean,Turkish",Waterloo,11,Meet Point Restaurant,,-80.53588852,43.47244173,ON,3.5
+cTUy1cEkxWeE0eoU_P9SNA,"7051 E McDowell Rd
+Scottsdale, AZ 85257",07:00 - 15:30,07:00 - 15:30,07:00 - 15:30,07:00 - 15:30,07:00 - 15:30,07:00 - 15:30,07:00 - 15:30,False,"Mediterranean,Restaurants",Scottsdale,15,The Nile Cafe,,-111.9292957,33.4656052,AZ,3.5
+s_aCmrCP8QmOHASsOlA33A,"9711 S Eastern Ave
+Ste H9
+Southeast
+Las Vegas, NV 89183",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,False,"American (Traditional),Mediterranean,Restaurants",Las Vegas,21,Chicken D'Lish,Southeast,-115.1189623,36.0123098,NV,3.5
+j7n42b5qDMJR68q3Dv9u6A,"2734 W Bell Rd
+Ste 1330
+Phoenix, AZ 85053",,,,,,,,False,"Mediterranean,Restaurants",Phoenix,3,La Mirage,,-112.11856029999998,33.639720600000004,AZ,3.5
+3YTW5lq-s-vNI640l-qm_Q,"933 E University Dr
+Ste 108
+Tempe, AZ 85281",10:30 - 03:30,10:30 - 03:30,10:30 - 03:30,10:30 - 03:30,10:30 - 03:30,10:30 - 03:30,11:00 - 01:00,True,"Greek,Mediterranean,Restaurants",Tempe,116,Oliveo Grill,,-111.9247139,33.421350800000006,AZ,3.5
+DJcfo17B-761yesIILSxEQ,"7131 W Ray Rd
+Ste 7
+Chandler, AZ 85226",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,True,"Greek,Mediterranean,Restaurants",Chandler,13,Zoe's Kitchen,,-111.9683442,33.31756062,AZ,3.5
+kCH4JxdKdwDfJdNFElSHzg,"610 E Roosevelt St
+Phoenix, AZ 85004",,,,,,,,False,"Greek,Mediterranean,Restaurants",Phoenix,13,The Nile Cafe,,-112.0662616,33.4588994,AZ,3.5
+6xDQaprsX-GMl6umXeILPw,"101 N 1st Ave
+Phoenix, AZ 85003",,,,,,,,False,"Greek,American (New),Mediterranean,Restaurants",Phoenix,7,101 Bistro,,-112.074714,33.449799,AZ,3.5
+trAvQPp7gps0Btk-2AmLpw,"521 W McDowell
+Phoenix, AZ 85003",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,True,"Mediterranean,Greek,Southern,Restaurants",Phoenix,109,Zoes Kitchen,,-112.081565,33.465499,AZ,3.5
+A01nkmSFV2W8U5lHPd_XXQ,"4515 Monona Dr
+Monona, WI 53716",10:00 - 22:00,11:30 - 15:00,11:30 - 15:00,11:30 - 15:00,11:30 - 15:00,11:30 - 15:00,17:00 - 20:00,True,"Greek,Mediterranean,Restaurants",Monona,4,Its All Greek,,-89.326424,43.0707675,WI,3.5
+tQTqlMW0sODNbe188ah1Yg,"8378 W Thunderbird Rd
+Peoria, AZ 85381",,,,,,,,True,"Greek,Mediterranean,Restaurants",Peoria,30,Gyros Palace,,-112.240062,33.611202,AZ,3.5
+BPN8GzoigZNQHEve5iP-gw,"25062 S Meridian Rd
+Queen Creek, AZ 85142",08:00 - 17:00,08:00 - 17:00,08:00 - 17:00,08:00 - 17:00,08:00 - 21:00,08:00 - 21:00,08:00 - 17:00,True,"Bars,Mediterranean,Wine Bars,Nightlife,Restaurants,Sandwiches",Queen Creek,29,Queen Creek Olive Mill Eatery,,-111.5832386,33.2210188,AZ,3.5
+ufD1e1Fxgin3W0oOf3W5og,"4568 E Cactus Rd
+Phoenix, AZ 85073",,,,,,,,True,"Greek,Mediterranean,Restaurants",Phoenix,10,Opa! Souvlaki,,-111.9834389,33.6011167,AZ,3.5
+M1n4HVSdD9FIyfmIoxxRrg,"2425 Atwood Ave
+Schenk - Atwood
+Madison, WI 53704",17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 22:00,11:00 - 22:00,17:00 - 21:00,True,"Restaurants,Mediterranean,Moroccan,Italian",Madison,85,Bunky's Cafe,Schenk - Atwood,-89.346172,43.093634,WI,3.5
+EYRaUAgeLc1gntkpZv2WHg,"1550 N Dysart Rd
+Ste B-8
+Goodyear, AZ 85395",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,True,"Greek,Restaurants,Mediterranean,Italian",Goodyear,69,Dino's Greek and Italian Grill,,-112.341878,33.463543,AZ,3.5
+odhXwWaYZvD_icIN6f_DbA,"814 N Central Ave
+Phoenix, AZ 85004",07:30 - 17:00,07:30 - 17:00,07:30 - 17:00,07:30 - 17:00,07:30 - 17:00,08:00 - 16:00,,True,"Greek,Mediterranean,Sandwiches,Restaurants",Phoenix,75,Athenian Express,,-112.0740241,33.457493199999995,AZ,3.5
+3KUwS1FedV0_L5y_D9YAiQ,"419 State St
+Capitol
+Madison, WI 53703",,,,,,,,True,"Mediterranean,Restaurants",Madison,23,Palmyra Mediterranean Grill,Capitol,-89.3925202,43.0748105,WI,3.5
+61KIRAhuBo2qECDMoG-T5Q,"6530 S Decatur Blvd
+Las Vegas, NV 89118",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,11:00 - 19:00,11:00 - 19:00,True,"Mediterranean,Restaurants",Las Vegas,35,Shawarma Plus,,-115.2073833,36.071207,NV,3.5
+PjMX4gcLx7m9TRKjGvyO-A,"6475 W Charleston Blvd
+Ste 120
+Westside
+Las Vegas, NV 89146",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,08:00 - 20:00,08:00 - 20:00,True,"Mediterranean,Restaurants",Las Vegas,4,Joseph's Cuisine,Westside,-115.23668290000002,36.1588556,NV,3.5
+niPFXq4r2mc0zFlOpWV3Eg,"4218 N Scottsdale Rd
+Scottsdale, AZ 85250",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 00:00,11:00 - 00:00,11:00 - 22:00,False,"Greek,Mediterranean,Restaurants",Scottsdale,55,My Big Fat Greek Restaurant,,-111.9262954,33.4974247,AZ,3.5
+emKCDGxYpL-hsLDQiULBdQ,"1290 N Scottsdale Rd
+Ste 107
+Tempe, AZ 85281",11:30 - 14:30,11:30 - 22:00,11:30 - 22:00,11:30 - 22:00,11:30 - 01:00,17:00 - 01:00,17:00 - 22:00,True,"Middle Eastern,Lebanese,Mediterranean,Restaurants",Tempe,111,Mijana,,-111.92746,33.442946,AZ,3.5
+3W59npo0X8utnGYLxl8GvA,"2550 S Rainbow Blvd
+Ste W1
+Westside
+Las Vegas, NV 89146",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 01:00,11:00 - 02:00,11:00 - 22:00,False,"Greek,Mediterranean,Restaurants",Las Vegas,63,Opa Restaurant,Westside,-115.242469,36.14294,NV,3.5
+D9H2EYJa9n7yDU013SVgvg,"2524 University Ave
+Regent
+Madison, WI 53774",,,,,,,,False,"Vegetarian,Mediterranean,Moroccan,Greek,Middle Eastern,Restaurants",Madison,8,Lulu's Deli and Restaurant,Regent,-89.42971999999997,43.072576,WI,3.5
+KLaxBc83JnxyGf7GP7enYA,"1940 E Camelback Rd
+Phoenix, AZ 85016",,,,,,,,True,"Greek,Mediterranean,Restaurants",Phoenix,49,Greekfest Restaurant,,-112.0394,33.510225,AZ,3.5
+zhq6sI96WcBQRvkQq8NfKQ,"2920 E Germann Rd
+Chandler, AZ 85286",,,,,,,,True,"Greek,Mediterranean,Restaurants",Chandler,17,My Big Fat Greek Restaurant,,-111.7894116,33.27781067,AZ,3.5
+5hFnyiEboorArk7cbCYeXQ,"3434 W Greenway Rd
+Phoenix, AZ 85053",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,12:00 - 19:00,09:00 - 16:00,True,"Greek,Mediterranean,Restaurants",Phoenix,26,JT Gyros,,-112.132496,33.626344,AZ,3.5
+vnnZKz4MhVtC7S3QdQPnfw,"2702 E Washington Ave
+Eken Park
+Madison, WI 53704",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,,True,"Greek,American (Traditional),Mediterranean,Restaurants",Madison,13,New Gyro House,Eken Park,-89.347327,43.10227,WI,3.5
+bfWpJH1kXf8jeD39IkDtUQ,"2107 S Rural Rd
+Tempe, AZ 85282",10:30 - 23:00,10:30 - 23:00,10:30 - 23:00,10:30 - 23:00,10:30 - 01:00,10:30 - 01:00,10:30 - 21:00,False,"Pizza,Mediterranean,Restaurants",Tempe,46,Jamie's Pizza and Pitas,,-111.9254244,33.4060271,AZ,3.5
+l-Xv5Kmg2gilJI3-DGVCqw,"7014 E. Camelback Rd.
+Scottsdale, AZ 85251",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,11:00 - 18:00,True,"Vegetarian,American (New),Mediterranean,Restaurants",Scottsdale,59,Pita Jungle,,-111.9290233,33.5025088,AZ,3.5
+p5YO2FZzwktYgtKOUynM-w,"1649 S Stapley Dr
+Ste 105
+Mesa, AZ 85204",,,,,,,,False,"Mediterranean,Restaurants",Mesa,8,Haris's Pita Grill,,-111.80269409999998,33.38323,AZ,3.5
+6mwduQ8fVQ_lDKDWHLvkCA,"3510 W Bell Rd
+Glendale, AZ 85308",,,,,,,,True,"Greek,Mediterranean,Restaurants",Glendale,16,Mr Gyros,,-112.1348263,33.6408201,AZ,3.5
+QD8wcMoJ7YPBCA5uKA27zg,"7377 S Jones Blvd
+Ste 116
+Southwest
+Las Vegas, NV 89139",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,12:00 - 23:00,12:00 - 22:00,False,"Mediterranean,Restaurants",Las Vegas,50,Ambrosia Café,Southwest,-115.225806,36.055251,NV,3.5
+9gGnlsFKiAYu3kDPATWm-w,"393 W Warner Rd
+Chandler, AZ 85225",,,,,,,,False,"Mediterranean,Restaurants",Chandler,4,Flaming Kabob 2,,-111.8463705,33.3344463,AZ,3.5
+6ZGiMSM9cesy3ipHJoruVg,"4440 S Maryland Pkwy
+University
+Las Vegas, NV 89119",,,,,,,,True,"Bars,Mediterranean,Nightlife,Restaurants",Las Vegas,3,Cafe Hookah,University,-115.1373615,36.1084263,NV,3.5
+VBoE8WUu1-hpZHZbJ-pyWA,"27 Marshall Street
+Newington
+Newington
+Edinburgh EH8 9BJ",09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,False,"Food,Coffee & Tea,Mediterranean,British,Restaurants",Edinburgh,11,Double Dutch,Newington,-3.186607,55.94591,EDH,3.5
+oh--8vNSaBDbA-9LPCvRHQ,"1405 E Sunset Rd
+Ste 130
+Southeast
+Las Vegas, NV 89119",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,12:00 - 21:00,False,"Persian/Iranian,Mediterranean,Halal,Restaurants",Las Vegas,49,Flame Kabob,Southeast,-115.134212,36.07122800000001,NV,3.5
+0aKii4YS6MYZlPCsKPaF5w,"Desert Ridge
+21001 N Tatum Blvd, Ste 36-1210
+Phoenix, AZ 85050",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,True,"Mediterranean,Restaurants",Phoenix,30,Garbanzo Mediterranean Grill,,-111.97238529999998,33.67605373,AZ,3.5
+IvZAp1s__opMulOa3QL3hg,"1368 N Arizona Ave
+Suite #101
+Chandler, AZ 85225",,,,,,,,True,"Mediterranean,Restaurants",Chandler,3,Magic Kabob,,-111.842494,33.326976,AZ,3.5
+ns2vxJtyMFyf1OuuasdRyQ,"256 Leith Walk
+Leith
+Edinburgh EH6 5EL",10:00 - 17:00,10:00 - 17:00,10:00 - 17:00,10:00 - 17:00,10:00 - 17:00,11:00 - 17:00,,True,"Mediterranean,Restaurants",Edinburgh,3,The Spicy Pot,Leith,-3.1757804,55.9662231,EDH,3.5
+tpIU_ZvIfCfCp36IgghlHQ,"1641 E Camelback Rd
+Phoenix, AZ 85016",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:30,11:00 - 21:30,11:00 - 21:00,True,"Greek,Southern,Mediterranean,Restaurants",Phoenix,112,Zoes Kitchen,,-112.045816,33.508756,AZ,3.5
+z7wUzllCnzHVuNzMQw43Hw,"14858 N Frank Lloyd Wright Blvd
+Scottsdale, AZ 85260",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,True,"Vegetarian,American (New),Mediterranean,Restaurants",Scottsdale,56,Pita Jungle,,-111.8757538,33.62113975,AZ,3.5
+cDrqjvg2KEyJm3QS3KAJ2Q,"2909 S Dobson Rd
+Mesa, AZ 85202",11:00 - 20:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 20:00,False,"Mediterranean,Restaurants",Mesa,12,Dooby's Grill Cafe,,-111.8763611,33.3624072,AZ,3.5
+1GYzYjw-eLqppSL1ni82sA,"15 Bristo Pl
+Old Town
+Edinburgh EH1 1EZ",12:00 - 02:00,12:00 - 02:00,12:00 - 02:00,12:00 - 02:00,12:00 - 03:00,12:00 - 03:00,12:00 - 02:00,True,"Falafel,Mediterranean,Restaurants",Edinburgh,6,Elfalafel,Old Town,-3.1912214,55.94611479999999,EDH,3.5
+NB3Oli21be-k4r_iy4oC0Q,"3107 S Lindsay Rd
+Gilbert, AZ 85296",,,,,,,,False,"Greek,Mediterranean,Restaurants",Gilbert,3,Chef H,,-111.773654,33.293754,AZ,3.5
+4oYMRD8vawSyXTdFl3-nPA,"36460 N Encanterra Dr
+San Tan Valley, AZ 85140",,,,,,,,True,"Mediterranean,Restaurants",San Tan Valley,6,Bistro 1528,,-111.5561122,33.2115591,AZ,3.5
+oCatThs5uhSGDgSV2KxxgA,"91 Broughton Street
+New Town
+Edinburgh EH1 3RX",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 23:00,10:00 - 23:00,10:00 - 22:00,True,"Brasseries,Mediterranean,Restaurants",Edinburgh,37,Olive Branch Bistro,New Town,-3.1897546,55.9585748,EDH,3.5
+nbpY3tbPrAksoqOrYwlx7Q,"547 State St
+Capitol
+Madison, WI 53703",09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 23:00,09:00 - 23:00,09:00 - 22:00,False,"Restaurants,Mediterranean,Turkish",Madison,68,Husnu's,Capitol,-89.3952452,43.0748682,WI,3.5
+jXwMec7aDs_hXKhSUvBHfw,"4929 W Ray Rd
+Chandler, AZ 85226",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 21:00,11:00 - 20:00,11:00 - 20:00,False,"Greek,American (New),Mediterranean,Restaurants",Chandler,20,Greek Grill & Fry Co.,,-111.925763,33.319526,AZ,3.5
+MyeOK7hDefkzlOW4-Y0qVw,"100 E Washington Ave
+Capitol
+Madison, WI 53703",10:00 - 14:00,10:00 - 14:00,10:00 - 14:00,10:00 - 14:00,10:00 - 14:00,,,True,"Falafel,Mediterranean,Restaurants",Madison,4,King of Falafel and Grill,Capitol,-89.38228607,43.07602692,WI,3.5
+setfRzkAcOPxKH5TZLTqJQ,"3400 E Sky Harbor Blvd
+Ste 3300
+Phoenix, AZ 85034",,,,,,,,True,"Breakfast & Brunch,American (New),Mediterranean,Restaurants",Phoenix,38,Olive & Ivy,,-112.0067166,33.4357166,AZ,3.5
+Dn5JUcOKejakeuUwMlSR5Q,"119 E Main St
+Capitol
+Madison, WI 53703",,,,,,,,False,"Middle Eastern,Mediterranean,Moroccan,Restaurants",Madison,18,Casbah Restaurant,Capitol,-89.38118109999998,43.0750283,WI,3.5
+q4TqK1xIa1QOp_wjiFjb3A,"4561 W Flamingo Rd
+Las Vegas, NV 89103",16:00 - 03:00,17:00 - 00:00,17:00 - 00:00,17:00 - 00:00,17:00 - 03:00,17:00 - 03:00,17:00 - 00:00,False,"Tapas/Small Plates,Tapas Bars,Mediterranean,Restaurants",Las Vegas,88,Marbella Tapas,,-115.2032516,36.1153832,NV,3.5
+Y1jkxceoqE5LrTL5eqPXsA,"814 E Union Hills Rd
+Phoenix, AZ 85024",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 22:00,10:00 - 00:00,10:00 - 20:00,True,"Russian,American (Traditional),Mediterranean,Restaurants",Phoenix,11,Euro Grill,,-112.06231499999998,33.655825,AZ,3.5
+ns-NxkoIKUJgfZ_WSTzLdw,"7660 W Cheyenne Avenue
+Summerlin
+Las Vegas, NV 89129",,,,,,,,True,"Greek,Mediterranean,Restaurants",Las Vegas,38,Gyro Time Restaurant,"Summerlin,Northwest",-115.2627104,36.2184533,NV,3.5
+XstnM5vqSqdw-9rLSzUg5A,"6119 Odana Rd
+Madison, WI 53719",,,,,,,,True,"Mediterranean,Restaurants",Madison,48,The Nile,,-89.486175,43.0529381,WI,3.5
+gBVytpiIYGLB1wce-Dfbxg,"3305 W Chandler Blvd
+Ste 8
+Chandler, AZ 85226",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,11:00 - 23:00,11:00 - 22:00,True,"Greek,Mediterranean,Restaurants",Chandler,108,My Big Fat Greek Restaurant,,-111.8984043,33.3047696,AZ,3.5
+6lcay-E_ssmzpGanKbColg,"4811 N 16th St
+Ste 104
+Phoenix, AZ 85016",,,,,,,,True,"Mediterranean,Restaurants",Phoenix,44,ZK Grill,,-112.047066,33.507549,AZ,3.5
+K28O8R76bJFUt57ScN46Mw,"2340 W Northern Ave
+Phoenix, AZ 85021",,,,,,,,True,"Greek,Mediterranean,Restaurants",Phoenix,16,Athen's Gyros & Pasta,,-112.1089428,33.5531186,AZ,3.5
+CuaZCAmWy1h7DuYfEG3lpQ,"27 Marshall Street
+Newington
+Newington
+Edinburgh EH8 9BJ",,,,,,,,True,"Mediterranean,Restaurants",Edinburgh,9,Olive Tree,Newington,-3.1842824,55.94242560000001,EDH,3.5
+_z9UrC5hCTBK1JIgQD0YDw,"232 State St
+Capitol
+Madison, WI 53703",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:30,10:30 - 22:30,10:30 - 22:00,True,"American (New),Mediterranean,Restaurants",Madison,34,Noodles & Company,Capitol,-89.3893921,43.07478070000001,WI,3.5
+0pXk2JkijBpi2Iz0D5pFXA,"541 State St
+Capitol
+Madison, WI 53703",,,,,,,,False,"Afghan,Mediterranean,Restaurants",Madison,92,Kabul Restaurant,Capitol,-89.3951624,43.0748598,WI,3.5
+6kyDVPmMcp5Bogqcc99low,"2790 S Fish Hatchery Rd
+Fitchburg, WI 53711",15:00 - 21:00,15:00 - 21:00,15:00 - 21:00,15:00 - 21:00,15:00 - 22:00,15:00 - 22:00,09:00 - 15:00,True,"Wine Bars,Bars,Mediterranean,Nightlife,Restaurants",Fitchburg,31,Veranda Restaurant & Wine Bar,,-89.426755,43.006191,WI,3.5
+OdetLT5gBDPneWZUfyf7_A,"226 State St
+Capitol
+Madison, WI 53703",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 18:30,True,"Greek,Bars,Mediterranean,Nightlife,Restaurants",Madison,48,Nick's Restaurant,Capitol,-89.389178,43.074983,WI,3.5
+vN4mFODLd-gLmDg261wsyw,"12645 N Saguaro Blvd
+Ste 11
+Fountain Hills, AZ 85268",08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,True,"Pizza,Mediterranean,Restaurants",Fountain Hills,49,Euro Pizza Cafe,,-111.7163108,33.6005624,AZ,3.5
+ELFgjsfhfy8plr7g_ouyMg,"Chandler, AZ 85286",,,,,,,,True,"Indian,Mediterranean,Restaurants",Chandler,3,Biryani Kitchens,,-111.8210866,33.266440700000004,AZ,3.5
+3ULJQrfcz81fYgBomNHV8Q,"3400 S Jones Blvd
+Las Vegas, NV 89146",16:00 - 05:30,16:00 - 05:30,16:00 - 05:30,16:00 - 05:30,16:00 - 05:30,16:00 - 05:30,16:00 - 05:30,True,"Bars,Mediterranean,Dance Clubs,Nightlife,Hookah Bars,Restaurants",Las Vegas,10,Myxx Hookah Lounge,,-115.2245664,36.1280756,NV,3.5
+DrZ8rReiyTsLXoLr42APBA,"89 Hanover Street
+New Town
+Edinburgh EH2 1EE",,,,,,,,True,"Greek,Mediterranean,Restaurants",Edinburgh,5,Athena Greek Restaurant,New Town,-3.1974478,55.954171,EDH,3.5
+u2OC1xmpAyF9R5RiKdbV-g,"207 N Gilbert Rd
+Ste 105
+Gilbert, AZ 85233",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,12:00 - 21:00,True,"Greek,Italian,Mediterranean,Restaurants",Gilbert,128,Romeo's Euro Cafe,,-111.8036,33.3518,AZ,3.5
+yY3JDvjkgh1aSCanr9mgBQ,"6719 Frank Lloyd Wright
+Middleton, WI 53562",,,,,,,,False,"Mediterranean,Restaurants",Middleton,9,Palmyra Restaurant,,-89.49812800000002,43.106913,WI,3.5
+3YLo7L0_1_Hy9SIuDrDceg,"5239 W Charleston Blvd
+Westside
+Las Vegas, NV 89146",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,,True,"Greek,Mediterranean,Restaurants",Las Vegas,31,Gyro Time Restaurant,Westside,-115.2125455,36.1589411,NV,3.5
+zXR9WUVpo-PF8xH5SmQ_xA,"73 Hanover Street
+New Town
+Edinburgh EH2 1EE",,,,,,,,True,"Restaurants,Mediterranean,Turkish",Edinburgh,6,Yeni Meze Bar,New Town,-3.1973593,55.953935,EDH,3.5
+Lq0kV5Tp6QcAMP-OOnHCtA,"1155 S Higley Rd
+Mesa, AZ 85206",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,,False,"Greek,Mediterranean,Restaurants",Mesa,13,Ariana's Kabob & Gyros,,-111.718791,33.394408,AZ,3.5
+DTaaI8_d5bcFBWbiisls4w,"2790 E Flamingo Rd
+Eastside
+Las Vegas, NV 89121",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,False,"Persian/Iranian,Mediterranean,Restaurants",Las Vegas,12,Royal Persis,Eastside,-115.112467,36.11543,NV,3.5
+Cl6KfeDfh9FfWYV5cbz-zw,"6115 S Fort Apache Rd
+Ste 100
+Spring Valley
+Las Vegas, NV 89148",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,11:00 - 23:00,11:00 - 22:00,True,"Greek,Mediterranean,Middle Eastern,Restaurants",Las Vegas,152,Khoury's Mediterranean Restaurant,Spring Valley,-115.2986223,36.0770695,NV,3.5
+bNXbX9sAyRb971A0-tIPrw,"4568 E Cactus Rd
+Phoenix, AZ 85032",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 21:00,False,"Persian/Iranian,Mediterranean,Restaurants",Phoenix,14,Persian King,,-111.9834389,33.6011167,AZ,3.5
+5_TX9FincQ29TOSLDfFxUQ,"751 N High Point Rd
+Wexford
+Madison, WI 53717",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,16:00 - 22:00,16:00 - 21:00,True,"Italian,Mediterranean,Restaurants",Madison,43,Oliva,Wexford,-89.51836829999998,43.0761711,WI,3.5
+MPziC5MO2QQiYVAMM3fdSw,"4231 E Indian School Rd
+Phoenix, AZ 85018",16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,False,"Restaurants,Mediterranean,Italian",Phoenix,56,La Fontanella Restaurant,,-111.98959,33.4949597,AZ,3.5
+l8uDeX2E58RBEc6FfQpdHw,"933 E University Dr
+Ste 115
+Tempe, AZ 85281",10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,False,"Vegetarian,Mediterranean,Restaurants",Tempe,57,Tsom Vegetarian Flavors,,-111.9247139,33.421350800000006,AZ,3.5
+7-vGQpfj0RcOD-Cy7CXDiA,"2580 W Chandler Blvd
+Ste 3
+Chandler, AZ 85224",10:30 - 20:30,10:30 - 20:30,10:30 - 20:30,10:30 - 20:30,10:30 - 21:00,10:30 - 21:00,11:00 - 18:00,True,"Greek,Mediterranean,Middle Eastern,Restaurants",Chandler,54,Pita Heaven,,-111.88557,33.306806,AZ,3.5
+XBm9ffI2pK-A_HcoHXAbcQ,"525 S Mill Ave
+Tempe, AZ 85281",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 00:00,11:00 - 00:00,11:00 - 23:00,True,"Greek,Mediterranean,Restaurants",Tempe,140,My Big Fat Greek Restaurant,,-111.9398454,33.4247786,AZ,3.5
+IceZ4BtTz76eppjNWm-c6A,"1030 NW Grand Ave
+Phoenix, AZ 85007",06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 00:00,09:00 - 00:00,10:00 - 15:00,False,"Greek,Mediterranean,Restaurants",Phoenix,60,Paisley Violin,,-112.086757,33.4549264,AZ,3.5
+3CXIK5KjXAPf90pZY_aazA,"5023 W Olive Ave
+Glendale, AZ 85302",,,,,,,,False,"Greek,Persian/Iranian,Mediterranean,Restaurants",Glendale,17,Shish Kebab House,,-112.1707057,33.56750460000001,AZ,3.5
+mSARPsn69D62ugw3rJxOtQ,"3111 W Chandler Blvd
+Chandler, AZ 85226",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,11:00 - 18:00,True,"Middle Eastern,Greek,Mediterranean,Restaurants",Chandler,17,Gyro King,,-111.9026145,33.3052343,AZ,3.5
+SKO1eefgrWjTp-NnsS7FTw,"6420 S Pecos Rd
+Southeast
+Las Vegas, NV 89120",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,True,"Mediterranean,Restaurants",Las Vegas,126,Parsley Mediterranean Grill,Southeast,-115.100413,36.072381,NV,3.5
+OXLegbUo6HA3DN3lBFTsUg,"316 State St
+Capitol
+Madison, WI 53703",11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,True,"Greek,Mediterranean,Restaurants",Madison,81,Parthenon Gyros Restaurant,Capitol,-89.3906223,43.07490479999999,WI,3.5
+BNOFxq6AAXamgLw_tzbe7Q,"16 W Adams St
+Phoenix, AZ 85003",,,,,,,,True,"Burgers,Hot Dogs,Mediterranean,Restaurants",Phoenix,25,Coney Island Grill,,-112.0742949,33.4494411,AZ,3.5
+EDJCvbklEbHU1e1sOfBreg,"4680 S Maryland Pkwy
+University
+Las Vegas, NV 89119",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 02:00,10:30 - 02:00,10:30 - 19:00,True,"Greek,Fast Food,Mediterranean,Restaurants",Las Vegas,49,Pita Pit,University,-115.1367851,36.104435,NV,3.5
+8lLkZOfXbSMumZC-v08GaA,"8380 W Sahara Ave
+Westside
+Las Vegas, NV 89117",11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,11:00 - 01:00,True,"Greek,Mediterranean,Middle Eastern,Restaurants",Las Vegas,252,Paymon's Mediterranean Cafe & Hookah Lounge,Westside,-115.273936,36.144668,NV,3.5
+RO1fBofbml7ygeY2AiWFYg,"5255 S Decatur Blvd
+Ste 115
+Las Vegas, NV 89118",07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,07:00 - 16:00,True,"Food,Coffee & Tea,Mediterranean,Breakfast & Brunch,Restaurants",Las Vegas,120,The Daily Egg,,-115.2088673,36.09445720000001,NV,3.5
+Y-owGVK9wY-kZYPwG30nZw,"225 S Century Ave
+Waunakee, WI 53597",,,,,,,,True,"Mediterranean,Diners,Restaurants",Waunakee,7,Spring Garden Restaurant,,-89.4617535,43.1900279,WI,3.5
+7NMvQUStQYd0ArBNnqAWtg,"2969 Cahill Main
+Fitchburg, WI 53711",16:00 - 19:00,16:00 - 19:00,16:00 - 19:00,16:00 - 19:00,16:00 - 19:00,16:00 - 19:00,,True,"Mediterranean,Restaurants",Fitchburg,12,Tuscany Mediterranean Grill,,-89.4232997,43.0165531,WI,3.0
+AqYrDAMzoRER7Mj8bJqAXQ,"8 North Bridge
+Old Town
+Edinburgh EH1 1",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,,True,"Middle Eastern,Fast Food,Mediterranean,Restaurants",Edinburgh,8,Zenobia,"Old Town,Royal Mile",-3.1879677,55.9510507,EDH,3.0
+BcuFT-gQj6Epl56ZAWJIdA,"209 W Jackson St
+Phoenix, AZ 85003",07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,07:00 - 15:00,,,True,"American (Traditional),Mediterranean,Restaurants",Phoenix,12,ZeeZ Grill,,-112.076896,33.4447199,AZ,3.0
+6UGAtEw8TH6J6YeRRZpwKg,"3801 Las Vegas Blvd S
+Eastside
+Las Vegas, NV 89109",18:00 - 00:00,18:00 - 00:00,18:00 - 02:00,20:00 - 03:00,20:00 - 03:00,11:30 - 18:00,11:30 - 18:00,False,"Mediterranean,Restaurants",Las Vegas,49,Bagatelle Las Vegas,Eastside,-115.146372,36.124423,NV,3.0
+t4pkeGscooStLjy-Js5Byw,"16447 N Scottsdale Rd
+Ste 101
+Scottsdale, AZ 85254",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 20:00,False,"Greek,Mediterranean,Restaurants",Scottsdale,55,Daphne's California Greek,,-111.9240654,33.63566702,AZ,3.0
+omWFwLRqI3VTcM46L8-qaA,"3600 University Ave
+Madison, WI 53705",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,True,"American (New),Mediterranean,Restaurants",Madison,6,Noodles & Company,,-89.4492329,43.07567412,WI,3.0
+bjUH-01t834CVg0Yl0CLWQ,"400 E Van Buren St
+Phoenix, AZ 85004",,,,,,,,True,"Greek,Pizza,Mediterranean,Restaurants",Phoenix,82,My Big Fat Greek Restaurant,,-112.06869740000002,33.45243407,AZ,3.0
+Dh-jKrXlivowMGDtfD_gug,"222 East University Dr
+Tempe, AZ 85281",11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 03:00,11:00 - 03:00,11:00 - 03:00,12:00 - 03:00,False,"Mediterranean,Sandwiches,Restaurants",Tempe,25,The Pita Pit,,-111.935883,33.422318,AZ,3.0
+rLHVgSA8foTgapmzzUyamw,"5686 W Bell Rd
+Glendale, AZ 85308",10:30 - 15:00,15:00 - 22:00,15:00 - 22:00,15:00 - 22:00,15:00 - 02:00,15:00 - 02:00,15:00 - 22:00,True,"Mediterranean,Middle Eastern,Event Planning & Services,Venues & Event Spaces,Restaurants",Glendale,28,Cleopatra,,-112.181582,33.640122,AZ,3.0
+-I8JegdD-4huAo3z0A_ZhA,"4440 S Maryland Pkwy
+Ste 109
+University
+Las Vegas, NV 89119",10:30 - 22:30,10:30 - 22:30,10:30 - 22:30,10:30 - 22:30,10:30 - 22:30,10:30 - 22:30,12:00 - 21:00,True,"Persian/Iranian,Mediterranean,Restaurants",Las Vegas,38,Flame Kabob,University,-115.1372337,36.10864355,NV,3.0
+yQW-kC_vmhmw78D62HKZdQ,"1639 W Warm Springs Rd
+Henderson, NV 89014",10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,False,"Mediterranean,Restaurants",Henderson,8,Mediterranean Grill,,-115.0559333,36.0557242,NV,3.0
+xvnh_wZ7xbfTCzVKGr_P5A,"3380 S Arville
+Ste C
+Westside
+Las Vegas, NV 89102",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,10:30 - 21:00,True,"Italian,Mediterranean,Restaurants",Las Vegas,10,Sofia's Cafe,Westside,-115.1988518,36.12866470000001,NV,3.0
+VVPVg9aJzNczTgeM36TGJw,"2855 W Ray Rd
+Chandler, AZ 85224",,,,,,,,False,"Greek,Mediterranean,Restaurants",Chandler,10,Daphne's Greek Cafe,,-111.8904425,33.3203241,AZ,3.0
+Gw8DsQQCO5m1hggXqwynFg,"402 E Greenway Blvd
+Phoenix, AZ 85073",,,,,,,,False,"Greek,Mediterranean,Restaurants",Phoenix,23,Greek Patio,,-112.068404,33.637793,AZ,3.0
+TQhP4vCMjvX527YMxPfuUA,"10625 N Tatum Blvd
+Phoenix, AZ 85028",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,11:00 - 23:00,11:00 - 22:00,True,"Greek,Mediterranean,Restaurants",Phoenix,104,My Big Fat Greek Restaurant,,-111.9770187,33.5834449,AZ,3.0
+NJK4GW2pjvmvAPQ_OXMHQw,"8826 S Eastern Ave
+Las Vegas, NV 89123",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 02:00,11:00 - 03:00,11:00 - 01:00,True,"Mediterranean,Middle Eastern,Restaurants",Las Vegas,59,Ali Baba Cuisine,,-115.116608,36.029158,NV,3.0
+j68EhQdQZUg4GiS-3dIIBw,"34 Bread St
+Old Town
+Edinburgh EH3 9AF",,,,,,,,True,"Bars,Mediterranean,Nightlife,Restaurants",Edinburgh,4,Monboddo,Old Town,-3.2033489,55.94578610000001,EDH,3.0
+btay-zbv6GGEp6c3Wg2MSw,"171 N Gibson Rd
+Henderson, NV 89014",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,,True,"Greek,Mediterranean,Middle Eastern,Restaurants",Henderson,39,Manna Mediterranean,,-115.0298537,36.0394128,NV,3.0
+-3yID57d0cMpYZZr13CTHw,"138 Bruntsfield Pl
+Bruntsfield
+Edinburgh EH10 4ER",09:00 - 19:00,09:00 - 19:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,10:00 - 16:00,False,"Breakfast & Brunch,Mediterranean,Restaurants",Edinburgh,7,Ooud Kitchen,Bruntsfield,-3.2084101,55.9365693,EDH,3.0
+ivi5jHjmf2uV8faGJ9Rfig,"1910 Village Center Cir
+Ste 7
+Summerlin
+Las Vegas, NV 89134",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,11:00 - 21:00,12:00 - 20:00,True,"Mediterranean,Restaurants",Las Vegas,48,Sultan's Grill,Summerlin,-115.3055866,36.1929381,NV,3.0
+0Bilf-3-J8hIekQVWyRGWg,"17191 N Litchfield Rd
+Surprise, AZ 85374",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,,False,"Greek,Restaurants,Mediterranean,Italian",Surprise,7,Mike's Greek & Italian Cuisine,,-112.3594317,33.6403184,AZ,3.0
+tO_iqxmqoVtALIeA-dxJLQ,"1825 E University Dr
+Tempe, AZ 85281",,,,,,,,True,"Greek,Mediterranean,Restaurants",Tempe,4,Theo's Spartan Grill,,-111.9092417,33.4218916,AZ,3.0
+u0cuE27NIdXAil6i-scRGw,"8565 W Sahara Ave
+Westside
+Las Vegas, NV 89117",11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 23:00,11:00 - 00:00,11:00 - 00:00,11:00 - 23:00,True,"Greek,Mediterranean,Restaurants",Las Vegas,78,The Mad Greek,Westside,-115.278464,36.1428,NV,3.0
+mNyXXerIPD8Zer88YidV4w,"150 University Avenue W
+Waterloo, ON N2L 3E4",,,,,,,,True,"Mediterranean,Restaurants",Waterloo,6,Almadina Egyptian Cuisine,,-80.5353761,43.4723904,ON,3.0
+wzk5FU5ccZeRduXzbDzcOw,"6599 Las Vegas Blvd
+Bldg P, Ste B150
+Southeast
+Las Vegas, NV 89119",12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,12:00 - 00:00,12:00 - 02:00,11:00 - 02:00,11:00 - 22:00,False,"Bars,Wine Bars,Mediterranean,Greek,Nightlife,Restaurants",Las Vegas,24,Grape Vegas,Southeast,-115.1776615,36.068614200000006,NV,3.0
+6tq-oJui3bsePoAFn6x-sQ,"1158 W Washington St
+Tempe, AZ 85281",10:30 - 19:00,10:30 - 19:00,10:30 - 19:00,10:30 - 19:00,10:30 - 19:00,11:00 - 16:00,,True,"Mediterranean,Restaurants",Tempe,38,Sami's Gyros,,-111.92134140000002,33.42284828,AZ,3.0
+lHWkpPjN8IuVq-Chn5n8PA,"505 S Mill Ave
+Tempe, AZ 85281",11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,False,"Greek,Mediterranean,Nightlife,Dance Clubs,Restaurants",Tempe,48,Crave Cafe & Lounge,,-111.9398439,33.4252092,AZ,3.0
+IsFQ32WyFS3WSoXjUJ1dcQ,"4220 W Summit Walk Ct
+Ste 1202
+Anthem, AZ 85086",,,,,,,,False,"Greek,Mediterranean,Restaurants",Anthem,7,Cafe Afify,,-112.1512485,33.8701661,AZ,3.0
+CF3dd_PNGAjK_Lo0eETTUA,"3049 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89109",,,,,,,,False,"Greek,Mediterranean,Restaurants",Las Vegas,27,The Mad Greek Cafe,The Strip,-115.1648858,36.1314439,NV,3.0
+c5awK9N87I8DiEvVrNDEMg,"6447 E Southern Ave
+Mesa, AZ 85206",,,,,,,,True,"Greek,Mediterranean,Restaurants",Mesa,55,My Big Fat Greek Restaurant,,-111.6927462,33.3936604,AZ,3.0
+Z98h1BhssZeFfZvcVTYOpw,"223 E Brown Rd
+Mesa, AZ 85201",10:30 - 00:00,10:30 - 00:00,10:30 - 00:00,10:30 - 02:00,10:30 - 02:00,10:30 - 02:00,10:30 - 00:00,True,"Italian,Mediterranean,Pizza,Restaurants",Mesa,18,"MAYA New York Pizza, Bar & Grill",,-111.826084,33.434384,AZ,2.5
+bS6d_0qYc4Qt43-0Tr3xkQ,"440 W Warner Rd
+Tempe, AZ 85284",,,,,,,,True,"Greek,Mediterranean,Restaurants",Tempe,4,Zorbas Grill,,-111.9445728,33.3350531,AZ,2.5
+OwZGnPRa4ey7uVtmtkgOxw,"1851 Monroe St
+Vilas
+Madison, WI 53711",17:00 - 21:00,11:00 - 15:00,11:00 - 15:00,17:00 - 21:00,11:00 - 22:00,11:00 - 22:00,09:00 - 14:00,False,"Mediterranean,Restaurants",Madison,8,The Dardanelles,Vilas,-89.416916,43.064708,WI,2.5
+EorbNAe004JPljoJlcBMog,"2101 S Decatur Blvd
+Trader Joe's Plaza
+Las Vegas, NV 89136",,,,,,,,False,"Greek,Mediterranean,Middle Eastern,Restaurants",Las Vegas,5,Lily's Persian & Mediterranean Cuisine,,-115.136389,36.175,NV,2.5
+1qTt_LcXVJ6b_5OXvnDLTg,"855 E Twain Ave
+Ste 101
+Eastside
+Las Vegas, NV 89169",,,,,,,,True,"Kosher,Mediterranean,Restaurants",Las Vegas,13,Haifa Restaurant,Eastside,-115.14491,36.12155900000001,NV,2.5
+u37MZNUTDE3ijQraArwLrA,"380 W Sahara Ave
+The Strip
+Las Vegas, NV 89102",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Mediterranean,Restaurants",Las Vegas,8,Pumpkin & Pecan Shish Kabob Shop,The Strip,-115.1627872,36.1440399,NV,2.5
+jS3cHd1E5TuUZbQWpBZqVg,"6593 Las Vegas Blvd S
+Ste 222
+Southeast
+Las Vegas, NV 89119",00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,00:00 - 00:00,True,"Irish,American (New),Mediterranean,Restaurants",Las Vegas,118,McFadden's Restaurant and Saloon,Southeast,-115.1776797,36.0684803,NV,2.5
+H0QkByri08NTgd8KEdyCsw,"777 S College Ave
+Tempe, AZ 85281",,,,,,,,True,"American (New),Mediterranean,Restaurants",Tempe,7,Extreme Pita,,-111.9349687,33.4222436,AZ,2.5
+F706EOWbbOe_zdXrVc0jew,"McCarran International Airport Concourse E
+5757 Wayne Newton Blvd
+Southeast
+Las Vegas, NV 89111",,,,,,,,True,"Food,Mediterranean,Restaurants",Las Vegas,5,La Tapenade Mediterranean Cafe,Southeast,-115.133261,36.08040931,NV,2.0
+iRIqMJbQ_BBFkQC5oU9SOg,"9864 W Peoria Ave
+Peoria, AZ 85345",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 21:00,11:00 - 02:00,11:00 - 20:00,False,"Lebanese,Mediterranean,Middle Eastern,Restaurants",Peoria,3,Nineveh Restaurant,,-112.27166509999998,33.5803521,AZ,2.0
+7u55OIKwMmnWGnobEEUNvg,"505 S Mill Ave
+Tempe, AZ 85281",,,,,,,,True,"Greek,Mediterranean,Restaurants",Tempe,4,La Pita Bar & Grill,,-111.9398439,33.4252092,AZ,2.0
+pW2YJJHHDhs2GgMsbj9FbQ,"Superstition Springs Blvd
+Mesa, AZ",,,,,,,,True,"Greek,Mediterranean,Restaurants",Mesa,3,Zita Mediterranean Eatery,,-111.6849409,33.383932,AZ,2.0
+hUvLxFBm2e2rWyUfqwvl-A,"2135 E Camelback Rd
+Phoenix, AZ 85016",,,,,,,,False,"Greek,Mediterranean,Restaurants",Phoenix,4,My Big Fat Greek Restaurant,,-112.035636,33.507982,AZ,2.0
+9pUPWfv2SV6DpzJRIlDYeQ,"9500 S Eastern Ave
+Southeast
+Henderson, NV 89052",,,,,,,,False,"Greek,Mediterranean,Restaurants",Henderson,5,Greek Village Cafe,Southeast,-115.1185519,36.0169498,NV,1.5

@@ -9,6 +9,30 @@ from os import path
 RAW_BUSINESS_PATH = "./yelp_dataset_challenge_academic_dataset/yelp_academic_dataset_business.json"
 
 
+def sort():
+	
+	print("Reading cuisines...")
+	df = pd.read_csv("./cuisines.csv")
+
+	print("----------------------------------------------------------")
+		
+	for i, row in df.iterrows():
+		
+		cuisine_name = row["cuisine_name"]
+		filepath = "./cuisines/" + cuisine_name + "/restaurants.csv"
+
+		if path.exists(filepath):
+
+			print("{0}/{1} Sorting restaurants for: {2}".format(i + 1, len(df.index), cuisine_name))
+
+			rest_df = pd.read_csv(filepath)
+			rest_df = rest_df.sort_values(by=['stars'], ascending=False)
+
+			rest_df.to_csv(filepath, index=False)
+
+		print("----------------------------------------------------------")
+
+
 def all_restaurants(filePath=RAW_BUSINESS_PATH):
 
 	restaurants = []

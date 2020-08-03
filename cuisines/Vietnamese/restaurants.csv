@@ -1,340 +1,51 @@
 business_id,full_address,mon_hours,tue_hours,wed_hours,thu_hours,fri_hours,sat_hours,sun_hours,open,categories,city,review_count,name,neighborhoods,longitude,latitude,state,stars
-L_MtTn4IUBTmQtqqM2iFqA,"7000 E Mayo Blvd
-Ste 1084
-Phoenix, AZ 85054",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 18:00,True,"Vietnamese,Restaurants",Phoenix,161,Tea Light Cafe,,-111.939289529114,33.6782214624068,AZ,4.0
-juzATNnxyBWEdQoDoKrEuw,"1116 S Dobson Rd
-Mesa, AZ 85202",,,,,,,,True,"Vietnamese,Restaurants",Mesa,34,Dragonfly Vietnamese Kitchen,,-111.875578,33.394432,AZ,3.5
-IXB3PGgSmw4bjTe9ll-tQw,"830 W Southern Ave
-Ste 1
-Mesa, AZ 85210",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,False,"Soup,Vietnamese,Comfort Food,Restaurants",Mesa,47,Phu Thanh,,-111.849314,33.393607,AZ,4.0
-jJlOPkv4Xl6vxNzr51fnYw,"1381 N Alma School Rd
-Chandler, AZ 85224",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,True,"Vietnamese,Restaurants",Chandler,209,Saigon Pho,,-111.858116,33.327278,AZ,4.0
-UIGFrEcoDsw05I1UOrxdOA,"1919 W Chandler Blvd
-Chandler, AZ 85224",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,17:00 - 21:00,17:00 - 22:00,11:00 - 14:30,22:00 - 11:00,True,"Vietnamese,Chinese,Restaurants",Chandler,149,Cyclo Vietnamese Cuisine,,-111.875221,33.306501,AZ,3.5
-FV16IeXJp2W6pnghTz2FAw,"4029 Spring Mountain Rd
-Chinatown
-Las Vegas, NV 89102",06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,True,"Vietnamese,Chinese,Restaurants",Las Vegas,1314,Pho Kim Long,Chinatown,-115.193971,36.126177,NV,3.5
-CoJivG0wxNIBXyOF7MNqSQ,"4215 Spring Mountain Rd
-Chinatown
-Las Vegas, NV 89102",,,,,,,,True,"Vietnamese,Restaurants",Las Vegas,60,Pho Vietnam Restaurant,Chinatown,-115.1969938,36.1263784,NV,3.0
-Yq8LiVymGA7vBpGCQuDfRw,"4745 Spring Mountain Rd
-Chinatown
-Las Vegas, NV 89102",09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,True,"Vietnamese,Restaurants",Las Vegas,523,Pho So 1,Chinatown,-115.2062973,36.1262669,NV,3.5
-nzQJqTrcazg23EjdaHgqDg,"4355 Spring Mountain Rd
-Chinatown
-Las Vegas, NV 89102",,,,,,,,False,"Vietnamese,Restaurants",Las Vegas,7,Pho Nhu  Y,Chinatown,-115.197904,36.125908,NV,2.5
-33aOj9haiHsULCUmFOZ7uQ,"5650 Spring Mountain Rd
-Chinatown
-Las Vegas, NV 89146",09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,True,"Vietnamese,Restaurants",Las Vegas,300,Pho Saigon 8,Chinatown,-115.2187129,36.125761,NV,3.5
-YTbSJITWKp_QgfY2vrXvSQ,"3409 S Jones Blvd
-Chinatown
-Las Vegas, NV 89146",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,False,"Vietnamese,Restaurants",Las Vegas,27,Que Huong Restaurant,Chinatown,-115.225945,36.126625,NV,4.0
-4dL8yzQu974eCtTI-V4Znw,"151 W Gorham St
-Capitol
-Madison, WI 53703",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,12:00 - 22:00,16:00 - 22:00,True,"Vietnamese,Thai,Asian Fusion,Restaurants",Madison,54,Vientiane Palace Restaurant,Capitol,-89.3906,43.075287,WI,3.5
-iFd_GU21RrxyzL8eE0RQEQ,"1336 Regent St
-Greenbush
-Madison, WI 53715",11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 22:00,11:00 - 22:00,11:00 - 21:30,True,"Vietnamese,Asian Fusion,Chinese,Restaurants",Madison,35,Nam's Noodle & Karaoke Bar,Greenbush,-89.4083588,43.0677549,WI,3.0
-1HbKFWG5QKzYkuNxig6H7w,"6754 Odana Rd
-Madison, WI 53719",,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 22:00,11:00 - 22:00,11:30 - 21:00,True,"Vietnamese,Restaurants",Madison,146,Saigon Noodles,,-89.4998028,43.0566087,WI,4.0
-OVtSFFNohXIz9vdWDvbnEw,"2844 N 43rd Ave
-Phoenix, AZ 85009",09:00 - 20:00,,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,True,"Vietnamese,Restaurants",Phoenix,50,43rd Express,,-112.1522044,33.4794675,AZ,4.5
-XbVqzUHS3c9FhG4lI13c3Q,"3424 N 19th Ave
-Phoenix, AZ 85015",09:00 - 20:30,09:00 - 20:30,09:00 - 20:30,09:00 - 20:30,09:00 - 20:30,09:00 - 20:30,,True,"Vietnamese,Chinese,Restaurants",Phoenix,119,Maxim Restaurant,,-112.100389,33.488489,AZ,4.0
-Zy2vca7i9QFGRKa4m0C__A,"4538 N 19th Ave
-Phoenix, AZ 85015",08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,True,"Vietnamese,Restaurants",Phoenix,289,Da Vàng,,-112.1000457,33.5038922,AZ,4.0
-4aHi_FH2eP9c25Smb35AZg,"1702 W Camelback Rd
-Ste 14
-Phoenix, AZ 85015",,,,,,,,False,"Vietnamese,Restaurants",Phoenix,13,Pho Bang Restaurant,,-112.0962274,33.5097112,AZ,3.0
-wAs-stW0HP6OXVXdpawnBQ,"4808 N 35th Ave
-Phoenix, AZ 85017",,,,,,,,True,"Vietnamese,Restaurants",Phoenix,10,Dong-A,,-112.1345446,33.5081908,AZ,3.5
-qNpNPI-f2Y2eg364-V0deQ,"7828 N 19th Ave
-Ste 6
-Phoenix, AZ 85021",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,False,"Vietnamese,Restaurants",Phoenix,7,Tu DO Restaurant,,-112.100098,33.55203,AZ,2.0
-KTF-E3NfkJy2wiwcgOPyVQ,"7901 E Thomas Rd
-Ste 108
-Scottsdale, AZ 85251",,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,True,"Vietnamese,Thai,Asian Fusion,Restaurants",Scottsdale,173,Tottie's Asian Fusion,,-111.9107414,33.4799784,AZ,4.0
-MAfc2V_EVtyR9rMxxEAPLg,"1537 E Apache Blvd
-Tempe, AZ 85281",09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,,True,"Vietnamese,Restaurants",Tempe,190,Khai Hoan Restaurant,,-111.913402,33.4146742,AZ,4.0
-4XTcSltd2GydhvOzAV4SaQ,"933 E University Dr
-Ste 116
-Tempe, AZ 85281",,,,,,,,True,"Vietnamese,Restaurants",Tempe,57,Pho Nhat,,-111.924806,33.42135,AZ,3.5
-3dQqoz-yHhOfHrIBMRCD3w,"5546 Camino Al Norte
-North Las Vegas, NV 89031",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,True,"Food,Juice Bars & Smoothies,Vietnamese,Chinese,Restaurants",North Las Vegas,103,Jasmine Express,,-115.154026,36.2603823,NV,3.0
-QW22Xgl6_VEtP-YmUAw3Wg,"3650 S Decatur Blvd
-Chinatown
-Las Vegas, NV 89103",,,,,,,,False,"Vietnamese,Restaurants",Las Vegas,24,Pho Huong Saigon,Chinatown,-115.207512,36.123589,NV,2.0
-0bttFaka7LluACdqu_BFlA,"4503 Paradise Rd
-Eastside
-Las Vegas, NV 89109",,,,,,,,False,"Vietnamese,Restaurants",Las Vegas,6,Pho Hoa Noodle Soup,Eastside,-115.1521048,36.107194,NV,2.0
+si8CU5aavaqWeQ-HPCyB5A,"2480 Homer Watson Boulvard
+Kitchener, ON N2P 2R5",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,11:00 - 23:00,11:00 - 22:00,True,"Thai,Vietnamese,Chinese,Restaurants",Kitchener,4,Mango King,,-80.411922,43.387164,ON,5.0
+IC8no-tIdDWgkYzb5d-Nvw,"7016 N 57th Ave
+Glendale, AZ 85301",17:00 - 20:30,17:00 - 20:30,11:00 - 14:30,17:00 - 20:30,17:00 - 20:30,11:00 - 20:30,11:00 - 19:00,True,"Vietnamese,Restaurants",Glendale,163,Little Saigon,,-112.181569,33.539257,AZ,4.5
 7f21MbcOzrlE1kMYe12LMQ,"Venetian Hotel
 3355 Las Vegas Blvd S
 Eastside
 Las Vegas, NV 89109",,,,,,,,False,"Chinese,Vietnamese,Sushi Bars,Japanese,Thai,Korean,Restaurants",Las Vegas,9,Tsunami Asian Grill & Sushi Bar,Eastside,-115.146372,36.124423,NV,4.5
-IC8no-tIdDWgkYzb5d-Nvw,"7016 N 57th Ave
-Glendale, AZ 85301",17:00 - 20:30,17:00 - 20:30,11:00 - 14:30,17:00 - 20:30,17:00 - 20:30,11:00 - 20:30,11:00 - 19:00,True,"Vietnamese,Restaurants",Glendale,163,Little Saigon,,-112.181569,33.539257,AZ,4.5
-9aUJRtkW_WXFnsq2En7qkA,"8090 S Durango Dr
-Southwest
-Las Vegas, NV 89113",,,,,,,,False,"Vietnamese,Restaurants",Las Vegas,3,Pho 777,Southwest,-115.2787875,36.0420917,NV,3.5
-WzjRM6h6dZFBwr1rvwjvPQ,"7537 S Rainbow Blvd
-Ste 101-102
-Southwest
-Las Vegas, NV 89139",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:30,True,"Vietnamese,Restaurants",Las Vegas,107,Bamboo Bistro,Southwest,-115.24387,36.051627,NV,4.0
-fH87P0kpjYbUULC9eoJQbA,"502 S Dobson Rd
-Mesa, AZ 85209",,,,,,,,False,"Vietnamese,Sushi Bars,Restaurants",Mesa,8,Pho Mesa,,-111.875246,33.405652,AZ,3.0
-Ni9aqkG_fNWrH02VNlRhLQ,"1131 E Tropicana Ave
-Ste D
-Southeast
-Las Vegas, NV 89119",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Vietnamese,American (New),Restaurants",Las Vegas,188,Pho Thanh Huong,Southeast,-115.138668,36.1001831,NV,3.5
-G2hKvBRIkE7LKdB_Uf5XIg,"2090 N Dobson Rd
-Chandler, AZ 85224",,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 20:00,False,"Vietnamese,Restaurants",Chandler,27,Anise Vietnamese Restaurant,,-111.876903,33.337278,AZ,4.0
-_HTE4pOKeJC7kcxiCF9vTA,"2765 N Scottsdale Rd
-Ste 107
-Scottsdale, AZ 85257",11:00 - 20:30,11:00 - 20:30,11:00 - 20:30,11:00 - 20:30,11:00 - 20:30,11:00 - 20:30,,True,"Vietnamese,Restaurants",Scottsdale,215,Noodles Ranch,,-111.9255906,33.4787159,AZ,4.0
-Co-sJv4GNxILkF79ZMLq-Q,"7000 E Mayo Blvd
-Phoenix, AZ 85054",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:30,10:30 - 21:00,11:00 - 21:00,True,"Vietnamese,Asian Fusion,Chinese,Restaurants",Phoenix,9,Panda Express,,-111.9300279,33.6556844,AZ,2.0
-jf4RUa9EQO37hqxRCxbEXQ,"15111 N Hayden Rd
-Ste 110
-Scottsdale, AZ 85260",11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 20:00,11:00 - 20:00,,True,"Vietnamese,Restaurants",Scottsdale,98,Saigon Nites Vietnamese Cuisine,,-111.90459,33.622009,AZ,3.5
-6qnB6AQSur85BLx6c11dOA,"5115 Spring Mountain Rd
-Ste 223
-Chinatown
-Las Vegas, NV 89146",09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,True,"Thai,Vietnamese,Chinese,Restaurants",Las Vegas,220,Hue Thai,Chinatown,-115.211199,36.125587,NV,3.5
-cdEyO3XRIrHH7ZCjCsxXqA,"7537 S Rainbow Blvd
-Ste 101
-Southwest
-Las Vegas, NV 89139",,,,,,,,False,"Vietnamese,Chinese,Restaurants",Las Vegas,11,Pho Hoang,Southwest,-115.24387,36.051627,NV,2.0
-MtHebhODUljM-_3n-DMk4g,"1750 N Buffalo Dr
-Ste 107
-Summerlin
-Las Vegas, NV 89128",,,,,,,,True,"Vietnamese,Restaurants",Las Vegas,42,Pho Rose,Summerlin,-115.2600699,36.1907268,NV,3.0
-LTMEAdWM4m5tIDCSrkALIg,"Treasure Island
-3300 Las Vegas Blvd S
-The Strip
-Las Vegas, NV 89109",11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 03:00,11:00 - 03:00,11:00 - 00:00,True,"Vietnamese,Restaurants",Las Vegas,217,Pho Vietnamese Cuisine,The Strip,-115.1730752,36.1231538,NV,2.5
-IdpMuPyKIEfO41IlLxXwmw,"5700 W Spring Mountain Rd
-#I
-Chinatown
-Las Vegas, NV 89146",08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 18:00,08:00 - 18:00,True,"Vietnamese,Restaurants",Las Vegas,99,Dakao Sandwiches,Chinatown,-115.2195103,36.1257243,NV,4.0
--_npP9XdyzILAjtFfX8UAQ,"6025 N 27th Ave
-Ste 24
-Phoenix, AZ 85073",,,,,,,,True,"Vietnamese,Sandwiches,Restaurants",Phoenix,17,Thao's Sandwiches,,-112.116214529419,33.525634916509,AZ,3.0
-tqDwpyCB53TiEIv915Tuww,"4920 W Thunderbird Rd
-Ste 110
-Glendale, AZ 85306",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:30,,True,"Vietnamese,Restaurants",Glendale,155,Pho Avina,,-112.16568,33.611367,AZ,4.0
-fCkgtZUUM5qmU_-KWQiJuQ,"5288 Spring Mountain Rd
-Ste 106
-Chinatown
-Las Vegas, NV 89146",08:00 - 02:00,08:00 - 02:00,08:00 - 02:00,08:00 - 02:00,08:00 - 02:00,08:00 - 02:00,08:00 - 02:00,True,"Vietnamese,Asian Fusion,Restaurants",Las Vegas,70,Pho Hung Restaurant,Chinatown,-115.213272,36.1265592,NV,2.5
-Qa6Gmw6OcNKrqVDh80I_9w,"414 S Mill Ave
-Ste 115
-Tempe, AZ 85281",,,,,,,,False,"Vietnamese,Restaurants",Tempe,15,Dragonfly Vietnamese Kitchen,,-111.940346,33.425938,AZ,2.5
-gCo--CY5aUoByxUAET2cTw,"3775 W Spring Mountain Rd
-Ste 306
-Chinatown
-Las Vegas, NV 89102",,,,,,,,True,"Vietnamese,Restaurants",Las Vegas,194,Pho Little Saigon,Chinatown,-115.189863,36.1265155,NV,2.5
-JBCBlVaHfZUZrq-lQfryDA,"7707 S Kyrene Rd
-Tempe, AZ 85284",,,,,,,,True,"Thai,Vietnamese,Restaurants",Tempe,136,Pho Da Lat,,-111.9451314,33.3479486,AZ,3.5
-PEOP7kZ1E4BJx3YzLMrmpA,"8115 N 19th Ave
-Ste 101-A
-Phoenix, AZ 85021",,,,,,,,False,"Vietnamese,Restaurants",Phoenix,12,Pho Loc,,-112.09925,33.555296,AZ,3.5
-ESjWCcBpMeiRsvMYXWgdgw,"2025 N Dobson Rd
-Chandler, AZ 85224",10:00 - 20:00,,10:00 - 20:00,10:00 - 20:00,10:00 - 20:30,10:00 - 20:30,10:00 - 20:00,True,"Vietnamese,Restaurants",Chandler,60,Pho 68,,-111.874214172363,33.3361549377441,AZ,3.5
-yMUVflS-2SnOGafXmdHy6w,"1955 W Baseline Rd
-Ste 114
-Mesa, AZ 85202",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,False,"Vietnamese,Restaurants",Mesa,161,Pho Ao Sen,,-111.876416,33.37844,AZ,4.0
-2mcmuAvpNIJuV3gV0v9v2A,"7582 W Cactus Rd
-Ste B5
-Peoria, AZ 85381",,,,,,,,True,"Vietnamese,Restaurants",Peoria,88,Pholicious,,-112.2226374,33.5958042,AZ,3.5
-L-GfuOmn9mv55571uXvf2A,"4349 W Bell Rd
-Glendale, AZ 85311",,,,,,,,True,"Vietnamese,Restaurants",Glendale,45,Nam Sao,,-112.1530065,33.6392038,AZ,3.5
-rOEWuLpnYJVvm4REIgXt7A,"8123 E Roosevelt St
-Scottsdale, AZ 85257",,,,,,,,True,"Vietnamese,Chinese,Restaurants",Scottsdale,29,Dong Phuong Saigon Bowl,,-111.907685,33.458256,AZ,3.0
+a_wK-2KhPu-8DAwwRObr8A,"2401 E Baseline Rd
+Ste 118
+Gilbert, AZ 85234",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 21:00,11:00 - 21:00,10:00 - 20:00,True,"Thai,Vietnamese,Cantonese,Chinese,Restaurants",Gilbert,102,Simi's Cafe,,-111.77975068285299,33.3788895536548,AZ,4.5
+OVtSFFNohXIz9vdWDvbnEw,"2844 N 43rd Ave
+Phoenix, AZ 85009",09:00 - 20:00,,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,True,"Vietnamese,Restaurants",Phoenix,50,43rd Express,,-112.1522044,33.4794675,AZ,4.5
+MnaDsfBiNRcCBbnYnlOddw,"Westside
+Las Vegas, NV 89118",10:00 - 00:00,10:00 - 00:00,10:00 - 00:00,21:00 - 00:00,10:00 - 02:00,22:00 - 01:00,10:00 - 00:00,True,"Food,Vietnamese,Asian Fusion,Food Trucks,Restaurants",Las Vegas,29,Wa Da Pho,Westside,-115.20980257540899,36.1469046181753,NV,4.5
+wmm19sGdCiL5IZhViYQY2Q,"4860 W Desert Inn Rd
+Ste 9
+Westside
+Las Vegas, NV 89102",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,11:00 - 23:00,11:00 - 21:00,True,"Vietnamese,Restaurants",Las Vegas,12,Pho Lan,Westside,-115.2074043,36.1299924,NV,4.5
+8G3gD8OJdnmPz1o9bg2yCw,"393 W Warner Rd
+Chandler, AZ 85225",10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,True,"Vietnamese,Restaurants",Chandler,43,Pho Viet Nam,,-111.845819002377,33.3346430292596,AZ,4.5
+Y8OPM6aiLoGEQc6OXhnR8A,"6165 W Chandler Blvd
+Ste 1
+Chandler, AZ 85226",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,True,"Food,Ethnic Food,Specialty Food,Vietnamese,Restaurants",Chandler,62,Spring Roll Factory,,-111.9479565,33.3044272,AZ,4.5
+NFMlj1TMVqzvo8jlQp0dUA,"4232 W Bell Rd
+Ste 8 & 9
+Glendale, AZ 85308",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,True,"Vietnamese,Food,Ethnic Food,Soup,Specialty Food,Restaurants",Glendale,104,Pho Viet Vietnamese Restaurant,,-112.1498222,33.6400698,AZ,4.5
+JSxOXnKwF0bnJ130nsWNIA,"5040 W Wild Horse Pass
+Chandler, AZ 85048",,,,,,,,True,"Vietnamese,Asian Fusion,Restaurants",Chandler,8,Star Ginger,,-111.9729284,33.2816398,AZ,4.0
+L_MtTn4IUBTmQtqqM2iFqA,"7000 E Mayo Blvd
+Ste 1084
+Phoenix, AZ 85054",10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 21:00,10:30 - 18:00,True,"Vietnamese,Restaurants",Phoenix,161,Tea Light Cafe,,-111.93928952911399,33.6782214624068,AZ,4.0
 dipzJ5BExpm6BtJ91mXd4Q,"2095 N Dobson Rd
 Ste 3
-Chandler, AZ 85224",10:00 - 20:30,10:00 - 20:30,,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,True,"Vietnamese,Restaurants",Chandler,161,Pho Van Vietnamese Cuisine,,-111.875639841767,33.3359999365212,AZ,4.0
-17FKJgS11HppOf00qXKEqA,"8820 S Eastern Ave
-Las Vegas, NV 89123",10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,10:00 - 22:00,10:00 - 22:00,11:00 - 21:00,True,"Vietnamese,Restaurants",Las Vegas,274,Lemongrass Café,,-115.117185,36.028936,NV,3.5
-U7PiSfu-xOvNVRXKqNOgAA,"36 Northfield Drive E
-Unit 1
-Waterloo, ON N2L 6A1",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,11:00 - 23:00,11:00 - 22:00,True,"Thai,Vietnamese,Restaurants",Waterloo,38,Ben Thanh,,-80.53118,43.502488,ON,3.5
-TAkj6En2E8dnd-yL6H_Q6w,"1051 Victoria St N
-Kitchener, ON N2B 3C7",,,,,,,,True,"Vietnamese,Restaurants",Kitchener,5,Pho Dau Bo 7 Restaurant,,-80.4595526,43.4655814,ON,3.5
--k6-FfJyc4P1RJMIg5p99g,"301 King Street E
-Kitchener, ON N2G 2L2",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Vietnamese,Restaurants",Kitchener,20,Pho Dau Bo,,-80.4842087,43.4477003,ON,4.0
-KlT-sy8AvL8zq3nPVjMPUA,"10410 N 35th Ave
-Ste 112
-Phoenix, AZ 85051",,08:00 - 19:00,08:00 - 19:00,08:00 - 19:00,08:00 - 19:00,08:00 - 19:00,10:00 - 17:00,False,"Food,Juice Bars & Smoothies,Coffee & Tea,Vietnamese,Restaurants",Phoenix,11,Juice House Boba,,-112.134508,33.580671,AZ,3.5
-3H2ttTM2aSIaZ6FTjHwDQQ,"66 S Dobson Rd
-Ste 141
-Mesa, AZ 85202",09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,True,"Vietnamese,Restaurants",Mesa,57,Com Tam Thuan Kieu,,-111.875779,33.413158,AZ,3.5
-4zfrcEmGvZ4oYKx_revTxA,"4055 S Arizona Ave
-Ste 8
-Chandler, AZ 85248",10:00 - 21:00,,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,11:00 - 20:00,True,"Vietnamese,Chinese,Restaurants",Chandler,157,Pho Chandler,,-111.8411151,33.246989,AZ,4.0
-YzE9DAJDb5fqGa8WTZgBjg,"3400 S Jones Blvd
-Ste 2A
-Chinatown
-Las Vegas, NV 89146",10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,False,"Vietnamese,Restaurants",Las Vegas,88,Bosa 1,Chinatown,-115.224318,36.127754,NV,4.0
-hdxDwMNNfclcUVYLX-cN_Q,"7855 S Rainbow Blvd
-Southwest
-Las Vegas, NV 89139",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Vietnamese,Restaurants",Las Vegas,200,Jenni Pho,Southwest,-115.2435889,36.0455949,NV,3.0
-mhQCxOiqp03qnhGRTtPduw,"66 S Dobson Rd
-Mesa, AZ 85202",09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,True,"Vietnamese,Restaurants",Mesa,326,unPhogettable,,-111.8759922,33.4133505,AZ,4.0
-wK2RM163ByHaGixGn_UzuA,"7575 W Cactus Rd
-Peoria, AZ 85381",,,,,,,,True,"Korean,Vietnamese,Sushi Bars,Restaurants",Peoria,12,Our House,,-112.222145,33.594892,AZ,3.0
-Ggqoqg6AUdgCADUk4eDsDg,"414 S Mill Ave
-Suite 115
-Tempe, AZ 85281",22:30 - 22:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,False,"Vietnamese,Restaurants",Tempe,9,Pho Thang Long,,-111.940346,33.425938,AZ,3.0
-hF0p0dYtDqOfDyKTVUeGZA,"13530 W Van Buren St
-Ste A101
-Goodyear, AZ 85338",,,,,,,,True,"Vietnamese,Restaurants",Goodyear,62,Central King Eggroll,,-112.3504684,33.4508902,AZ,3.5
-47A3pWsdYNhFFy9gUEVcYQ,"1820 W Southern Ave
-Mesa, AZ 85202",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,,True,"Vietnamese,Restaurants",Mesa,61,Pho Nhat,,-111.8704598,33.3931481,AZ,4.0
-FNZqovk1ZWI_z2YHw3b95w,"66 S. Dobson Rd. Ste-106
-Mesa, AZ 85202",08:30 - 23:00,,08:30 - 23:00,08:30 - 23:00,08:30 - 01:00,08:30 - 01:00,08:30 - 23:00,True,"Vietnamese,Restaurants",Mesa,5,Mylynn Cafe,,-111.875779,33.413158,AZ,2.5
-CMTDZRDnv_O0rwAvRVbjvg,"1933 W Main St
-Ste 8
-Mesa, AZ 85201",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,False,"Food,Coffee & Tea,Vietnamese,Restaurants",Mesa,51,BlueMoon Vietnamese Kitchen,,-111.873616464253,33.4132849273635,AZ,4.0
-tMpFSMGrXz8dzvB9UZ69XA,"3620 S Jones Blvd
-Chinatown
-Las Vegas, NV 89103",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,True,"Vietnamese,Restaurants",Las Vegas,148,Pho 87,Chinatown,-115.224712,36.1232846,NV,3.5
-th4uGmjyjPnQpN-ukf20PA,"1353 Williamson St
-Williamson - Marquette
-Madison, WI 53703",11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:00,True,"Thai,Vietnamese,Restaurants",Madison,228,Ha Long Bay Vietnamese & Thai Bistro,"Williamson - Marquette,Willy St",-89.3608082,43.0856215,WI,4.0
-po3QfLD7vINIFtyYTgkEMQ,"9055 S Eastern Ave
-Southeast
-Las Vegas, NV 89123",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Vietnamese,Restaurants",Las Vegas,194,Pho Saigon 8,Southeast,-115.1184164,36.0254142,NV,3.5
-HOrfsgClwysVlDv1Vp7PIg,"4553 W Flamingo Rd
-Las Vegas, NV 89103",09:30 - 04:00,09:30 - 04:00,09:30 - 04:00,09:30 - 04:00,09:30 - 04:00,09:30 - 04:00,09:30 - 04:00,True,"Vietnamese,Restaurants",Las Vegas,188,Da Lat,,-115.2029596,36.1150732,NV,3.5
-yVQiGdxmnrkJDyQXv2maNA,"1702 W Camelback Rd
-Ste 14
-Phoenix, AZ 85015",08:30 - 20:30,08:30 - 20:30,08:30 - 20:30,08:30 - 20:30,08:30 - 20:30,08:30 - 20:30,08:30 - 20:30,True,"Vietnamese,Restaurants",Phoenix,321,Pho Thanh,,-112.096024,33.510112,AZ,4.0
-3OauvrqUU8nDLWcW6q9hGQ,"20235 N Cave Creek Rd
-Ste 108
-Phoenix, AZ 85024",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:30 - 20:00,True,"Vietnamese,Restaurants",Phoenix,124,Viet Kitchen,,-112.03017,33.671426,AZ,3.5
-ggBkO170QkYZAezFGMKYjQ,"4141 N 35th Ave
-Ste 11 & 12
-Phoenix, AZ 85017",,,,,,,,False,"Vietnamese,Restaurants",Phoenix,7,Pho Old Saigon Vietnamese Cuisine,,-112.0077189,33.5812164,AZ,3.5
-eL1IZGEWOZTbxdcqqgZjfw,"500 Fairway Road South
-Unit 17
-Kitchener, ON N2C",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,11:00 - 23:00,11:00 - 22:00,True,"Thai,Vietnamese,Restaurants",Kitchener,14,Ben Thanh,,-80.4469583,43.4203695,ON,3.5
-E4b5OC_6mZ0V7B6Nyjncsg,"6204 N Scottsdale Rd
-Ste 106
-Paradise Valley, AZ 85253",,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,True,"Vietnamese,Thai,Asian Fusion,Chinese,Restaurants",Paradise Valley,118,Tottie's Asian Fusion,,-111.9258636,33.5289271,AZ,4.0
-wlc1TDMl44UGLI__WuKtkQ,"6820 Spring Mountain Rd
-Ste C-111
-Chinatown
-Las Vegas, NV 89146",,,,,,,,False,"Vietnamese,Restaurants",Las Vegas,12,Pho Village,Chinatown,-115.240864,36.1265659,NV,3.5
-DJze-lgFSmKJtMROr2Vddw,"3838 N 19th Ave
-Phoenix, AZ 85015",,,,,,,,False,"Vietnamese,Restaurants",Phoenix,3,Loi Nam Oriental Market,,-112.100274,33.492651,AZ,4.0
-93o1h19UKHlI4NE19Peibw,"Treasure Island
-3300 S Las Vegas Blvd
-The Strip
-Las Vegas, NV 89115",,,,,,,,True,"Vietnamese,Restaurants",Las Vegas,81,Pho at The Coffee Shop,The Strip,-115.17176485588101,36.1247267427889,NV,2.5
-4OH2tMl8Qcebshi2rUTz-g,"4215 Spring Mountain Rd
-Ste B108
-Chinatown
-Las Vegas, NV 89102",08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,True,"Vietnamese,Restaurants",Las Vegas,187,Mr. Sandwich,Chinatown,-115.191420869064,36.1261620060751,NV,3.5
-r0ZoytDjK4CY5ytFNjZLvw,"4300 Spring Mountain Rd
-Ste 101
-Chinatown
-Las Vegas, NV 89102",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Vietnamese,Restaurants",Las Vegas,446,Kinh Do,Chinatown,-115.197924,36.127175,NV,4.0
-Yg__fykqkqsGaPnX5x9bBQ,"66 S Dobson Rd
-Ste 106
-Mesa, AZ 85202",,,,,,,,True,"Vietnamese,Restaurants",Mesa,9,Chicken Noodle House,,-111.875779,33.413158,AZ,2.5
-A30MoBPFyMeKxFVkOjNC3A,"10895 S Eastern Ave
-Ste 140
-Anthem
-Henderson, NV 89052",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,True,"Vietnamese,Restaurants",Henderson,167,Pho MaiLan,Anthem,-115.101207,35.9935897,NV,4.0
-sUf7fRBqsjLddnj_FW4mag,"4141 N 35th Ave
-Ste 11
-Phoenix, AZ 85017",,,,,,,,True,"Vietnamese,Restaurants",Phoenix,6,Pho Binh Minh,,-112.1336024,33.4965366,AZ,3.5
-3mEOCjX7s9mW4QUMqAAyOA,"610 Junction Rd
-Ste 109
-Junction Ridge
-Madison, WI 53717",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 20:00,True,"Vietnamese,Restaurants",Madison,55,Pho Nam Noodle House,Junction Ridge,-89.5267274,43.0734853,WI,4.0
-tpJjVxyor9OOQfYgvAtdRA,"66 S Dobson Rd
-Ste 126
-Mesa, AZ 85202",09:00 - 20:30,09:00 - 20:30,,09:00 - 20:30,09:00 - 20:30,09:00 - 20:30,09:00 - 20:30,True,"Food,Ethnic Food,Restaurants,Vietnamese,Specialty Food",Mesa,29,Hue Gourmet,,-111.8759922,33.4133505,AZ,4.0
-d_qYu8tavFk8_-_Y5XcJYQ,"151 King Street W
-Kitchener, ON N2G 1A7",,,,,,,,True,"Vietnamese,Restaurants",Kitchener,4,Pho DNK Vietnamese Restaurant,,-80.4918441,43.4508297,ON,3.5
-5qY6LqQFupz2Dm8LB4xkJw,"3 Grove Street
-West End
-Edinburgh EH3 8AF",12:00 - 14:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,12:00 - 14:00,12:00 - 15:00,17:00 - 22:00,True,"Vietnamese,Restaurants",Edinburgh,29,Pho Vietnam House,West End,-3.2129307,55.9459723,EDH,4.0
-NLVcGseUhgQdABs1mIYk8g,"114 W Adams St
-Phoenix, AZ 85003",10:30 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:30 - 21:00,False,"Vietnamese,Restaurants",Phoenix,23,Viet Kitchen,,-112.075324,33.4495069,AZ,3.0
-8EWtX4VzY_dSEUz-LQSL_g,"4631 W Spring Mountain Rd
-Chinatown
-Las Vegas, NV 89103",09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,True,"Vietnamese,Restaurants",Las Vegas,13,Pho Thai Binh,Chinatown,-115.2039271,36.1261519,NV,3.0
-2W2AwR-5z_jQ0Ihg9A5cPg,"1116 S Dobson Rd
-Mesa, AZ 85202",,,,,,,,True,"Vietnamese,Restaurants",Mesa,14,Pho All Seasons,,-111.8748402,33.3944997,AZ,3.5
-Ursyl0ENSvc1BA87H5st2A,"9210 S Eastern Ave
-Ste 120
-Las Vegas, NV 89123",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Vietnamese,Restaurants",Las Vegas,45,Pho Little Saigon,,-115.117336642609,36.0220461520222,NV,3.0
-eR7cwYFZDkNqBSSTohNwLw,"7530 E Main St
-Mesa, AZ 85207",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,True,"Vietnamese,Thai,Asian Fusion,Restaurants",Mesa,50,Wok In,,-111.6687757,33.4157946,AZ,4.0
-YrTKu37eqg19i2-crujY9A,"7539 W Peoria Ave
-Ste B104
-Peoria, AZ 85345",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,False,"Vietnamese,Thai,Asian Fusion,Restaurants",Peoria,27,Anise Cafe,,-112.221038,33.580238,AZ,3.5
-PwlTG5rzh-xefcVhYqDm2Q,"685 Fischer-Hallman Road
-Unit G
-Kitchener, ON N2E 4E9",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,09:00 - 22:30,09:00 - 22:30,09:30 - 22:00,True,"Vietnamese,Restaurants",Kitchener,4,Pho dau Bo,,-80.5107864,43.415624,ON,2.5
-jtzhY-P4H6WSYpv5rWhxtw,"2221 N 7th St
-Phoenix, AZ 85006",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 00:00,11:00 - 00:00,11:00 - 22:00,True,"Vietnamese,Restaurants",Phoenix,318,Rice Paper,,-112.064757,33.4719849,AZ,3.5
-sXkkxz7FwWx9ayHbDx0LbQ,"6820 Spring Mountain Rd
-Ste 11
-Chinatown
-Las Vegas, NV 89146",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Vietnamese,Restaurants",Las Vegas,40,Pho Saigon,Chinatown,-115.2411278,36.1269027,NV,4.0
-YnWb8fRudnNkXc-VjrmKGg,"14071 W Bell Rd
-Surprise, AZ 85374",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:30,11:00 - 21:30,11:00 - 20:00,True,"Sandwiches,Vietnamese,Asian Fusion,Restaurants",Surprise,168,Saigon Kitchen,,-112.363443374634,33.6382038313039,AZ,4.0
-Zq-yfLJYy7245p-O8-PqGA,"7175 W Lake Mead Blvd
-Ste 125
-Las Vegas, NV 89128",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,True,"Vietnamese,Restaurants",Las Vegas,156,Viet Bistro,,-115.2481396,36.195266,NV,4.0
-syEJc3vYSPqMK7KeMtW94Q,"502 South Dobson Rd
-Ste 3
-Mesa, AZ 85202",,,,,,,,True,"Food,Ethnic Food,Restaurants,Vietnamese,Specialty Food",Mesa,4,Pho Hien,,-111.875246,33.405652,AZ,4.0
+Chandler, AZ 85224",10:00 - 20:30,10:00 - 20:30,,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,True,"Vietnamese,Restaurants",Chandler,161,Pho Van Vietnamese Cuisine,,-111.87563984176701,33.3359999365212,AZ,4.0
+qcm7pfIdNn9XBuPEtoogbw,"7822 N 12th St
+Phoenix, AZ 85020",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,11:00 - 21:00,True,"Thai,Vietnamese,Restaurants",Phoenix,64,Red Thai,,-112.05805675401399,33.5508545180918,AZ,4.0
 MqnlCLq3b34Lq1Y7j7NY_Q,"7828 N 19th Ave
 Ste G
 Phoenix, AZ 85021",,,,,,,,True,"Vietnamese,Restaurants",Phoenix,33,Phuong Dong,,-112.0998501,33.5520874,AZ,4.0
-gWZMV5q8CSp8K5tZcMokCA,"7365 W Sahara Ave
-Ste B-C
-Westside
-Las Vegas, NV 89117",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,True,"Thai,Vietnamese,Restaurants",Las Vegas,45,Lilly's Thai & Vietnamese Restaurant,Westside,-115.25354,36.1433,NV,3.0
-5NLxB-LiH152e3Grj_ewEw,"4601 Spring Mountain Rd
-Chinatown
-Las Vegas, NV 89103",09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,False,"Vietnamese,Restaurants",Las Vegas,28,Pho Old Saigon,Chinatown,-115.203317,36.125886,NV,3.5
-0nT6cj3YBJIJSwHL4mKlJw,"3557 W Dunlap Ave
-Phoenix, AZ 85051",,,,,,,,True,"Vietnamese,Restaurants",Phoenix,3,Pho Viet,,-112.1361274,33.5672322,AZ,2.5
-aet7i84Y7DplUJS7Rtppyg,"8390 S Rainbow Blvd
-Ste 110
-Southwest
-Las Vegas, NV 89139",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,False,"Vietnamese,Restaurants",Las Vegas,61,Rainbow Pho Express,Southwest,-115.243138074875,36.0361556852576,NV,3.5
-H83uIqLKcOSFcmJhXmc-lA,"3275 E McDowell Rd
-Phoenix, AZ 85008",09:30 - 20:00,,09:30 - 20:00,09:30 - 20:00,09:30 - 20:00,09:30 - 20:00,09:30 - 20:00,False,"Vietnamese,Restaurants",Phoenix,27,Pho House,,-112.0106085,33.4657151,AZ,3.0
-HRwqeCdIH5joMnirnqrV3A,"710 E Gilbert Dr
-Tempe, AZ 85281",11:00 - 22:00,11:00 - 22:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 22:00,True,"Nightlife,Vietnamese,Karaoke,Restaurants",Tempe,122,Pho Cao,,-111.9270714,33.4369319,AZ,3.5
-JOJtP3IQbCg65rssBewUXg,"9530 S Eastern Ave
-Ste 150
-Henderson, NV 89123",07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,True,"Vietnamese,Sandwiches,Restaurants",Henderson,96,Lee's Sandwiches,,-115.117307603359,36.0155847768416,NV,3.5
-DojLUQOpfZWs9HynUuZJ4g,"4929 W Chandler Blvd
-Chandler, AZ 85226",14:00 - 23:00,14:00 - 23:00,14:00 - 23:00,12:00 - 02:00,12:00 - 02:00,12:00 - 02:00,12:00 - 22:00,True,"Bars,Vietnamese,Nightlife,Lounges,Restaurants",Chandler,34,Sage Bar and Vietnamese Cuisine,,-111.927065,33.304861,AZ,2.5
-si8CU5aavaqWeQ-HPCyB5A,"2480 Homer Watson Boulvard
-Kitchener, ON N2P 2R5",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,11:00 - 23:00,11:00 - 22:00,True,"Thai,Vietnamese,Chinese,Restaurants",Kitchener,4,Mango King,,-80.411922,43.387164,ON,5.0
-undnC8Xho3tf54mN3H808A,"5600 Spring Mountain Rd
-Ste B
-Chinatown
-Las Vegas, NV 89146",,,,,,,,True,"Vietnamese,Restaurants",Las Vegas,6,DaKao Quan,Chinatown,-115.2182851,36.1265084,NV,3.5
-ZjBvtxDvPPvJhbebFtie8g,"2021 W Sunset Rd
-Henderson, NV 89014",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,False,"Vietnamese,Japanese,Chinese,Restaurants",Henderson,62,Noodle ChaCha,,-115.069468,36.068756,NV,3.0
-EkGPPkqPj4_MB-cJLZhw1Q,"2817 E Washington Ave
-Starkweather - Yahar
-Madison, WI 53704",11:30 - 21:00,,11:30 - 21:00,11:30 - 21:00,11:30 - 21:00,11:30 - 21:00,11:30 - 21:00,False,"Vietnamese,Restaurants",Madison,19,Viet House,Starkweather - Yahar,-89.3447941,43.1028868,WI,3.5
-JSxOXnKwF0bnJ130nsWNIA,"5040 W Wild Horse Pass
-Chandler, AZ 85048",,,,,,,,True,"Vietnamese,Asian Fusion,Restaurants",Chandler,8,Star Ginger,,-111.9729284,33.2816398,AZ,4.0
+I7qsERKHVqW0jdfeHMmCCw,"79 Dalry Road
+West End
+Edinburgh EH11 2AA",12:00 - 14:30,12:00 - 14:30,12:00 - 14:30,12:00 - 14:30,12:00 - 14:30,12:00 - 22:30,12:00 - 22:30,True,"Vietnamese,Restaurants",Edinburgh,3,Little Vietnam,"West End,Haymarket",-3.2184679,55.9438473,MLN,4.0
 NFWJ8ZY88BtrcrMYRAj9gA,"3355 Spring Mountain Rd
 Ste 35
 Chinatown
-Las Vegas, NV 89102",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Soup,Vietnamese,Restaurants",Las Vegas,156,Pho Bosa,Chinatown,-115.185195068787,36.1256601519728,NV,4.0
+Las Vegas, NV 89102",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Soup,Vietnamese,Restaurants",Las Vegas,156,Pho Bosa,Chinatown,-115.185195068787,36.125660151972795,NV,4.0
 o8fTSsBLOSqTUh7RhGRYUg,"4180 S Jones Blvd
 Las Vegas, NV 89103",11:00 - 22:00,,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,False,"Vietnamese,Asian Fusion,French,Restaurants",Las Vegas,9,188 Restaurant,,-115.224263,36.1129279,NV,4.0
 jysbMbCzPLyU8hBVi1T6jw,"4860 W Desert Inn Rd
@@ -344,104 +55,393 @@ Las Vegas, NV 89102",11:00 - 22:00,,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11
 vDEC5kHgtjkqyuZAZrSuMA,"8390 S Rainbow Blvd
 Southwest
 Las Vegas, NV 89139",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Vietnamese,Restaurants",Las Vegas,135,Pho Annie,Southwest,-115.2430194,36.0360324,NV,4.0
-S1S7_p2u8cpMd0-ZAsjahA,"5600 Spring Mountain Rd
-Ste B
+YTbSJITWKp_QgfY2vrXvSQ,"3409 S Jones Blvd
 Chinatown
-Las Vegas, NV 89146",09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,True,"Food,Vietnamese,Restaurants",Las Vegas,3,Pho Pasteur & Grill,Chinatown,-115.2182851,36.1265084,NV,2.5
-I7qsERKHVqW0jdfeHMmCCw,"79 Dalry Road
-West End
-Edinburgh EH11 2AA",12:00 - 14:30,12:00 - 14:30,12:00 - 14:30,12:00 - 14:30,12:00 - 14:30,12:00 - 22:30,12:00 - 22:30,True,"Vietnamese,Restaurants",Edinburgh,3,Little Vietnam,"West End,Haymarket",-3.2184679,55.9438473,MLN,4.0
-ciEBHH91Hz4RciYUUkueNg,"4480 W Spring Mountain Rd
+Las Vegas, NV 89146",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,False,"Vietnamese,Restaurants",Las Vegas,27,Que Huong Restaurant,Chinatown,-115.225945,36.126625,NV,4.0
+E4b5OC_6mZ0V7B6Nyjncsg,"6204 N Scottsdale Rd
+Ste 106
+Paradise Valley, AZ 85253",,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,True,"Vietnamese,Thai,Asian Fusion,Chinese,Restaurants",Paradise Valley,118,Tottie's Asian Fusion,,-111.9258636,33.528927100000004,AZ,4.0
+IdpMuPyKIEfO41IlLxXwmw,"5700 W Spring Mountain Rd
+#I
 Chinatown
-Las Vegas, NV 89102",10:00 - 06:00,10:00 - 06:00,10:00 - 06:00,10:00 - 06:00,10:00 - 06:00,10:00 - 06:00,10:00 - 06:00,True,"Vietnamese,Restaurants",Las Vegas,103,Jenni Pho Grill,Chinatown,-115.201307757243,36.1264280646724,NV,3.0
-M0qJweLJaNO2ikd8koYn4w,"202 N Central Ave
-Phoenix, AZ 85004",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 00:00,11:00 - 00:00,11:00 - 22:00,True,"Vietnamese,Restaurants",Phoenix,58,Bonjour Vietnam,,-112.0740771,33.4504587,AZ,3.5
-lcVlSi_bCAmiSuJx61BSAQ,"1955 W Baseline Rd
-Ste 114
-Mesa, AZ 85202",,,,,,,,True,"Thai,Vietnamese,Restaurants",Mesa,35,Pho Number One,,-111.866569519043,33.3812861154936,AZ,3.5
-CvufqyRBbS2Ed2wQlAXCMw,"5350 W Bell Rd
-Glendale, AZ 85308",,,,,,,,True,"Vietnamese,Restaurants",Glendale,80,Angelina's Pho and Grill,,-112.1737861,33.6395442,AZ,3.5
-Au2PcSBz3N212S7D10EbDQ,"6638 E Superstition Springs Blvd
-Ste 101
-Mesa, AZ 85206",10:30 - 20:30,10:30 - 20:30,10:30 - 20:30,10:30 - 20:30,10:30 - 21:00,12:00 - 21:00,12:00 - 20:30,False,"Vietnamese,Asian Fusion,Restaurants",Mesa,27,Spice Asian Bistro,,-111.6872749,33.385161,AZ,4.0
-Uo5CqWuJwPNfQPO9QvECgA,"3515 W Northern Ave
-Phoenix, AZ 85051",09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,False,"Vietnamese,Restaurants",Phoenix,13,Pho 35,,-112.1357952,33.5530966,AZ,3.5
-Zh6zpqN_rFZylYexWW2btQ,"1011 N 3rd St
-Phoenix, AZ 85004",16:00 - 00:00,16:00 - 00:00,16:00 - 00:00,16:00 - 00:00,16:00 - 02:00,16:00 - 02:00,12:00 - 17:00,True,"Japanese,Bars,Vietnamese,Nightlife,Restaurants",Phoenix,88,Pallets Food and Bar,,-112.068953,33.459054,AZ,3.0
+Las Vegas, NV 89146",08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 18:00,08:00 - 18:00,True,"Vietnamese,Restaurants",Las Vegas,99,Dakao Sandwiches,Chinatown,-115.21951029999998,36.1257243,NV,4.0
+_HTE4pOKeJC7kcxiCF9vTA,"2765 N Scottsdale Rd
+Ste 107
+Scottsdale, AZ 85257",11:00 - 20:30,11:00 - 20:30,11:00 - 20:30,11:00 - 20:30,11:00 - 20:30,11:00 - 20:30,,True,"Vietnamese,Restaurants",Scottsdale,215,Noodles Ranch,,-111.9255906,33.4787159,AZ,4.0
+WzjRM6h6dZFBwr1rvwjvPQ,"7537 S Rainbow Blvd
+Ste 101-102
+Southwest
+Las Vegas, NV 89139",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:30,True,"Vietnamese,Restaurants",Las Vegas,107,Bamboo Bistro,Southwest,-115.24387,36.051627,NV,4.0
+MAfc2V_EVtyR9rMxxEAPLg,"1537 E Apache Blvd
+Tempe, AZ 85281",09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,,True,"Vietnamese,Restaurants",Tempe,190,Khai Hoan Restaurant,,-111.913402,33.4146742,AZ,4.0
+KTF-E3NfkJy2wiwcgOPyVQ,"7901 E Thomas Rd
+Ste 108
+Scottsdale, AZ 85251",,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,True,"Vietnamese,Thai,Asian Fusion,Restaurants",Scottsdale,173,Tottie's Asian Fusion,,-111.9107414,33.4799784,AZ,4.0
 1ksEqDWneqp8vn1m2zSueg,"3202 E Greenway Rd
 Ste 1289
 Phoenix, AZ 85032",,,,,,,,True,"Vietnamese,Restaurants",Phoenix,44,Pho A.V,,-112.011592666971,33.6281081563954,AZ,4.0
-a_wK-2KhPu-8DAwwRObr8A,"2401 E Baseline Rd
-Ste 118
-Gilbert, AZ 85234",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 21:00,11:00 - 21:00,10:00 - 20:00,True,"Thai,Vietnamese,Cantonese,Chinese,Restaurants",Gilbert,102,Simi's Cafe,,-111.779750682853,33.3788895536548,AZ,4.5
-WCPRD6dreNm9Giqr3Zu6zQ,"1731 E Broadway
+Zy2vca7i9QFGRKa4m0C__A,"4538 N 19th Ave
+Phoenix, AZ 85015",08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,True,"Vietnamese,Restaurants",Phoenix,289,Da Vàng,,-112.1000457,33.5038922,AZ,4.0
+tqDwpyCB53TiEIv915Tuww,"4920 W Thunderbird Rd
+Ste 110
+Glendale, AZ 85306",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:30,,True,"Vietnamese,Restaurants",Glendale,155,Pho Avina,,-112.16568,33.611367,AZ,4.0
+XbVqzUHS3c9FhG4lI13c3Q,"3424 N 19th Ave
+Phoenix, AZ 85015",09:00 - 20:30,09:00 - 20:30,09:00 - 20:30,09:00 - 20:30,09:00 - 20:30,09:00 - 20:30,,True,"Vietnamese,Chinese,Restaurants",Phoenix,119,Maxim Restaurant,,-112.100389,33.488489,AZ,4.0
+1HbKFWG5QKzYkuNxig6H7w,"6754 Odana Rd
+Madison, WI 53719",,11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,11:00 - 22:00,11:00 - 22:00,11:30 - 21:00,True,"Vietnamese,Restaurants",Madison,146,Saigon Noodles,,-89.4998028,43.05660870000001,WI,4.0
+G2hKvBRIkE7LKdB_Uf5XIg,"2090 N Dobson Rd
+Chandler, AZ 85224",,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 20:00,False,"Vietnamese,Restaurants",Chandler,27,Anise Vietnamese Restaurant,,-111.876903,33.337278000000005,AZ,4.0
+jJlOPkv4Xl6vxNzr51fnYw,"1381 N Alma School Rd
+Chandler, AZ 85224",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,True,"Vietnamese,Restaurants",Chandler,209,Saigon Pho,,-111.858116,33.327278,AZ,4.0
+IXB3PGgSmw4bjTe9ll-tQw,"830 W Southern Ave
 Ste 1
-Tempe, AZ 85282",,,,,,,,True,"Vietnamese,Restaurants",Tempe,47,Saigon Pho,,-111.9099123,33.4074267,AZ,2.5
-MnaDsfBiNRcCBbnYnlOddw,"Westside
-Las Vegas, NV 89118",10:00 - 00:00,10:00 - 00:00,10:00 - 00:00,21:00 - 00:00,10:00 - 02:00,22:00 - 01:00,10:00 - 00:00,True,"Food,Vietnamese,Asian Fusion,Food Trucks,Restaurants",Las Vegas,29,Wa Da Pho,Westside,-115.209802575409,36.1469046181753,NV,4.5
-NFMlj1TMVqzvo8jlQp0dUA,"4232 W Bell Rd
-Ste 8 & 9
-Glendale, AZ 85308",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,True,"Vietnamese,Food,Ethnic Food,Soup,Specialty Food,Restaurants",Glendale,104,Pho Viet Vietnamese Restaurant,,-112.1498222,33.6400698,AZ,4.5
-Q8E7BaMD2g_-xCTcBK8Q8Q,"3700 W Flamingo Rd
-Las Vegas, NV 89103",,,,,,,,True,"Arts & Entertainment,Vietnamese,Casinos,Event Planning & Services,Hotels & Travel,Restaurants,Hotels",Las Vegas,27,Pho Da Nang,,-115.186442,36.118699,NV,3.0
-A6DFzxQT5yBkwBBJsURRWQ,"3409 S Jones Blvd
-Chinatown
-Las Vegas, NV 89146",09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,10:00 - 22:00,True,"Vietnamese,Restaurants",Las Vegas,55,Pho Sing Sing,Chinatown,-115.2259262,36.1265774,NV,4.0
-3Wxp8wNfUuYUohTpNMLotQ,"7505 W Cactus Rd
-Peoria, AZ 85381",09:00 - 21:00,,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,True,"Vietnamese,Restaurants",Peoria,24,Pho Tan Thanh,,-112.220446094871,33.5954350653851,AZ,3.5
-ac8nkInkJF32DUM4VYW17Q,"7425 S Durango Dr
-Ste 103-104
-Southwest
-Las Vegas, NV 89113",10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,True,"Vietnamese,Restaurants",Las Vegas,58,Sammy Pho Vietnamese Cuisine,Southwest,-115.279620476067,36.0532373539459,NV,3.0
-J4d0dY8k71Osot0GypK2kg,"1375 N Litchfield
-Goodyear, AZ 85395",10:00 - 20:30,10:00 - 20:30,,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,09:00 - 19:00,True,"Vietnamese,Restaurants",Goodyear,52,PT Noodles,,-112.3579932,33.4615009,AZ,4.0
-3zn5yjALes8-fxLvpO7_-A,"2755 N 91st Ave
-Suite A150/160
-Phoenix, AZ 85037",09:30 - 21:00,09:30 - 21:00,10:00 - 21:00,09:30 - 21:00,09:30 - 21:30,09:30 - 21:00,09:30 - 21:00,True,"Vegetarian,Vietnamese,Restaurants",Phoenix,46,Song Lynn,,-112.254559,33.4780159,AZ,4.0
-EDIhEegxgXva7jWoJzL1FA,"Phoenix, AZ 85257",,,,,,,,True,"Food,Vietnamese,Asian Fusion,Food Trucks,Restaurants",Phoenix,15,The Great Pho King Food Truck,,-111.910516,33.468848,AZ,3.5
-3yn4Icj9ClAO1c3bcmG1_A,"4860 W Desert Inn Rd
-Ste 9
-Westside
-Las Vegas, NV 89102",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:30 - 22:00,False,"Vietnamese,Restaurants",Las Vegas,11,Pho Ha Noi,Westside,-115.2074043,36.1299924,NV,3.5
-VQuvw_PcP-Nn-TB7o618Dg,"502 S Dobson
-Mesa, AZ 85202",09:00 - 21:00,,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,True,"Vietnamese,Restaurants",Mesa,34,Pho Thuan Thanh,,-111.875246,33.405652,AZ,4.0
-vlLjHgbTr7-OpPfn2U7qZg,"4929 W Chandler Blvd
-Ste 12
-Chandler, AZ 85226",,,,,,,,True,"Vietnamese,Bars,Restaurants,Sports Bars,Nightlife",Chandler,3,Sage Bar,,-111.9273353,33.3049828,AZ,3.0
-MvWxzyY3zIFH1fZL53E1yw,"656 W Washington Ave
-Capitol
-Madison, WI 53715",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,False,"Vietnamese,Cantonese,Dim Sum,Chinese,Restaurants",Madison,24,Viet Bistro,Capitol,-89.395441216499,43.0676216137503,WI,2.5
-FJUHc2lYL6Qvnnj9Bmb2WQ,"4626 S Maryland Pkwy
-Ste C
-University
-Las Vegas, NV 89119",09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,10:00 - 17:00,10:00 - 17:00,True,"Vietnamese,Restaurants",Las Vegas,31,Mr. Sandwich,University,-115.136831,36.105583,NV,3.5
-8G3gD8OJdnmPz1o9bg2yCw,"393 W Warner Rd
-Chandler, AZ 85225",10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,True,"Vietnamese,Restaurants",Chandler,43,Pho Viet Nam,,-111.845819002377,33.3346430292596,AZ,4.5
-qXR2sJSNBwJCD6TQQPDrpQ,"3565 S Rainbow Blvd
-Chinatown
-Las Vegas, NV 89103",09:00 - 01:00,09:00 - 01:00,09:00 - 01:00,09:00 - 01:00,09:00 - 01:00,09:00 - 01:00,09:00 - 01:00,False,"Vietnamese,Restaurants",Las Vegas,15,Mr. Sandwich,Chinatown,-115.243101,36.1243036,NV,2.5
-Y8OPM6aiLoGEQc6OXhnR8A,"6165 W Chandler Blvd
-Ste 1
-Chandler, AZ 85226",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,True,"Food,Ethnic Food,Specialty Food,Vietnamese,Restaurants",Chandler,62,Spring Roll Factory,,-111.9479565,33.3044272,AZ,4.5
-0Wgkqmf1uJB9AmiQK75qHw,"6149 N Scottsdale Rd
-Scottsdale, AZ 85250",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:30,11:00 - 21:30,17:00 - 21:00,True,"Vietnamese,Restaurants",Scottsdale,35,Slanted Rice Vietnamese Bistro,,-111.924627,33.5266038,AZ,3.5
-TyWhulwEZaHZUAXYDI4IRg,"323 King Street W
-Kitchener, ON N2G",,,,,,,,True,"Vietnamese,Restaurants",Kitchener,6,Golden Turtle Restaurant,,-80.4961156,43.4520681,ON,4.0
+Mesa, AZ 85210",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,False,"Soup,Vietnamese,Comfort Food,Restaurants",Mesa,47,Phu Thanh,,-111.849314,33.393607,AZ,4.0
+Au2PcSBz3N212S7D10EbDQ,"6638 E Superstition Springs Blvd
+Ste 101
+Mesa, AZ 85206",10:30 - 20:30,10:30 - 20:30,10:30 - 20:30,10:30 - 20:30,10:30 - 21:00,12:00 - 21:00,12:00 - 20:30,False,"Vietnamese,Asian Fusion,Restaurants",Mesa,27,Spice Asian Bistro,,-111.6872749,33.385161,AZ,4.0
+yMUVflS-2SnOGafXmdHy6w,"1955 W Baseline Rd
+Ste 114
+Mesa, AZ 85202",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,False,"Vietnamese,Restaurants",Mesa,161,Pho Ao Sen,,-111.876416,33.378440000000005,AZ,4.0
 lHRc-t5EmkY9ejWixFyiDQ,"4145 S Grand Canyon Dr
 Ste A-102
 Spring Valley
-Las Vegas, NV 89147",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,True,"Food,Ethnic Food,Restaurants,Vietnamese,Specialty Food",Las Vegas,21,Viet Bistro,Spring Valley,-115.307339,36.1143902,NV,4.0
-qcm7pfIdNn9XBuPEtoogbw,"7822 N 12th St
-Phoenix, AZ 85020",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 22:00,11:00 - 22:00,11:00 - 21:00,True,"Thai,Vietnamese,Restaurants",Phoenix,64,Red Thai,,-112.058056754014,33.5508545180918,AZ,4.0
-ALyPp3EcJprdsmdoWieN4A,"8180 Blue Diamond Rd
-Ste 110
-Southwest
-Las Vegas, NV 89178",11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,,True,"Vietnamese,Restaurants",Las Vegas,25,WTPho,Southwest,-115.2672312,36.0206629,NV,3.5
+Las Vegas, NV 89147",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,True,"Food,Ethnic Food,Restaurants,Vietnamese,Specialty Food",Las Vegas,21,Viet Bistro,Spring Valley,-115.30733899999998,36.1143902,NV,4.0
+CMTDZRDnv_O0rwAvRVbjvg,"1933 W Main St
+Ste 8
+Mesa, AZ 85201",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,False,"Food,Coffee & Tea,Vietnamese,Restaurants",Mesa,51,BlueMoon Vietnamese Kitchen,,-111.873616464253,33.4132849273635,AZ,4.0
+VQuvw_PcP-Nn-TB7o618Dg,"502 S Dobson
+Mesa, AZ 85202",09:00 - 21:00,,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,True,"Vietnamese,Restaurants",Mesa,34,Pho Thuan Thanh,,-111.875246,33.405652,AZ,4.0
+TyWhulwEZaHZUAXYDI4IRg,"323 King Street W
+Kitchener, ON N2G",,,,,,,,True,"Vietnamese,Restaurants",Kitchener,6,Golden Turtle Restaurant,,-80.4961156,43.45206810000001,ON,4.0
+DJze-lgFSmKJtMROr2Vddw,"3838 N 19th Ave
+Phoenix, AZ 85015",,,,,,,,False,"Vietnamese,Restaurants",Phoenix,3,Loi Nam Oriental Market,,-112.100274,33.492651,AZ,4.0
+sXkkxz7FwWx9ayHbDx0LbQ,"6820 Spring Mountain Rd
+Ste 11
+Chinatown
+Las Vegas, NV 89146",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Vietnamese,Restaurants",Las Vegas,40,Pho Saigon,Chinatown,-115.2411278,36.1269027,NV,4.0
+eR7cwYFZDkNqBSSTohNwLw,"7530 E Main St
+Mesa, AZ 85207",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,True,"Vietnamese,Thai,Asian Fusion,Restaurants",Mesa,50,Wok In,,-111.6687757,33.4157946,AZ,4.0
+5qY6LqQFupz2Dm8LB4xkJw,"3 Grove Street
+West End
+Edinburgh EH3 8AF",12:00 - 14:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,12:00 - 14:00,12:00 - 15:00,17:00 - 22:00,True,"Vietnamese,Restaurants",Edinburgh,29,Pho Vietnam House,West End,-3.2129307000000003,55.9459723,EDH,4.0
+tpJjVxyor9OOQfYgvAtdRA,"66 S Dobson Rd
+Ste 126
+Mesa, AZ 85202",09:00 - 20:30,09:00 - 20:30,,09:00 - 20:30,09:00 - 20:30,09:00 - 20:30,09:00 - 20:30,True,"Food,Ethnic Food,Restaurants,Vietnamese,Specialty Food",Mesa,29,Hue Gourmet,,-111.8759922,33.4133505,AZ,4.0
+3mEOCjX7s9mW4QUMqAAyOA,"610 Junction Rd
+Ste 109
+Junction Ridge
+Madison, WI 53717",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 20:00,True,"Vietnamese,Restaurants",Madison,55,Pho Nam Noodle House,Junction Ridge,-89.52672740000001,43.0734853,WI,4.0
+r0ZoytDjK4CY5ytFNjZLvw,"4300 Spring Mountain Rd
+Ste 101
+Chinatown
+Las Vegas, NV 89102",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Vietnamese,Restaurants",Las Vegas,446,Kinh Do,Chinatown,-115.197924,36.127175,NV,4.0
+th4uGmjyjPnQpN-ukf20PA,"1353 Williamson St
+Williamson - Marquette
+Madison, WI 53703",11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:00,True,"Thai,Vietnamese,Restaurants",Madison,228,Ha Long Bay Vietnamese & Thai Bistro,"Williamson - Marquette,Willy St",-89.36080820000002,43.0856215,WI,4.0
+yVQiGdxmnrkJDyQXv2maNA,"1702 W Camelback Rd
+Ste 14
+Phoenix, AZ 85015",08:30 - 20:30,08:30 - 20:30,08:30 - 20:30,08:30 - 20:30,08:30 - 20:30,08:30 - 20:30,08:30 - 20:30,True,"Vietnamese,Restaurants",Phoenix,321,Pho Thanh,,-112.096024,33.510112,AZ,4.0
+Zq-yfLJYy7245p-O8-PqGA,"7175 W Lake Mead Blvd
+Ste 125
+Las Vegas, NV 89128",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,True,"Vietnamese,Restaurants",Las Vegas,156,Viet Bistro,,-115.2481396,36.195266,NV,4.0
+A30MoBPFyMeKxFVkOjNC3A,"10895 S Eastern Ave
+Ste 140
+Anthem
+Henderson, NV 89052",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,True,"Vietnamese,Restaurants",Henderson,167,Pho MaiLan,Anthem,-115.101207,35.99358970000001,NV,4.0
+47A3pWsdYNhFFy9gUEVcYQ,"1820 W Southern Ave
+Mesa, AZ 85202",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,,True,"Vietnamese,Restaurants",Mesa,61,Pho Nhat,,-111.8704598,33.393148100000005,AZ,4.0
+syEJc3vYSPqMK7KeMtW94Q,"502 South Dobson Rd
+Ste 3
+Mesa, AZ 85202",,,,,,,,True,"Food,Ethnic Food,Restaurants,Vietnamese,Specialty Food",Mesa,4,Pho Hien,,-111.875246,33.405652,AZ,4.0
+A6DFzxQT5yBkwBBJsURRWQ,"3409 S Jones Blvd
+Chinatown
+Las Vegas, NV 89146",09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,10:00 - 22:00,True,"Vietnamese,Restaurants",Las Vegas,55,Pho Sing Sing,Chinatown,-115.2259262,36.1265774,NV,4.0
+mhQCxOiqp03qnhGRTtPduw,"66 S Dobson Rd
+Mesa, AZ 85202",09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,True,"Vietnamese,Restaurants",Mesa,326,unPhogettable,,-111.8759922,33.4133505,AZ,4.0
 47bimRPTRW5AipXRwfVA1A,"4631 Spring Mountain Rd
 Ste 102
 Chinatown
 Las Vegas, NV 89102",10:00 - 00:00,10:00 - 00:00,10:00 - 00:00,10:00 - 00:00,10:00 - 00:00,10:00 - 00:00,10:00 - 00:00,True,"Vietnamese,Restaurants",Las Vegas,26,Nem Nuong Bistro,Chinatown,-115.203712,36.125883,NV,4.0
-wmm19sGdCiL5IZhViYQY2Q,"4860 W Desert Inn Rd
+3zn5yjALes8-fxLvpO7_-A,"2755 N 91st Ave
+Suite A150/160
+Phoenix, AZ 85037",09:30 - 21:00,09:30 - 21:00,10:00 - 21:00,09:30 - 21:00,09:30 - 21:30,09:30 - 21:00,09:30 - 21:00,True,"Vegetarian,Vietnamese,Restaurants",Phoenix,46,Song Lynn,,-112.254559,33.478015899999995,AZ,4.0
+J4d0dY8k71Osot0GypK2kg,"1375 N Litchfield
+Goodyear, AZ 85395",10:00 - 20:30,10:00 - 20:30,,10:00 - 20:30,10:00 - 20:30,10:00 - 20:30,09:00 - 19:00,True,"Vietnamese,Restaurants",Goodyear,52,PT Noodles,,-112.3579932,33.4615009,AZ,4.0
+YnWb8fRudnNkXc-VjrmKGg,"14071 W Bell Rd
+Surprise, AZ 85374",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:30,11:00 - 21:30,11:00 - 20:00,True,"Sandwiches,Vietnamese,Asian Fusion,Restaurants",Surprise,168,Saigon Kitchen,,-112.363443374634,33.6382038313039,AZ,4.0
+-k6-FfJyc4P1RJMIg5p99g,"301 King Street E
+Kitchener, ON N2G 2L2",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Vietnamese,Restaurants",Kitchener,20,Pho Dau Bo,,-80.48420870000002,43.4477003,ON,4.0
+4zfrcEmGvZ4oYKx_revTxA,"4055 S Arizona Ave
+Ste 8
+Chandler, AZ 85248",10:00 - 21:00,,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,11:00 - 20:00,True,"Vietnamese,Chinese,Restaurants",Chandler,157,Pho Chandler,,-111.84111509999998,33.246989,AZ,4.0
+YzE9DAJDb5fqGa8WTZgBjg,"3400 S Jones Blvd
+Ste 2A
+Chinatown
+Las Vegas, NV 89146",10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,False,"Vietnamese,Restaurants",Las Vegas,88,Bosa 1,Chinatown,-115.224318,36.127754,NV,4.0
+CvufqyRBbS2Ed2wQlAXCMw,"5350 W Bell Rd
+Glendale, AZ 85308",,,,,,,,True,"Vietnamese,Restaurants",Glendale,80,Angelina's Pho and Grill,,-112.1737861,33.6395442,AZ,3.5
+KlT-sy8AvL8zq3nPVjMPUA,"10410 N 35th Ave
+Ste 112
+Phoenix, AZ 85051",,08:00 - 19:00,08:00 - 19:00,08:00 - 19:00,08:00 - 19:00,08:00 - 19:00,10:00 - 17:00,False,"Food,Juice Bars & Smoothies,Coffee & Tea,Vietnamese,Restaurants",Phoenix,11,Juice House Boba,,-112.134508,33.580671,AZ,3.5
+ESjWCcBpMeiRsvMYXWgdgw,"2025 N Dobson Rd
+Chandler, AZ 85224",10:00 - 20:00,,10:00 - 20:00,10:00 - 20:00,10:00 - 20:30,10:00 - 20:30,10:00 - 20:00,True,"Vietnamese,Restaurants",Chandler,60,Pho 68,,-111.874214172363,33.336154937744105,AZ,3.5
+po3QfLD7vINIFtyYTgkEMQ,"9055 S Eastern Ave
+Southeast
+Las Vegas, NV 89123",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Vietnamese,Restaurants",Las Vegas,194,Pho Saigon 8,Southeast,-115.11841640000002,36.02541420000001,NV,3.5
+JBCBlVaHfZUZrq-lQfryDA,"7707 S Kyrene Rd
+Tempe, AZ 85284",,,,,,,,True,"Thai,Vietnamese,Restaurants",Tempe,136,Pho Da Lat,,-111.9451314,33.3479486,AZ,3.5
+HOrfsgClwysVlDv1Vp7PIg,"4553 W Flamingo Rd
+Las Vegas, NV 89103",09:30 - 04:00,09:30 - 04:00,09:30 - 04:00,09:30 - 04:00,09:30 - 04:00,09:30 - 04:00,09:30 - 04:00,True,"Vietnamese,Restaurants",Las Vegas,188,Da Lat,,-115.2029596,36.11507320000001,NV,3.5
+hF0p0dYtDqOfDyKTVUeGZA,"13530 W Van Buren St
+Ste A101
+Goodyear, AZ 85338",,,,,,,,True,"Vietnamese,Restaurants",Goodyear,62,Central King Eggroll,,-112.3504684,33.4508902,AZ,3.5
+3OauvrqUU8nDLWcW6q9hGQ,"20235 N Cave Creek Rd
+Ste 108
+Phoenix, AZ 85024",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:30 - 20:00,True,"Vietnamese,Restaurants",Phoenix,124,Viet Kitchen,,-112.03017,33.671426000000004,AZ,3.5
+ggBkO170QkYZAezFGMKYjQ,"4141 N 35th Ave
+Ste 11 & 12
+Phoenix, AZ 85017",,,,,,,,False,"Vietnamese,Restaurants",Phoenix,7,Pho Old Saigon Vietnamese Cuisine,,-112.0077189,33.5812164,AZ,3.5
+eL1IZGEWOZTbxdcqqgZjfw,"500 Fairway Road South
+Unit 17
+Kitchener, ON N2C",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,11:00 - 23:00,11:00 - 22:00,True,"Thai,Vietnamese,Restaurants",Kitchener,14,Ben Thanh,,-80.44695829999998,43.4203695,ON,3.5
+juzATNnxyBWEdQoDoKrEuw,"1116 S Dobson Rd
+Mesa, AZ 85202",,,,,,,,True,"Vietnamese,Restaurants",Mesa,34,Dragonfly Vietnamese Kitchen,,-111.875578,33.394432,AZ,3.5
+wlc1TDMl44UGLI__WuKtkQ,"6820 Spring Mountain Rd
+Ste C-111
+Chinatown
+Las Vegas, NV 89146",,,,,,,,False,"Vietnamese,Restaurants",Las Vegas,12,Pho Village,Chinatown,-115.240864,36.1265659,NV,3.5
+PEOP7kZ1E4BJx3YzLMrmpA,"8115 N 19th Ave
+Ste 101-A
+Phoenix, AZ 85021",,,,,,,,False,"Vietnamese,Restaurants",Phoenix,12,Pho Loc,,-112.09925,33.55529600000001,AZ,3.5
+4OH2tMl8Qcebshi2rUTz-g,"4215 Spring Mountain Rd
+Ste B108
+Chinatown
+Las Vegas, NV 89102",08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,True,"Vietnamese,Restaurants",Las Vegas,187,Mr. Sandwich,Chinatown,-115.191420869064,36.1261620060751,NV,3.5
+3H2ttTM2aSIaZ6FTjHwDQQ,"66 S Dobson Rd
+Ste 141
+Mesa, AZ 85202",09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,True,"Vietnamese,Restaurants",Mesa,57,Com Tam Thuan Kieu,,-111.875779,33.413158,AZ,3.5
+tMpFSMGrXz8dzvB9UZ69XA,"3620 S Jones Blvd
+Chinatown
+Las Vegas, NV 89103",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,True,"Vietnamese,Restaurants",Las Vegas,148,Pho 87,Chinatown,-115.224712,36.12328460000001,NV,3.5
+U7PiSfu-xOvNVRXKqNOgAA,"36 Northfield Drive E
+Unit 1
+Waterloo, ON N2L 6A1",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,11:00 - 23:00,11:00 - 22:00,True,"Thai,Vietnamese,Restaurants",Waterloo,38,Ben Thanh,,-80.53118,43.502488,ON,3.5
+6qnB6AQSur85BLx6c11dOA,"5115 Spring Mountain Rd
+Ste 223
+Chinatown
+Las Vegas, NV 89146",09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,True,"Thai,Vietnamese,Chinese,Restaurants",Las Vegas,220,Hue Thai,Chinatown,-115.211199,36.125587,NV,3.5
+L-GfuOmn9mv55571uXvf2A,"4349 W Bell Rd
+Glendale, AZ 85311",,,,,,,,True,"Vietnamese,Restaurants",Glendale,45,Nam Sao,,-112.1530065,33.6392038,AZ,3.5
+d_qYu8tavFk8_-_Y5XcJYQ,"151 King Street W
+Kitchener, ON N2G 1A7",,,,,,,,True,"Vietnamese,Restaurants",Kitchener,4,Pho DNK Vietnamese Restaurant,,-80.4918441,43.4508297,ON,3.5
+sUf7fRBqsjLddnj_FW4mag,"4141 N 35th Ave
+Ste 11
+Phoenix, AZ 85017",,,,,,,,True,"Vietnamese,Restaurants",Phoenix,6,Pho Binh Minh,,-112.1336024,33.496536600000006,AZ,3.5
+17FKJgS11HppOf00qXKEqA,"8820 S Eastern Ave
+Las Vegas, NV 89123",10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,10:00 - 22:00,10:00 - 22:00,11:00 - 21:00,True,"Vietnamese,Restaurants",Las Vegas,274,Lemongrass Café,,-115.117185,36.028936,NV,3.5
+TAkj6En2E8dnd-yL6H_Q6w,"1051 Victoria St N
+Kitchener, ON N2B 3C7",,,,,,,,True,"Vietnamese,Restaurants",Kitchener,5,Pho Dau Bo 7 Restaurant,,-80.4595526,43.4655814,ON,3.5
+jf4RUa9EQO37hqxRCxbEXQ,"15111 N Hayden Rd
+Ste 110
+Scottsdale, AZ 85260",11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 19:00,11:00 - 20:00,11:00 - 20:00,,True,"Vietnamese,Restaurants",Scottsdale,98,Saigon Nites Vietnamese Cuisine,,-111.90458999999998,33.62200900000001,AZ,3.5
+4dL8yzQu974eCtTI-V4Znw,"151 W Gorham St
+Capitol
+Madison, WI 53703",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,12:00 - 22:00,16:00 - 22:00,True,"Vietnamese,Thai,Asian Fusion,Restaurants",Madison,54,Vientiane Palace Restaurant,Capitol,-89.3906,43.075287,WI,3.5
+3Wxp8wNfUuYUohTpNMLotQ,"7505 W Cactus Rd
+Peoria, AZ 85381",09:00 - 21:00,,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,True,"Vietnamese,Restaurants",Peoria,24,Pho Tan Thanh,,-112.22044609487101,33.595435065385104,AZ,3.5
+UIGFrEcoDsw05I1UOrxdOA,"1919 W Chandler Blvd
+Chandler, AZ 85224",11:00 - 14:30,11:00 - 14:30,11:00 - 14:30,17:00 - 21:00,17:00 - 22:00,11:00 - 14:30,22:00 - 11:00,True,"Vietnamese,Chinese,Restaurants",Chandler,149,Cyclo Vietnamese Cuisine,,-111.875221,33.306501000000004,AZ,3.5
+3yn4Icj9ClAO1c3bcmG1_A,"4860 W Desert Inn Rd
 Ste 9
 Westside
-Las Vegas, NV 89102",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 23:00,11:00 - 23:00,11:00 - 21:00,True,"Vietnamese,Restaurants",Las Vegas,12,Pho Lan,Westside,-115.2074043,36.1299924,NV,4.5
+Las Vegas, NV 89102",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:30 - 22:00,False,"Vietnamese,Restaurants",Las Vegas,11,Pho Ha Noi,Westside,-115.2074043,36.1299924,NV,3.5
+undnC8Xho3tf54mN3H808A,"5600 Spring Mountain Rd
+Ste B
+Chinatown
+Las Vegas, NV 89146",,,,,,,,True,"Vietnamese,Restaurants",Las Vegas,6,DaKao Quan,Chinatown,-115.2182851,36.1265084,NV,3.5
+FJUHc2lYL6Qvnnj9Bmb2WQ,"4626 S Maryland Pkwy
+Ste C
+University
+Las Vegas, NV 89119",09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,10:00 - 17:00,10:00 - 17:00,True,"Vietnamese,Restaurants",Las Vegas,31,Mr. Sandwich,University,-115.136831,36.105583,NV,3.5
+4XTcSltd2GydhvOzAV4SaQ,"933 E University Dr
+Ste 116
+Tempe, AZ 85281",,,,,,,,True,"Vietnamese,Restaurants",Tempe,57,Pho Nhat,,-111.924806,33.42135,AZ,3.5
+YrTKu37eqg19i2-crujY9A,"7539 W Peoria Ave
+Ste B104
+Peoria, AZ 85345",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,False,"Vietnamese,Thai,Asian Fusion,Restaurants",Peoria,27,Anise Cafe,,-112.221038,33.580238,AZ,3.5
+jtzhY-P4H6WSYpv5rWhxtw,"2221 N 7th St
+Phoenix, AZ 85006",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 00:00,11:00 - 00:00,11:00 - 22:00,True,"Vietnamese,Restaurants",Phoenix,318,Rice Paper,,-112.064757,33.471984899999995,AZ,3.5
+Ni9aqkG_fNWrH02VNlRhLQ,"1131 E Tropicana Ave
+Ste D
+Southeast
+Las Vegas, NV 89119",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Vietnamese,American (New),Restaurants",Las Vegas,188,Pho Thanh Huong,Southeast,-115.138668,36.1001831,NV,3.5
+ALyPp3EcJprdsmdoWieN4A,"8180 Blue Diamond Rd
+Ste 110
+Southwest
+Las Vegas, NV 89178",11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,,True,"Vietnamese,Restaurants",Las Vegas,25,WTPho,Southwest,-115.2672312,36.0206629,NV,3.5
+9aUJRtkW_WXFnsq2En7qkA,"8090 S Durango Dr
+Southwest
+Las Vegas, NV 89113",,,,,,,,False,"Vietnamese,Restaurants",Las Vegas,3,Pho 777,Southwest,-115.2787875,36.0420917,NV,3.5
+5NLxB-LiH152e3Grj_ewEw,"4601 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89103",09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,False,"Vietnamese,Restaurants",Las Vegas,28,Pho Old Saigon,Chinatown,-115.203317,36.125886,NV,3.5
+aet7i84Y7DplUJS7Rtppyg,"8390 S Rainbow Blvd
+Ste 110
+Southwest
+Las Vegas, NV 89139",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,False,"Vietnamese,Restaurants",Las Vegas,61,Rainbow Pho Express,Southwest,-115.24313807487499,36.036155685257604,NV,3.5
+HRwqeCdIH5joMnirnqrV3A,"710 E Gilbert Dr
+Tempe, AZ 85281",11:00 - 22:00,11:00 - 22:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 02:00,11:00 - 22:00,True,"Nightlife,Vietnamese,Karaoke,Restaurants",Tempe,122,Pho Cao,,-111.92707140000002,33.4369319,AZ,3.5
+JOJtP3IQbCg65rssBewUXg,"9530 S Eastern Ave
+Ste 150
+Henderson, NV 89123",07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,True,"Vietnamese,Sandwiches,Restaurants",Henderson,96,Lee's Sandwiches,,-115.117307603359,36.0155847768416,NV,3.5
+2mcmuAvpNIJuV3gV0v9v2A,"7582 W Cactus Rd
+Ste B5
+Peoria, AZ 85381",,,,,,,,True,"Vietnamese,Restaurants",Peoria,88,Pholicious,,-112.2226374,33.5958042,AZ,3.5
+EkGPPkqPj4_MB-cJLZhw1Q,"2817 E Washington Ave
+Starkweather - Yahar
+Madison, WI 53704",11:30 - 21:00,,11:30 - 21:00,11:30 - 21:00,11:30 - 21:00,11:30 - 21:00,11:30 - 21:00,False,"Vietnamese,Restaurants",Madison,19,Viet House,Starkweather - Yahar,-89.3447941,43.10288679999999,WI,3.5
+EDIhEegxgXva7jWoJzL1FA,"Phoenix, AZ 85257",,,,,,,,True,"Food,Vietnamese,Asian Fusion,Food Trucks,Restaurants",Phoenix,15,The Great Pho King Food Truck,,-111.910516,33.468848,AZ,3.5
+wAs-stW0HP6OXVXdpawnBQ,"4808 N 35th Ave
+Phoenix, AZ 85017",,,,,,,,True,"Vietnamese,Restaurants",Phoenix,10,Dong-A,,-112.1345446,33.5081908,AZ,3.5
+M0qJweLJaNO2ikd8koYn4w,"202 N Central Ave
+Phoenix, AZ 85004",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 00:00,11:00 - 00:00,11:00 - 22:00,True,"Vietnamese,Restaurants",Phoenix,58,Bonjour Vietnam,,-112.0740771,33.4504587,AZ,3.5
+lcVlSi_bCAmiSuJx61BSAQ,"1955 W Baseline Rd
+Ste 114
+Mesa, AZ 85202",,,,,,,,True,"Thai,Vietnamese,Restaurants",Mesa,35,Pho Number One,,-111.86656951904301,33.3812861154936,AZ,3.5
+FV16IeXJp2W6pnghTz2FAw,"4029 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89102",06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,06:00 - 06:00,True,"Vietnamese,Chinese,Restaurants",Las Vegas,1314,Pho Kim Long,Chinatown,-115.193971,36.126177,NV,3.5
+2W2AwR-5z_jQ0Ihg9A5cPg,"1116 S Dobson Rd
+Mesa, AZ 85202",,,,,,,,True,"Vietnamese,Restaurants",Mesa,14,Pho All Seasons,,-111.8748402,33.3944997,AZ,3.5
+Uo5CqWuJwPNfQPO9QvECgA,"3515 W Northern Ave
+Phoenix, AZ 85051",09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,False,"Vietnamese,Restaurants",Phoenix,13,Pho 35,,-112.1357952,33.5530966,AZ,3.5
+0Wgkqmf1uJB9AmiQK75qHw,"6149 N Scottsdale Rd
+Scottsdale, AZ 85250",11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:30,11:00 - 21:30,17:00 - 21:00,True,"Vietnamese,Restaurants",Scottsdale,35,Slanted Rice Vietnamese Bistro,,-111.924627,33.5266038,AZ,3.5
+33aOj9haiHsULCUmFOZ7uQ,"5650 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89146",09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,True,"Vietnamese,Restaurants",Las Vegas,300,Pho Saigon 8,Chinatown,-115.2187129,36.125761,NV,3.5
+Yq8LiVymGA7vBpGCQuDfRw,"4745 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89102",09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,09:00 - 03:00,True,"Vietnamese,Restaurants",Las Vegas,523,Pho So 1,Chinatown,-115.2062973,36.1262669,NV,3.5
+fH87P0kpjYbUULC9eoJQbA,"502 S Dobson Rd
+Mesa, AZ 85209",,,,,,,,False,"Vietnamese,Sushi Bars,Restaurants",Mesa,8,Pho Mesa,,-111.875246,33.405652,AZ,3.0
+Ursyl0ENSvc1BA87H5st2A,"9210 S Eastern Ave
+Ste 120
+Las Vegas, NV 89123",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Vietnamese,Restaurants",Las Vegas,45,Pho Little Saigon,,-115.117336642609,36.022046152022206,NV,3.0
+ZjBvtxDvPPvJhbebFtie8g,"2021 W Sunset Rd
+Henderson, NV 89014",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,False,"Vietnamese,Japanese,Chinese,Restaurants",Henderson,62,Noodle ChaCha,,-115.069468,36.068756,NV,3.0
+NLVcGseUhgQdABs1mIYk8g,"114 W Adams St
+Phoenix, AZ 85003",10:30 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:30 - 21:00,False,"Vietnamese,Restaurants",Phoenix,23,Viet Kitchen,,-112.075324,33.4495069,AZ,3.0
+3dQqoz-yHhOfHrIBMRCD3w,"5546 Camino Al Norte
+North Las Vegas, NV 89031",10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,10:30 - 22:00,True,"Food,Juice Bars & Smoothies,Vietnamese,Chinese,Restaurants",North Las Vegas,103,Jasmine Express,,-115.154026,36.2603823,NV,3.0
+gWZMV5q8CSp8K5tZcMokCA,"7365 W Sahara Ave
+Ste B-C
+Westside
+Las Vegas, NV 89117",11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,True,"Thai,Vietnamese,Restaurants",Las Vegas,45,Lilly's Thai & Vietnamese Restaurant,Westside,-115.25354,36.1433,NV,3.0
+H83uIqLKcOSFcmJhXmc-lA,"3275 E McDowell Rd
+Phoenix, AZ 85008",09:30 - 20:00,,09:30 - 20:00,09:30 - 20:00,09:30 - 20:00,09:30 - 20:00,09:30 - 20:00,False,"Vietnamese,Restaurants",Phoenix,27,Pho House,,-112.0106085,33.465715100000004,AZ,3.0
+ciEBHH91Hz4RciYUUkueNg,"4480 W Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89102",10:00 - 06:00,10:00 - 06:00,10:00 - 06:00,10:00 - 06:00,10:00 - 06:00,10:00 - 06:00,10:00 - 06:00,True,"Vietnamese,Restaurants",Las Vegas,103,Jenni Pho Grill,Chinatown,-115.201307757243,36.126428064672396,NV,3.0
+MtHebhODUljM-_3n-DMk4g,"1750 N Buffalo Dr
+Ste 107
+Summerlin
+Las Vegas, NV 89128",,,,,,,,True,"Vietnamese,Restaurants",Las Vegas,42,Pho Rose,Summerlin,-115.2600699,36.1907268,NV,3.0
+Q8E7BaMD2g_-xCTcBK8Q8Q,"3700 W Flamingo Rd
+Las Vegas, NV 89103",,,,,,,,True,"Arts & Entertainment,Vietnamese,Casinos,Event Planning & Services,Hotels & Travel,Restaurants,Hotels",Las Vegas,27,Pho Da Nang,,-115.186442,36.118699,NV,3.0
+8EWtX4VzY_dSEUz-LQSL_g,"4631 W Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89103",09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,True,"Vietnamese,Restaurants",Las Vegas,13,Pho Thai Binh,Chinatown,-115.2039271,36.1261519,NV,3.0
+hdxDwMNNfclcUVYLX-cN_Q,"7855 S Rainbow Blvd
+Southwest
+Las Vegas, NV 89139",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,True,"Vietnamese,Restaurants",Las Vegas,200,Jenni Pho,Southwest,-115.2435889,36.0455949,NV,3.0
+vlLjHgbTr7-OpPfn2U7qZg,"4929 W Chandler Blvd
+Ste 12
+Chandler, AZ 85226",,,,,,,,True,"Vietnamese,Bars,Restaurants,Sports Bars,Nightlife",Chandler,3,Sage Bar,,-111.92733529999998,33.3049828,AZ,3.0
+Ggqoqg6AUdgCADUk4eDsDg,"414 S Mill Ave
+Suite 115
+Tempe, AZ 85281",22:30 - 22:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,False,"Vietnamese,Restaurants",Tempe,9,Pho Thang Long,,-111.940346,33.425938,AZ,3.0
+4aHi_FH2eP9c25Smb35AZg,"1702 W Camelback Rd
+Ste 14
+Phoenix, AZ 85015",,,,,,,,False,"Vietnamese,Restaurants",Phoenix,13,Pho Bang Restaurant,,-112.0962274,33.5097112,AZ,3.0
+iFd_GU21RrxyzL8eE0RQEQ,"1336 Regent St
+Greenbush
+Madison, WI 53715",11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 21:30,11:00 - 22:00,11:00 - 22:00,11:00 - 21:30,True,"Vietnamese,Asian Fusion,Chinese,Restaurants",Madison,35,Nam's Noodle & Karaoke Bar,Greenbush,-89.4083588,43.0677549,WI,3.0
+Zh6zpqN_rFZylYexWW2btQ,"1011 N 3rd St
+Phoenix, AZ 85004",16:00 - 00:00,16:00 - 00:00,16:00 - 00:00,16:00 - 00:00,16:00 - 02:00,16:00 - 02:00,12:00 - 17:00,True,"Japanese,Bars,Vietnamese,Nightlife,Restaurants",Phoenix,88,Pallets Food and Bar,,-112.068953,33.459053999999995,AZ,3.0
+-_npP9XdyzILAjtFfX8UAQ,"6025 N 27th Ave
+Ste 24
+Phoenix, AZ 85073",,,,,,,,True,"Vietnamese,Sandwiches,Restaurants",Phoenix,17,Thao's Sandwiches,,-112.116214529419,33.525634916509,AZ,3.0
+CoJivG0wxNIBXyOF7MNqSQ,"4215 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89102",,,,,,,,True,"Vietnamese,Restaurants",Las Vegas,60,Pho Vietnam Restaurant,Chinatown,-115.1969938,36.1263784,NV,3.0
+rOEWuLpnYJVvm4REIgXt7A,"8123 E Roosevelt St
+Scottsdale, AZ 85257",,,,,,,,True,"Vietnamese,Chinese,Restaurants",Scottsdale,29,Dong Phuong Saigon Bowl,,-111.907685,33.458256,AZ,3.0
+wK2RM163ByHaGixGn_UzuA,"7575 W Cactus Rd
+Peoria, AZ 85381",,,,,,,,True,"Korean,Vietnamese,Sushi Bars,Restaurants",Peoria,12,Our House,,-112.222145,33.594892,AZ,3.0
+ac8nkInkJF32DUM4VYW17Q,"7425 S Durango Dr
+Ste 103-104
+Southwest
+Las Vegas, NV 89113",10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,10:30 - 21:30,True,"Vietnamese,Restaurants",Las Vegas,58,Sammy Pho Vietnamese Cuisine,Southwest,-115.27962047606701,36.053237353945896,NV,3.0
+S1S7_p2u8cpMd0-ZAsjahA,"5600 Spring Mountain Rd
+Ste B
+Chinatown
+Las Vegas, NV 89146",09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,09:00 - 23:00,True,"Food,Vietnamese,Restaurants",Las Vegas,3,Pho Pasteur & Grill,Chinatown,-115.2182851,36.1265084,NV,2.5
+DojLUQOpfZWs9HynUuZJ4g,"4929 W Chandler Blvd
+Chandler, AZ 85226",14:00 - 23:00,14:00 - 23:00,14:00 - 23:00,12:00 - 02:00,12:00 - 02:00,12:00 - 02:00,12:00 - 22:00,True,"Bars,Vietnamese,Nightlife,Lounges,Restaurants",Chandler,34,Sage Bar and Vietnamese Cuisine,,-111.92706499999998,33.304860999999995,AZ,2.5
+Qa6Gmw6OcNKrqVDh80I_9w,"414 S Mill Ave
+Ste 115
+Tempe, AZ 85281",,,,,,,,False,"Vietnamese,Restaurants",Tempe,15,Dragonfly Vietnamese Kitchen,,-111.940346,33.425938,AZ,2.5
+gCo--CY5aUoByxUAET2cTw,"3775 W Spring Mountain Rd
+Ste 306
+Chinatown
+Las Vegas, NV 89102",,,,,,,,True,"Vietnamese,Restaurants",Las Vegas,194,Pho Little Saigon,Chinatown,-115.189863,36.1265155,NV,2.5
+nzQJqTrcazg23EjdaHgqDg,"4355 Spring Mountain Rd
+Chinatown
+Las Vegas, NV 89102",,,,,,,,False,"Vietnamese,Restaurants",Las Vegas,7,Pho Nhu  Y,Chinatown,-115.197904,36.125908,NV,2.5
+93o1h19UKHlI4NE19Peibw,"Treasure Island
+3300 S Las Vegas Blvd
+The Strip
+Las Vegas, NV 89115",,,,,,,,True,"Vietnamese,Restaurants",Las Vegas,81,Pho at The Coffee Shop,The Strip,-115.17176485588101,36.124726742788894,NV,2.5
+MvWxzyY3zIFH1fZL53E1yw,"656 W Washington Ave
+Capitol
+Madison, WI 53715",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,False,"Vietnamese,Cantonese,Dim Sum,Chinese,Restaurants",Madison,24,Viet Bistro,Capitol,-89.39544121649902,43.0676216137503,WI,2.5
+WCPRD6dreNm9Giqr3Zu6zQ,"1731 E Broadway
+Ste 1
+Tempe, AZ 85282",,,,,,,,True,"Vietnamese,Restaurants",Tempe,47,Saigon Pho,,-111.9099123,33.4074267,AZ,2.5
+0nT6cj3YBJIJSwHL4mKlJw,"3557 W Dunlap Ave
+Phoenix, AZ 85051",,,,,,,,True,"Vietnamese,Restaurants",Phoenix,3,Pho Viet,,-112.1361274,33.56723220000001,AZ,2.5
+qXR2sJSNBwJCD6TQQPDrpQ,"3565 S Rainbow Blvd
+Chinatown
+Las Vegas, NV 89103",09:00 - 01:00,09:00 - 01:00,09:00 - 01:00,09:00 - 01:00,09:00 - 01:00,09:00 - 01:00,09:00 - 01:00,False,"Vietnamese,Restaurants",Las Vegas,15,Mr. Sandwich,Chinatown,-115.243101,36.12430360000001,NV,2.5
+Yg__fykqkqsGaPnX5x9bBQ,"66 S Dobson Rd
+Ste 106
+Mesa, AZ 85202",,,,,,,,True,"Vietnamese,Restaurants",Mesa,9,Chicken Noodle House,,-111.875779,33.413158,AZ,2.5
+LTMEAdWM4m5tIDCSrkALIg,"Treasure Island
+3300 Las Vegas Blvd S
+The Strip
+Las Vegas, NV 89109",11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 00:00,11:00 - 03:00,11:00 - 03:00,11:00 - 00:00,True,"Vietnamese,Restaurants",Las Vegas,217,Pho Vietnamese Cuisine,The Strip,-115.1730752,36.1231538,NV,2.5
+PwlTG5rzh-xefcVhYqDm2Q,"685 Fischer-Hallman Road
+Unit G
+Kitchener, ON N2E 4E9",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,09:00 - 22:30,09:00 - 22:30,09:30 - 22:00,True,"Vietnamese,Restaurants",Kitchener,4,Pho dau Bo,,-80.5107864,43.415624,ON,2.5
+FNZqovk1ZWI_z2YHw3b95w,"66 S. Dobson Rd. Ste-106
+Mesa, AZ 85202",08:30 - 23:00,,08:30 - 23:00,08:30 - 23:00,08:30 - 01:00,08:30 - 01:00,08:30 - 23:00,True,"Vietnamese,Restaurants",Mesa,5,Mylynn Cafe,,-111.875779,33.413158,AZ,2.5
+fCkgtZUUM5qmU_-KWQiJuQ,"5288 Spring Mountain Rd
+Ste 106
+Chinatown
+Las Vegas, NV 89146",08:00 - 02:00,08:00 - 02:00,08:00 - 02:00,08:00 - 02:00,08:00 - 02:00,08:00 - 02:00,08:00 - 02:00,True,"Vietnamese,Asian Fusion,Restaurants",Las Vegas,70,Pho Hung Restaurant,Chinatown,-115.213272,36.1265592,NV,2.5
+cdEyO3XRIrHH7ZCjCsxXqA,"7537 S Rainbow Blvd
+Ste 101
+Southwest
+Las Vegas, NV 89139",,,,,,,,False,"Vietnamese,Chinese,Restaurants",Las Vegas,11,Pho Hoang,Southwest,-115.24387,36.051627,NV,2.0
+qNpNPI-f2Y2eg364-V0deQ,"7828 N 19th Ave
+Ste 6
+Phoenix, AZ 85021",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,False,"Vietnamese,Restaurants",Phoenix,7,Tu DO Restaurant,,-112.100098,33.55203,AZ,2.0
+Co-sJv4GNxILkF79ZMLq-Q,"7000 E Mayo Blvd
+Phoenix, AZ 85054",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:30,10:30 - 21:00,11:00 - 21:00,True,"Vietnamese,Asian Fusion,Chinese,Restaurants",Phoenix,9,Panda Express,,-111.9300279,33.6556844,AZ,2.0
+QW22Xgl6_VEtP-YmUAw3Wg,"3650 S Decatur Blvd
+Chinatown
+Las Vegas, NV 89103",,,,,,,,False,"Vietnamese,Restaurants",Las Vegas,24,Pho Huong Saigon,Chinatown,-115.207512,36.123589,NV,2.0
+0bttFaka7LluACdqu_BFlA,"4503 Paradise Rd
+Eastside
+Las Vegas, NV 89109",,,,,,,,False,"Vietnamese,Restaurants",Las Vegas,6,Pho Hoa Noodle Soup,Eastside,-115.1521048,36.107194,NV,2.0
