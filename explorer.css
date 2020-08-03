@@ -427,3 +427,75 @@ a:active {
     border-color: #26547C;
     font-weight: 500;
 }
+
+.reviews-container {
+    display: grid;
+    grid-template-columns: auto 800px auto;
+    justify-items: stretch;
+    margin-top: 0px;
+}
+
+.reviews-item-container {
+    height: auto;
+    justify-items: center;
+    justify-content: center;
+    align-content: center;
+    width: 800px;
+    /*background-color: yellow;*/
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-width: 1px;
+    border-color: #e5e6eb;
+    border-radius: 5px;
+    border-style: solid;
+    transition: box-shadow .3s;
+}
+
+.reviews-item-container:hover {
+    box-shadow: 0 0 35px #e5e6eb;
+}
+
+.reviews-text {
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #3b5998;
+}
+
+.reviews-subtitle {
+    padding-left: 20px;
+    padding-top: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #8d99ae;
+}
+
+.title-subtitle {
+    display: inline-block;
+    width: 500px;
+    padding-left: 2px;
+    /*padding-top: 5px;*/
+    /*margin-left: 50px;
+    margin-top: -100px;*/
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #8d99ae;
+}
+
+#progressbar {
+  background-color: #e5e6eb;
+  border-radius: 13px;
+  /* (height of inner div) / 2 + padding */
+  padding: 0px;
+}
+
+#progressbar>div {
+  background-color: #fca311;
+  /*width: 40%;*/
+  /* Adjust with JavaScript */
+  height: 3px;
+  border-radius: 1px;
+}
