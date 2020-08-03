@@ -129,6 +129,7 @@
         var cuisine_name = "";
         var business_id = "";
         var selected_business = {};
+        var all_users = []
 
         var ul = document.getElementsByTagName("UL");
 
@@ -220,7 +221,15 @@
             console.log(cuisine_name);
             console.log(business_id);
 
-            var csv_path = "./cuisines/" + cuisine_name + "/restaurants.csv";
+            var csv_path = "./cuisines/" + cuisine_name + "/users.csv";
+
+            Papa.parse(csv_path, {
+                download: true,
+                header: true,
+                complete: loadUsers
+            });
+
+            csv_path = "./cuisines/" + cuisine_name + "/restaurants.csv";
 
             Papa.parse(csv_path, {
                 download: true,
@@ -259,9 +268,12 @@
                 var rating = (parseFloat(stars) / 5.0) * 100;
                 
                 if (cur_business_id == business_id) {
+
+                    name = nameForUserId(data[i]['user_id'])
+
                     div += "<div id=\"" + data[i]['review_id'] + "\" class=\"reviews-item-container\">"
                         div += "<div class=\"user-name\">"
-                            div += "FirstName LastName"
+                            div += name
                         div += "</div>"
                         div += "<table style=\"margin-left:15px; margin-top:10px\">"
                             div += "<td style=\"width:65px\">"
@@ -406,6 +418,27 @@
             div += "</div>"
 
             $("#reviews-count").html(div);
+        }
+
+        function loadUsers(results) {
+
+            data = results.data;
+
+            for (var i = 0; i < data.length; i++) {
+                all_users.push(data[i])
+            }
+        }
+
+        function nameForUserId(user_id) {
+            if (all_users.length > 0) {
+                for (var i = 0; i < all_users.length; i++) {
+                    if (all_users[i]['user_id'] == user_id) {
+                        return all_users[i]['name']
+                    }
+                }
+            }
+
+            return ""
         }
 
         function onClickSegementedControl(target) {

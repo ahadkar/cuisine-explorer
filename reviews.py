@@ -515,6 +515,7 @@ def ratings_over_time():
 			new_df = rev_df.sort_values(by=['iso_date'], ascending=True)
 
 			new_df = new_df.loc[:, ['date','iso_date', 'stars']]
+			new_df = new_df.rename(columns={"stars": "value"})
 
 			write_path = "./cuisines/" + cuisine_name + "/ratings_over_time.csv"
 			new_df.to_csv(write_path, index=False)
@@ -575,19 +576,9 @@ def users():
 
 			unique_users = rev_df['user_id'].tolist()
 
-			# print(type(all_users_df))
-
 			cuisine_users = all_users_df.loc[all_users_df.user_id.isin(unique_users)]
 
-			# all_users_df[all_users_df['user_id'].isin([users])]
-
-			# print(cuisine_users)
-
 			if len(cuisine_users.index) > 0:
-				# new_df = rev_df.sort_values(by=['iso_date'], ascending=True)
-
-				# new_df = new_df.loc[:, ['date','iso_date', 'stars']]
-
 				write_path = "./cuisines/" + cuisine_name + "/users.csv"
 				cuisine_users.to_csv(write_path, index=False)
 
