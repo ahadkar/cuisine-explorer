@@ -1,9 +1,32 @@
 hr {
-    width: 100%;
+    width: 900px;
     height: 1px;
     background-color:#e5e6eb;
     border: 0 none;
-    margin: auto 10px 10px auto;
+    /*margin: auto 10px 10px auto;*/
+}
+
+/* unvisited link */
+a:link {
+    color:  #3b5998;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color:  #3b5998;
+}
+
+/* mouse over link */
+a:hover {
+    color: #ff8b94;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #ff8b94;
+    text-decoration: none;
 }
 
 .body-style {
@@ -19,8 +42,8 @@ hr {
 
 .title-item {
     text-align: center;
-    font-family: 'Fredoka One', cursive;
-    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
     font-size: 40px;
     color: #3b5998;
     padding-top: 40px;
@@ -120,4 +143,122 @@ hr {
     font-size: 25px;
     text-align: center;
     padding-top: 280px;
+}
+
+.cuisine-title {
+    display: grid;
+    grid-template-columns: auto 700px auto;
+    justify-items: stretch;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    color: #3b5998;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    z-index: 2;
+    transition: all 0.15s linear;
+    overflow: auto;
+    position: sticky; 
+    top: 0; 
+    background-color: white;
+    margin: -10px -10px 0 -10px;
+}
+
+#cuisine-title.active {
+     box-shadow: 0 0 35px #e5e6eb;   
+}
+
+.cuisine-sub-title {
+    display: grid;
+    grid-template-columns: auto 700px auto;
+    justify-items: stretch;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    color: #3b5998;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.review-container {
+    display: grid;
+    grid-template-columns: auto 700px auto;
+    justify-items: stretch;
+    margin-top: 0px;
+}
+
+.restaurant-item-container {
+    height: 100px;
+    justify-items: center;
+    justify-content: center;
+    align-content: center;
+    width: 700px;
+    /*background-color: yellow;*/
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-width: 1px;
+    border-color: #e5e6eb;
+    border-radius: 5px;
+    border-style: solid;
+    transition: box-shadow .3s;
+}
+
+.restaurant-item-container:hover {
+    box-shadow: 0 0 35px #e5e6eb;
+}
+
+.restaurant-name {
+    padding-left: 20px;
+    padding-top: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.restaurant-subtitle {
+    padding-left: 20px;
+    padding-top: 5px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #8d99ae;
+}
+
+.rating {
+    unicode-bidi: bidi-override;
+    color: #c5c5c5;
+    font-size: 15px;
+    height: 15px;
+    width: 75px;
+    margin: 0 auto;
+    position: absolute;
+    padding: 0;
+    text-shadow: 0px 0px 0 #e5e6eb;
+    justify-items: left;
+    justify-content: left;
+    align-content: left;
+    margin-left: 0px;
+    margin-top: -8px;
+    /*background-color: blue;*/
+}
+
+.rating-upper {
+  color: #fadd6c;
+  padding: 0;
+  position: absolute;
+  z-index: 1;
+  display: flex;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  width: 75px;
+}
+
+.rating-lower {
+  padding: 0;
+  display: flex;
+  z-index: 0;
+  width: 75px;
 }
