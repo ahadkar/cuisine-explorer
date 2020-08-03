@@ -16,7 +16,7 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
         <script src="https://unpkg.com/papaparse@5.2.0/papaparse.min.js"></script>
         <link rel="stylesheet" type="text/css" href="explorer.css" media="screen"/>
-        
+
     </head>
 
     <body class="body-style" onload="javascript:loadData()">
@@ -33,9 +33,10 @@
                 </div>
 
                 <div class="content-item-right">
-                    <div class="lucky-item">
+                    <div id="lucky-item" class="lucky-item">
+                        <img src="./images/lucky.png" style="width: 300px; height: 300px; padding-left: 135px; padding-top: 100px">
                         <div class="lucky-item-title">
-                            I'm feeling lucky!!
+                            I'm feeling lucky!
                         </div>
                     </div>
                 </div>
@@ -45,6 +46,12 @@
         </div>
 
         <script type="text/javascript">
+
+            var all_data = [];
+            var randomCuisine = [];
+
+            var random = document.getElementById("lucky-item");
+            random.addEventListener("click", findRandomCuisine, false);
 
             function loadData() {
 
@@ -57,7 +64,8 @@
 
             function displayCuisines(results) {
                 
-                var data = results.data;
+                all_data = results.data;
+                var data = all_data;
                 var div = '';
                 
                 for (i = 0; i < data.length; i++) {
@@ -68,8 +76,6 @@
                     image = image.replace(" ", "_");
                     image = "./images/" + image + ".png";
 
-                    console.log(image);
-
                     div += "<a href=\"all_restaurants.html?" + "cuisine_name=" + cuisine_name + "\">"
                         div += "<div id=\"" + cuisine_name + "\" class=\"cuisine-item\">";
                             div += "<div class=\"cuisine-item-image\">"
@@ -79,15 +85,50 @@
                             div += "</div>";
                         div += "</div>";
                     div += "</a>"
-
-                    // console.log(data[i]);
                 }
 
                 $("#cuisine_names").html(div);
             }
 
+            function findRandomCuisine() {
+
+                randomCuisine = all_data[Math.floor(Math.random() * all_data.length)];
+                console.log(randomCuisine);
+
+                var path = "./cuisines/" + randomCuisine['cuisine_name'] + "/restaurants.csv"
+
+                console.log(path)
+
+                Papa.parse(path, {
+                    download: true,
+                    header: true,
+                    complete: openRandomRestaurant
+                })
+            }
+
+            function openRandomRestaurant(results) {
+
+                var data = results.data;
+                var restaurants = []
+
+                for (var i = 0; i < data.length; i++) {
+                    
+                    var rating = data[i]['stars']
+                    if (parseInt(rating) > 3.7) {
+                        restaurants.push(data[i])
+                    }
+                }
+
+                var randomRestaurant = restaurants[Math.floor(Math.random() * restaurants.length)];
+                console.log(randomRestaurant);
+
+                var path = "./restaurant_reviews.html?business_id=" + randomRestaurant['business_id'] + "?cuisine_name=" + randomCuisine['cuisine_name']
+
+                openPage(path)
+            }
+
             function openPage(pageUrl) {
-                window.open(pageUrl);
+                window.open(pageUrl, "_self");
             }
 
         </script>

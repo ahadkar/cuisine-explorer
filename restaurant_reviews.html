@@ -90,7 +90,7 @@
                         <input type="text" name="search" id="search-text-box" class="search-text-box" placeholder="Search Reviews">
                         
                         <div style="display: inline-block;">
-                            <div class="segmented-control-item" style="width: auto;">
+                            <div class="segmented-control-item" style="width: auto; margin-left: 85px">
                                 <div>
                                     <ul class="buttonGroup" id="stars-type">
                                         <li class="selected">All</li>
@@ -124,11 +124,73 @@
     <script type="text/javascript">
         
         var total_count = 0;
-        var all_data = 0;
+        var all_data = {};
         var selected_stars = "All";
         var cuisine_name = "";
         var business_id = "";
         var selected_business = {};
+
+        var ul = document.getElementsByTagName("UL");
+
+        for(var i = 0, j = ul.length; i < j; i++) {
+            if (/\bbuttonGroup\b/.test(ul[i].className)) {
+                ul[i].onclick = onClickSegementedControl(ul[i]);
+            }
+        }
+
+        var search = document.getElementById("search-text-box");
+        search.addEventListener("keyup", searchRestaurants, false);
+
+        var stars = document.getElementById("stars-type");
+        stars.addEventListener("click", filterByStars, false);
+
+        function searchRestaurants() {
+
+            var input = document.getElementById("search-text-box");
+            var filter = input.value.toLowerCase();
+
+            console.log(filter);
+
+            var count = 0;
+            for (i = 0; i < all_data.length; i++) {
+                var text = all_data[i]['text'];
+                var nodes = document.getElementById(all_data[i]['review_id']);
+                if (nodes != null) {
+                    var shouldAdd = false;
+
+                    if (selected_stars == "All") {
+                        shouldAdd = true;
+                    } else {
+                        if (parseInt(selected_stars) == parseInt(all_data[i]["stars"])) {
+                            shouldAdd = true;
+                        } else {
+                            shouldAdd = false;
+                        }
+                    }
+
+                    if (shouldAdd) {
+                        if (filter.length > 0) {
+                            if (text.toLowerCase().includes(filter)) {
+                                shouldAdd = true;
+                            } else {
+                                shouldAdd = false;
+                            }
+                        } else {
+                            shouldAdd = true;
+                        }
+                    }
+
+                    if (shouldAdd) {
+                        nodes.style.display = "block";
+                        count += 1;
+                    } else {
+                        nodes.style.display = "none";
+                    }
+                }
+            }
+
+            setReviewCount(count)
+        }
 
         function setReviewCount(count) {
 
@@ -138,6 +200,10 @@
                 div += count + " Reviews";
             div += "</div>";
             $("#sub-title-content").html(div);
+        }
+
+        function filterByStars() {
+            searchRestaurants();
         }
 
         function loadData() {
@@ -188,8 +254,40 @@
             div = '';
             for (i = 0; i < data.length; i++) {
                 cur_business_id = data[i]["business_id"]
+                
+                var stars = selected_business['stars'];
+                var rating = (parseFloat(stars) / 5.0) * 100;
+                
                 if (cur_business_id == business_id) {
-                    div += "<div class=\"reviews-item-container\">"
+                    div += "<div id=\"" + data[i]['review_id'] + "\" class=\"reviews-item-container\">"
+                        div += "<div class=\"user-name\">"
+                            div += "FirstName LastName"
+                        div += "</div>"
+                        div += "<table style=\"margin-left:15px; margin-top:10px\">"
+                            div += "<td style=\"width:65px\">"
+                                div += "<div class=\"rating\">"
+                                    div += "<div class=\"rating-upper\" style=\"width:" + rating + "%\">"
+                                        div += "<span>★</span>"
+                                        div += "<span>★</span>"
+                                        div += "<span>★</span>"
+                                        div += "<span>★</span>"
+                                        div += "<span>★</span>"
+                                    div += "</div>"
+                                    div += "<div class=\"rating-lower\">"
+                                        div += "<span>★</span>"
+                                        div += "<span>★</span>"
+                                        div += "<span>★</span>"
+                                        div += "<span>★</span>"
+                                        div += "<span>★</span>"
+                                    div += "</div>"
+                                div += "</div>"
+                            div += "</td>"
+                            div += "<td>"
+                                div += "<div class=\"reviews-subtitle\">"
+                                    div += data[i]['iso_date']
+                                div += "</div>"
+                            div += "</td>"
+                        div += "</table>"
                         div += "<div class=\"reviews-text\">"
                             div += data[i]["text"];
                         div += "</div>"
@@ -214,12 +312,6 @@
             $("#reviews").html(div);
 
             setReviewCount(count)
-
-            console.log(one_star_count)
-            console.log(two_star_count)
-            console.log(three_star_count)
-            console.log(four_star_count)
-            console.log(five_star_count)
 
             var stars = document.getElementById("1-star-progress");
             stars.style.width = parseInt(((one_star_count / count) * 100)).toString() + "%";
@@ -316,6 +408,33 @@
             $("#reviews-count").html(div);
         }
 
+        function onClickSegementedControl(target) {
+            function event(event) {
+                var li = target.getElementsByTagName("LI");
+                
+                for (var i = 0, j = li.length; i < j; i++) {
+                    var _ = li[i];
+                    _.className = _.className.replace(/\bselected\b/, "")
+                    if (_ === event.target) 
+                        _.className += "selected";
+                }
+
+                for (var m = 0; m < li.length; m++) {
+                    var _ = li[m];
+                    if (_.className == "selected") {
+                        if (target.id == "stars-type") {
+                            selected_stars = _.innerHTML;
+                            selected_stars = selected_stars.split(' ')[0]
+                            console.log(selected_stars)
+                            break;
+                        }
+                    }
+                }
+            }
+
+            return event;
+        }
+
         $(window).scroll(function() {     
             var scroll = $(window).scrollTop();
             if (scroll > 0 && scroll < 200) {
@@ -326,7 +445,7 @@
                 $("#cuisine-title").removeClass("active");
             }
 
-            if (scroll > 100) {
+            if (scroll > 150) {
                 $("#cuisine-sub-title-sticky").addClass("active");
                 console.log("active")
             }

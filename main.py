@@ -16,6 +16,7 @@ def main():
 	parser.add_argument('--sort_reviews', action='store_true')
 	parser.add_argument('--sort_restaurants', action='store_true')
 	parser.add_argument('--ratings_over_time', action='store_true')
+	parser.add_argument('--users', action='store_true')
 	parser.add_argument('--all', action='store_true')
 	
 	args = parser.parse_args()
@@ -36,6 +37,8 @@ def main():
 		restaurants.sort()
 	elif args.ratings_over_time:
 		reviews.ratings_over_time()
+	elif args.users:
+		reviews.users()
 	elif args.all:
 		cuisines.create_filesystem()
 		restaurants.restaurants()

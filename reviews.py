@@ -19,6 +19,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 RAW_REVIEW_PATH = "./yelp_dataset_challenge_academic_dataset/yelp_academic_dataset_review.json"
 RAW_BUSINESS_PATH = "./yelp_dataset_challenge_academic_dataset/yelp_academic_dataset_business.json"
+RAW_USER_PATH = "/Users/Ahadkar/Desktop/UIUC/CS598 - DM/Task 7/yelp_dataset_challenge_academic_dataset/yelp_academic_dataset_user.json"
 
 STOP_WORDS = set(stopwords.words('english'))
 
@@ -520,6 +521,78 @@ def ratings_over_time():
 
 
 		print("----------------------------------------------------------")
+
+
+def users_to_csv(inputPath=RAW_USER_PATH, outputPath="./users.csv"):
+	
+	with open(inputPath) as f:
+		all_lines = f.readlines()
+		bar = ChargingBar('Writing users', max=len(all_lines), suffix='%(index)d / %(max)d | %(percent)d%%')
+
+		to_write = {
+			"user_id" : [],
+			"name" : [],
+		}
+
+		for line in all_lines:
+			d = json.loads(line)
+			to_write["user_id"].append(d["user_id"])
+			to_write["name"].append(d["name"])
+			# new_df = new_df.append(to_write, ignore_index=True)
+			bar.next()
+		bar.finish()
+
+	new_df = pd.DataFrame(to_write, columns=["user_id", "name"])
+
+	new_df.to_csv(outputPath, index=False)
+
+
+def users():
+	
+	# print("Writing users to CSV...")
+	# users_to_csv()
+
+	print("Reading cuisines...")
+	df = pd.read_csv("./cuisines.csv")
+
+	print("----------------------------------------------------------")
+
+	print("Reading users...")
+	all_users_df = pd.read_csv("./users.csv")
+
+	print("----------------------------------------------------------")
+	
+	for i, row in df.iterrows():
+		
+		cuisine_name = row["cuisine_name"]
+		filepath = "./cuisines/" + cuisine_name + "/reviews.csv"
+
+		if path.exists(filepath):
+
+			print("{0}/{1} Finding users for: {2}".format(i + 1, len(df.index), cuisine_name))
+
+			rev_df = pd.read_csv(filepath)
+
+			unique_users = rev_df['user_id'].tolist()
+
+			# print(type(all_users_df))
+
+			cuisine_users = all_users_df.loc[all_users_df.user_id.isin(unique_users)]
+
+			# all_users_df[all_users_df['user_id'].isin([users])]
+
+			# print(cuisine_users)
+
+			if len(cuisine_users.index) > 0:
+				# new_df = rev_df.sort_values(by=['iso_date'], ascending=True)
+
+				# new_df = new_df.loc[:, ['date','iso_date', 'stars']]
+
+				write_path = "./cuisines/" + cuisine_name + "/users.csv"
+				cuisine_users.to_csv(write_path, index=False)
+
+		print("----------------------------------------------------------")
+
 
 
 def main():
