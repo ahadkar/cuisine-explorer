@@ -15,19 +15,84 @@
         <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200;400;500;700&display=swap" rel="stylesheet">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
         <script src="https://unpkg.com/papaparse@5.2.0/papaparse.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="explorer.css" media="screen"/>
         <style>
         </style>
     </head>
     <body onload="javascript:loadData()">
         
-        <div id="temp">
+        <div id="">
+
+            <div id="cuisine-title" class="cuisine-title" style="position: sticky; top: 0; background-color: white;">
+                <div></div>
+                <div style="width: 700px; display: grid; grid-template-columns: 80px auto; grid-template-rows: auto;">
+                    <div id="title-image" style="width: 80px; margin-left: -10px"></div>
+                    <div id="title-content" style="margin-top: 25px"></div>
+                </div>
+                <div></div>
+            </div>
+
+            <hr>
+
+            <div id="cuisine-sub-title" class="cuisine-sub-title">
+                <div></div>
+                <div style="width: 700px;">
+                    <div>Ratings</div>
+                    <!-- <div id="dish-names-container" class="dish-names-container"></div> -->
+                </div>
+                <div></div>
+            </div>
+
+            <hr>
+
+            <div id="cuisine-sub-title-sticky" class="cuisine-sub-title-sticky" style="margin-top: -10px;">
+                <div></div>
+                <div>
+                    <div>
+                        <input type="text" name="search" id="search-text-box" class="search-text-box" placeholder="Search by Restaurant Name or Address">
+                        
+                        <div style="display: inline-block;">
+                            <div class="segmented-control-item" style="width: auto;">
+                                <div>
+                                    <ul class="buttonGroup" id="stars-type">
+                                        <li class="selected">All</li>
+                                        <li>5 Star</li>
+                                        <li>4 Star</li>
+                                        <li>3 Star</li>
+                                        <li>2 Star</li>
+                                        <li>1 Star</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="sub-title-content"></div>
+                    </div>
+                </div>
+                <div></div>
+            </div>
+
+            <hr>
+
+            <hr>
+
+            <div class="restaurants-container">
+                <div></div>
+                <div id="restaurants" style="display: grid; grid-template-columns: auto auto"></div>
+                <div></div>
+            </div>
+
         </div>
 
     </body>
     <script type="text/javascript">
         
+        var total_count = 0;
+        var all_data = 0;
+        var selected_stars = "All";
         var cuisine_name = "";
         var business_id = "";
+        var selected_business = "";
 
         function loadData() {
             var current_url = window.location.href
@@ -43,6 +108,24 @@
             console.log(cuisine_name);
             console.log(business_id);
 
+            var div = '';
+
+            var image_name = cuisine_name;
+            image_name = image_name.toLowerCase();
+            image_name = image_name.replace(" ", "_");
+            image_name = "./images/" + image_name + ".png";
+
+            div += "<div>";
+                div += "<img src=\"" + image_name + "\" width=\"80px\" height=\"80px\"/>"
+            div += "</div>";
+            $("#title-image").html(div);
+
+            div = '';
+            div += "<div>";
+                div += cuisine_name;
+            div += "</div>";
+            $("#title-content").html(div);
+
             var csv_path = "./cuisines/" + cuisine_name + "/reviews.csv";
 
             console.log(csv_path)
@@ -56,9 +139,11 @@
 
         function displayReviews(results) {
 
-            var data = results.data;
+            all_data = results.data;
+            var data = all_data;
             var div = '';
-            
+
+            div = '';
             div += "<ol>";
             for (i = 0; i < data.length; i++) {
                 cur_business_id = data[i]["business_id"]
