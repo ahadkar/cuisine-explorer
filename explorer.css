@@ -1,6 +1,6 @@
 hr {
     width: auto;
-    height: 2px;
+    height: 1px;
     background-color:#e5e6eb;
     border: 0 none;
     margin: auto 10px 10px auto;
@@ -459,7 +459,7 @@ a:active {
 .reviews-text {
     padding: 20px;
     font-family: 'Roboto', sans-serif;
-    font-weight: 400;
+    font-weight: 300;
     font-size: 14px;
     color: #3b5998;
 }
@@ -505,6 +505,7 @@ a:active {
     margin-left: 20px;
     margin-top: 20px;
     font-family: 'Roboto', sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 16px;
+    color: #3b5998;
 }
